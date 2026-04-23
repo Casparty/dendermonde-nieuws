@@ -1,0 +1,272 @@
+{
+  "gegenereerd": "2026-04-23T12:49:11.897996",
+  "themas": [
+    {
+      "naam": "algemeen",
+      "aantal": 12
+    },
+    {
+      "naam": "natuur",
+      "aantal": 6
+    },
+    {
+      "naam": "mobiliteit",
+      "aantal": 5
+    },
+    {
+      "naam": "politiek",
+      "aantal": 4
+    },
+    {
+      "naam": "veiligheid",
+      "aantal": 2
+    },
+    {
+      "naam": "economie",
+      "aantal": 1
+    },
+    {
+      "naam": "cultuur",
+      "aantal": 1
+    }
+  ],
+  "bronnen": [
+    {
+      "naam": "Stad Dendermonde",
+      "aantal": 19
+    },
+    {
+      "naam": "VRT NWS",
+      "aantal": 11
+    },
+    {
+      "naam": "Dender Journaal",
+      "aantal": 1
+    }
+  ],
+  "recent": [
+    {
+      "titel": "De bib ruimt op!",
+      "url": "https://www.dendermonde.be/nieuws/de-bib-ruimt-op",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-04-23T12:49:11.894742+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Gratis tuinhandschoenen",
+      "url": "https://www.dendermonde.be/nieuws/gratis-tuinhandschoenen",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-04-23T12:49:11.894738+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Schrijf je in voor de groepsaankoop groene stroom en gas van Provincie Oost-Vlaanderen",
+      "url": "https://www.dendermonde.be/nieuws/schrijf-je-in-voor-de-groepsaankoop-groene-stroom-en-gas",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-04-23T12:49:11.894733+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "28 acties voor waterbestendig maken Vondelbeek in Dendervallei",
+      "url": "https://www.dendermonde.be/nieuws/28-acties-voor-waterbestendig-maken-vondelbeek-in-dendervallei",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-04-23T12:49:11.894729+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Herinrichting kruispunt Mechelse Poort: fase 4 vanaf dinsdag 14 april",
+      "url": "https://www.dendermonde.be/nieuws/herinrichting-kruispunt-mechelse-poort-fase-4",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-04-23T12:49:11.894724+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "2 zomerbars brengen opnieuw sfeer in onze stad",
+      "url": "https://www.dendermonde.be/nieuws/zomerbars",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-04-23T12:49:11.894720+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "Win duotickets voor Vicaris Village!",
+      "url": "https://www.dendermonde.be/nieuws/win-duotickets-vicarisvillage",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-04-23T12:49:11.894716+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Vernieuw je trouwgeloften in het Stadhuis",
+      "url": "https://www.dendermonde.be/nieuws/vernieuw-je-trouwgeloften",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-04-23T12:49:11.894711+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "Met je straat, buurt, wijk of vereniging meedoen aan Vlaanderen Feest in 2026?",
+      "url": "https://www.dendermonde.be/nieuws/vlaanderen-feest",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-04-23T12:49:11.894706+00:00",
+      "thema": "cultuur"
+    },
+    {
+      "titel": "Gebruikte landbouwfolies tijdelijk welkom op recyclagepark Appels",
+      "url": "https://www.dendermonde.be/nieuws/gebruikte-landbouwfolies",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-04-23T12:49:11.894702+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "2 Urban Cubby’s in Dendermonde",
+      "url": "https://www.dendermonde.be/nieuws/2-urban-cubbys-in-dendermonde",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-04-23T12:49:11.894698+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Jobbeurs Lebbeke Dendermonde Buggenhout",
+      "url": "https://www.dendermonde.be/nieuws/jobbeurs-lebbeke-dendermonde-buggenhout",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-04-23T12:49:11.894693+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Jobstudenten voor de zomer gezocht!",
+      "url": "https://www.dendermonde.be/nieuws/jobstudenten-gezocht",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-04-23T12:49:11.894688+00:00",
+      "thema": "economie"
+    },
+    {
+      "titel": "Herinrichting speelplaats stedelijke basisschool De Klinker in Schoonaarde",
+      "url": "https://www.dendermonde.be/nieuws/herinrichting-speelplaats-stedelijke-basisschool-de-klinker-in-schoonaarde",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-04-23T12:49:11.894682+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Leer een beroerte herkennen",
+      "url": "https://www.dendermonde.be/nieuws/leer-een-beroerte-herkennen",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-04-23T12:49:11.894678+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Laat je herbruikbare spullen gratis ophalen",
+      "url": "https://www.dendermonde.be/nieuws/herbruikbare-spullen-gratis-laten-ophalen",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-04-23T12:49:11.894673+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Verdelging van nesten Aziatische hoornaars wordt heropgestart",
+      "url": "https://www.dendermonde.be/nieuws/verdelging-van-nesten-aziatische-hoornaars-wordt-heropgestart",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-04-23T12:49:11.894668+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Sluitingsdagen van het Administratief Centrum in mei",
+      "url": "https://www.dendermonde.be/nieuws/detail/398/sluitingsdagen-van-het-administratief-centrum-in-mei",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-04-23T12:49:11.894661+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Greep uit werken & verkeershinder",
+      "url": "https://www.dendermonde.be/nieuws/werken-verkeershinder",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-04-23T12:49:11.894646+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "RegioGrembergenVrachtwagen vol kippen op weg naar slachthuis kantelt in Grembergen: honderden kippen belanden op fietspadma 30 mrt.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/03/30/grembergen-dendermonde-vrachtwagen-kippen-slachthuis/",
+      "bron": "VRT NWS",
+      "datum": "2026-04-23T12:49:10.063879+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "RegioSchoonaardeAutobestuurder verliest controle in Schoonaarde: rijdt door 4 voortuinen en botst met caravan die in gevel belandtdo 2 apr.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/04/02/schoonaarde-ongeval/",
+      "bron": "VRT NWS",
+      "datum": "2026-04-23T12:49:10.063806+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "RegioTemseCelstraffen en boetes voor 21 drugshandelaren die loods in Temse gebruikten voor cocaïnehandeldi 7 apr.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/04/07/celstraffen-en-boetes-voor-21-drugstrafikanten-die-loods-in-tems/",
+      "bron": "VRT NWS",
+      "datum": "2026-04-23T12:49:10.063731+00:00",
+      "thema": "veiligheid"
+    },
+    {
+      "titel": "RegioDendermondeNMBS verbreedt doorgang station Dendermonde na meldingen over 'beklemmend gevoel'wo 8 apr.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/04/08/doorgang-station-dendermonde/",
+      "bron": "VRT NWS",
+      "datum": "2026-04-23T12:49:10.063656+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "RegioAntwerpen (Stad)Volleybalploeg VC Oudegem test bh voor springsporten van studenten UA: \"Klittenband sloot goed, bandjes zaten comfortabel en bh is stevig\"za 11 apr.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/04/11/sport-bh-volleybal-universiteit-antwerpen-vc-oudegem/",
+      "bron": "VRT NWS",
+      "datum": "2026-04-23T12:49:10.063579+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "RegioDendermondeWerken aan kruispunt Mechelse Poort in Dendermonde gaan nieuwe fase in: extra hinder maar ook meer rijstroken vrijma 13 apr.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/04/13/dendermonde-mechelse-poort-volgende-fase/",
+      "bron": "VRT NWS",
+      "datum": "2026-04-23T12:49:10.063481+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "JustitieParket Oost-Vlaanderen organiseert \"wapendag\" voor jongeren betrapt met messen: 12 jongeren en hun ouders op gesprekdo 16 apr.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/04/16/parket-dendermonde-wapendag-jongeren-messen/",
+      "bron": "VRT NWS",
+      "datum": "2026-04-23T12:49:10.063405+00:00",
+      "thema": "veiligheid"
+    },
+    {
+      "titel": "RegioGrembergenBelgische wit-blauwe koe bevalt van drieling in Grembergen: \"Uniek voor dit ras\"di 21 apr.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/04/21/drieling-kalfjes-grembergen-dendermonde-koe/",
+      "bron": "VRT NWS",
+      "datum": "2026-04-23T12:49:10.063331+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "SamenlevingHoe uitzonderlijk is een gezonde drieling kalfjes zoals in Grembergen? \"Kans is kleiner dan 1 op 100.000\"di 21 apr.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/04/21/hoe-uitzonderlijk-is-een-drieling-kalfjes/",
+      "bron": "VRT NWS",
+      "datum": "2026-04-23T12:49:10.063253+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "RegioMespelareVlaanderen trekt 800.000 euro uit om middeleeuwse muurschilderingen in 12e-eeuwse kerk in Mespelare te reddenwo 22 apr.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/04/21/sint-aldegondiskerk-mespelare-dendermonde-renovatie-vochtschade/",
+      "bron": "VRT NWS",
+      "datum": "2026-04-23T12:49:10.063174+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Online oplichtingNederlander die oplichters hielp om valse phishing-websites te bouwen, opgepakt en overgeleverd aan ons landwo 22 apr.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/04/22/phishing-oplichter-nederland-oost-vlaanderen-politie-opgepakt/",
+      "bron": "VRT NWS",
+      "datum": "2026-04-23T12:49:10.063068+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Natuurpunt Denderstreek bouwt verder aan sterk gidsennetwerk met vier seizoenswandelingen.",
+      "url": "https://denderjournaal.be/natuurpunt-denderstreek-bouwt-verder-aan-sterk-gidsennetwerk-met-vier-seizoenswandelingen/",
+      "bron": "Dender Journaal",
+      "datum": "Thu, 23 Apr 2026 10:07:44 +0000",
+      "thema": "natuur"
+    }
+  ],
+  "weekly": [
+    {
+      "week": "2026-W16",
+      "aantal": 31
+    }
+  ]
+}
