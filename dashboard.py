@@ -1,6 +1,6 @@
 """
 Genereert het statische dashboard (docs/index.html) vanuit de SQLite database.
-Versie 2: lichter thema, 5-weken grafiek, multi-filter op thema en bron.
+Versie 3: lichter thema, 5-weken grafiek, multi-filter op thema en bron.
 """
 
 import sqlite3
@@ -49,11 +49,18 @@ def build_dashboard():
     recent, thema_30d, bron_30d, weekly_raw, totaal, bronnen = get_data()
     nu = datetime.now().strftime("%d/%m/%Y %H:%M")
 
+    # Thema kaarten
     thema_cards = ""
     for thema, count in thema_30d:
         kleur = THEMA_KLEUREN.get(thema, "#94a3b8")
-        thema_cards += f'\n        <div class="thema-card" onclick="toggleFilter(\'thema\',\'{thema}\')" data-thema="{thema}" style="border-top:3px solid {kleur};"><div class="thema-count" style="color:{kleur};">{count}</div><div class="thema-naam">{thema.capitalize()}</div></div>'
+        thema_cards += (
+            '<div class="thema-card" onclick="toggleFilter(\'thema\',\'' + thema + '\')" '
+            'data-thema="' + thema + '" style="border-top:3px solid ' + kleur + ';">'
+            '<div class="thema-count" style="color:' + kleur + ';">' + str(count) + '</div>'
+            '<div class="thema-naam">' + thema.capitalize() + '</div></div>\n'
+        )
 
+    # Week data
     week_data = {}
     for row in weekly_raw:
         week, thema, bron, aantal = row
@@ -63,21 +70,36 @@ def build_dashboard():
         week_data[week]["themas"][thema] = week_data[week]["themas"].get(thema, 0) + aantal
         week_data[week]["bronnen"][bron] = week_data[week]["bronnen"].get(bron, 0) + aantal
 
-    week_labels = json.dumps(list(week_data.keys()))
     week_data_json = json.dumps(week_data)
     bron_labels = json.dumps([b[0] for b in bron_30d])
     bron_values = json.dumps([b[1] for b in bron_30d])
     alle_bronnen = json.dumps([b[0] for b in bronnen])
     thema_kleuren_json = json.dumps(THEMA_KLEUREN)
 
+    # Artikel rijen
     artikel_rijen = ""
     for a in recent:
         titel, url, bron, datum, thema, toegevoegd = a
         kleur = THEMA_KLEUREN.get(thema, "#94a3b8")
         datum_str = toegevoegd[:10] if toegevoegd else ""
-        artikel_rijen += f'\n        <div class="artikel-rij" data-thema="{thema}" data-bron="{bron}"><span class="thema-badge" style="background:{kleur};">{thema}</span><a href="{url}" target="_blank" class="artikel-titel">{titel}</a><span class="artikel-meta">{bron} &middot; {datum_str}</span></div>'
+        artikel_rijen += (
+            '<div class="artikel-rij" data-thema="' + thema + '" data-bron="' + bron + '">'
+            '<span class="thema-badge" style="background:' + kleur + ';">' + thema + '</span>'
+            '<a href="' + url + '" target="_blank" class="artikel-titel">' + titel + '</a>'
+            '<span class="artikel-meta">' + bron + ' &middot; ' + datum_str + '</span></div>\n'
+        )
 
-    css = """
+    # Bouw HTML - geen f-string voor het JS gedeelte
+    html_parts = []
+    html_parts.append("""<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dendermonde Nieuws Dashboard</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
         *{box-sizing:border-box;margin:0;padding:0;}
         body{font-family:'Inter',sans-serif;background:#f0f4f8;color:#1e293b;}
         header{background:linear-gradient(135deg,#1e3a5f 0%,#2563eb 100%);padding:28px 32px;}
@@ -115,17 +137,7 @@ def build_dashboard():
         .artikel-titel:hover{color:#2563eb;}
         .artikel-meta{font-size:11px;color:#94a3b8;white-space:nowrap;flex-shrink:0;margin-top:2px;}
         @media(max-width:768px){.charts-grid{grid-template-columns:1fr;}.container{padding:16px;}}
-    """
-
-    html = f"""<!DOCTYPE html>
-<html lang="nl">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dendermonde Nieuws Dashboard</title>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-    <style>{css}</style>
+    </style>
 </head>
 <body>
 <header>
@@ -134,17 +146,27 @@ def build_dashboard():
             <h1>Dendermonde <span>Nieuws</span></h1>
             <div style="color:#bfdbfe;font-size:13px;margin-top:3px;font-weight:500;">Lokaal nieuwsoverzicht</div>
         </div>
-        <div class="update-info">Laatste update<br><strong>{nu}</strong></div>
+        <div class="update-info">Laatste update<br><strong>""")
+    html_parts.append(nu)
+    html_parts.append("""</strong></div>
     </div>
 </header>
 <div class="container">
     <div class="stats-row">
-        <div class="stat-box"><div class="stat-num">{totaal}</div><div class="stat-label">Totaal artikels</div></div>
-        <div class="stat-box"><div class="stat-num">{len(thema_30d)}</div><div class="stat-label">Themas (30d)</div></div>
-        <div class="stat-box"><div class="stat-num">{len(bron_30d)}</div><div class="stat-label">Bronnen</div></div>
+        <div class="stat-box"><div class="stat-num">""")
+    html_parts.append(str(totaal))
+    html_parts.append("""</div><div class="stat-label">Totaal artikels</div></div>
+        <div class="stat-box"><div class="stat-num">""")
+    html_parts.append(str(len(thema_30d)))
+    html_parts.append("""</div><div class="stat-label">Themas (30d)</div></div>
+        <div class="stat-box"><div class="stat-num">""")
+    html_parts.append(str(len(bron_30d)))
+    html_parts.append("""</div><div class="stat-label">Bronnen</div></div>
     </div>
-    <div class="section-title">Themas (laatste 30 dagen) — klik om te filteren</div>
-    <div class="thema-grid">{thema_cards}</div>
+    <div class="section-title">Themas (laatste 30 dagen) &mdash; klik om te filteren</div>
+    <div class="thema-grid">""")
+    html_parts.append(thema_cards)
+    html_parts.append("""</div>
     <div class="charts-grid">
         <div class="chart-box">
             <div class="section-title">Artikels per week (laatste 5 weken)</div>
@@ -164,36 +186,44 @@ def build_dashboard():
             <button class="btn-reset" onclick="resetFilters()">Reset filters</button>
         </div>
         <div class="active-filters" id="activeFilters"></div>
-        <div id="artikels-lijst">{artikel_rijen}</div>
+        <div id="artikels-lijst">""")
+    html_parts.append(artikel_rijen)
+    html_parts.append("""</div>
     </div>
 </div>
 <script>
-const WEEK_DATA = {week_data_json};
-const THEMA_KLEUREN = {thema_kleuren_json};
-const ALLE_BRONNEN = {alle_bronnen};
+const WEEK_DATA = """)
+    html_parts.append(week_data_json)
+    html_parts.append(""";
+const THEMA_KLEUREN = """)
+    html_parts.append(thema_kleuren_json)
+    html_parts.append(""";
+const ALLE_BRONNEN = """)
+    html_parts.append(alle_bronnen)
+    html_parts.append(""";
 let actieveThemas = new Set();
 let actieveBronnen = new Set();
 let weekFilter = null;
 
-const bronFilter = document.getElementById('bronFilter');
+const bronFilterEl = document.getElementById('bronFilter');
 ALLE_BRONNEN.forEach(bron => {
     const chip = document.createElement('span');
     chip.className = 'filter-chip';
     chip.textContent = bron;
     chip.id = 'bron_' + bron.replace(/[^a-zA-Z0-9]/g,'_');
     chip.onclick = () => toggleFilter('bron', bron);
-    bronFilter.appendChild(chip);
+    bronFilterEl.appendChild(chip);
 });
 
-const weekFilters = document.getElementById('weekFilters');
+const weekFiltersEl = document.getElementById('weekFilters');
 [['Totaal', null], ...ALLE_BRONNEN.map(b => [b, b])].forEach(([label, val]) => {
     const chip = document.createElement('span');
     chip.className = 'filter-chip' + (val === null ? ' active' : '');
     chip.textContent = label;
     chip.id = 'wf_' + (val || 'totaal').replace(/[^a-zA-Z0-9]/g,'_');
-    if (val === null) { chip.style.background='#2563ed'; chip.style.color='white'; chip.style.borderColor='#2563eb'; }
+    if (val === null) { chip.style.background='#2563eb'; chip.style.color='white'; chip.style.borderColor='#2563eb'; }
     chip.onclick = () => setWeekFilter(val);
-    weekFilters.appendChild(chip);
+    weekFiltersEl.appendChild(chip);
 });
 
 const weken = Object.keys(WEEK_DATA);
@@ -205,7 +235,11 @@ const weekChart = new Chart(document.getElementById('weekChart'), {
 
 new Chart(document.getElementById('bronChart'), {
     type: 'doughnut',
-    data: { labels: {bron_labels}, datasets: [{ data: {bron_values}, backgroundColor: ['#3b82f6','#22c55e','#f59e0b','#ef4444'], borderWidth: 2, borderColor: 'white' }] },
+    data: { labels: """)
+    html_parts.append(bron_labels)
+    html_parts.append(""", datasets: [{ data: """)
+    html_parts.append(bron_values)
+    html_parts.append(""", backgroundColor: ['#3b82f6','#22c55e','#f59e0b','#ef4444'], borderWidth: 2, borderColor: 'white' }] },
     options: { responsive: true, plugins: { legend: { position: 'bottom', labels: { color: '#64748b', font: { size: 11 }, boxWidth: 12, padding: 12 } } } }
 });
 
@@ -258,7 +292,7 @@ function filterArtikels() {
 function resetFilters() {
     actieveThemas.clear(); actieveBronnen.clear();
     document.getElementById('zoek').value = '';
-    document.querySelectorAll('.thema-card').forEach(c => c.classList.remove('actieve'));
+    document.querySelectorAll('.thema-card').forEach(c => c.classList.remove('active'));
     document.querySelectorAll('.bron-filter .filter-chip').forEach(c => { c.style.background='white'; c.style.color='#64748b'; c.style.borderColor='#e2e8f0'; });
     document.getElementById('activeFilters').innerHTML = '';
     document.querySelectorAll('.artikel-rij').forEach(r => r.style.display = '');
@@ -266,8 +300,9 @@ function resetFilters() {
 }
 </script>
 </body>
-</html>"""
+</html>""")
 
+    html = ''.join(html_parts)
     os.makedirs("docs", exist_ok=True)
     with open("docs/index.html", "w", encoding="utf-8") as f:
         f.write(html)
