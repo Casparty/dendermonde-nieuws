@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-04-23T12:49:11.897996",
+  "gegenereerd": "2026-04-23T16:19:43.870745",
   "themas": [
     {
       "naam": "algemeen",
@@ -11,7 +11,7 @@
     },
     {
       "naam": "mobiliteit",
-      "aantal": 5
+      "aantal": 6
     },
     {
       "naam": "politiek",
@@ -41,10 +41,17 @@
     },
     {
       "naam": "Dender Journaal",
-      "aantal": 1
+      "aantal": 2
     }
   ],
   "recent": [
+    {
+      "titel": "Aangepast busaanbod vanaf 1 juli 2026 in vervoerregio Dender.",
+      "url": "https://denderjournaal.be/aangepast-busaanbod-vanaf-1-juli-2026-in-vervoerregio-dender/",
+      "bron": "Dender Journaal",
+      "datum": "Thu, 23 Apr 2026 13:18:45 +0000",
+      "thema": "mobiliteit"
+    },
     {
       "titel": "De bib ruimt op!",
       "url": "https://www.dendermonde.be/nieuws/de-bib-ruimt-op",
@@ -266,7 +273,7 @@
   "weekly": [
     {
       "week": "2026-W16",
-      "aantal": 31
+      "aantal": 32
     }
   ]
 }

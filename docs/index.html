@@ -5,39 +5,45 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dendermonde Nieuws Dashboard</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <style>
         *{box-sizing:border-box;margin:0;padding:0;}
-        body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#0f172a;color:#e2e8f0;}
-        header{background:linear-gradient(135deg,#1e3a5f 0%,#0f172a 100%);padding:32px 24px;border-bottom:1px solid #1e293b;}
-        .header-inner{max-width:1100px;margin:0 auto;display:flex;justify-content:space-between;align-items:flex-end;}
-        h1{font-size:28px;font-weight:800;color:white;} h1 span{color:#60a5fa;}
-        .update-info{font-size:12px;color:#64748b;text-align:right;}
-        .container{max-width:1100px;margin:0 auto;padding:24px;}
-        .stats-row{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-bottom:32px;}
-        .stat-box{background:#1e293b;border-radius:12px;padding:20px;text-align:center;border:1px solid #334155;}
-        .stat-num{font-size:40px;font-weight:800;color:#60a5fa;line-height:1;}
-        .stat-label{font-size:12px;color:#64748b;margin-top:6px;text-transform:uppercase;letter-spacing:1px;}
-        .section-title{font-size:11px;font-weight:700;color:#64748b;text-transform:uppercase;letter-spacing:2px;margin-bottom:16px;}
-        .thema-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:12px;margin-bottom:32px;}
-        .thema-card{background:#1e293b;border-radius:10px;padding:16px;cursor:pointer;transition:transform 0.15s;border:1px solid #334155;}
-        .thema-card:hover{background:#273548;transform:translateY(-2px);}
-        .thema-card.active{background:#273548;border-color:#60a5fa;}
+        body{font-family:'Inter',sans-serif;background:#f0f4f8;color:#1e293b;}
+        header{background:linear-gradient(135deg,#1e3a5f 0%,#2563eb 100%);padding:28px 32px;}
+        .header-inner{max-width:1200px;margin:0 auto;display:flex;justify-content:space-between;align-items:center;}
+        h1{font-size:26px;font-weight:800;color:white;} h1 span{color:#93c5fd;}
+        .update-info{font-size:12px;color:#bfdbfe;text-align:right;line-height:1.6;}
+        .container{max-width:1200px;margin:0 auto;padding:24px 32px;}
+        .stats-row{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-bottom:28px;}
+        .stat-box{background:white;border-radius:14px;padding:22px;text-align:center;box-shadow:0 1px 4px rgba(0,0,0,0.08);border:1px solid #e2e8f0;}
+        .stat-num{font-size:42px;font-weight:800;color:#2563eb;line-height:1;}
+        .stat-label{font-size:11px;color:#94a3b8;margin-top:6px;text-transform:uppercase;letter-spacing:1.5px;font-weight:600;}
+        .section-title{font-size:11px;font-weight:700;color:#94a3b8;text-transform:uppercase;letter-spacing:2px;margin-bottom:14px;}
+        .thema-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:12px;margin-bottom:28px;}
+        .thema-card{background:white;border-radius:12px;padding:16px;cursor:pointer;transition:all 0.15s;box-shadow:0 1px 4px rgba(0,0,0,0.06);border:1px solid #e2e8f0;}
+        .thema-card:hover{transform:translateY(-2px);box-shadow:0 4px 12px rgba(0,0,0,0.1);}
+        .thema-card.active{background:#eff6ff;border-color:#2563eb;}
         .thema-count{font-size:28px;font-weight:800;line-height:1;}
-        .thema-naam{font-size:12px;color:#94a3b8;margin-top:4px;}
-        .charts-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-bottom:32px;}
-        .chart-box{background:#1e293b;border-radius:12px;padding:20px;border:1px solid #334155;}
-        .chart-box canvas{max-height:220px;}
-        .artikels-box{background:#1e293b;border-radius:12px;padding:20px;border:1px solid #334155;}
-        .filter-bar{display:flex;gap:8px;margin-bottom:16px;flex-wrap:wrap;align-items:center;}
-        .filter-bar input{background:#0f172a;border:1px solid #334155;border-radius:6px;padding:8px 12px;color:#e2e8f0;font-size:13px;flex:1;min-width:200px;}
-        .btn-reset{background:#334155;color:#94a3b8;border:none;border-radius:6px;padding:8px 14px;font-size:12px;cursor:pointer;}
-        .artikel-rij{display:flex;align-items:flex-start;gap:10px;padding:10px 0;border-bottom:1px solid #1e293b;flex-wrap:wrap;}
+        .thema-naam{font-size:12px;color:#64748b;margin-top:4px;font-weight:500;}
+        .charts-grid{display:grid;grid-template-columns:1.5fr 1fr;gap:20px;margin-bottom:28px;}
+        .chart-box{background:white;border-radius:14px;padding:20px;box-shadow:0 1px 4px rgba(0,0,0,0.08);border:1px solid #e2e8f0;}
+        .chart-filters{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:14px;}
+        .filter-chip{font-size:11px;font-weight:600;padding:3px 10px;border-radius:20px;cursor:pointer;border:1.5px solid #e2e8f0;background:white;color:#64748b;transition:all 0.1s;}
+        .artikels-box{background:white;border-radius:14px;padding:24px;box-shadow:0 1px 4px rgba(0,0,0,0.08);border:1px solid #e2e8f0;}
+        .search-row{display:flex;gap:10px;margin-bottom:12px;}
+        .search-row input{background:#f8fafc;border:1.5px solid #e2e8f0;border-radius:8px;padding:9px 14px;color:#1e293b;font-size:13px;flex:1;font-family:inherit;}
+        .search-row input:focus{outline:none;border-color:#2563eb;}
+        .btn-reset{background:#f1f5f9;color:#64748b;border:none;border-radius:8px;padding:9px 16px;font-size:12px;cursor:pointer;font-weight:600;font-family:inherit;}
+        .bron-filter{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px;}
+        .active-filters{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px;}
+        .active-tag{font-size:11px;font-weight:600;padding:3px 10px;border-radius:20px;color:white;display:flex;align-items:center;gap:4px;}
+        .artikel-rij{display:flex;align-items:flex-start;gap:10px;padding:10px 0;border-bottom:1px solid #f1f5f9;flex-wrap:wrap;}
         .artikel-rij:last-child{border-bottom:none;}
         .thema-badge{font-size:10px;font-weight:700;color:white;padding:2px 8px;border-radius:20px;white-space:nowrap;flex-shrink:0;margin-top:2px;}
-        .artikel-titel{color:#e2e8f0;text-decoration:none;font-size:14px;flex:1;min-width:200px;}
-        .artikel-titel:hover{color:#60a5fa;}
-        .artikel-meta{font-size:11px;color:#475569;white-space:nowrap;flex-shrink:0;margin-top:2px;}
-        @media(max-width:640px){.charts-grid{grid-template-columns:1fr;}}
+        .artikel-titel{color:#1e293b;text-decoration:none;font-size:14px;flex:1;min-width:200px;font-weight:500;}
+        .artikel-titel:hover{color:#2563eb;}
+        .artikel-meta{font-size:11px;color:#94a3b8;white-space:nowrap;flex-shrink:0;margin-top:2px;}
+        @media(max-width:768px){.charts-grid{grid-template-columns:1fr;}.container{padding:16px;}}
     </style>
 </head>
 <body>
@@ -45,222 +51,177 @@
     <div class="header-inner">
         <div>
             <h1>Dendermonde <span>Nieuws</span></h1>
-            <div style="color:#64748b;font-size:13px;margin-top:4px;">Lokaal nieuwsoverzicht</div>
+            <div style="color:#bfdbfe;font-size:13px;margin-top:3px;font-weight:500;">Lokaal nieuwsoverzicht</div>
         </div>
-        <div class="update-info">Laatste update<br>23/04/2026 12:49</div>
+        <div class="update-info">Laatste update<br><strong>23/04/2026 16:19</strong></div>
     </div>
 </header>
 <div class="container">
     <div class="stats-row">
-        <div class="stat-box"><div class="stat-num">31</div><div class="stat-label">Totaal artikels</div></div>
+        <div class="stat-box"><div class="stat-num">32</div><div class="stat-label">Totaal artikels</div></div>
         <div class="stat-box"><div class="stat-num">7</div><div class="stat-label">Themas (30d)</div></div>
         <div class="stat-box"><div class="stat-num">3</div><div class="stat-label">Bronnen</div></div>
     </div>
-    <div class="section-title">Themas (laatste 30 dagen)</div>
-    <div class="thema-grid">
-        <div class="thema-card" onclick="filterThema('algemeen')" style="border-top:3px solid #6b7280;">
-            <div class="thema-count" style="color:#6b7280;">12</div>
-            <div class="thema-naam">Algemeen</div>
-        </div>
-        <div class="thema-card" onclick="filterThema('natuur')" style="border-top:3px solid #0891b2;">
-            <div class="thema-count" style="color:#0891b2;">6</div>
-            <div class="thema-naam">Natuur</div>
-        </div>
-        <div class="thema-card" onclick="filterThema('mobiliteit')" style="border-top:3px solid #2563eb;">
-            <div class="thema-count" style="color:#2563eb;">5</div>
-            <div class="thema-naam">Mobiliteit</div>
-        </div>
-        <div class="thema-card" onclick="filterThema('politiek')" style="border-top:3px solid #7c3aed;">
-            <div class="thema-count" style="color:#7c3aed;">4</div>
-            <div class="thema-naam">Politiek</div>
-        </div>
-        <div class="thema-card" onclick="filterThema('veiligheid')" style="border-top:3px solid #dc2626;">
-            <div class="thema-count" style="color:#dc2626;">2</div>
-            <div class="thema-naam">Veiligheid</div>
-        </div>
-        <div class="thema-card" onclick="filterThema('economie')" style="border-top:3px solid #9333ea;">
-            <div class="thema-count" style="color:#9333ea;">1</div>
-            <div class="thema-naam">Economie</div>
-        </div>
-        <div class="thema-card" onclick="filterThema('cultuur')" style="border-top:3px solid #d97706;">
-            <div class="thema-count" style="color:#d97706;">1</div>
-            <div class="thema-naam">Cultuur</div>
-        </div></div>
+    <div class="section-title">Themas (laatste 30 dagen) &mdash; klik om te filteren</div>
+    <div class="thema-grid"><div class="thema-card" onclick="toggleFilter('thema','algemeen')" data-thema="algemeen" style="border-top:3px solid #94a3b8;"><div class="thema-count" style="color:#94a3b8;">12</div><div class="thema-naam">Algemeen</div></div>
+<div class="thema-card" onclick="toggleFilter('thema','natuur')" data-thema="natuur" style="border-top:3px solid #06b6d4;"><div class="thema-count" style="color:#06b6d4;">6</div><div class="thema-naam">Natuur</div></div>
+<div class="thema-card" onclick="toggleFilter('thema','mobiliteit')" data-thema="mobiliteit" style="border-top:3px solid #3b82f6;"><div class="thema-count" style="color:#3b82f6;">6</div><div class="thema-naam">Mobiliteit</div></div>
+<div class="thema-card" onclick="toggleFilter('thema','politiek')" data-thema="politiek" style="border-top:3px solid #8b5cf6;"><div class="thema-count" style="color:#8b5cf6;">4</div><div class="thema-naam">Politiek</div></div>
+<div class="thema-card" onclick="toggleFilter('thema','veiligheid')" data-thema="veiligheid" style="border-top:3px solid #ef4444;"><div class="thema-count" style="color:#ef4444;">2</div><div class="thema-naam">Veiligheid</div></div>
+<div class="thema-card" onclick="toggleFilter('thema','economie')" data-thema="economie" style="border-top:3px solid #a855f7;"><div class="thema-count" style="color:#a855f7;">1</div><div class="thema-naam">Economie</div></div>
+<div class="thema-card" onclick="toggleFilter('thema','cultuur')" data-thema="cultuur" style="border-top:3px solid #f59e0b;"><div class="thema-count" style="color:#f59e0b;">1</div><div class="thema-naam">Cultuur</div></div>
+</div>
     <div class="charts-grid">
-        <div class="chart-box"><div class="section-title">Artikels per week</div><canvas id="weekChart"></canvas></div>
-        <div class="chart-box"><div class="section-title">Verdeling per bron (30d)</div><canvas id="bronChart"></canvas></div>
+        <div class="chart-box">
+            <div class="section-title">Artikels per week (laatste 5 weken)</div>
+            <div class="chart-filters" id="weekFilters"></div>
+            <canvas id="weekChart"></canvas>
+        </div>
+        <div class="chart-box">
+            <div class="section-title">Verdeling per bron (30d)</div>
+            <canvas id="bronChart"></canvas>
+        </div>
     </div>
     <div class="artikels-box">
-        <div class="section-title" style="margin-bottom:12px;">Recente artikels</div>
-        <div class="filter-bar">
+        <div class="section-title" style="margin-bottom:10px;">Recente artikels</div>
+        <div class="bron-filter" id="bronFilter"></div>
+        <div class="search-row">
             <input type="text" id="zoek" placeholder="Zoek in titels..." oninput="filterArtikels()">
             <button class="btn-reset" onclick="resetFilters()">Reset filters</button>
         </div>
-        <div id="artikels-lijst">
-        <div class="artikel-rij" data-thema="algemeen">
-            <span class="thema-badge" style="background:#6b7280;">algemeen</span>
-            <a href="https://www.dendermonde.be/nieuws/de-bib-ruimt-op" target="_blank" class="artikel-titel">De bib ruimt op!</a>
-            <span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span>
-        </div>
-        <div class="artikel-rij" data-thema="algemeen">
-            <span class="thema-badge" style="background:#6b7280;">algemeen</span>
-            <a href="https://www.dendermonde.be/nieuws/gratis-tuinhandschoenen" target="_blank" class="artikel-titel">Gratis tuinhandschoenen</a>
-            <span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span>
-        </div>
-        <div class="artikel-rij" data-thema="natuur">
-            <span class="thema-badge" style="background:#0891b2;">natuur</span>
-            <a href="https://www.dendermonde.be/nieuws/schrijf-je-in-voor-de-groepsaankoop-groene-stroom-en-gas" target="_blank" class="artikel-titel">Schrijf je in voor de groepsaankoop groene stroom en gas van Provincie Oost-Vlaanderen</a>
-            <span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span>
-        </div>
-        <div class="artikel-rij" data-thema="natuur">
-            <span class="thema-badge" style="background:#0891b2;">natuur</span>
-            <a href="https://www.dendermonde.be/nieuws/28-acties-voor-waterbestendig-maken-vondelbeek-in-dendervallei" target="_blank" class="artikel-titel">28 acties voor waterbestendig maken Vondelbeek in Dendervallei</a>
-            <span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span>
-        </div>
-        <div class="artikel-rij" data-thema="mobiliteit">
-            <span class="thema-badge" style="background:#2563eb;">mobiliteit</span>
-            <a href="https://www.dendermonde.be/nieuws/herinrichting-kruispunt-mechelse-poort-fase-4" target="_blank" class="artikel-titel">Herinrichting kruispunt Mechelse Poort: fase 4 vanaf dinsdag 14 april</a>
-            <span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span>
-        </div>
-        <div class="artikel-rij" data-thema="politiek">
-            <span class="thema-badge" style="background:#7c3aed;">politiek</span>
-            <a href="https://www.dendermonde.be/nieuws/zomerbars" target="_blank" class="artikel-titel">2 zomerbars brengen opnieuw sfeer in onze stad</a>
-            <span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span>
-        </div>
-        <div class="artikel-rij" data-thema="algemeen">
-            <span class="thema-badge" style="background:#6b7280;">algemeen</span>
-            <a href="https://www.dendermonde.be/nieuws/win-duotickets-vicarisvillage" target="_blank" class="artikel-titel">Win duotickets voor Vicaris Village!</a>
-            <span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span>
-        </div>
-        <div class="artikel-rij" data-thema="politiek">
-            <span class="thema-badge" style="background:#7c3aed;">politiek</span>
-            <a href="https://www.dendermonde.be/nieuws/vernieuw-je-trouwgeloften" target="_blank" class="artikel-titel">Vernieuw je trouwgeloften in het Stadhuis</a>
-            <span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span>
-        </div>
-        <div class="artikel-rij" data-thema="cultuur">
-            <span class="thema-badge" style="background:#d97706;">cultuur</span>
-            <a href="https://www.dendermonde.be/nieuws/vlaanderen-feest" target="_blank" class="artikel-titel">Met je straat, buurt, wijk of vereniging meedoen aan Vlaanderen Feest in 2026?</a>
-            <span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span>
-        </div>
-        <div class="artikel-rij" data-thema="natuur">
-            <span class="thema-badge" style="background:#0891b2;">natuur</span>
-            <a href="https://www.dendermonde.be/nieuws/gebruikte-landbouwfolies" target="_blank" class="artikel-titel">Gebruikte landbouwfolies tijdelijk welkom op recyclagepark Appels</a>
-            <span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span>
-        </div>
-        <div class="artikel-rij" data-thema="natuur">
-            <span class="thema-badge" style="background:#0891b2;">natuur</span>
-            <a href="https://www.dendermonde.be/nieuws/2-urban-cubbys-in-dendermonde" target="_blank" class="artikel-titel">2 Urban Cubby’s in Dendermonde</a>
-            <span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span>
-        </div>
-        <div class="artikel-rij" data-thema="natuur">
-            <span class="thema-badge" style="background:#0891b2;">natuur</span>
-            <a href="https://www.dendermonde.be/nieuws/jobbeurs-lebbeke-dendermonde-buggenhout" target="_blank" class="artikel-titel">Jobbeurs Lebbeke Dendermonde Buggenhout</a>
-            <span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span>
-        </div>
-        <div class="artikel-rij" data-thema="economie">
-            <span class="thema-badge" style="background:#9333ea;">economie</span>
-            <a href="https://www.dendermonde.be/nieuws/jobstudenten-gezocht" target="_blank" class="artikel-titel">Jobstudenten voor de zomer gezocht!</a>
-            <span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span>
-        </div>
-        <div class="artikel-rij" data-thema="algemeen">
-            <span class="thema-badge" style="background:#6b7280;">algemeen</span>
-            <a href="https://www.dendermonde.be/nieuws/herinrichting-speelplaats-stedelijke-basisschool-de-klinker-in-schoonaarde" target="_blank" class="artikel-titel">Herinrichting speelplaats stedelijke basisschool De Klinker in Schoonaarde</a>
-            <span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span>
-        </div>
-        <div class="artikel-rij" data-thema="algemeen">
-            <span class="thema-badge" style="background:#6b7280;">algemeen</span>
-            <a href="https://www.dendermonde.be/nieuws/leer-een-beroerte-herkennen" target="_blank" class="artikel-titel">Leer een beroerte herkennen</a>
-            <span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span>
-        </div>
-        <div class="artikel-rij" data-thema="algemeen">
-            <span class="thema-badge" style="background:#6b7280;">algemeen</span>
-            <a href="https://www.dendermonde.be/nieuws/herbruikbare-spullen-gratis-laten-ophalen" target="_blank" class="artikel-titel">Laat je herbruikbare spullen gratis ophalen</a>
-            <span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span>
-        </div>
-        <div class="artikel-rij" data-thema="algemeen">
-            <span class="thema-badge" style="background:#6b7280;">algemeen</span>
-            <a href="https://www.dendermonde.be/nieuws/verdelging-van-nesten-aziatische-hoornaars-wordt-heropgestart" target="_blank" class="artikel-titel">Verdelging van nesten Aziatische hoornaars wordt heropgestart</a>
-            <span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span>
-        </div>
-        <div class="artikel-rij" data-thema="algemeen">
-            <span class="thema-badge" style="background:#6b7280;">algemeen</span>
-            <a href="https://www.dendermonde.be/nieuws/detail/398/sluitingsdagen-van-het-administratief-centrum-in-mei" target="_blank" class="artikel-titel">Sluitingsdagen van het Administratief Centrum in mei</a>
-            <span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span>
-        </div>
-        <div class="artikel-rij" data-thema="mobiliteit">
-            <span class="thema-badge" style="background:#2563eb;">mobiliteit</span>
-            <a href="https://www.dendermonde.be/nieuws/werken-verkeershinder" target="_blank" class="artikel-titel">Greep uit werken & verkeershinder</a>
-            <span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span>
-        </div>
-        <div class="artikel-rij" data-thema="mobiliteit">
-            <span class="thema-badge" style="background:#2563eb;">mobiliteit</span>
-            <a href="https://www.vrt.be/vrtnws/nl/2026/03/30/grembergen-dendermonde-vrachtwagen-kippen-slachthuis/" target="_blank" class="artikel-titel">RegioGrembergenVrachtwagen vol kippen op weg naar slachthuis kantelt in Grembergen: honderden kippen belanden op fietspadma 30 mrt.</a>
-            <span class="artikel-meta">VRT NWS &middot; 2026-04-23</span>
-        </div>
-        <div class="artikel-rij" data-thema="politiek">
-            <span class="thema-badge" style="background:#7c3aed;">politiek</span>
-            <a href="https://www.vrt.be/vrtnws/nl/2026/04/02/schoonaarde-ongeval/" target="_blank" class="artikel-titel">RegioSchoonaardeAutobestuurder verliest controle in Schoonaarde: rijdt door 4 voortuinen en botst met caravan die in gevel belandtdo 2 apr.</a>
-            <span class="artikel-meta">VRT NWS &middot; 2026-04-23</span>
-        </div>
-        <div class="artikel-rij" data-thema="veiligheid">
-            <span class="thema-badge" style="background:#dc2626;">veiligheid</span>
-            <a href="https://www.vrt.be/vrtnws/nl/2026/04/07/celstraffen-en-boetes-voor-21-drugstrafikanten-die-loods-in-tems/" target="_blank" class="artikel-titel">RegioTemseCelstraffen en boetes voor 21 drugshandelaren die loods in Temse gebruikten voor cocaïnehandeldi 7 apr.</a>
-            <span class="artikel-meta">VRT NWS &middot; 2026-04-23</span>
-        </div>
-        <div class="artikel-rij" data-thema="mobiliteit">
-            <span class="thema-badge" style="background:#2563eb;">mobiliteit</span>
-            <a href="https://www.vrt.be/vrtnws/nl/2026/04/08/doorgang-station-dendermonde/" target="_blank" class="artikel-titel">RegioDendermondeNMBS verbreedt doorgang station Dendermonde na meldingen over 'beklemmend gevoel'wo 8 apr.</a>
-            <span class="artikel-meta">VRT NWS &middot; 2026-04-23</span>
-        </div>
-        <div class="artikel-rij" data-thema="politiek">
-            <span class="thema-badge" style="background:#7c3aed;">politiek</span>
-            <a href="https://www.vrt.be/vrtnws/nl/2026/04/11/sport-bh-volleybal-universiteit-antwerpen-vc-oudegem/" target="_blank" class="artikel-titel">RegioAntwerpen (Stad)Volleybalploeg VC Oudegem test bh voor springsporten van studenten UA: "Klittenband sloot goed, bandjes zaten comfortabel en bh is stevig"za 11 apr.</a>
-            <span class="artikel-meta">VRT NWS &middot; 2026-04-23</span>
-        </div>
-        <div class="artikel-rij" data-thema="mobiliteit">
-            <span class="thema-badge" style="background:#2563eb;">mobiliteit</span>
-            <a href="https://www.vrt.be/vrtnws/nl/2026/04/13/dendermonde-mechelse-poort-volgende-fase/" target="_blank" class="artikel-titel">RegioDendermondeWerken aan kruispunt Mechelse Poort in Dendermonde gaan nieuwe fase in: extra hinder maar ook meer rijstroken vrijma 13 apr.</a>
-            <span class="artikel-meta">VRT NWS &middot; 2026-04-23</span>
-        </div>
-        <div class="artikel-rij" data-thema="veiligheid">
-            <span class="thema-badge" style="background:#dc2626;">veiligheid</span>
-            <a href="https://www.vrt.be/vrtnws/nl/2026/04/16/parket-dendermonde-wapendag-jongeren-messen/" target="_blank" class="artikel-titel">JustitieParket Oost-Vlaanderen organiseert "wapendag" voor jongeren betrapt met messen: 12 jongeren en hun ouders op gesprekdo 16 apr.</a>
-            <span class="artikel-meta">VRT NWS &middot; 2026-04-23</span>
-        </div>
-        <div class="artikel-rij" data-thema="algemeen">
-            <span class="thema-badge" style="background:#6b7280;">algemeen</span>
-            <a href="https://www.vrt.be/vrtnws/nl/2026/04/21/drieling-kalfjes-grembergen-dendermonde-koe/" target="_blank" class="artikel-titel">RegioGrembergenBelgische wit-blauwe koe bevalt van drieling in Grembergen: "Uniek voor dit ras"di 21 apr.</a>
-            <span class="artikel-meta">VRT NWS &middot; 2026-04-23</span>
-        </div>
-        <div class="artikel-rij" data-thema="algemeen">
-            <span class="thema-badge" style="background:#6b7280;">algemeen</span>
-            <a href="https://www.vrt.be/vrtnws/nl/2026/04/21/hoe-uitzonderlijk-is-een-drieling-kalfjes/" target="_blank" class="artikel-titel">SamenlevingHoe uitzonderlijk is een gezonde drieling kalfjes zoals in Grembergen? "Kans is kleiner dan 1 op 100.000"di 21 apr.</a>
-            <span class="artikel-meta">VRT NWS &middot; 2026-04-23</span>
-        </div>
-        <div class="artikel-rij" data-thema="algemeen">
-            <span class="thema-badge" style="background:#6b7280;">algemeen</span>
-            <a href="https://www.vrt.be/vrtnws/nl/2026/04/21/sint-aldegondiskerk-mespelare-dendermonde-renovatie-vochtschade/" target="_blank" class="artikel-titel">RegioMespelareVlaanderen trekt 800.000 euro uit om middeleeuwse muurschilderingen in 12e-eeuwse kerk in Mespelare te reddenwo 22 apr.</a>
-            <span class="artikel-meta">VRT NWS &middot; 2026-04-23</span>
-        </div>
-        <div class="artikel-rij" data-thema="algemeen">
-            <span class="thema-badge" style="background:#6b7280;">algemeen</span>
-            <a href="https://www.vrt.be/vrtnws/nl/2026/04/22/phishing-oplichter-nederland-oost-vlaanderen-politie-opgepakt/" target="_blank" class="artikel-titel">Online oplichtingNederlander die oplichters hielp om valse phishing-websites te bouwen, opgepakt en overgeleverd aan ons landwo 22 apr.</a>
-            <span class="artikel-meta">VRT NWS &middot; 2026-04-23</span>
-        </div>
-        <div class="artikel-rij" data-thema="natuur">
-            <span class="thema-badge" style="background:#0891b2;">natuur</span>
-            <a href="https://denderjournaal.be/natuurpunt-denderstreek-bouwt-verder-aan-sterk-gidsennetwerk-met-vier-seizoenswandelingen/" target="_blank" class="artikel-titel">Natuurpunt Denderstreek bouwt verder aan sterk gidsennetwerk met vier seizoenswandelingen.</a>
-            <span class="artikel-meta">Dender Journaal &middot; 2026-04-23</span>
-        </div></div>
+        <div class="active-filters" id="activeFilters"></div>
+        <div id="artikels-lijst"><div class="artikel-rij" data-thema="mobiliteit" data-bron="Dender Journaal"><span class="thema-badge" style="background:#3b82f6;">mobiliteit</span><a href="https://denderjournaal.be/aangepast-busaanbod-vanaf-1-juli-2026-in-vervoerregio-dender/" target="_blank" class="artikel-titel">Aangepast busaanbod vanaf 1 juli 2026 in vervoerregio Dender.</a><span class="artikel-meta">Dender Journaal &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="algemeen" data-bron="Stad Dendermonde"><span class="thema-badge" style="background:#94a3b8;">algemeen</span><a href="https://www.dendermonde.be/nieuws/de-bib-ruimt-op" target="_blank" class="artikel-titel">De bib ruimt op!</a><span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="algemeen" data-bron="Stad Dendermonde"><span class="thema-badge" style="background:#94a3b8;">algemeen</span><a href="https://www.dendermonde.be/nieuws/gratis-tuinhandschoenen" target="_blank" class="artikel-titel">Gratis tuinhandschoenen</a><span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="natuur" data-bron="Stad Dendermonde"><span class="thema-badge" style="background:#06b6d4;">natuur</span><a href="https://www.dendermonde.be/nieuws/schrijf-je-in-voor-de-groepsaankoop-groene-stroom-en-gas" target="_blank" class="artikel-titel">Schrijf je in voor de groepsaankoop groene stroom en gas van Provincie Oost-Vlaanderen</a><span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="natuur" data-bron="Stad Dendermonde"><span class="thema-badge" style="background:#06b6d4;">natuur</span><a href="https://www.dendermonde.be/nieuws/28-acties-voor-waterbestendig-maken-vondelbeek-in-dendervallei" target="_blank" class="artikel-titel">28 acties voor waterbestendig maken Vondelbeek in Dendervallei</a><span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="mobiliteit" data-bron="Stad Dendermonde"><span class="thema-badge" style="background:#3b82f6;">mobiliteit</span><a href="https://www.dendermonde.be/nieuws/herinrichting-kruispunt-mechelse-poort-fase-4" target="_blank" class="artikel-titel">Herinrichting kruispunt Mechelse Poort: fase 4 vanaf dinsdag 14 april</a><span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="politiek" data-bron="Stad Dendermonde"><span class="thema-badge" style="background:#8b5cf6;">politiek</span><a href="https://www.dendermonde.be/nieuws/zomerbars" target="_blank" class="artikel-titel">2 zomerbars brengen opnieuw sfeer in onze stad</a><span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="algemeen" data-bron="Stad Dendermonde"><span class="thema-badge" style="background:#94a3b8;">algemeen</span><a href="https://www.dendermonde.be/nieuws/win-duotickets-vicarisvillage" target="_blank" class="artikel-titel">Win duotickets voor Vicaris Village!</a><span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="politiek" data-bron="Stad Dendermonde"><span class="thema-badge" style="background:#8b5cf6;">politiek</span><a href="https://www.dendermonde.be/nieuws/vernieuw-je-trouwgeloften" target="_blank" class="artikel-titel">Vernieuw je trouwgeloften in het Stadhuis</a><span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="cultuur" data-bron="Stad Dendermonde"><span class="thema-badge" style="background:#f59e0b;">cultuur</span><a href="https://www.dendermonde.be/nieuws/vlaanderen-feest" target="_blank" class="artikel-titel">Met je straat, buurt, wijk of vereniging meedoen aan Vlaanderen Feest in 2026?</a><span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="natuur" data-bron="Stad Dendermonde"><span class="thema-badge" style="background:#06b6d4;">natuur</span><a href="https://www.dendermonde.be/nieuws/gebruikte-landbouwfolies" target="_blank" class="artikel-titel">Gebruikte landbouwfolies tijdelijk welkom op recyclagepark Appels</a><span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="natuur" data-bron="Stad Dendermonde"><span class="thema-badge" style="background:#06b6d4;">natuur</span><a href="https://www.dendermonde.be/nieuws/2-urban-cubbys-in-dendermonde" target="_blank" class="artikel-titel">2 Urban Cubby’s in Dendermonde</a><span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="natuur" data-bron="Stad Dendermonde"><span class="thema-badge" style="background:#06b6d4;">natuur</span><a href="https://www.dendermonde.be/nieuws/jobbeurs-lebbeke-dendermonde-buggenhout" target="_blank" class="artikel-titel">Jobbeurs Lebbeke Dendermonde Buggenhout</a><span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="economie" data-bron="Stad Dendermonde"><span class="thema-badge" style="background:#a855f7;">economie</span><a href="https://www.dendermonde.be/nieuws/jobstudenten-gezocht" target="_blank" class="artikel-titel">Jobstudenten voor de zomer gezocht!</a><span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="algemeen" data-bron="Stad Dendermonde"><span class="thema-badge" style="background:#94a3b8;">algemeen</span><a href="https://www.dendermonde.be/nieuws/herinrichting-speelplaats-stedelijke-basisschool-de-klinker-in-schoonaarde" target="_blank" class="artikel-titel">Herinrichting speelplaats stedelijke basisschool De Klinker in Schoonaarde</a><span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="algemeen" data-bron="Stad Dendermonde"><span class="thema-badge" style="background:#94a3b8;">algemeen</span><a href="https://www.dendermonde.be/nieuws/leer-een-beroerte-herkennen" target="_blank" class="artikel-titel">Leer een beroerte herkennen</a><span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="algemeen" data-bron="Stad Dendermonde"><span class="thema-badge" style="background:#94a3b8;">algemeen</span><a href="https://www.dendermonde.be/nieuws/herbruikbare-spullen-gratis-laten-ophalen" target="_blank" class="artikel-titel">Laat je herbruikbare spullen gratis ophalen</a><span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="algemeen" data-bron="Stad Dendermonde"><span class="thema-badge" style="background:#94a3b8;">algemeen</span><a href="https://www.dendermonde.be/nieuws/verdelging-van-nesten-aziatische-hoornaars-wordt-heropgestart" target="_blank" class="artikel-titel">Verdelging van nesten Aziatische hoornaars wordt heropgestart</a><span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="algemeen" data-bron="Stad Dendermonde"><span class="thema-badge" style="background:#94a3b8;">algemeen</span><a href="https://www.dendermonde.be/nieuws/detail/398/sluitingsdagen-van-het-administratief-centrum-in-mei" target="_blank" class="artikel-titel">Sluitingsdagen van het Administratief Centrum in mei</a><span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="mobiliteit" data-bron="Stad Dendermonde"><span class="thema-badge" style="background:#3b82f6;">mobiliteit</span><a href="https://www.dendermonde.be/nieuws/werken-verkeershinder" target="_blank" class="artikel-titel">Greep uit werken & verkeershinder</a><span class="artikel-meta">Stad Dendermonde &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="mobiliteit" data-bron="VRT NWS"><span class="thema-badge" style="background:#3b82f6;">mobiliteit</span><a href="https://www.vrt.be/vrtnws/nl/2026/03/30/grembergen-dendermonde-vrachtwagen-kippen-slachthuis/" target="_blank" class="artikel-titel">RegioGrembergenVrachtwagen vol kippen op weg naar slachthuis kantelt in Grembergen: honderden kippen belanden op fietspadma 30 mrt.</a><span class="artikel-meta">VRT NWS &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="politiek" data-bron="VRT NWS"><span class="thema-badge" style="background:#8b5cf6;">politiek</span><a href="https://www.vrt.be/vrtnws/nl/2026/04/02/schoonaarde-ongeval/" target="_blank" class="artikel-titel">RegioSchoonaardeAutobestuurder verliest controle in Schoonaarde: rijdt door 4 voortuinen en botst met caravan die in gevel belandtdo 2 apr.</a><span class="artikel-meta">VRT NWS &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="veiligheid" data-bron="VRT NWS"><span class="thema-badge" style="background:#ef4444;">veiligheid</span><a href="https://www.vrt.be/vrtnws/nl/2026/04/07/celstraffen-en-boetes-voor-21-drugstrafikanten-die-loods-in-tems/" target="_blank" class="artikel-titel">RegioTemseCelstraffen en boetes voor 21 drugshandelaren die loods in Temse gebruikten voor cocaïnehandeldi 7 apr.</a><span class="artikel-meta">VRT NWS &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="mobiliteit" data-bron="VRT NWS"><span class="thema-badge" style="background:#3b82f6;">mobiliteit</span><a href="https://www.vrt.be/vrtnws/nl/2026/04/08/doorgang-station-dendermonde/" target="_blank" class="artikel-titel">RegioDendermondeNMBS verbreedt doorgang station Dendermonde na meldingen over 'beklemmend gevoel'wo 8 apr.</a><span class="artikel-meta">VRT NWS &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="politiek" data-bron="VRT NWS"><span class="thema-badge" style="background:#8b5cf6;">politiek</span><a href="https://www.vrt.be/vrtnws/nl/2026/04/11/sport-bh-volleybal-universiteit-antwerpen-vc-oudegem/" target="_blank" class="artikel-titel">RegioAntwerpen (Stad)Volleybalploeg VC Oudegem test bh voor springsporten van studenten UA: "Klittenband sloot goed, bandjes zaten comfortabel en bh is stevig"za 11 apr.</a><span class="artikel-meta">VRT NWS &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="mobiliteit" data-bron="VRT NWS"><span class="thema-badge" style="background:#3b82f6;">mobiliteit</span><a href="https://www.vrt.be/vrtnws/nl/2026/04/13/dendermonde-mechelse-poort-volgende-fase/" target="_blank" class="artikel-titel">RegioDendermondeWerken aan kruispunt Mechelse Poort in Dendermonde gaan nieuwe fase in: extra hinder maar ook meer rijstroken vrijma 13 apr.</a><span class="artikel-meta">VRT NWS &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="veiligheid" data-bron="VRT NWS"><span class="thema-badge" style="background:#ef4444;">veiligheid</span><a href="https://www.vrt.be/vrtnws/nl/2026/04/16/parket-dendermonde-wapendag-jongeren-messen/" target="_blank" class="artikel-titel">JustitieParket Oost-Vlaanderen organiseert "wapendag" voor jongeren betrapt met messen: 12 jongeren en hun ouders op gesprekdo 16 apr.</a><span class="artikel-meta">VRT NWS &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="algemeen" data-bron="VRT NWS"><span class="thema-badge" style="background:#94a3b8;">algemeen</span><a href="https://www.vrt.be/vrtnws/nl/2026/04/21/drieling-kalfjes-grembergen-dendermonde-koe/" target="_blank" class="artikel-titel">RegioGrembergenBelgische wit-blauwe koe bevalt van drieling in Grembergen: "Uniek voor dit ras"di 21 apr.</a><span class="artikel-meta">VRT NWS &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="algemeen" data-bron="VRT NWS"><span class="thema-badge" style="background:#94a3b8;">algemeen</span><a href="https://www.vrt.be/vrtnws/nl/2026/04/21/hoe-uitzonderlijk-is-een-drieling-kalfjes/" target="_blank" class="artikel-titel">SamenlevingHoe uitzonderlijk is een gezonde drieling kalfjes zoals in Grembergen? "Kans is kleiner dan 1 op 100.000"di 21 apr.</a><span class="artikel-meta">VRT NWS &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="algemeen" data-bron="VRT NWS"><span class="thema-badge" style="background:#94a3b8;">algemeen</span><a href="https://www.vrt.be/vrtnws/nl/2026/04/21/sint-aldegondiskerk-mespelare-dendermonde-renovatie-vochtschade/" target="_blank" class="artikel-titel">RegioMespelareVlaanderen trekt 800.000 euro uit om middeleeuwse muurschilderingen in 12e-eeuwse kerk in Mespelare te reddenwo 22 apr.</a><span class="artikel-meta">VRT NWS &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="algemeen" data-bron="VRT NWS"><span class="thema-badge" style="background:#94a3b8;">algemeen</span><a href="https://www.vrt.be/vrtnws/nl/2026/04/22/phishing-oplichter-nederland-oost-vlaanderen-politie-opgepakt/" target="_blank" class="artikel-titel">Online oplichtingNederlander die oplichters hielp om valse phishing-websites te bouwen, opgepakt en overgeleverd aan ons landwo 22 apr.</a><span class="artikel-meta">VRT NWS &middot; 2026-04-23</span></div>
+<div class="artikel-rij" data-thema="natuur" data-bron="Dender Journaal"><span class="thema-badge" style="background:#06b6d4;">natuur</span><a href="https://denderjournaal.be/natuurpunt-denderstreek-bouwt-verder-aan-sterk-gidsennetwerk-met-vier-seizoenswandelingen/" target="_blank" class="artikel-titel">Natuurpunt Denderstreek bouwt verder aan sterk gidsennetwerk met vier seizoenswandelingen.</a><span class="artikel-meta">Dender Journaal &middot; 2026-04-23</span></div>
+</div>
     </div>
 </div>
 <script>
-new Chart(document.getElementById('weekChart'),{type:'bar',data:{labels:["2026-W16"],datasets:[{label:'Artikels',data:[31],backgroundColor:'#2563eb',borderRadius:4}]},options:{responsive:true,plugins:{legend:{display:false}},scales:{x:{ticks:{color:'#64748b'},grid:{color:'#1e293b'}},y:{ticks:{color:'#64748b'},grid:{color:'#334155'}}}}});
-new Chart(document.getElementById('bronChart'),{type:'doughnut',data:{labels:["Stad Dendermonde", "VRT NWS", "Dender Journaal"],datasets:[{data:[19, 11, 1],backgroundColor:['#2563eb','#16a34a','#d97706','#dc2626'],borderWidth:0}]},options:{responsive:true,plugins:{legend:{position:'bottom',labels:{color:'#94a3b8',font:{size:11},boxWidth:12}}}}});
-let actievThema=null;
-function filterThema(thema){if(actievThema===thema){actievThema=null;document.querySelectorAll('.thema-card').forEach(c=>c.classList.remove('active'));}else{actievThema=thema;document.querySelectorAll('.thema-card').forEach(c=>{c.classList.toggle('active',c.querySelector('.thema-naam').textContent.toLowerCase()===thema.toLowerCase());});}filterArtikels();}
-function filterArtikels(){const zoek=document.getElementById('zoek').value.toLowerCase();document.querySelectorAll('.artikel-rij').forEach(rij=>{const titel=rij.querySelector('.artikel-titel').textContent.toLowerCase();const thema=rij.dataset.thema;rij.style.display=(!zoek||titel.includes(zoek))&&(!actievThema||thema===actievThema)?'':'none';});}
-function resetFilters(){actievThema=null;document.getElementById('zoek').value='';document.querySelectorAll('.thema-card').forEach(c=>c.classList.remove('active'));document.querySelectorAll('.artikel-rij').forEach(r=>r.style.display='');}
+const WEEK_DATA = {"2026-W16": {"totaal": 32, "themas": {"algemeen": 12, "cultuur": 1, "economie": 1, "mobiliteit": 6, "natuur": 6, "politiek": 4, "veiligheid": 2}, "bronnen": {"Stad Dendermonde": 19, "VRT NWS": 11, "Dender Journaal": 2}}};
+const THEMA_KLEUREN = {"mobiliteit": "#3b82f6", "veiligheid": "#ef4444", "politiek": "#8b5cf6", "cultuur": "#f59e0b", "sport": "#22c55e", "natuur": "#06b6d4", "economie": "#a855f7", "algemeen": "#94a3b8"};
+const ALLE_BRONNEN = ["Dender Journaal", "Stad Dendermonde", "VRT NWS"];
+let actieveThemas = new Set();
+let actieveBronnen = new Set();
+let weekFilter = null;
+
+const bronFilterEl = document.getElementById('bronFilter');
+ALLE_BRONNEN.forEach(bron => {
+    const chip = document.createElement('span');
+    chip.className = 'filter-chip';
+    chip.textContent = bron;
+    chip.id = 'bron_' + bron.replace(/[^a-zA-Z0-9]/g,'_');
+    chip.onclick = () => toggleFilter('bron', bron);
+    bronFilterEl.appendChild(chip);
+});
+
+const weekFiltersEl = document.getElementById('weekFilters');
+[['Totaal', null], ...ALLE_BRONNEN.map(b => [b, b])].forEach(([label, val]) => {
+    const chip = document.createElement('span');
+    chip.className = 'filter-chip' + (val === null ? ' active' : '');
+    chip.textContent = label;
+    chip.id = 'wf_' + (val || 'totaal').replace(/[^a-zA-Z0-9]/g,'_');
+    if (val === null) { chip.style.background='#2563eb'; chip.style.color='white'; chip.style.borderColor='#2563eb'; }
+    chip.onclick = () => setWeekFilter(val);
+    weekFiltersEl.appendChild(chip);
+});
+
+const weken = Object.keys(WEEK_DATA);
+const weekChart = new Chart(document.getElementById('weekChart'), {
+    type: 'bar',
+    data: { labels: weken, datasets: [{ label: 'Artikels', data: weken.map(w => WEEK_DATA[w].totaal), backgroundColor: '#3b82f6', borderRadius: 5 }] },
+    options: { responsive: true, plugins: { legend: { display: false } }, scales: { x: { ticks: { color: '#94a3b8', font: { size: 11 } }, grid: { color: '#f1f5f9' } }, y: { ticks: { color: '#94a3b8', font: { size: 11 } }, grid: { color: '#f1f5f9' }, beginAtZero: true } } }
+});
+
+new Chart(document.getElementById('bronChart'), {
+    type: 'doughnut',
+    data: { labels: ["Stad Dendermonde", "VRT NWS", "Dender Journaal"], datasets: [{ data: [19, 11, 2], backgroundColor: ['#3b82f6','#22c55e','#f59e0b','#ef4444'], borderWidth: 2, borderColor: 'white' }] },
+    options: { responsive: true, plugins: { legend: { position: 'bottom', labels: { color: '#64748b', font: { size: 11 }, boxWidth: 12, padding: 12 } } } }
+});
+
+function setWeekFilter(filter) {
+    weekFilter = filter;
+    document.querySelectorAll('#weekFilters .filter-chip').forEach(c => { c.style.background='white'; c.style.color='#64748b'; c.style.borderColor='#e2e8f0'; });
+    const id = 'wf_' + (filter || 'totaal').replace(/[^a-zA-Z0-9]/g,'_');
+    const el = document.getElementById(id);
+    if (el) { el.style.background='#2563eb'; el.style.color='white'; el.style.borderColor='#2563eb'; }
+    weekChart.data.datasets[0].data = weken.map(w => filter ? (WEEK_DATA[w].bronnen[filter] || 0) : WEEK_DATA[w].totaal);
+    weekChart.update();
+}
+
+function toggleFilter(type, value) {
+    const set = type === 'thema' ? actieveThemas : actieveBronnen;
+    const kleur = type === 'thema' ? (THEMA_KLEUREN[value] || '#2563eb') : '#475569';
+    const elId = type === 'bron' ? 'bron_' + value.replace(/[^a-zA-Z0-9]/g,'_') : null;
+    const cardEl = type === 'thema' ? document.querySelector('.thema-card[data-thema="' + value + '"]') : null;
+    const chipEl = elId ? document.getElementById(elId) : null;
+    if (set.has(value)) {
+        set.delete(value);
+        if (cardEl) cardEl.classList.remove('active');
+        if (chipEl) { chipEl.style.background='white'; chipEl.style.color='#64748b'; chipEl.style.borderColor='#e2e8f0'; }
+    } else {
+        set.add(value);
+        if (cardEl) cardEl.classList.add('active');
+        if (chipEl) { chipEl.style.background=kleur; chipEl.style.color='white'; chipEl.style.borderColor=kleur; }
+    }
+    updateActiveTags();
+    filterArtikels();
+}
+
+function updateActiveTags() {
+    const el = document.getElementById('activeFilters');
+    el.innerHTML = '';
+    actieveThemas.forEach(t => { const k=THEMA_KLEUREN[t]||'#2563eb'; el.innerHTML += '<span class="active-tag" style="background:'+k+'">'+t+' <span onclick="toggleFilter('thema',''+t+'')" style="cursor:pointer">x</span></span>'; });
+    actieveBronnen.forEach(b => { el.innerHTML += '<span class="active-tag" style="background:#475569">'+b+' <span onclick="toggleFilter('bron',''+b+'')" style="cursor:pointer">x</span></span>'; });
+}
+
+function filterArtikels() {
+    const zoek = document.getElementById('zoek').value.toLowerCase();
+    document.querySelectorAll('.artikel-rij').forEach(rij => {
+        const ok = (!zoek || rij.querySelector('.artikel-titel').textContent.toLowerCase().includes(zoek))
+            && (actieveThemas.size === 0 || actieveThemas.has(rij.dataset.thema))
+            && (actieveBronnen.size === 0 || actieveBronnen.has(rij.dataset.bron));
+        rij.style.display = ok ? '' : 'none';
+    });
+}
+
+function resetFilters() {
+    actieveThemas.clear(); actieveBronnen.clear();
+    document.getElementById('zoek').value = '';
+    document.querySelectorAll('.thema-card').forEach(c => c.classList.remove('active'));
+    document.querySelectorAll('.bron-filter .filter-chip').forEach(c => { c.style.background='white'; c.style.color='#64748b'; c.style.borderColor='#e2e8f0'; });
+    document.getElementById('activeFilters').innerHTML = '';
+    document.querySelectorAll('.artikel-rij').forEach(r => r.style.display = '');
+    setWeekFilter(null);
+}
 </script>
 </body>
 </html>
