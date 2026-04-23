@@ -1,0 +1,38 @@
+name: Dagelijkse Scrape
+
+on:
+  schedule:
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Dependencies installeren
+        run: pip install feedparser requests beautifulsoup4 anthropic
+
+      - name: Scraper uitvoeren
+        run: python scraper.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Dashboard genereren
+        run: python dashboard.py
+
+      - name: Committen en pushen
+        run: |
+          git config user.name "Nieuws Bot"
+          git config user.email "bot@dendermonde-nieuws.be"
+          git add nieuws.db docs/
+          git diff --staged --quiet || git commit -m "Update $(date '+%Y-%m-%d')"
+          git push
