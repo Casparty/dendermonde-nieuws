@@ -325,14 +325,30 @@ function updateActiveTags() {{
         const span = document.createElement('span');
         span.className = 'active-tag';
         span.style.background = k;
-        span.innerHTML = t + ' <span onclick="toggleFilter(\'thema\',\'' + t + '\')" style="cursor:pointer">x</span>';
+        const label = document.createTextNode(t + ' ');
+        const x = document.createElement('span');
+        x.textContent = 'x';
+        x.style.cursor = 'pointer';
+        x.addEventListener('click', (function(val) {{
+            return function() {{ toggleFilter('thema', val); }};
+        }})(t));
+        span.appendChild(label);
+        span.appendChild(x);
         el.appendChild(span);
     }});
     actieveBronnen.forEach(function(b) {{
         const span = document.createElement('span');
         span.className = 'active-tag';
         span.style.background = '#475569';
-        span.innerHTML = b + ' <span onclick="toggleFilter(\'bron\',\'' + b + '\')" style="cursor:pointer">x</span>';
+        const label = document.createTextNode(b + ' ');
+        const x = document.createElement('span');
+        x.textContent = 'x';
+        x.style.cursor = 'pointer';
+        x.addEventListener('click', (function(val) {{
+            return function() {{ toggleFilter('bron', val); }};
+        }})(b));
+        span.appendChild(label);
+        span.appendChild(x);
         el.appendChild(span);
     }});
 }}
