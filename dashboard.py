@@ -80,8 +80,9 @@ def build_dashboard():
     artikel_rijen = ""
     for a in recent:
         titel, url, bron, datum, thema, toegevoegd = a
+        titel = titel.replace("'", "&#39;").replace('"', '&quot;') 
         kleur = THEMA_KLEUREN.get(thema, "#94a3b8")
-        datum_str = toegevoegd[:10] if toegevoegd else ""
+        datum_str = toegevoegd[:10] if toegevoegd else ""       
         artikel_rijen += (
             '<div class="artikel-rij" data-thema="' + thema + '" data-bron="' + bron + '">'
             '<span class="thema-badge" style="background:' + kleur + ';">' + thema + '</span>'
