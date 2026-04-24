@@ -25,18 +25,18 @@ def get_data():
     """).fetchall()
     thema_30d = conn.execute("""
         SELECT thema, COUNT(*) as aantal FROM artikels
-        WHERE toegevoegd >= date('now', '-30 days')
+        WHERE date(toegevoegd) >= date('now', '-30 days')
         GROUP BY thema ORDER BY aantal DESC
     """).fetchall()
     bron_30d = conn.execute("""
         SELECT bron_naam, COUNT(*) as aantal FROM artikels
-        WHERE toegevoegd >= date('now', '-30 days')
+        WHERE date(toegevoegd) >= date('now', '-30 days')
         GROUP BY bron_naam ORDER BY aantal DESC
     """).fetchall()
     weekly_raw = conn.execute("""
         SELECT strftime('%Y-W%W', toegevoegd) as week,
                thema, bron_naam, COUNT(*) as aantal
-        FROM artikels WHERE toegevoegd >= date('now', '-35 days')
+        FROM artikels WHERE date(toegevoegd) >= date('now', '-35 days')
         GROUP BY week, thema, bron_naam ORDER BY week
     """).fetchall()
     totaal = conn.execute("SELECT COUNT(*) FROM artikels").fetchone()[0]
