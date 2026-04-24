@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-04-23T16:19:43.870745",
+  "gegenereerd": "2026-04-24T08:38:54.670804",
   "themas": [
     {
       "naam": "algemeen",
-      "aantal": 12
+      "aantal": 17
     },
     {
       "naam": "natuur",
@@ -33,7 +33,7 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 19
+      "aantal": 24
     },
     {
       "naam": "VRT NWS",
@@ -45,6 +45,41 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Samen voorbereid: zo vind je tijdens een noodsituatie snel de juiste info",
+      "url": "https://www.dendermonde.be/nieuws/detail/402/samen-voorbereid-zo-vind-je-tijdens-een-noodsituatie-snel-de-juiste-info",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-04-24T08:38:54.665653+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Middeleeuwse muurschilderingen in Sint-Aldegondiskerk krijgen nieuwe toekomst",
+      "url": "https://www.dendermonde.be/nieuws/middeleeuwse-muurschilderingen-sint-aldegondiskerk",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-04-24T08:38:54.665648+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Sluiting Verko-dienstverlening op 1 en 2 mei",
+      "url": "https://www.dendermonde.be/nieuws/sluiting-verko-dienstverlening-op-1-en-2-mei",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-04-24T08:38:54.665642+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Week van het afvalteam 1 t.e.m. 7 juni 2026",
+      "url": "https://www.dendermonde.be/nieuws/week-van-het-afvalteam-1-t-e-m-7-juni-2026",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-04-24T08:38:54.665635+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Toegang Veerstraat naar Noordlaan afgesloten vanaf 27 april",
+      "url": "https://www.dendermonde.be/nieuws/afsluiting-toegang-veerstraat-naar-noordlaan",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-04-24T08:38:54.665615+00:00",
+      "thema": "algemeen"
+    },
     {
       "titel": "Aangepast busaanbod vanaf 1 juli 2026 in vervoerregio Dender.",
       "url": "https://denderjournaal.be/aangepast-busaanbod-vanaf-1-juli-2026-in-vervoerregio-dender/",
@@ -273,7 +308,7 @@
   "weekly": [
     {
       "week": "2026-W16",
-      "aantal": 32
+      "aantal": 37
     }
   ]
 }
