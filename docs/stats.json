@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-04-24T10:30:23.792037",
+  "gegenereerd": "2026-04-25T08:00:56.967412",
   "themas": [
     {
       "naam": "algemeen",
@@ -7,15 +7,15 @@
     },
     {
       "naam": "politiek",
-      "aantal": 4
+      "aantal": 5
     },
     {
       "naam": "mobiliteit",
-      "aantal": 4
+      "aantal": 5
     },
     {
       "naam": "natuur",
-      "aantal": 3
+      "aantal": 4
     },
     {
       "naam": "veiligheid",
@@ -33,14 +33,39 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 19
+      "aantal": 20
     },
     {
       "naam": "VRT NWS",
       "aantal": 11
+    },
+    {
+      "naam": "Dender Journaal",
+      "aantal": 2
     }
   ],
   "recent": [
+    {
+      "titel": "Dendermonde start met buurtinformatienetwerken (BIN): word jij ook lid?",
+      "url": "https://www.dendermonde.be/nieuws/buurtinformatienetwerken-bin-word-jij-ook-lid",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-04-25T08:00:56.963834+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "Incidenten overschaduwen Buitenspeeldag in Denderleeuw: gemeentebestuur kondigt extra veiligheidsmaatregelen aan.",
+      "url": "https://denderjournaal.be/incidenten-overschaduwen-buitenspeeldag-in-denderleeuw-gemeentebestuur-kondigt-extra-veiligheidsmaatregelen-aan/",
+      "bron": "Dender Journaal",
+      "datum": "Fri, 24 Apr 2026 21:12:21 +0000",
+      "thema": "politiek"
+    },
+    {
+      "titel": "Vijfde editie van ‘WK Kubb’ wijkt uit naar nieuwe locatie in Denderleeuw.",
+      "url": "https://denderjournaal.be/vijfde-editie-van-wk-kubb-wijkt-uit-naar-nieuwe-locatie-in-denderleeuw/",
+      "bron": "Dender Journaal",
+      "datum": "Fri, 24 Apr 2026 21:14:23 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "2 zomerbars brengen opnieuw sfeer in onze stad",
       "url": "https://www.dendermonde.be/nieuws/zomerbars",
@@ -255,7 +280,7 @@
   "weekly": [
     {
       "week": "2026-W16",
-      "aantal": 30
+      "aantal": 33
     }
   ]
 }
