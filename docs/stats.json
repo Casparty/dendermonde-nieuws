@@ -1,21 +1,21 @@
 {
-  "gegenereerd": "2026-04-27T09:13:36.506518",
+  "gegenereerd": "2026-04-28T09:14:38.938880",
   "themas": [
     {
       "naam": "algemeen",
-      "aantal": 15
+      "aantal": 16
     },
     {
       "naam": "politiek",
+      "aantal": 6
+    },
+    {
+      "naam": "natuur",
       "aantal": 5
     },
     {
       "naam": "mobiliteit",
       "aantal": 5
-    },
-    {
-      "naam": "natuur",
-      "aantal": 4
     },
     {
       "naam": "veiligheid",
@@ -33,11 +33,11 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 20
+      "aantal": 22
     },
     {
       "naam": "VRT NWS",
-      "aantal": 11
+      "aantal": 12
     },
     {
       "naam": "Dender Journaal",
@@ -45,6 +45,27 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Hulp bij het invullen van je aangifte in de personenbelasting",
+      "url": "https://www.dendermonde.be/nieuws/hulp-bij-het-invullen-van-je-aangifte-in-de-personenbelasting",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-04-28T09:14:38.936042+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Stad Dendermonde verdient label Sportbedrijf",
+      "url": "https://www.dendermonde.be/nieuws/stad-dendermonde-verdient-label-sportbedrijf",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-04-28T09:14:38.935999+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "RegioDendermondeDendermonde plaatst 40 trooststoelen op begraafplaatsen: \"Mensen willen even blijven zitten dicht bij een graf\"ma 27 apr.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/04/27/trooststoelen-dendermonde/",
+      "bron": "VRT NWS",
+      "datum": "2026-04-28T09:14:37.190875+00:00",
+      "thema": "natuur"
+    },
     {
       "titel": "Dendermonde start met buurtinformatienetwerken (BIN): word jij ook lid?",
       "url": "https://www.dendermonde.be/nieuws/buurtinformatienetwerken-bin-word-jij-ook-lid",
@@ -281,6 +302,10 @@
     {
       "week": "2026-W16",
       "aantal": 33
+    },
+    {
+      "week": "2026-W17",
+      "aantal": 3
     }
   ]
 }
