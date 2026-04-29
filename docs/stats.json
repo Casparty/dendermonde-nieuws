@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-04-28T09:14:38.938880",
+  "gegenereerd": "2026-04-29T09:06:01.896148",
   "themas": [
     {
       "naam": "algemeen",
-      "aantal": 16
+      "aantal": 17
     },
     {
       "naam": "politiek",
@@ -19,7 +19,7 @@
     },
     {
       "naam": "veiligheid",
-      "aantal": 2
+      "aantal": 3
     },
     {
       "naam": "economie",
@@ -33,7 +33,7 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 22
+      "aantal": 24
     },
     {
       "naam": "VRT NWS",
@@ -45,6 +45,20 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Trooststoelen brengen rust op onze begraafplaatsen",
+      "url": "https://www.dendermonde.be/nieuws/trooststoelen-brengen-rust-op-onze-begraafplaatsen",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-04-29T09:06:01.889159+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Code oranje: risico op natuurbrand",
+      "url": "https://www.dendermonde.be/nieuws/code-oranje-risico-op-natuurbrand",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-04-29T09:06:01.889139+00:00",
+      "thema": "veiligheid"
+    },
     {
       "titel": "Hulp bij het invullen van je aangifte in de personenbelasting",
       "url": "https://www.dendermonde.be/nieuws/hulp-bij-het-invullen-van-je-aangifte-in-de-personenbelasting",
@@ -305,7 +319,7 @@
     },
     {
       "week": "2026-W17",
-      "aantal": 3
+      "aantal": 5
     }
   ]
 }
