@@ -1,13 +1,13 @@
 {
-  "gegenereerd": "2026-04-30T09:08:01.899262",
+  "gegenereerd": "2026-05-01T08:56:13.530828",
   "themas": [
     {
       "naam": "algemeen",
-      "aantal": 17
+      "aantal": 19
     },
     {
       "naam": "politiek",
-      "aantal": 6
+      "aantal": 7
     },
     {
       "naam": "natuur",
@@ -33,11 +33,11 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 24
+      "aantal": 26
     },
     {
       "naam": "VRT NWS",
-      "aantal": 12
+      "aantal": 13
     },
     {
       "naam": "Dender Journaal",
@@ -45,6 +45,27 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Vertrek zorgeloos op reis",
+      "url": "https://www.dendermonde.be/nieuws/vertrek-zorgeloos-op-reis",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-05-01T08:56:13.527640+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Stad Dendermonde ontvangt 50 000 euro voor aanpak radicalisering en polarisatie",
+      "url": "https://www.dendermonde.be/nieuws/stad-dendermonde-ontvangt-50-000-euro-voor-aanpak-radicalisering-en-polarisatie",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-05-01T08:56:13.527621+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "RegioBaasrodeOntpolderingsgebied in Baasrode veroorzaakt geen knijtenhinder, oordeelt nu ook rechter in hoger beroepdo 30 apr.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/04/30/knijten-baasrode-groot-schoor-buurtbewoners-ongelijk/",
+      "bron": "VRT NWS",
+      "datum": "2026-05-01T08:56:11.720906+00:00",
+      "thema": "algemeen"
+    },
     {
       "titel": "Trooststoelen brengen rust op onze begraafplaatsen",
       "url": "https://www.dendermonde.be/nieuws/trooststoelen-brengen-rust-op-onze-begraafplaatsen",
@@ -319,7 +340,7 @@
     },
     {
       "week": "2026-W17",
-      "aantal": 5
+      "aantal": 8
     }
   ]
 }
