@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-05-01T08:56:13.530828",
+  "gegenereerd": "2026-05-02T08:17:58.638512",
   "themas": [
     {
       "naam": "algemeen",
@@ -7,11 +7,11 @@
     },
     {
       "naam": "politiek",
-      "aantal": 7
+      "aantal": 8
     },
     {
       "naam": "natuur",
-      "aantal": 5
+      "aantal": 8
     },
     {
       "naam": "mobiliteit",
@@ -33,7 +33,7 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 26
+      "aantal": 27
     },
     {
       "naam": "VRT NWS",
@@ -41,10 +41,38 @@
     },
     {
       "naam": "Dender Journaal",
-      "aantal": 2
+      "aantal": 5
     }
   ],
   "recent": [
+    {
+      "titel": "Week van de Opvoeding: plezier in opvoeden in Dendermonde",
+      "url": "https://www.dendermonde.be/nieuws/week-van-de-opvoeding-in-dendermonde",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-05-02T08:17:58.635425+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Commissie Zorgvuldig Bestuur geeft Kristof Slagmulder gelijk in dossier rond schoolgebouw Denderleeuw.",
+      "url": "https://denderjournaal.be/commissie-zorgvuldig-bestuur-geeft-kristof-slagmulder-gelijk-in-dossier-rond-schoolgebouw-denderleeuw/",
+      "bron": "Dender Journaal",
+      "datum": "Fri, 01 May 2026 22:28:13 +0000",
+      "thema": "politiek"
+    },
+    {
+      "titel": "Avontuur op de Dender: Ninoofse jongeren bouwen eigen vlotten en varen naar Pamel.",
+      "url": "https://denderjournaal.be/avontuur-op-de-dender-ninoofse-jongeren-bouwen-eigen-vlotten-en-varen-naar-pamel/",
+      "bron": "Dender Journaal",
+      "datum": "Fri, 01 May 2026 22:37:28 +0000",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Juf Carine neemt na 26 jaar afscheid van GO! Dender: “Een vaste waarde voor generaties leerlingen”",
+      "url": "https://denderjournaal.be/juf-carine-neemt-na-26-jaar-afscheid-van-go-dender-een-vaste-waarde-voor-generaties-leerlingen/",
+      "bron": "Dender Journaal",
+      "datum": "Fri, 01 May 2026 22:46:24 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "Vertrek zorgeloos op reis",
       "url": "https://www.dendermonde.be/nieuws/vertrek-zorgeloos-op-reis",
@@ -340,7 +368,7 @@
     },
     {
       "week": "2026-W17",
-      "aantal": 8
+      "aantal": 12
     }
   ]
 }
