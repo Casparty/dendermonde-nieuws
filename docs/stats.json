@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-05-03T08:29:47.945603",
+  "gegenereerd": "2026-05-04T09:12:18.670818",
   "themas": [
     {
       "naam": "algemeen",
@@ -7,7 +7,7 @@
     },
     {
       "naam": "politiek",
-      "aantal": 8
+      "aantal": 9
     },
     {
       "naam": "natuur",
@@ -19,7 +19,7 @@
     },
     {
       "naam": "veiligheid",
-      "aantal": 3
+      "aantal": 4
     },
     {
       "naam": "economie",
@@ -33,11 +33,11 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 27
+      "aantal": 28
     },
     {
       "naam": "VRT NWS",
-      "aantal": 13
+      "aantal": 14
     },
     {
       "naam": "Dender Journaal",
@@ -45,6 +45,20 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Ken jij de jaagpaden in onze gemeente (en hun regels)?",
+      "url": "https://www.dendermonde.be/nieuws/ken-jij-de-jaagpaden-in-onze-gemeente-en-hun-regels",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-05-04T09:12:18.667634+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "RegioDendermondeVan 'Arme Joe' tot 'Laat de zon in je hart': politie Dendermonde gebruikt Vlaamse hits om resultaten controles te delenzo 3 mei",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/05/03/dendermonde-politie-sociale-media-actie-viraal-vlaamse-hits-alco/",
+      "bron": "VRT NWS",
+      "datum": "2026-05-04T09:12:17.229417+00:00",
+      "thema": "veiligheid"
+    },
     {
       "titel": "Week van de Opvoeding: plezier in opvoeden in Dendermonde",
       "url": "https://www.dendermonde.be/nieuws/week-van-de-opvoeding-in-dendermonde",
@@ -369,6 +383,10 @@
     {
       "week": "2026-W17",
       "aantal": 12
+    },
+    {
+      "week": "2026-W18",
+      "aantal": 2
     }
   ]
 }
