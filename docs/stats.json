@@ -1,25 +1,25 @@
 {
-  "gegenereerd": "2026-05-05T09:04:25.415185",
+  "gegenereerd": "2026-05-06T09:17:10.879862",
   "themas": [
     {
       "naam": "algemeen",
       "aantal": 19
     },
     {
+      "naam": "natuur",
+      "aantal": 11
+    },
+    {
       "naam": "politiek",
       "aantal": 9
     },
     {
-      "naam": "natuur",
-      "aantal": 8
+      "naam": "veiligheid",
+      "aantal": 5
     },
     {
       "naam": "mobiliteit",
       "aantal": 5
-    },
-    {
-      "naam": "veiligheid",
-      "aantal": 4
     },
     {
       "naam": "economie",
@@ -33,18 +33,46 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 28
+      "aantal": 29
     },
     {
       "naam": "VRT NWS",
-      "aantal": 14
+      "aantal": 16
     },
     {
       "naam": "Dender Journaal",
-      "aantal": 5
+      "aantal": 6
     }
   ],
   "recent": [
+    {
+      "titel": "Dendermonde neemt deel aan de Faire Ronde 2026",
+      "url": "https://www.dendermonde.be/nieuws/dendermonde-neemt-deel-aan-de-faire-ronde-2026",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-05-06T09:17:10.876342+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "RegioDendermondeNa de podcast en de film: Dendermonde eert zuster Gabrielle binnenkort met straatnaamdi 5 mei",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/05/05/zuster-gabrielle-dendermonde-straatnaam-pocast/",
+      "bron": "VRT NWS",
+      "datum": "2026-05-06T09:17:09.085440+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "RegioDendermondePolitie Dendermonde zet extra in op online fraude na forse stijging aantal slachtoffers10 minuten geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/05/06/criminaliteitscijfers-dendermonde/",
+      "bron": "VRT NWS",
+      "datum": "2026-05-06T09:17:09.085331+00:00",
+      "thema": "veiligheid"
+    },
+    {
+      "titel": "Jacques Vermeire komt met laatste zaalshow ‘DDT houdt uitverkoop’ voor het eerst naar De Spot in Denderhoutem.",
+      "url": "https://denderjournaal.be/jacques-vermeire-komt-met-laatste-zaalshow-ddt-houdt-uitverkoop-voor-het-eerst-naar-de-spot-in-denderhoutem/",
+      "bron": "Dender Journaal",
+      "datum": "Tue, 05 May 2026 20:45:31 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "Ken jij de jaagpaden in onze gemeente (en hun regels)?",
       "url": "https://www.dendermonde.be/nieuws/ken-jij-de-jaagpaden-in-onze-gemeente-en-hun-regels",
@@ -366,13 +394,6 @@
       "bron": "VRT NWS",
       "datum": "2026-04-24T10:30:22.065043+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "Online oplichtingNederlander die oplichters hielp om valse phishing-websites te bouwen, opgepakt en overgeleverd aan ons landwo 22 apr.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/04/22/phishing-oplichter-nederland-oost-vlaanderen-politie-opgepakt/",
-      "bron": "VRT NWS",
-      "datum": "2026-04-24T10:30:22.064934+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
@@ -386,7 +407,7 @@
     },
     {
       "week": "2026-W18",
-      "aantal": 2
+      "aantal": 6
     }
   ]
 }
