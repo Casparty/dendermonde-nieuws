@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-05-07T09:26:37.847578",
+  "gegenereerd": "2026-05-08T08:18:44.064116",
   "themas": [
     {
       "naam": "algemeen",
-      "aantal": 20
+      "aantal": 21
     },
     {
       "naam": "natuur",
@@ -19,7 +19,7 @@
     },
     {
       "naam": "mobiliteit",
-      "aantal": 5
+      "aantal": 6
     },
     {
       "naam": "economie",
@@ -33,7 +33,7 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 31
+      "aantal": 33
     },
     {
       "naam": "VRT NWS",
@@ -45,6 +45,20 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Participatiemoment Bovenlokale Functionele Fietsroute in Baasrode op maandag 18 mei",
+      "url": "https://www.dendermonde.be/nieuws/detail/417/participatiemoment-bovenlokale-functionele-fietsroute-in-baasrode-op-maandag-18-mei",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-05-08T08:18:44.058459+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "Flanders Open Rugby van 22 tot 24 mei",
+      "url": "https://www.dendermonde.be/nieuws/for2026",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-05-08T08:18:44.058447+00:00",
+      "thema": "algemeen"
+    },
     {
       "titel": "‘Zuster Gabriellehof’ voorgesteld als nieuwe straatnaam in Dendermonde",
       "url": "https://www.dendermonde.be/nieuws/zuster-gabriellehof-voorgesteld-als-nieuwe-straatnaam-in-dendermonde",
@@ -380,20 +394,6 @@
       "bron": "VRT NWS",
       "datum": "2026-04-24T10:30:22.065386+00:00",
       "thema": "politiek"
-    },
-    {
-      "titel": "RegioDendermondeWerken aan kruispunt Mechelse Poort in Dendermonde gaan nieuwe fase in: extra hinder maar ook meer rijstroken vrijma 13 apr.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/04/13/dendermonde-mechelse-poort-volgende-fase/",
-      "bron": "VRT NWS",
-      "datum": "2026-04-24T10:30:22.065320+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "JustitieParket Oost-Vlaanderen organiseert \"wapendag\" voor jongeren betrapt met messen: 12 jongeren en hun ouders op gesprekdo 16 apr.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/04/16/parket-dendermonde-wapendag-jongeren-messen/",
-      "bron": "VRT NWS",
-      "datum": "2026-04-24T10:30:22.065251+00:00",
-      "thema": "veiligheid"
     }
   ],
   "weekly": [
@@ -407,7 +407,7 @@
     },
     {
       "week": "2026-W18",
-      "aantal": 9
+      "aantal": 11
     }
   ]
 }
