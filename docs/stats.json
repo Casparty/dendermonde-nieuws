@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-05-08T08:18:44.064116",
+  "gegenereerd": "2026-05-09T08:23:56.619675",
   "themas": [
     {
       "naam": "algemeen",
@@ -7,7 +7,7 @@
     },
     {
       "naam": "natuur",
-      "aantal": 12
+      "aantal": 14
     },
     {
       "naam": "politiek",
@@ -41,10 +41,24 @@
     },
     {
       "naam": "Dender Journaal",
-      "aantal": 6
+      "aantal": 8
     }
   ],
   "recent": [
+    {
+      "titel": "Digitaal café in Denderwindeke leert inwoners online oplichting herkennen.",
+      "url": "https://denderjournaal.be/digitaal-cafe-in-denderwindeke-leert-inwoners-online-oplichting-herkennen/",
+      "bron": "Dender Journaal",
+      "datum": "Fri, 08 May 2026 22:50:59 +0000",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Einde van een tijdperk bij KSC Denderstreek-Labiekes: voorzitter Paul Van der Straeten neemt afscheid.",
+      "url": "https://denderjournaal.be/einde-van-een-tijdperk-bij-ksc-denderstreek-labiekes-voorzitter-paul-van-der-straeten-neemt-afscheid/",
+      "bron": "Dender Journaal",
+      "datum": "Sat, 09 May 2026 07:47:17 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "Participatiemoment Bovenlokale Functionele Fietsroute in Baasrode op maandag 18 mei",
       "url": "https://www.dendermonde.be/nieuws/detail/417/participatiemoment-bovenlokale-functionele-fietsroute-in-baasrode-op-maandag-18-mei",
@@ -380,20 +394,6 @@
       "bron": "VRT NWS",
       "datum": "2026-04-24T10:30:22.065519+00:00",
       "thema": "veiligheid"
-    },
-    {
-      "titel": "RegioDendermondeNMBS verbreedt doorgang station Dendermonde na meldingen over 'beklemmend gevoel'wo 8 apr.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/04/08/doorgang-station-dendermonde/",
-      "bron": "VRT NWS",
-      "datum": "2026-04-24T10:30:22.065453+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "RegioAntwerpen (Stad)Volleybalploeg VC Oudegem test bh voor springsporten van studenten UA: \"Klittenband sloot goed, bandjes zaten comfortabel en bh is stevig\"za 11 apr.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/04/11/sport-bh-volleybal-universiteit-antwerpen-vc-oudegem/",
-      "bron": "VRT NWS",
-      "datum": "2026-04-24T10:30:22.065386+00:00",
-      "thema": "politiek"
     }
   ],
   "weekly": [
@@ -407,7 +407,7 @@
     },
     {
       "week": "2026-W18",
-      "aantal": 11
+      "aantal": 13
     }
   ]
 }
