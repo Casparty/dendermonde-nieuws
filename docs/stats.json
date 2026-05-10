@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-05-09T08:23:56.619675",
+  "gegenereerd": "2026-05-10T08:49:03.984518",
   "themas": [
     {
       "naam": "algemeen",
@@ -7,7 +7,7 @@
     },
     {
       "naam": "natuur",
-      "aantal": 14
+      "aantal": 16
     },
     {
       "naam": "politiek",
@@ -41,10 +41,24 @@
     },
     {
       "naam": "Dender Journaal",
-      "aantal": 8
+      "aantal": 10
     }
   ],
   "recent": [
+    {
+      "titel": "DenderHoop trekt aan alarmbel over strengere lokale binding in Ninove: “Dit dreigt kwetsbare gezinnen volledig uit te sluiten”",
+      "url": "https://denderjournaal.be/denderhoop-trekt-aan-alarmbel-over-strengere-lokale-binding-in-ninove-dit-dreigt-kwetsbare-gezinnen-volledig-uit-te-sluiten/",
+      "bron": "Dender Journaal",
+      "datum": "Sat, 09 May 2026 09:37:36 +0000",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Jasper Christiaens winnaar na spectaculaire Altebra Muur Challenge op Denderoordberg.",
+      "url": "https://denderjournaal.be/jasper-christiaens-winnaar-na-spectaculaire-altebra-muur-challenge-op-denderoordberg/",
+      "bron": "Dender Journaal",
+      "datum": "Sat, 09 May 2026 09:59:49 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "Digitaal café in Denderwindeke leert inwoners online oplichting herkennen.",
       "url": "https://denderjournaal.be/digitaal-cafe-in-denderwindeke-leert-inwoners-online-oplichting-herkennen/",
@@ -380,20 +394,6 @@
       "bron": "VRT NWS",
       "datum": "2026-04-24T10:30:22.065648+00:00",
       "thema": "mobiliteit"
-    },
-    {
-      "titel": "RegioSchoonaardeAutobestuurder verliest controle in Schoonaarde: rijdt door 4 voortuinen en botst met caravan die in gevel belandtdo 2 apr.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/04/02/schoonaarde-ongeval/",
-      "bron": "VRT NWS",
-      "datum": "2026-04-24T10:30:22.065583+00:00",
-      "thema": "politiek"
-    },
-    {
-      "titel": "RegioTemseCelstraffen en boetes voor 21 drugshandelaren die loods in Temse gebruikten voor cocaïnehandeldi 7 apr.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/04/07/celstraffen-en-boetes-voor-21-drugstrafikanten-die-loods-in-tems/",
-      "bron": "VRT NWS",
-      "datum": "2026-04-24T10:30:22.065519+00:00",
-      "thema": "veiligheid"
     }
   ],
   "weekly": [
@@ -407,7 +407,7 @@
     },
     {
       "week": "2026-W18",
-      "aantal": 13
+      "aantal": 15
     }
   ]
 }
