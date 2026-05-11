@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-05-10T08:49:03.984518",
+  "gegenereerd": "2026-05-11T10:29:43.041138",
   "themas": [
     {
       "naam": "algemeen",
-      "aantal": 21
+      "aantal": 22
     },
     {
       "naam": "natuur",
@@ -33,7 +33,7 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 33
+      "aantal": 34
     },
     {
       "naam": "VRT NWS",
@@ -45,6 +45,13 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Radar Grembergen: wij willen jouw ideeën!",
+      "url": "https://www.ccbelgica.be/nl/nieuws/radar-grembergen-wij-willen-jouw-ideeen/",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-05-11T10:29:43.036759+00:00",
+      "thema": "algemeen"
+    },
     {
       "titel": "DenderHoop trekt aan alarmbel over strengere lokale binding in Ninove: “Dit dreigt kwetsbare gezinnen volledig uit te sluiten”",
       "url": "https://denderjournaal.be/denderhoop-trekt-aan-alarmbel-over-strengere-lokale-binding-in-ninove-dit-dreigt-kwetsbare-gezinnen-volledig-uit-te-sluiten/",
@@ -387,13 +394,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-04-24T10:30:23.788848+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "RegioGrembergenVrachtwagen vol kippen op weg naar slachthuis kantelt in Grembergen: honderden kippen belanden op fietspadma 30 mrt.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/03/30/grembergen-dendermonde-vrachtwagen-kippen-slachthuis/",
-      "bron": "VRT NWS",
-      "datum": "2026-04-24T10:30:22.065648+00:00",
-      "thema": "mobiliteit"
     }
   ],
   "weekly": [
@@ -408,6 +408,10 @@
     {
       "week": "2026-W18",
       "aantal": 15
+    },
+    {
+      "week": "2026-W19",
+      "aantal": 1
     }
   ]
 }
