@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-05-11T10:29:43.041138",
+  "gegenereerd": "2026-05-12T09:30:17.680713",
   "themas": [
     {
       "naam": "algemeen",
-      "aantal": 22
+      "aantal": 24
     },
     {
       "naam": "natuur",
@@ -11,7 +11,7 @@
     },
     {
       "naam": "politiek",
-      "aantal": 9
+      "aantal": 10
     },
     {
       "naam": "veiligheid",
@@ -33,7 +33,7 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 34
+      "aantal": 37
     },
     {
       "naam": "VRT NWS",
@@ -45,6 +45,27 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Nestschommel voor sbs ’t Kraaiennest",
+      "url": "https://www.dendermonde.be/nieuws/nestschommel-voor-sbs-t-kraaiennest",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-05-12T09:30:17.676035+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Sluitingsdagen Verko",
+      "url": "https://www.dendermonde.be/nieuws/sluitingsdagen-verko",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-05-12T09:30:17.676023+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "‘Safety first’: stad plaatst herashekken rond de Kazerne",
+      "url": "https://www.dendermonde.be/nieuws/herashekken-rond-de-kazerne",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-05-12T09:30:17.676001+00:00",
+      "thema": "politiek"
+    },
     {
       "titel": "Radar Grembergen: wij willen jouw ideeën!",
       "url": "https://www.ccbelgica.be/nl/nieuws/radar-grembergen-wij-willen-jouw-ideeen/",
@@ -373,27 +394,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-04-24T10:30:23.788877+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "Sluiting Verko-dienstverlening op 1 en 2 mei",
-      "url": "https://www.dendermonde.be/nieuws/sluiting-verko-dienstverlening-op-1-en-2-mei",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-04-24T10:30:23.788873+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Week van het afvalteam 1 t.e.m. 7 juni 2026",
-      "url": "https://www.dendermonde.be/nieuws/week-van-het-afvalteam-1-t-e-m-7-juni-2026",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-04-24T10:30:23.788867+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Toegang Veerstraat naar Noordlaan afgesloten vanaf 27 april",
-      "url": "https://www.dendermonde.be/nieuws/afsluiting-toegang-veerstraat-naar-noordlaan",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-04-24T10:30:23.788848+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
@@ -411,7 +411,7 @@
     },
     {
       "week": "2026-W19",
-      "aantal": 1
+      "aantal": 4
     }
   ]
 }
