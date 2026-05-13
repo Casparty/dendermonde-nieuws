@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-05-12T09:30:17.680713",
+  "gegenereerd": "2026-05-13T09:36:47.268003",
   "themas": [
     {
       "naam": "algemeen",
-      "aantal": 24
+      "aantal": 25
     },
     {
       "naam": "natuur",
@@ -14,11 +14,11 @@
       "aantal": 10
     },
     {
-      "naam": "veiligheid",
-      "aantal": 6
+      "naam": "mobiliteit",
+      "aantal": 7
     },
     {
-      "naam": "mobiliteit",
+      "naam": "veiligheid",
       "aantal": 6
     },
     {
@@ -33,7 +33,7 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 37
+      "aantal": 39
     },
     {
       "naam": "VRT NWS",
@@ -45,6 +45,20 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Neem deel aan Straatvinken op donderdag 21 mei!",
+      "url": "https://www.dendermonde.be/nieuws/neem-deel-aan-straatvinken-op-donderdag-21-mei",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-05-13T09:36:47.148988+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Infrabel voert vernieuwingswerken uit",
+      "url": "https://www.dendermonde.be/nieuws/infrabel-voert-vernieuwingswerken-uit",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-05-13T09:36:47.148953+00:00",
+      "thema": "mobiliteit"
+    },
     {
       "titel": "Nestschommel voor sbs ’t Kraaiennest",
       "url": "https://www.dendermonde.be/nieuws/nestschommel-voor-sbs-t-kraaiennest",
@@ -380,20 +394,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-04-24T10:30:23.788886+00:00",
       "thema": "mobiliteit"
-    },
-    {
-      "titel": "Samen voorbereid: zo vind je tijdens een noodsituatie snel de juiste info",
-      "url": "https://www.dendermonde.be/nieuws/detail/402/samen-voorbereid-zo-vind-je-tijdens-een-noodsituatie-snel-de-juiste-info",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-04-24T10:30:23.788882+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Middeleeuwse muurschilderingen in Sint-Aldegondiskerk krijgen nieuwe toekomst",
-      "url": "https://www.dendermonde.be/nieuws/middeleeuwse-muurschilderingen-sint-aldegondiskerk",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-04-24T10:30:23.788877+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
@@ -411,7 +411,7 @@
     },
     {
       "week": "2026-W19",
-      "aantal": 4
+      "aantal": 6
     }
   ]
 }
