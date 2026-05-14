@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-05-13T09:36:47.268003",
+  "gegenereerd": "2026-05-14T09:28:00.376968",
   "themas": [
     {
       "naam": "algemeen",
@@ -11,15 +11,15 @@
     },
     {
       "naam": "politiek",
-      "aantal": 10
+      "aantal": 11
+    },
+    {
+      "naam": "veiligheid",
+      "aantal": 8
     },
     {
       "naam": "mobiliteit",
       "aantal": 7
-    },
-    {
-      "naam": "veiligheid",
-      "aantal": 6
     },
     {
       "naam": "economie",
@@ -33,11 +33,11 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 39
+      "aantal": 41
     },
     {
       "naam": "VRT NWS",
-      "aantal": 17
+      "aantal": 18
     },
     {
       "naam": "Dender Journaal",
@@ -45,6 +45,27 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Stad Dendermonde hangt opnieuw de regenboogvlag uit voor IDAHOT",
+      "url": "https://www.dendermonde.be/nieuws/stad-dendermonde-hangt-opnieuw-de-regenboogvlag-uit-voor-idahot",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-05-14T09:28:00.373790+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "Bedrijfsbrand Lindestraat 64 in Appels",
+      "url": "https://www.dendermonde.be/nieuws/detail/426/bedrijfsbrand-lindestraat-64-in-appels",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-05-14T09:28:00.373773+00:00",
+      "thema": "veiligheid"
+    },
+    {
+      "titel": "RegioDendermondeEnorme schade na zware boerderijbrand in Appels: geen gewonden, dieren op tijd geëvacueerd49 minuten geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/05/14/brand-boerderij-appels/",
+      "bron": "VRT NWS",
+      "datum": "2026-05-14T09:27:59.253735+00:00",
+      "thema": "veiligheid"
+    },
     {
       "titel": "Neem deel aan Straatvinken op donderdag 21 mei!",
       "url": "https://www.dendermonde.be/nieuws/neem-deel-aan-straatvinken-op-donderdag-21-mei",
@@ -373,27 +394,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-04-24T10:30:23.788899+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "Verdelging van nesten Aziatische hoornaars wordt heropgestart",
-      "url": "https://www.dendermonde.be/nieuws/verdelging-van-nesten-aziatische-hoornaars-wordt-heropgestart",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-04-24T10:30:23.788895+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Sluitingsdagen van het Administratief Centrum in mei",
-      "url": "https://www.dendermonde.be/nieuws/detail/398/sluitingsdagen-van-het-administratief-centrum-in-mei",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-04-24T10:30:23.788890+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Greep uit werken & verkeershinder",
-      "url": "https://www.dendermonde.be/nieuws/werken-verkeershinder",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-04-24T10:30:23.788886+00:00",
-      "thema": "mobiliteit"
     }
   ],
   "weekly": [
@@ -411,7 +411,7 @@
     },
     {
       "week": "2026-W19",
-      "aantal": 6
+      "aantal": 9
     }
   ]
 }
