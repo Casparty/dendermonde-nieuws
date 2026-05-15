@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-05-14T09:28:00.376968",
+  "gegenereerd": "2026-05-15T09:39:49.417592",
   "themas": [
     {
       "naam": "algemeen",
-      "aantal": 25
+      "aantal": 26
     },
     {
       "naam": "natuur",
@@ -15,7 +15,7 @@
     },
     {
       "naam": "veiligheid",
-      "aantal": 8
+      "aantal": 9
     },
     {
       "naam": "mobiliteit",
@@ -37,7 +37,7 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 18
+      "aantal": 20
     },
     {
       "naam": "Dender Journaal",
@@ -45,6 +45,20 @@
     }
   ],
   "recent": [
+    {
+      "titel": "RegioDistrict AntwerpenMan (81) die tussen kademuur en cruiseschip viel in Antwerpen is overledendi 12 mei",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/05/12/man-81-jaar-overleden-verwondingen-val-in-schelde-cockerillkaai/",
+      "bron": "VRT NWS",
+      "datum": "2026-05-15T09:39:47.366411+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "RegioDendermondeBoerderij in Appels vernield na zware brand: geen gewonden, dieren op tijd geëvacueerddo 14 mei",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/05/14/brand-boerderij-appels/",
+      "bron": "VRT NWS",
+      "datum": "2026-05-15T09:39:47.366291+00:00",
+      "thema": "veiligheid"
+    },
     {
       "titel": "Stad Dendermonde hangt opnieuw de regenboogvlag uit voor IDAHOT",
       "url": "https://www.dendermonde.be/nieuws/stad-dendermonde-hangt-opnieuw-de-regenboogvlag-uit-voor-idahot",
@@ -380,20 +394,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-04-24T10:30:23.788908+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "Leer een beroerte herkennen",
-      "url": "https://www.dendermonde.be/nieuws/leer-een-beroerte-herkennen",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-04-24T10:30:23.788904+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Laat je herbruikbare spullen gratis ophalen",
-      "url": "https://www.dendermonde.be/nieuws/herbruikbare-spullen-gratis-laten-ophalen",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-04-24T10:30:23.788899+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
@@ -411,7 +411,7 @@
     },
     {
       "week": "2026-W19",
-      "aantal": 9
+      "aantal": 11
     }
   ]
 }
