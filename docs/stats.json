@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-05-15T09:39:49.417592",
+  "gegenereerd": "2026-05-16T08:44:57.950469",
   "themas": [
     {
       "naam": "algemeen",
@@ -15,7 +15,7 @@
     },
     {
       "naam": "veiligheid",
-      "aantal": 9
+      "aantal": 10
     },
     {
       "naam": "mobiliteit",
@@ -37,7 +37,7 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 20
+      "aantal": 21
     },
     {
       "naam": "Dender Journaal",
@@ -45,6 +45,13 @@
     }
   ],
   "recent": [
+    {
+      "titel": "RegioAppelsBuurt haalt al 27.000 euro op voor familie na verwoestende brand in Appels, ook historisch 'Ros Appels' vernietigdvr 15 mei",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/05/15/appels-brand-boerderij-inzamelactie/",
+      "bron": "VRT NWS",
+      "datum": "2026-05-16T08:44:56.226826+00:00",
+      "thema": "veiligheid"
+    },
     {
       "titel": "RegioDistrict AntwerpenMan (81) die tussen kademuur en cruiseschip viel in Antwerpen is overledendi 12 mei",
       "url": "https://www.vrt.be/vrtnws/nl/2026/05/12/man-81-jaar-overleden-verwondingen-val-in-schelde-cockerillkaai/",
@@ -387,13 +394,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-04-24T10:30:23.788922+00:00",
       "thema": "economie"
-    },
-    {
-      "titel": "Herinrichting speelplaats stedelijke basisschool De Klinker in Schoonaarde",
-      "url": "https://www.dendermonde.be/nieuws/herinrichting-speelplaats-stedelijke-basisschool-de-klinker-in-schoonaarde",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-04-24T10:30:23.788908+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
@@ -411,7 +411,7 @@
     },
     {
       "week": "2026-W19",
-      "aantal": 11
+      "aantal": 12
     }
   ]
 }
