@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-05-18T10:59:07.621502",
+  "gegenereerd": "2026-05-19T10:33:26.016099",
   "themas": [
     {
       "naam": "algemeen",
-      "aantal": 26
+      "aantal": 27
     },
     {
       "naam": "natuur",
@@ -11,7 +11,7 @@
     },
     {
       "naam": "politiek",
-      "aantal": 11
+      "aantal": 12
     },
     {
       "naam": "veiligheid",
@@ -33,7 +33,7 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 41
+      "aantal": 43
     },
     {
       "naam": "VRT NWS",
@@ -45,6 +45,20 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Gemeenteraad en raad voor maatschappelijk welzijn op woensdag 20 mei 2026",
+      "url": "https://www.dendermonde.be/nieuws/gemeenteraad-en-raad-voor-maatschappelijk-welzijn-op-woensdag-20-mei-2026",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-05-19T10:33:26.012039+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "Geen afvalophaling op Pinkstermaandag",
+      "url": "https://www.dendermonde.be/nieuws/geen-afvalophaling-op-pinkstermaandag",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-05-19T10:33:26.012018+00:00",
+      "thema": "algemeen"
+    },
     {
       "titel": "RegioAppelsBuurt haalt al 27.000 euro op voor familie na verwoestende brand in Appels, ook historisch 'Ros Appels' vernietigdvr 15 mei",
       "url": "https://www.vrt.be/vrtnws/nl/2026/05/15/appels-brand-boerderij-inzamelactie/",
@@ -380,20 +394,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-04-24T10:30:23.788931+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "Jobbeurs Lebbeke Dendermonde Buggenhout",
-      "url": "https://www.dendermonde.be/nieuws/jobbeurs-lebbeke-dendermonde-buggenhout",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-04-24T10:30:23.788926+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Jobstudenten voor de zomer gezocht!",
-      "url": "https://www.dendermonde.be/nieuws/jobstudenten-gezocht",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-04-24T10:30:23.788922+00:00",
-      "thema": "economie"
     }
   ],
   "weekly": [
@@ -412,6 +412,10 @@
     {
       "week": "2026-W19",
       "aantal": 12
+    },
+    {
+      "week": "2026-W20",
+      "aantal": 2
     }
   ]
 }
