@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-05-19T10:33:26.016099",
+  "gegenereerd": "2026-05-20T10:20:00.048149",
   "themas": [
     {
       "naam": "algemeen",
@@ -19,32 +19,60 @@
     },
     {
       "naam": "mobiliteit",
-      "aantal": 7
-    },
-    {
-      "naam": "economie",
-      "aantal": 1
+      "aantal": 10
     },
     {
       "naam": "cultuur",
+      "aantal": 2
+    },
+    {
+      "naam": "economie",
       "aantal": 1
     }
   ],
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 43
+      "aantal": 44
     },
     {
       "naam": "VRT NWS",
-      "aantal": 21
+      "aantal": 22
     },
     {
       "naam": "Dender Journaal",
-      "aantal": 10
+      "aantal": 12
     }
   ],
   "recent": [
+    {
+      "titel": "Onderzoek naar betere fietsroute langs de Schelde in Baasrode",
+      "url": "https://www.dendermonde.be/nieuws/onderzoek-naar-betere-fietsroute-langs-de-schelde-in-baasrode",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-05-20T10:20:00.044743+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "RegioDendermondeRechter spreekt aannemer vrij na zwaar fietsongeval in Dendermonde6 minuten geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/05/20/politierechter-spreekt-aannemer-vrij-dendermonde/",
+      "bron": "VRT NWS",
+      "datum": "2026-05-20T10:19:58.767372+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "Hoppy breidt netwerk van elektrische deelfietsen stevig uit in Vlaamse Ardennen en Denderregio.",
+      "url": "https://denderjournaal.be/hoppy-breidt-netwerk-van-elektrische-deelfietsen-stevig-uit-in-vlaamse-ardennen-en-denderregio/",
+      "bron": "Dender Journaal",
+      "datum": "Wed, 20 May 2026 09:34:13 +0000",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "Kunstoevers brengt opnieuw kunst, muziek en performances naar de oevers van de Dender in Aalst.",
+      "url": "https://denderjournaal.be/kunstoevers-brengt-opnieuw-kunst-muziek-en-performances-naar-de-oevers-van-de-dender-in-aalst/",
+      "bron": "Dender Journaal",
+      "datum": "Wed, 20 May 2026 09:36:18 +0000",
+      "thema": "cultuur"
+    },
     {
       "titel": "Gemeenteraad en raad voor maatschappelijk welzijn op woensdag 20 mei 2026",
       "url": "https://www.dendermonde.be/nieuws/gemeenteraad-en-raad-voor-maatschappelijk-welzijn-op-woensdag-20-mei-2026",
@@ -366,34 +394,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-04-24T10:30:23.788947+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "Vernieuw je trouwgeloften in het Stadhuis",
-      "url": "https://www.dendermonde.be/nieuws/vernieuw-je-trouwgeloften",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-04-24T10:30:23.788943+00:00",
-      "thema": "politiek"
-    },
-    {
-      "titel": "Met je straat, buurt, wijk of vereniging meedoen aan Vlaanderen Feest in 2026?",
-      "url": "https://www.dendermonde.be/nieuws/vlaanderen-feest",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-04-24T10:30:23.788939+00:00",
-      "thema": "cultuur"
-    },
-    {
-      "titel": "Gebruikte landbouwfolies tijdelijk welkom op recyclagepark Appels",
-      "url": "https://www.dendermonde.be/nieuws/gebruikte-landbouwfolies",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-04-24T10:30:23.788935+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "2 Urban Cubby’s in Dendermonde",
-      "url": "https://www.dendermonde.be/nieuws/2-urban-cubbys-in-dendermonde",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-04-24T10:30:23.788931+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
@@ -415,7 +415,7 @@
     },
     {
       "week": "2026-W20",
-      "aantal": 2
+      "aantal": 6
     }
   ]
 }
