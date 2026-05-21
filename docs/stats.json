@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-05-20T10:20:00.048149",
+  "gegenereerd": "2026-05-21T10:32:49.520378",
   "themas": [
     {
       "naam": "algemeen",
@@ -10,20 +10,20 @@
       "aantal": 16
     },
     {
+      "naam": "veiligheid",
+      "aantal": 13
+    },
+    {
       "naam": "politiek",
       "aantal": 12
     },
     {
-      "naam": "veiligheid",
-      "aantal": 10
-    },
-    {
       "naam": "mobiliteit",
-      "aantal": 10
+      "aantal": 12
     },
     {
       "naam": "cultuur",
-      "aantal": 2
+      "aantal": 3
     },
     {
       "naam": "economie",
@@ -33,11 +33,11 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 44
+      "aantal": 47
     },
     {
       "naam": "VRT NWS",
-      "aantal": 22
+      "aantal": 25
     },
     {
       "naam": "Dender Journaal",
@@ -45,6 +45,48 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Brand appartementsgebouw Mechelse Poort Dendermonde-centrum",
+      "url": "https://www.dendermonde.be/nieuws/brand-mechelse-poort",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-05-21T10:32:49.517241+00:00",
+      "thema": "veiligheid"
+    },
+    {
+      "titel": "Herinrichting kruispunt Mechelse Poort: fase 5 start in de nacht van 4 op 5 juni",
+      "url": "https://www.dendermonde.be/nieuws/herinrichting-kruispunt-mechelse-poort-fase-5",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-05-21T10:32:49.517236+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "Afspraken voor een warm en verbonden Offerfeest",
+      "url": "https://www.dendermonde.be/nieuws/afspraken-tijdens-het-offerfeest",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-05-21T10:32:49.517218+00:00",
+      "thema": "cultuur"
+    },
+    {
+      "titel": "RegioDendermondeRechter spreekt aannemer vrij na zwaar fietsongeval in Dendermondewo 20 mei",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/05/20/politierechter-spreekt-aannemer-vrij-dendermonde/",
+      "bron": "VRT NWS",
+      "datum": "2026-05-21T10:32:48.204102+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "RegioAppelsFamilie landbouwbedrijf Appels overspoeld met steun na verwoestende brandwo 20 mei",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/05/20/appels-brand-landbouwbedrijf-emotioneel-veel-steun/",
+      "bron": "VRT NWS",
+      "datum": "2026-05-21T10:32:48.204043+00:00",
+      "thema": "veiligheid"
+    },
+    {
+      "titel": "RegioDendermondeBrand in kelder appartementsgebouw Dendermonde: bewoners even geëvacueerd, 20 appartementen zonder stroom6 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/05/21/dendermonde-brand-in-kelder-appartementsgebouw-bewoners-geevacue/",
+      "bron": "VRT NWS",
+      "datum": "2026-05-21T10:32:48.203950+00:00",
+      "thema": "veiligheid"
+    },
     {
       "titel": "Onderzoek naar betere fietsroute langs de Schelde in Baasrode",
       "url": "https://www.dendermonde.be/nieuws/onderzoek-naar-betere-fietsroute-langs-de-schelde-in-baasrode",
@@ -352,48 +394,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-04-28T09:14:38.935999+00:00",
       "thema": "politiek"
-    },
-    {
-      "titel": "RegioDendermondeDendermonde plaatst 40 trooststoelen op begraafplaatsen: \"Mensen willen even blijven zitten dicht bij een graf\"ma 27 apr.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/04/27/trooststoelen-dendermonde/",
-      "bron": "VRT NWS",
-      "datum": "2026-04-28T09:14:37.190875+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Dendermonde start met buurtinformatienetwerken (BIN): word jij ook lid?",
-      "url": "https://www.dendermonde.be/nieuws/buurtinformatienetwerken-bin-word-jij-ook-lid",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-04-25T08:00:56.963834+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "Incidenten overschaduwen Buitenspeeldag in Denderleeuw: gemeentebestuur kondigt extra veiligheidsmaatregelen aan.",
-      "url": "https://denderjournaal.be/incidenten-overschaduwen-buitenspeeldag-in-denderleeuw-gemeentebestuur-kondigt-extra-veiligheidsmaatregelen-aan/",
-      "bron": "Dender Journaal",
-      "datum": "Fri, 24 Apr 2026 21:12:21 +0000",
-      "thema": "politiek"
-    },
-    {
-      "titel": "Vijfde editie van ‘WK Kubb’ wijkt uit naar nieuwe locatie in Denderleeuw.",
-      "url": "https://denderjournaal.be/vijfde-editie-van-wk-kubb-wijkt-uit-naar-nieuwe-locatie-in-denderleeuw/",
-      "bron": "Dender Journaal",
-      "datum": "Fri, 24 Apr 2026 21:14:23 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "2 zomerbars brengen opnieuw sfeer in onze stad",
-      "url": "https://www.dendermonde.be/nieuws/zomerbars",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-04-24T10:30:23.788951+00:00",
-      "thema": "politiek"
-    },
-    {
-      "titel": "Win duotickets voor Vicaris Village!",
-      "url": "https://www.dendermonde.be/nieuws/win-duotickets-vicarisvillage",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-04-24T10:30:23.788947+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
@@ -415,7 +415,7 @@
     },
     {
       "week": "2026-W20",
-      "aantal": 6
+      "aantal": 12
     }
   ]
 }
