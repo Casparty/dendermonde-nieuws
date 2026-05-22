@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-05-21T10:32:49.520378",
+  "gegenereerd": "2026-05-22T10:17:47.142109",
   "themas": [
     {
       "naam": "algemeen",
@@ -11,14 +11,14 @@
     },
     {
       "naam": "veiligheid",
+      "aantal": 14
+    },
+    {
+      "naam": "mobiliteit",
       "aantal": 13
     },
     {
       "naam": "politiek",
-      "aantal": 12
-    },
-    {
-      "naam": "mobiliteit",
       "aantal": 12
     },
     {
@@ -33,11 +33,11 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 47
+      "aantal": 48
     },
     {
       "naam": "VRT NWS",
-      "aantal": 25
+      "aantal": 26
     },
     {
       "naam": "Dender Journaal",
@@ -45,6 +45,20 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Kom naar een infomoment over de opstart van buurtinformatienetwerken (BIN)",
+      "url": "https://www.dendermonde.be/nieuws/buurtinformatienetwerken-infomomenten",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-05-22T10:17:47.138957+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "RegioDendermondeBrand in kelder appartementsgebouw Dendermonde: alle bewoners hebben weer stroomdo 21 mei",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/05/21/dendermonde-brand-in-kelder-appartementsgebouw-bewoners-geevacue/",
+      "bron": "VRT NWS",
+      "datum": "2026-05-22T10:17:45.679215+00:00",
+      "thema": "veiligheid"
+    },
     {
       "titel": "Brand appartementsgebouw Mechelse Poort Dendermonde-centrum",
       "url": "https://www.dendermonde.be/nieuws/brand-mechelse-poort",
@@ -380,20 +394,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-04-29T09:06:01.889139+00:00",
       "thema": "veiligheid"
-    },
-    {
-      "titel": "Hulp bij het invullen van je aangifte in de personenbelasting",
-      "url": "https://www.dendermonde.be/nieuws/hulp-bij-het-invullen-van-je-aangifte-in-de-personenbelasting",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-04-28T09:14:38.936042+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Stad Dendermonde verdient label Sportbedrijf",
-      "url": "https://www.dendermonde.be/nieuws/stad-dendermonde-verdient-label-sportbedrijf",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-04-28T09:14:38.935999+00:00",
-      "thema": "politiek"
     }
   ],
   "weekly": [
@@ -415,7 +415,7 @@
     },
     {
       "week": "2026-W20",
-      "aantal": 12
+      "aantal": 14
     }
   ]
 }
