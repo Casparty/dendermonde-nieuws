@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-05-23T09:00:18.558412",
+  "gegenereerd": "2026-05-24T09:14:41.458997",
   "themas": [
     {
       "naam": "algemeen",
@@ -7,7 +7,7 @@
     },
     {
       "naam": "natuur",
-      "aantal": 16
+      "aantal": 17
     },
     {
       "naam": "veiligheid",
@@ -41,10 +41,17 @@
     },
     {
       "naam": "Dender Journaal",
-      "aantal": 12
+      "aantal": 13
     }
   ],
   "recent": [
+    {
+      "titel": "‘t Meiske van d’ Dender houdt halt in Aalst en verbindt de streek met een jonge blik op de toekomst.",
+      "url": "https://denderjournaal.be/t-meiske-van-d-dender-houdt-halt-in-aalst-en-verbindt-de-streek-met-een-jonge-blik-op-de-toekomst/",
+      "bron": "Dender Journaal",
+      "datum": "Sat, 23 May 2026 21:25:37 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "Kom naar een infomoment over de opstart van buurtinformatienetwerken (BIN)",
       "url": "https://www.dendermonde.be/nieuws/buurtinformatienetwerken-infomomenten",
@@ -387,13 +394,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-04-29T09:06:01.889159+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "Code oranje: risico op natuurbrand",
-      "url": "https://www.dendermonde.be/nieuws/code-oranje-risico-op-natuurbrand",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-04-29T09:06:01.889139+00:00",
-      "thema": "veiligheid"
     }
   ],
   "weekly": [
@@ -415,7 +415,7 @@
     },
     {
       "week": "2026-W20",
-      "aantal": 14
+      "aantal": 15
     }
   ]
 }
