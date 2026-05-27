@@ -1,6 +1,10 @@
 {
-  "gegenereerd": "2026-05-25T11:07:12.989882",
+  "gegenereerd": "2026-05-27T10:49:34.643358",
   "themas": [
+    {
+      "naam": "algemeen",
+      "aantal": 16
+    },
     {
       "naam": "natuur",
       "aantal": 14
@@ -10,26 +14,26 @@
       "aantal": 12
     },
     {
-      "naam": "algemeen",
-      "aantal": 12
+      "naam": "politiek",
+      "aantal": 8
     },
     {
       "naam": "mobiliteit",
-      "aantal": 9
-    },
-    {
-      "naam": "politiek",
       "aantal": 8
     },
     {
       "naam": "cultuur",
       "aantal": 2
+    },
+    {
+      "naam": "economie",
+      "aantal": 1
     }
   ],
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 29
+      "aantal": 33
     },
     {
       "naam": "VRT NWS",
@@ -41,6 +45,41 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Vernieuwing asfaltverharding Molenberg",
+      "url": "https://www.dendermonde.be/nieuws/detail/436/vernieuwing-asfaltverharding-molenberg",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-05-27T10:49:34.638539+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Vernieuwing asfaltverharding Winningstraat",
+      "url": "https://www.dendermonde.be/nieuws/detail/435/vernieuwing-asfaltverharding-winningstraat",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-05-27T10:49:34.638534+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Vernieuwing asfaltverharding Geerstraat",
+      "url": "https://www.dendermonde.be/nieuws/detail/434/vernieuwing-asfaltverharding-geerstraat",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-05-27T10:49:34.638529+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Vernieuwing asfaltverharding Broekstraat",
+      "url": "https://www.dendermonde.be/nieuws/detail/147/vernieuwing-asfaltverharding-broekstraat",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-05-27T10:49:34.638522+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Voorbereidende werken rioleringsproject Mespelare/Oudegem starten",
+      "url": "https://www.dendermonde.be/nieuws/voorbereidende-werken-rioleringsproject-mespelare-oudegem-starten-vanaf-1-juni-2026",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-05-27T10:49:34.638499+00:00",
+      "thema": "economie"
+    },
     {
       "titel": "‘t Meiske van d’ Dender houdt halt in Aalst en verbindt de streek met een jonge blik op de toekomst.",
       "url": "https://denderjournaal.be/t-meiske-van-d-dender-houdt-halt-in-aalst-en-verbindt-de-streek-met-een-jonge-blik-op-de-toekomst/",
@@ -355,41 +394,6 @@
       "bron": "Dender Journaal",
       "datum": "Fri, 01 May 2026 22:37:28 +0000",
       "thema": "natuur"
-    },
-    {
-      "titel": "Juf Carine neemt na 26 jaar afscheid van GO! Dender: “Een vaste waarde voor generaties leerlingen”",
-      "url": "https://denderjournaal.be/juf-carine-neemt-na-26-jaar-afscheid-van-go-dender-een-vaste-waarde-voor-generaties-leerlingen/",
-      "bron": "Dender Journaal",
-      "datum": "Fri, 01 May 2026 22:46:24 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Vertrek zorgeloos op reis",
-      "url": "https://www.dendermonde.be/nieuws/vertrek-zorgeloos-op-reis",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-01T08:56:13.527640+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Stad Dendermonde ontvangt 50 000 euro voor aanpak radicalisering en polarisatie",
-      "url": "https://www.dendermonde.be/nieuws/stad-dendermonde-ontvangt-50-000-euro-voor-aanpak-radicalisering-en-polarisatie",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-01T08:56:13.527621+00:00",
-      "thema": "politiek"
-    },
-    {
-      "titel": "RegioBaasrodeOntpolderingsgebied in Baasrode veroorzaakt geen knijtenhinder, oordeelt nu ook rechter in hoger beroepdo 30 apr.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/04/30/knijten-baasrode-groot-schoor-buurtbewoners-ongelijk/",
-      "bron": "VRT NWS",
-      "datum": "2026-05-01T08:56:11.720906+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Trooststoelen brengen rust op onze begraafplaatsen",
-      "url": "https://www.dendermonde.be/nieuws/trooststoelen-brengen-rust-op-onze-begraafplaatsen",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-04-29T09:06:01.889159+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
@@ -412,6 +416,10 @@
     {
       "week": "2026-W20",
       "aantal": 15
+    },
+    {
+      "week": "2026-W21",
+      "aantal": 5
     }
   ]
 }
