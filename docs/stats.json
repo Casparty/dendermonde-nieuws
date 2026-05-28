@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-05-27T10:49:34.643358",
+  "gegenereerd": "2026-05-28T10:45:32.011657",
   "themas": [
     {
       "naam": "algemeen",
@@ -7,7 +7,7 @@
     },
     {
       "naam": "natuur",
-      "aantal": 14
+      "aantal": 15
     },
     {
       "naam": "veiligheid",
@@ -22,18 +22,18 @@
       "aantal": 8
     },
     {
-      "naam": "cultuur",
+      "naam": "economie",
       "aantal": 2
     },
     {
-      "naam": "economie",
-      "aantal": 1
+      "naam": "cultuur",
+      "aantal": 2
     }
   ],
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 33
+      "aantal": 35
     },
     {
       "naam": "VRT NWS",
@@ -45,6 +45,20 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Openbaar onderzoek Vlaams natuurbeheerplan onder hoogspanningslijnen",
+      "url": "https://www.dendermonde.be/nieuws/openbaar-onderzoek-vlaams-natuurbeheerplan-onder-hoogspanningslijnen",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-05-28T10:45:32.007026+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "De Warme Winkel zoekt jassen!",
+      "url": "https://www.dendermonde.be/nieuws/warme-winkel",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-05-28T10:45:32.007005+00:00",
+      "thema": "economie"
+    },
     {
       "titel": "Vernieuwing asfaltverharding Molenberg",
       "url": "https://www.dendermonde.be/nieuws/detail/436/vernieuwing-asfaltverharding-molenberg",
@@ -380,20 +394,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-05-02T08:17:58.635425+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "Commissie Zorgvuldig Bestuur geeft Kristof Slagmulder gelijk in dossier rond schoolgebouw Denderleeuw.",
-      "url": "https://denderjournaal.be/commissie-zorgvuldig-bestuur-geeft-kristof-slagmulder-gelijk-in-dossier-rond-schoolgebouw-denderleeuw/",
-      "bron": "Dender Journaal",
-      "datum": "Fri, 01 May 2026 22:28:13 +0000",
-      "thema": "politiek"
-    },
-    {
-      "titel": "Avontuur op de Dender: Ninoofse jongeren bouwen eigen vlotten en varen naar Pamel.",
-      "url": "https://denderjournaal.be/avontuur-op-de-dender-ninoofse-jongeren-bouwen-eigen-vlotten-en-varen-naar-pamel/",
-      "bron": "Dender Journaal",
-      "datum": "Fri, 01 May 2026 22:37:28 +0000",
-      "thema": "natuur"
     }
   ],
   "weekly": [
@@ -419,7 +419,7 @@
     },
     {
       "week": "2026-W21",
-      "aantal": 5
+      "aantal": 7
     }
   ]
 }
