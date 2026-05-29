@@ -1,12 +1,12 @@
 {
-  "gegenereerd": "2026-05-28T10:45:32.011657",
+  "gegenereerd": "2026-05-29T10:39:02.779114",
   "themas": [
     {
-      "naam": "algemeen",
+      "naam": "natuur",
       "aantal": 16
     },
     {
-      "naam": "natuur",
+      "naam": "algemeen",
       "aantal": 15
     },
     {
@@ -15,7 +15,7 @@
     },
     {
       "naam": "politiek",
-      "aantal": 8
+      "aantal": 10
     },
     {
       "naam": "mobiliteit",
@@ -33,18 +33,53 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 35
+      "aantal": 34
+    },
+    {
+      "naam": "Dender Journaal",
+      "aantal": 16
     },
     {
       "naam": "VRT NWS",
       "aantal": 15
-    },
-    {
-      "naam": "Dender Journaal",
-      "aantal": 13
     }
   ],
   "recent": [
+    {
+      "titel": "Begraafplaats Sint-Gillis krijgt nieuw leven als groene parkbegraafplaats",
+      "url": "https://www.dendermonde.be/nieuws/begraafplaats-sint-gillis-krijgt-nieuw-leven-als-groene-parkbegraafplaats",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-05-29T10:39:02.775229+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "RegioDendermondeArcheologen onderzoeken kelders in Dendermonde om middeleeuwse stad te reconstruerendo 28 mei",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/05/28/kelder-openzetten-archeologisch-onderzoek-dendermonde/",
+      "bron": "VRT NWS",
+      "datum": "2026-05-29T10:39:01.261977+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "Gemeenteraad Denderleeuw keurt aangepast toewijzingsreglement voor sociale huurwoningen goed.",
+      "url": "https://denderjournaal.be/gemeenteraad-denderleeuw-keurt-aangepast-toewijzingsreglement-voor-sociale-huurwoningen-goed/",
+      "bron": "Dender Journaal",
+      "datum": "Fri, 29 May 2026 09:23:39 +0000",
+      "thema": "politiek"
+    },
+    {
+      "titel": "De Regie der Gebouwen restaureert het beeld van het Ros Beiaard op de toren van het gerechtsgebouw van Dendermonde.",
+      "url": "https://denderjournaal.be/de-regie-der-gebouwen-restaureert-het-beeld-van-het-ros-beiaard-op-de-toren-van-het-gerechtsgebouw-van-dendermonde/",
+      "bron": "Dender Journaal",
+      "datum": "Fri, 29 May 2026 09:30:34 +0000",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Lokaal Bestuur Denderleeuw breidt systeem netheidsverantwoordelijken uit naar inwoners.",
+      "url": "https://denderjournaal.be/lokaal-bestuur-denderleeuw-breidt-systeem-netheidsverantwoordelijken-uit-naar-inwoners/",
+      "bron": "Dender Journaal",
+      "datum": "Fri, 29 May 2026 10:19:50 +0000",
+      "thema": "politiek"
+    },
     {
       "titel": "Openbaar onderzoek Vlaams natuurbeheerplan onder hoogspanningslijnen",
       "url": "https://www.dendermonde.be/nieuws/openbaar-onderzoek-vlaams-natuurbeheerplan-onder-hoogspanningslijnen",
@@ -359,41 +394,6 @@
       "bron": "VRT NWS",
       "datum": "2026-05-06T09:17:09.085440+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "RegioDendermondePolitie Dendermonde zet extra in op online fraude na forse stijging aantal slachtoffers10 minuten geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/05/06/criminaliteitscijfers-dendermonde/",
-      "bron": "VRT NWS",
-      "datum": "2026-05-06T09:17:09.085331+00:00",
-      "thema": "veiligheid"
-    },
-    {
-      "titel": "Jacques Vermeire komt met laatste zaalshow ‘DDT houdt uitverkoop’ voor het eerst naar De Spot in Denderhoutem.",
-      "url": "https://denderjournaal.be/jacques-vermeire-komt-met-laatste-zaalshow-ddt-houdt-uitverkoop-voor-het-eerst-naar-de-spot-in-denderhoutem/",
-      "bron": "Dender Journaal",
-      "datum": "Tue, 05 May 2026 20:45:31 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Ken jij de jaagpaden in onze gemeente (en hun regels)?",
-      "url": "https://www.dendermonde.be/nieuws/ken-jij-de-jaagpaden-in-onze-gemeente-en-hun-regels",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-04T09:12:18.667634+00:00",
-      "thema": "politiek"
-    },
-    {
-      "titel": "RegioDendermondeVan 'Arme Joe' tot 'Laat de zon in je hart': politie Dendermonde gebruikt Vlaamse hits om resultaten controles te delenzo 3 mei",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/05/03/dendermonde-politie-sociale-media-actie-viraal-vlaamse-hits-alco/",
-      "bron": "VRT NWS",
-      "datum": "2026-05-04T09:12:17.229417+00:00",
-      "thema": "veiligheid"
-    },
-    {
-      "titel": "Week van de Opvoeding: plezier in opvoeden in Dendermonde",
-      "url": "https://www.dendermonde.be/nieuws/week-van-de-opvoeding-in-dendermonde",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-02T08:17:58.635425+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
@@ -419,7 +419,7 @@
     },
     {
       "week": "2026-W21",
-      "aantal": 7
+      "aantal": 12
     }
   ]
 }
