@@ -1,21 +1,21 @@
 {
-  "gegenereerd": "2026-05-29T10:39:02.779114",
+  "gegenereerd": "2026-05-30T09:09:51.823099",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 16
+      "aantal": 19
     },
     {
       "naam": "algemeen",
-      "aantal": 15
+      "aantal": 14
     },
     {
       "naam": "veiligheid",
-      "aantal": 12
+      "aantal": 11
     },
     {
       "naam": "politiek",
-      "aantal": 10
+      "aantal": 11
     },
     {
       "naam": "mobiliteit",
@@ -33,18 +33,46 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 34
+      "aantal": 32
     },
     {
       "naam": "Dender Journaal",
-      "aantal": 16
+      "aantal": 19
     },
     {
       "naam": "VRT NWS",
-      "aantal": 15
+      "aantal": 16
     }
   ],
   "recent": [
+    {
+      "titel": "Ros BeiaardIconisch Ros Beiaard-beeld in Dendermonde krijgt grondige restauratie: \"Overal opnieuw die groene lantaarn zien\"vr 29 mei",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/05/29/dendermonde-gerechtsgebouw-ros-beiaard-beeld-restauratie/",
+      "bron": "VRT NWS",
+      "datum": "2026-05-30T09:09:50.357006+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Denderleeuw onderzoekt invoering van digitale afhaalkluizen voor gemeentelijke documenten.",
+      "url": "https://denderjournaal.be/denderleeuw-onderzoekt-invoering-van-digitale-afhaalkluizen-voor-gemeentelijke-documenten/",
+      "bron": "Dender Journaal",
+      "datum": "Sat, 30 May 2026 08:34:06 +0000",
+      "thema": "politiek"
+    },
+    {
+      "titel": "Meer dan 400 bezoekers genieten van spectaculaire roofvogelshow in Denderhoutem.",
+      "url": "https://denderjournaal.be/meer-dan-400-bezoekers-genieten-van-spectaculaire-roofvogelshow-in-denderhoutem/",
+      "bron": "Dender Journaal",
+      "datum": "Sat, 30 May 2026 08:48:16 +0000",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Denderleeuw onderzoekt mogelijkheid om trouwgeloftes te vernieuwen.",
+      "url": "https://denderjournaal.be/denderleeuw-onderzoekt-mogelijkheid-om-trouwgeloftes-te-vernieuwen/",
+      "bron": "Dender Journaal",
+      "datum": "Sat, 30 May 2026 08:54:55 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "Begraafplaats Sint-Gillis krijgt nieuw leven als groene parkbegraafplaats",
       "url": "https://www.dendermonde.be/nieuws/begraafplaats-sint-gillis-krijgt-nieuw-leven-als-groene-parkbegraafplaats",
@@ -366,34 +394,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-05-07T09:26:37.842638+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "Kies het thema voor ViewMasters Grembergen",
-      "url": "https://www.dendermonde.be/nieuws/kies-het-thema-voor-viewmasters-grembergen",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-07T09:26:37.842614+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "RegioDendermondePolitie Dendermonde zet extra in op online fraude na forse stijging aantal slachtofferswo 6 mei",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/05/06/criminaliteitscijfers-dendermonde/",
-      "bron": "VRT NWS",
-      "datum": "2026-05-07T09:26:36.330243+00:00",
-      "thema": "veiligheid"
-    },
-    {
-      "titel": "Dendermonde neemt deel aan de Faire Ronde 2026",
-      "url": "https://www.dendermonde.be/nieuws/dendermonde-neemt-deel-aan-de-faire-ronde-2026",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-06T09:17:10.876342+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "RegioDendermondeNa de podcast en de film: Dendermonde eert zuster Gabrielle binnenkort met straatnaamdi 5 mei",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/05/05/zuster-gabrielle-dendermonde-straatnaam-pocast/",
-      "bron": "VRT NWS",
-      "datum": "2026-05-06T09:17:09.085440+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
@@ -419,7 +419,7 @@
     },
     {
       "week": "2026-W21",
-      "aantal": 12
+      "aantal": 16
     }
   ]
 }
