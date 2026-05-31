@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-05-30T09:09:51.823099",
+  "gegenereerd": "2026-05-31T09:43:16.373531",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 19
+      "aantal": 20
     },
     {
       "naam": "algemeen",
@@ -37,7 +37,7 @@
     },
     {
       "naam": "Dender Journaal",
-      "aantal": 19
+      "aantal": 20
     },
     {
       "naam": "VRT NWS",
@@ -45,6 +45,13 @@
     }
   ],
   "recent": [
+    {
+      "titel": "VTI-Aalst realiseert duurzaam zonne-energieproject voor vzw Knipperkot in Denderhoutem.",
+      "url": "https://denderjournaal.be/vti-aalst-realiseert-duurzaam-zonne-energieproject-voor-vzw-knipperkot-in-denderhoutem/",
+      "bron": "Dender Journaal",
+      "datum": "Sat, 30 May 2026 09:14:50 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "Ros BeiaardIconisch Ros Beiaard-beeld in Dendermonde krijgt grondige restauratie: \"Overal opnieuw die groene lantaarn zien\"vr 29 mei",
       "url": "https://www.vrt.be/vrtnws/nl/2026/05/29/dendermonde-gerechtsgebouw-ros-beiaard-beeld-restauratie/",
@@ -387,13 +394,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-05-08T08:18:44.058447+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "‘Zuster Gabriellehof’ voorgesteld als nieuwe straatnaam in Dendermonde",
-      "url": "https://www.dendermonde.be/nieuws/zuster-gabriellehof-voorgesteld-als-nieuwe-straatnaam-in-dendermonde",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-07T09:26:37.842638+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
@@ -419,7 +419,7 @@
     },
     {
       "week": "2026-W21",
-      "aantal": 16
+      "aantal": 17
     }
   ]
 }
