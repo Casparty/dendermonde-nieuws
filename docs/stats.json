@@ -1,13 +1,13 @@
 {
-  "gegenereerd": "2026-05-31T09:43:16.373531",
+  "gegenereerd": "2026-06-01T12:29:39.246616",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 20
+      "aantal": 21
     },
     {
       "naam": "algemeen",
-      "aantal": 14
+      "aantal": 13
     },
     {
       "naam": "veiligheid",
@@ -15,7 +15,7 @@
     },
     {
       "naam": "politiek",
-      "aantal": 11
+      "aantal": 10
     },
     {
       "naam": "mobiliteit",
@@ -41,10 +41,24 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 16
+      "aantal": 15
     }
   ],
   "recent": [
+    {
+      "titel": "Recyclageparken gesloten op vrijdag 5 juni",
+      "url": "https://www.dendermonde.be/nieuws/recyclageparken-gesloten-op-vrijdag-5-juni",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-01T12:29:39.242268+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Word jij onze vrijwillige burenbemiddelaar?",
+      "url": "https://www.dendermonde.be/nieuws/word-jij-onze-vrijwillige-burenbemiddelaar",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-01T12:29:39.242203+00:00",
+      "thema": "algemeen"
+    },
     {
       "titel": "VTI-Aalst realiseert duurzaam zonne-energieproject voor vzw Knipperkot in Denderhoutem.",
       "url": "https://denderjournaal.be/vti-aalst-realiseert-duurzaam-zonne-energieproject-voor-vzw-knipperkot-in-denderhoutem/",
@@ -380,20 +394,6 @@
       "bron": "Dender Journaal",
       "datum": "Sat, 09 May 2026 07:47:17 +0000",
       "thema": "natuur"
-    },
-    {
-      "titel": "Participatiemoment Bovenlokale Functionele Fietsroute in Baasrode op maandag 18 mei",
-      "url": "https://www.dendermonde.be/nieuws/detail/417/participatiemoment-bovenlokale-functionele-fietsroute-in-baasrode-op-maandag-18-mei",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-08T08:18:44.058459+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "Flanders Open Rugby van 22 tot 24 mei",
-      "url": "https://www.dendermonde.be/nieuws/for2026",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-08T08:18:44.058447+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
@@ -420,6 +420,10 @@
     {
       "week": "2026-W21",
       "aantal": 17
+    },
+    {
+      "week": "2026-W22",
+      "aantal": 2
     }
   ]
 }
