@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-06-01T12:29:39.246616",
+  "gegenereerd": "2026-06-02T11:12:01.926387",
   "themas": [
     {
       "naam": "natuur",
@@ -22,18 +22,18 @@
       "aantal": 8
     },
     {
-      "naam": "economie",
-      "aantal": 2
+      "naam": "cultuur",
+      "aantal": 5
     },
     {
-      "naam": "cultuur",
+      "naam": "economie",
       "aantal": 2
     }
   ],
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 32
+      "aantal": 34
     },
     {
       "naam": "Dender Journaal",
@@ -41,10 +41,38 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 15
+      "aantal": 16
     }
   ],
   "recent": [
+    {
+      "titel": "Schrijf je in voor een schooljaar vol muziek, woord, dans of schone kunsten!",
+      "url": "https://www.dendermonde.be/nieuws/inschrijven-academies",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-02T11:12:01.922913+00:00",
+      "thema": "cultuur"
+    },
+    {
+      "titel": "Nieuw parkeerplan vanaf woensdag 1 juli 2026",
+      "url": "https://www.dendermonde.be/nieuws/nieuw-parkeerplan-vanaf-woensdag-1-juli-2026",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-02T11:12:01.922906+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Aanbod voor gezinnen in de kijker tijdens het Gezinsfestival",
+      "url": "https://www.dendermonde.be/nieuws/aanbod-voor-gezinnen-in-de-kijker-tijdens-het-gezinsfestival",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-02T11:12:01.922886+00:00",
+      "thema": "cultuur"
+    },
+    {
+      "titel": "Erfgoed'Ajoinen' versus 'Kopvleesfretters': Aalst en Dendermonde laten historische vete erkennen als erfgoed4 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/02/vete-aalst-dendermonde-erfgoed-toerisme-ludiek/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-02T11:12:00.691381+00:00",
+      "thema": "cultuur"
+    },
     {
       "titel": "Recyclageparken gesloten op vrijdag 5 juni",
       "url": "https://www.dendermonde.be/nieuws/recyclageparken-gesloten-op-vrijdag-5-juni",
@@ -366,34 +394,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-05-11T10:29:43.036759+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "DenderHoop trekt aan alarmbel over strengere lokale binding in Ninove: “Dit dreigt kwetsbare gezinnen volledig uit te sluiten”",
-      "url": "https://denderjournaal.be/denderhoop-trekt-aan-alarmbel-over-strengere-lokale-binding-in-ninove-dit-dreigt-kwetsbare-gezinnen-volledig-uit-te-sluiten/",
-      "bron": "Dender Journaal",
-      "datum": "Sat, 09 May 2026 09:37:36 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Jasper Christiaens winnaar na spectaculaire Altebra Muur Challenge op Denderoordberg.",
-      "url": "https://denderjournaal.be/jasper-christiaens-winnaar-na-spectaculaire-altebra-muur-challenge-op-denderoordberg/",
-      "bron": "Dender Journaal",
-      "datum": "Sat, 09 May 2026 09:59:49 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Digitaal café in Denderwindeke leert inwoners online oplichting herkennen.",
-      "url": "https://denderjournaal.be/digitaal-cafe-in-denderwindeke-leert-inwoners-online-oplichting-herkennen/",
-      "bron": "Dender Journaal",
-      "datum": "Fri, 08 May 2026 22:50:59 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Einde van een tijdperk bij KSC Denderstreek-Labiekes: voorzitter Paul Van der Straeten neemt afscheid.",
-      "url": "https://denderjournaal.be/einde-van-een-tijdperk-bij-ksc-denderstreek-labiekes-voorzitter-paul-van-der-straeten-neemt-afscheid/",
-      "bron": "Dender Journaal",
-      "datum": "Sat, 09 May 2026 07:47:17 +0000",
-      "thema": "natuur"
     }
   ],
   "weekly": [
@@ -423,7 +423,7 @@
     },
     {
       "week": "2026-W22",
-      "aantal": 2
+      "aantal": 6
     }
   ]
 }
