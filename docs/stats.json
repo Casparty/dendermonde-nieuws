@@ -1,13 +1,13 @@
 {
-  "gegenereerd": "2026-06-02T11:12:01.926387",
+  "gegenereerd": "2026-06-03T11:50:44.667493",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 21
+      "aantal": 23
     },
     {
       "naam": "algemeen",
-      "aantal": 13
+      "aantal": 15
     },
     {
       "naam": "veiligheid",
@@ -33,11 +33,11 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 34
+      "aantal": 37
     },
     {
       "naam": "Dender Journaal",
-      "aantal": 20
+      "aantal": 21
     },
     {
       "naam": "VRT NWS",
@@ -45,6 +45,34 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Restauratie historische watertoren Bastion V van start",
+      "url": "https://www.dendermonde.be/nieuws/restauratie-historische-watertoren-bastion-v-van-start",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-03T11:50:44.664120+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Laat je knotbomen volgende winter gratis knotten!",
+      "url": "https://www.dendermonde.be/nieuws/laat-je-knotbomen-volgende-winter-gratis-knotten",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-03T11:50:44.664113+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Sluitingsdag Verko op 5 juni",
+      "url": "https://www.dendermonde.be/nieuws/sluitingsdag-verko",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-03T11:50:44.664088+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Digitaal Café in Denderwindeke leert deelnemers veilig surfen en online kopen.",
+      "url": "https://denderjournaal.be/digitaal-cafe-in-denderwindeke-leert-deelnemers-veilig-surfen-en-online-kopen/",
+      "bron": "Dender Journaal",
+      "datum": "Wed, 03 Jun 2026 09:22:23 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "Schrijf je in voor een schooljaar vol muziek, woord, dans of schone kunsten!",
       "url": "https://www.dendermonde.be/nieuws/inschrijven-academies",
@@ -366,34 +394,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-05-13T09:36:47.148953+00:00",
       "thema": "mobiliteit"
-    },
-    {
-      "titel": "Nestschommel voor sbs ’t Kraaiennest",
-      "url": "https://www.dendermonde.be/nieuws/nestschommel-voor-sbs-t-kraaiennest",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-12T09:30:17.676035+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Sluitingsdagen Verko",
-      "url": "https://www.dendermonde.be/nieuws/sluitingsdagen-verko",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-12T09:30:17.676023+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "‘Safety first’: stad plaatst herashekken rond de Kazerne",
-      "url": "https://www.dendermonde.be/nieuws/herashekken-rond-de-kazerne",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-12T09:30:17.676001+00:00",
-      "thema": "politiek"
-    },
-    {
-      "titel": "Radar Grembergen: wij willen jouw ideeën!",
-      "url": "https://www.ccbelgica.be/nl/nieuws/radar-grembergen-wij-willen-jouw-ideeen/",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-11T10:29:43.036759+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
@@ -423,7 +423,7 @@
     },
     {
       "week": "2026-W22",
-      "aantal": 6
+      "aantal": 10
     }
   ]
 }
