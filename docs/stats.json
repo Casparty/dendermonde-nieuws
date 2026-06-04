@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-06-03T11:50:44.667493",
+  "gegenereerd": "2026-06-04T10:34:01.277660",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 23
+      "aantal": 24
     },
     {
       "naam": "algemeen",
@@ -11,19 +11,19 @@
     },
     {
       "naam": "veiligheid",
-      "aantal": 11
-    },
-    {
-      "naam": "politiek",
       "aantal": 10
     },
     {
+      "naam": "politiek",
+      "aantal": 9
+    },
+    {
       "naam": "mobiliteit",
-      "aantal": 8
+      "aantal": 9
     },
     {
       "naam": "cultuur",
-      "aantal": 5
+      "aantal": 6
     },
     {
       "naam": "economie",
@@ -33,7 +33,7 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 37
+      "aantal": 36
     },
     {
       "naam": "Dender Journaal",
@@ -41,10 +41,31 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 16
+      "aantal": 18
     }
   ],
   "recent": [
+    {
+      "titel": "Erfgoed'Ajoinen' versus 'Kopvleesfretters': Aalst en Dendermonde laten historische vete erkennen als erfgoeddi 2 jun.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/02/vete-aalst-dendermonde-erfgoed-toerisme-ludiek/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-04T10:33:59.691112+00:00",
+      "thema": "cultuur"
+    },
+    {
+      "titel": "JustitieJongeman (22) die verantwoordelijk was voor dood David Polfliet ook veroordeeld wegens bezit beelden kindermisbruikdi 2 jun.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/02/een-van-de-drie-doders-david-polfliet-veroordeeld-wegens-bezit-b/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-04T10:33:59.691056+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "RegioDendermondeNatuureducatief centrum Bastion VIII in Dendermonde opent nieuw paviljoenwo 3 jun.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/03/provincie-oost-vlaanderen-heropent-bastion-viii/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-04T10:33:59.690966+00:00",
+      "thema": "natuur"
+    },
     {
       "titel": "Restauratie historische watertoren Bastion V van start",
       "url": "https://www.dendermonde.be/nieuws/restauratie-historische-watertoren-bastion-v-van-start",
@@ -373,27 +394,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-05-14T09:28:00.373773+00:00",
       "thema": "veiligheid"
-    },
-    {
-      "titel": "RegioDendermondeEnorme schade na zware boerderijbrand in Appels: geen gewonden, dieren op tijd geëvacueerd49 minuten geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/05/14/brand-boerderij-appels/",
-      "bron": "VRT NWS",
-      "datum": "2026-05-14T09:27:59.253735+00:00",
-      "thema": "veiligheid"
-    },
-    {
-      "titel": "Neem deel aan Straatvinken op donderdag 21 mei!",
-      "url": "https://www.dendermonde.be/nieuws/neem-deel-aan-straatvinken-op-donderdag-21-mei",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-13T09:36:47.148988+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Infrabel voert vernieuwingswerken uit",
-      "url": "https://www.dendermonde.be/nieuws/infrabel-voert-vernieuwingswerken-uit",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-13T09:36:47.148953+00:00",
-      "thema": "mobiliteit"
     }
   ],
   "weekly": [
@@ -423,7 +423,7 @@
     },
     {
       "week": "2026-W22",
-      "aantal": 10
+      "aantal": 13
     }
   ]
 }
