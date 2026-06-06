@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-06-05T10:41:13.553317",
+  "gegenereerd": "2026-06-06T09:18:58.278542",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 24
+      "aantal": 23
     },
     {
       "naam": "algemeen",
@@ -11,7 +11,7 @@
     },
     {
       "naam": "veiligheid",
-      "aantal": 10
+      "aantal": 9
     },
     {
       "naam": "politiek",
@@ -41,10 +41,17 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 18
+      "aantal": 16
     }
   ],
   "recent": [
+    {
+      "titel": "Dendermonde start proefproject hondenpoepzuilen",
+      "url": "https://www.dendermonde.be/nieuws/dendermonde-start-met-proefproject-hondenpoepzuilen",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-06T09:18:58.273324+00:00",
+      "thema": "natuur"
+    },
     {
       "titel": "Erfgoed'Ajoinen' versus 'Kopvleesfretters': Aalst en Dendermonde laten historische vete erkennen als erfgoeddi 2 jun.",
       "url": "https://www.vrt.be/vrtnws/nl/2026/06/02/vete-aalst-dendermonde-erfgoed-toerisme-ludiek/",
@@ -387,13 +394,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-05-14T09:28:00.373790+00:00",
       "thema": "politiek"
-    },
-    {
-      "titel": "Bedrijfsbrand Lindestraat 64 in Appels",
-      "url": "https://www.dendermonde.be/nieuws/detail/426/bedrijfsbrand-lindestraat-64-in-appels",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-14T09:28:00.373773+00:00",
-      "thema": "veiligheid"
     }
   ],
   "weekly": [
@@ -423,7 +423,7 @@
     },
     {
       "week": "2026-W22",
-      "aantal": 13
+      "aantal": 14
     }
   ]
 }
