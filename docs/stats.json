@@ -1,17 +1,13 @@
 {
-  "gegenereerd": "2026-06-06T09:18:58.278542",
+  "gegenereerd": "2026-06-07T09:55:48.451622",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 23
+      "aantal": 22
     },
     {
       "naam": "algemeen",
-      "aantal": 15
-    },
-    {
-      "naam": "veiligheid",
-      "aantal": 9
+      "aantal": 14
     },
     {
       "naam": "politiek",
@@ -20,6 +16,10 @@
     {
       "naam": "mobiliteit",
       "aantal": 9
+    },
+    {
+      "naam": "veiligheid",
+      "aantal": 8
     },
     {
       "naam": "cultuur",
@@ -33,7 +33,7 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 36
+      "aantal": 34
     },
     {
       "naam": "Dender Journaal",
@@ -41,7 +41,7 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 16
+      "aantal": 15
     }
   ],
   "recent": [
