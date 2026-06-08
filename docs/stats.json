@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-06-07T09:55:48.451622",
+  "gegenereerd": "2026-06-08T11:49:42.555496",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 22
+      "aantal": 23
     },
     {
       "naam": "algemeen",
@@ -11,14 +11,14 @@
     },
     {
       "naam": "politiek",
-      "aantal": 9
-    },
-    {
-      "naam": "mobiliteit",
-      "aantal": 9
+      "aantal": 11
     },
     {
       "naam": "veiligheid",
+      "aantal": 8
+    },
+    {
+      "naam": "mobiliteit",
       "aantal": 8
     },
     {
@@ -33,7 +33,7 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 34
+      "aantal": 33
     },
     {
       "naam": "Dender Journaal",
@@ -41,10 +41,38 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 15
+      "aantal": 18
     }
   ],
   "recent": [
+    {
+      "titel": "Gemeenteraad en raad voor maatschappelijk welzijn op woensdag 10 juni 2026",
+      "url": "https://www.dendermonde.be/nieuws/detail/448/gemeenteraad-en-raad-voor-maatschappelijk-welzijn-op-woensdag-10-juni-2026",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-08T11:49:42.552107+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "OnderzoekVan 0 tot 350 euro: zoveel kost het om in jouw gemeente op zaterdag te trouwen9 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/05/22/kaart-kostprijs-huwelijken/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-08T11:49:40.426787+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "OnderzoekAantal huwelijken in Vlaanderen en Brussel bereikt nieuw record: 6 redenen waarom we meer trouwen1 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/05/27/evolutie-huwelijken-vlaanderen-brussel/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-08T11:49:40.426698+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "RegioDendermondeNa doden van vrouw en zoontje: Ismail Yavuz opnieuw veroordeeld na bedreigen van medegedetineerde1 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/08/man-veroordeeld-agressie-gevangenis-dendermonde/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-08T11:49:40.426589+00:00",
+      "thema": "natuur"
+    },
     {
       "titel": "Dendermonde start proefproject hondenpoepzuilen",
       "url": "https://www.dendermonde.be/nieuws/dendermonde-start-met-proefproject-hondenpoepzuilen",
@@ -366,34 +394,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-05-19T10:33:26.012018+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "RegioAppelsBuurt haalt al 27.000 euro op voor familie na verwoestende brand in Appels, ook historisch 'Ros Appels' vernietigdvr 15 mei",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/05/15/appels-brand-boerderij-inzamelactie/",
-      "bron": "VRT NWS",
-      "datum": "2026-05-16T08:44:56.226826+00:00",
-      "thema": "veiligheid"
-    },
-    {
-      "titel": "RegioDistrict AntwerpenMan (81) die tussen kademuur en cruiseschip viel in Antwerpen is overledendi 12 mei",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/05/12/man-81-jaar-overleden-verwondingen-val-in-schelde-cockerillkaai/",
-      "bron": "VRT NWS",
-      "datum": "2026-05-15T09:39:47.366411+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "RegioDendermondeBoerderij in Appels vernield na zware brand: geen gewonden, dieren op tijd geëvacueerddo 14 mei",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/05/14/brand-boerderij-appels/",
-      "bron": "VRT NWS",
-      "datum": "2026-05-15T09:39:47.366291+00:00",
-      "thema": "veiligheid"
-    },
-    {
-      "titel": "Stad Dendermonde hangt opnieuw de regenboogvlag uit voor IDAHOT",
-      "url": "https://www.dendermonde.be/nieuws/stad-dendermonde-hangt-opnieuw-de-regenboogvlag-uit-voor-idahot",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-14T09:28:00.373790+00:00",
-      "thema": "politiek"
     }
   ],
   "weekly": [
@@ -424,6 +424,10 @@
     {
       "week": "2026-W22",
       "aantal": 14
+    },
+    {
+      "week": "2026-W23",
+      "aantal": 4
     }
   ]
 }
