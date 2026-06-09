@@ -1,24 +1,24 @@
 {
-  "gegenereerd": "2026-06-08T11:49:42.555496",
+  "gegenereerd": "2026-06-09T10:29:23.986859",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 23
+      "aantal": 24
     },
     {
       "naam": "algemeen",
-      "aantal": 14
+      "aantal": 18
     },
     {
       "naam": "politiek",
-      "aantal": 11
-    },
-    {
-      "naam": "veiligheid",
-      "aantal": 8
+      "aantal": 13
     },
     {
       "naam": "mobiliteit",
+      "aantal": 12
+    },
+    {
+      "naam": "veiligheid",
       "aantal": 8
     },
     {
@@ -33,18 +33,95 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 33
-    },
-    {
-      "naam": "Dender Journaal",
-      "aantal": 21
+      "aantal": 36
     },
     {
       "naam": "VRT NWS",
-      "aantal": 18
+      "aantal": 25
+    },
+    {
+      "naam": "Dender Journaal",
+      "aantal": 22
     }
   ],
   "recent": [
+    {
+      "titel": "Werken voor de doortrekking van fietssnelweg F43 tussen Aalst en Dendermonde",
+      "url": "https://www.dendermonde.be/nieuws/werken-voor-de-doortrekking-van-fietssnelweg-f43-tussen-aalst-en-dendermonde",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-09T10:29:23.983575+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "Een nieuwe brede school in het hart van Sint-Gillis",
+      "url": "https://www.dendermonde.be/nieuws/een-nieuwe-brede-school-in-het-hart-van-sint-gillis",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-09T10:29:23.983565+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Woonzorgcentrum Aymonshof trapt traject ‘Iedereen Telt!’ officieel af",
+      "url": "https://www.dendermonde.be/nieuws/woonzorgcentrum-aymonshof-trapt-traject-iedereen-telt-officieel-af",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-09T10:29:23.983544+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "OnderzoekVan 0 tot 350 euro: zoveel kost het om in jouw gemeente op zaterdag te trouwenma 8 jun.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/05/22/kaart-kostprijs-huwelijken/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-09T10:29:22.595093+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "OnderzoekAantal huwelijken in Vlaanderen en Brussel bereikt nieuw record: 6 redenen waarom we meer trouwenma 8 jun.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/05/27/evolutie-huwelijken-vlaanderen-brussel/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-09T10:29:22.595028+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "RegioDendermondeNa doden van vrouw en zoontje: Ismail Yavuz opnieuw veroordeeld na bedreigen van medegedetineerdema 8 jun.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/08/man-veroordeeld-agressie-gevangenis-dendermonde/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-09T10:29:22.594962+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "JustitieMet de laatste trein aankomen en met de eerste terug: politie Dendermonde betrapt nachtelijke inbrekers op heterdaadma 8 jun.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/08/dendermonde-bende-dieven-op-heterdaad-betrapt-en-aangehouden/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-09T10:29:22.594896+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "OnderzoekIN KAART: op welke bijzondere locaties kan je trouwen in jouw gemeente?7 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/05/22/kaart-bijzondere-locaties-huwelijken/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-09T10:29:22.594832+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "SamenlevingIn grot, op het strand of kerkhof: wat zijn de meest bijzondere trouwlocaties in Vlaanderen?7 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/03/bijzondere-locaties-opmars/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-09T10:29:22.594760+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "RegioDendermondeGrote overdekte fietsenparking geopend aan station Dendermonde, dit najaar nog 2e op komst50 minuten geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/09/station-dendermonde-fietsenparking-nmbs/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-09T10:29:22.594664+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "NMBS opent nieuwe fietsenparking aan station van Dendermonde.",
+      "url": "https://denderjournaal.be/nmbs-opent-nieuwe-fietsenparking-aan-station-van-dendermonde/",
+      "bron": "Dender Journaal",
+      "datum": "Tue, 09 Jun 2026 08:42:38 +0000",
+      "thema": "mobiliteit"
+    },
     {
       "titel": "Gemeenteraad en raad voor maatschappelijk welzijn op woensdag 10 juni 2026",
       "url": "https://www.dendermonde.be/nieuws/detail/448/gemeenteraad-en-raad-voor-maatschappelijk-welzijn-op-woensdag-10-juni-2026",
@@ -317,83 +394,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-05-21T10:32:49.517241+00:00",
       "thema": "veiligheid"
-    },
-    {
-      "titel": "Herinrichting kruispunt Mechelse Poort: fase 5 start in de nacht van 4 op 5 juni",
-      "url": "https://www.dendermonde.be/nieuws/herinrichting-kruispunt-mechelse-poort-fase-5",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-21T10:32:49.517236+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "Afspraken voor een warm en verbonden Offerfeest",
-      "url": "https://www.dendermonde.be/nieuws/afspraken-tijdens-het-offerfeest",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-21T10:32:49.517218+00:00",
-      "thema": "cultuur"
-    },
-    {
-      "titel": "RegioDendermondeRechter spreekt aannemer vrij na zwaar fietsongeval in Dendermondewo 20 mei",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/05/20/politierechter-spreekt-aannemer-vrij-dendermonde/",
-      "bron": "VRT NWS",
-      "datum": "2026-05-21T10:32:48.204102+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "RegioAppelsFamilie landbouwbedrijf Appels overspoeld met steun na verwoestende brandwo 20 mei",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/05/20/appels-brand-landbouwbedrijf-emotioneel-veel-steun/",
-      "bron": "VRT NWS",
-      "datum": "2026-05-21T10:32:48.204043+00:00",
-      "thema": "veiligheid"
-    },
-    {
-      "titel": "RegioDendermondeBrand in kelder appartementsgebouw Dendermonde: bewoners even geëvacueerd, 20 appartementen zonder stroom6 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/05/21/dendermonde-brand-in-kelder-appartementsgebouw-bewoners-geevacue/",
-      "bron": "VRT NWS",
-      "datum": "2026-05-21T10:32:48.203950+00:00",
-      "thema": "veiligheid"
-    },
-    {
-      "titel": "Onderzoek naar betere fietsroute langs de Schelde in Baasrode",
-      "url": "https://www.dendermonde.be/nieuws/onderzoek-naar-betere-fietsroute-langs-de-schelde-in-baasrode",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-20T10:20:00.044743+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "RegioDendermondeRechter spreekt aannemer vrij na zwaar fietsongeval in Dendermonde6 minuten geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/05/20/politierechter-spreekt-aannemer-vrij-dendermonde/",
-      "bron": "VRT NWS",
-      "datum": "2026-05-20T10:19:58.767372+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "Hoppy breidt netwerk van elektrische deelfietsen stevig uit in Vlaamse Ardennen en Denderregio.",
-      "url": "https://denderjournaal.be/hoppy-breidt-netwerk-van-elektrische-deelfietsen-stevig-uit-in-vlaamse-ardennen-en-denderregio/",
-      "bron": "Dender Journaal",
-      "datum": "Wed, 20 May 2026 09:34:13 +0000",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "Kunstoevers brengt opnieuw kunst, muziek en performances naar de oevers van de Dender in Aalst.",
-      "url": "https://denderjournaal.be/kunstoevers-brengt-opnieuw-kunst-muziek-en-performances-naar-de-oevers-van-de-dender-in-aalst/",
-      "bron": "Dender Journaal",
-      "datum": "Wed, 20 May 2026 09:36:18 +0000",
-      "thema": "cultuur"
-    },
-    {
-      "titel": "Gemeenteraad en raad voor maatschappelijk welzijn op woensdag 20 mei 2026",
-      "url": "https://www.dendermonde.be/nieuws/gemeenteraad-en-raad-voor-maatschappelijk-welzijn-op-woensdag-20-mei-2026",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-19T10:33:26.012039+00:00",
-      "thema": "politiek"
-    },
-    {
-      "titel": "Geen afvalophaling op Pinkstermaandag",
-      "url": "https://www.dendermonde.be/nieuws/geen-afvalophaling-op-pinkstermaandag",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-19T10:33:26.012018+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
@@ -427,7 +427,7 @@
     },
     {
       "week": "2026-W23",
-      "aantal": 4
+      "aantal": 15
     }
   ]
 }
