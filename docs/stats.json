@@ -1,21 +1,21 @@
 {
-  "gegenereerd": "2026-06-09T10:29:23.986859",
+  "gegenereerd": "2026-06-10T10:48:56.501323",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 24
+      "aantal": 25
     },
     {
       "naam": "algemeen",
-      "aantal": 18
+      "aantal": 20
     },
     {
       "naam": "politiek",
-      "aantal": 13
+      "aantal": 15
     },
     {
       "naam": "mobiliteit",
-      "aantal": 12
+      "aantal": 15
     },
     {
       "naam": "veiligheid",
@@ -33,18 +33,74 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 36
+      "aantal": 38
     },
     {
       "naam": "VRT NWS",
-      "aantal": 25
+      "aantal": 29
     },
     {
       "naam": "Dender Journaal",
-      "aantal": 22
+      "aantal": 24
     }
   ],
   "recent": [
+    {
+      "titel": "Nieuwe fietsenstalling aan station Dendermonde geopend",
+      "url": "https://www.dendermonde.be/nieuws/nieuwe-fietsenstalling-station-dendermonde-geopend",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-10T10:48:56.497942+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "Toekomstvisie voor bedrijventerrein Briel",
+      "url": "https://www.dendermonde.be/nieuws/informatie-over-de-toekomstvisie-voor-bedrijventerrein-briel",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-10T10:48:56.497916+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "OnderzoekIN KAART: op welke bijzondere locaties kan je trouwen in jouw gemeente?di 9 jun.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/05/22/kaart-bijzondere-locaties-huwelijken/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-10T10:48:54.451761+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "SamenlevingIn grot, op het strand of kerkhof: wat zijn de meest bijzondere trouwlocaties in Vlaanderen?di 9 jun.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/03/bijzondere-locaties-opmars/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-10T10:48:54.451681+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "RegioDendermondeGrote overdekte fietsenparking geopend aan station Dendermonde, dit najaar nog 2e op komstdi 9 jun.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/09/station-dendermonde-fietsenparking-nmbs/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-10T10:48:54.451604+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "SamenlevingVan 'je hebt me 1.000 maal belogen' tot jawoord op hoogte: de strafste trouwverhalen uit het gemeentehuisdi 9 jun.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/02/grappigste-en-meest-bijzondere-gebeurtenissen-tijdens-gemeenteli/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-10T10:48:54.451499+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "Dender Koerst: wielerliefhebbers kunnen opnieuw hun hart ophalen tijdens druk koersweekend in de regio.",
+      "url": "https://denderjournaal.be/dender-koerst-wielerliefhebbers-kunnen-opnieuw-hun-hart-ophalen-tijdens-druk-koersweekend-in-de-regio/",
+      "bron": "Dender Journaal",
+      "datum": "Tue, 09 Jun 2026 20:46:12 +0000",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Marnixring Aalst Denderend Land haalt topjager op voortvluchtige criminelen naar Bambrugge: “Meer dan duizend veroordeelden opgespoord”",
+      "url": "https://denderjournaal.be/marnixring-aalst-denderend-land-haalt-topjager-op-voortvluchtige-criminelen-naar-bambrugge-meer-dan-duizend-veroordeelden-opgespoord/",
+      "bron": "Dender Journaal",
+      "datum": "Tue, 09 Jun 2026 20:55:55 +0000",
+      "thema": "mobiliteit"
+    },
     {
       "titel": "Werken voor de doortrekking van fietssnelweg F43 tussen Aalst en Dendermonde",
       "url": "https://www.dendermonde.be/nieuws/werken-voor-de-doortrekking-van-fietssnelweg-f43-tussen-aalst-en-dendermonde",
@@ -338,62 +394,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-05-27T10:49:34.638539+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "Vernieuwing asfaltverharding Winningstraat",
-      "url": "https://www.dendermonde.be/nieuws/detail/435/vernieuwing-asfaltverharding-winningstraat",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-27T10:49:34.638534+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Vernieuwing asfaltverharding Geerstraat",
-      "url": "https://www.dendermonde.be/nieuws/detail/434/vernieuwing-asfaltverharding-geerstraat",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-27T10:49:34.638529+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Vernieuwing asfaltverharding Broekstraat",
-      "url": "https://www.dendermonde.be/nieuws/detail/147/vernieuwing-asfaltverharding-broekstraat",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-27T10:49:34.638522+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Voorbereidende werken rioleringsproject Mespelare/Oudegem starten",
-      "url": "https://www.dendermonde.be/nieuws/voorbereidende-werken-rioleringsproject-mespelare-oudegem-starten-vanaf-1-juni-2026",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-27T10:49:34.638499+00:00",
-      "thema": "economie"
-    },
-    {
-      "titel": "‘t Meiske van d’ Dender houdt halt in Aalst en verbindt de streek met een jonge blik op de toekomst.",
-      "url": "https://denderjournaal.be/t-meiske-van-d-dender-houdt-halt-in-aalst-en-verbindt-de-streek-met-een-jonge-blik-op-de-toekomst/",
-      "bron": "Dender Journaal",
-      "datum": "Sat, 23 May 2026 21:25:37 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Kom naar een infomoment over de opstart van buurtinformatienetwerken (BIN)",
-      "url": "https://www.dendermonde.be/nieuws/buurtinformatienetwerken-infomomenten",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-22T10:17:47.138957+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "RegioDendermondeBrand in kelder appartementsgebouw Dendermonde: alle bewoners hebben weer stroomdo 21 mei",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/05/21/dendermonde-brand-in-kelder-appartementsgebouw-bewoners-geevacue/",
-      "bron": "VRT NWS",
-      "datum": "2026-05-22T10:17:45.679215+00:00",
-      "thema": "veiligheid"
-    },
-    {
-      "titel": "Brand appartementsgebouw Mechelse Poort Dendermonde-centrum",
-      "url": "https://www.dendermonde.be/nieuws/brand-mechelse-poort",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-21T10:32:49.517241+00:00",
-      "thema": "veiligheid"
     }
   ],
   "weekly": [
@@ -427,7 +427,7 @@
     },
     {
       "week": "2026-W23",
-      "aantal": 15
+      "aantal": 23
     }
   ]
 }
