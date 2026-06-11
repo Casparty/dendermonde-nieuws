@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-06-10T10:48:56.501323",
+  "gegenereerd": "2026-06-11T11:20:16.270554",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 25
+      "aantal": 26
     },
     {
       "naam": "algemeen",
@@ -37,7 +37,7 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 29
+      "aantal": 30
     },
     {
       "naam": "Dender Journaal",
@@ -45,6 +45,20 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Vernieuwing asfaltverharding Kapittelstraat",
+      "url": "https://www.dendermonde.be/nieuws/detail/454/vernieuwing-asfaltverharding-kapittelstraat",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-11T11:20:16.156015+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "SamenlevingHoe rivaliteit tussen Aalst en Dendermonde toeristen nieuwsgierig moet maken8 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/09/eeuwenoude-vete-als-toeristische-trekpleister-hoe-immaterieel-e/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-11T11:20:14.389720+00:00",
+      "thema": "natuur"
+    },
     {
       "titel": "Nieuwe fietsenstalling aan station Dendermonde geopend",
       "url": "https://www.dendermonde.be/nieuws/nieuwe-fietsenstalling-station-dendermonde-geopend",
@@ -380,20 +394,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-05-28T10:45:32.007026+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "De Warme Winkel zoekt jassen!",
-      "url": "https://www.dendermonde.be/nieuws/warme-winkel",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-28T10:45:32.007005+00:00",
-      "thema": "economie"
-    },
-    {
-      "titel": "Vernieuwing asfaltverharding Molenberg",
-      "url": "https://www.dendermonde.be/nieuws/detail/436/vernieuwing-asfaltverharding-molenberg",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-27T10:49:34.638539+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
@@ -427,7 +427,7 @@
     },
     {
       "week": "2026-W23",
-      "aantal": 23
+      "aantal": 25
     }
   ]
 }
