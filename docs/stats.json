@@ -1,21 +1,21 @@
 {
-  "gegenereerd": "2026-06-11T11:20:16.270554",
+  "gegenereerd": "2026-06-12T10:56:45.030688",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 26
+      "aantal": 30
     },
     {
       "naam": "algemeen",
-      "aantal": 20
-    },
-    {
-      "naam": "politiek",
-      "aantal": 15
+      "aantal": 19
     },
     {
       "naam": "mobiliteit",
       "aantal": 15
+    },
+    {
+      "naam": "politiek",
+      "aantal": 14
     },
     {
       "naam": "veiligheid",
@@ -33,18 +33,53 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 38
+      "aantal": 36
     },
     {
       "naam": "VRT NWS",
-      "aantal": 30
+      "aantal": 33
     },
     {
       "naam": "Dender Journaal",
-      "aantal": 24
+      "aantal": 25
     }
   ],
   "recent": [
+    {
+      "titel": "Vraag gratis schaduwbomen aan",
+      "url": "https://www.dendermonde.be/nieuws/vraag-gratis-schaduwbomen-aan",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-12T10:56:45.027131+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "SamenlevingHoe rivaliteit tussen Aalst en Dendermonde toeristen nieuwsgierig moet makendo 11 jun.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/09/eeuwenoude-vete-als-toeristische-trekpleister-hoe-immaterieel-e/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-12T10:56:43.702417+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "RegioDendermondeDendermonde moet subsidie van 1,7 miljoen euro voor heraanleg Oude Vest terugbetalen door beroepsprocedures4 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/12/dendermonde-subsidie-terugbetalen-oude-vest-beroep/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-12T10:56:43.702342+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "RegioDendermondeOndanks eerdere aanpassingen: dit jaar al 300 meldingen over geurhinder door Empro Europe in Dendermonde3 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/11/dendermonde-geurhinder-stank-300-meldingen-empro-europe-pluimver/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-12T10:56:43.702236+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Eigen cijfers van de Vlaamse overheid: nieuwe stuwen helpen niet tegen wateroverlast in de Dendervallei.",
+      "url": "https://denderjournaal.be/eigen-cijfers-van-de-vlaamse-overheid-nieuwe-stuwen-helpen-niet-tegen-wateroverlast-in-de-dendervallei/",
+      "bron": "Dender Journaal",
+      "datum": "Fri, 12 Jun 2026 10:27:14 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "Vernieuwing asfaltverharding Kapittelstraat",
       "url": "https://www.dendermonde.be/nieuws/detail/454/vernieuwing-asfaltverharding-kapittelstraat",
@@ -359,41 +394,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-05-29T10:39:02.775229+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "RegioDendermondeArcheologen onderzoeken kelders in Dendermonde om middeleeuwse stad te reconstruerendo 28 mei",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/05/28/kelder-openzetten-archeologisch-onderzoek-dendermonde/",
-      "bron": "VRT NWS",
-      "datum": "2026-05-29T10:39:01.261977+00:00",
-      "thema": "politiek"
-    },
-    {
-      "titel": "Gemeenteraad Denderleeuw keurt aangepast toewijzingsreglement voor sociale huurwoningen goed.",
-      "url": "https://denderjournaal.be/gemeenteraad-denderleeuw-keurt-aangepast-toewijzingsreglement-voor-sociale-huurwoningen-goed/",
-      "bron": "Dender Journaal",
-      "datum": "Fri, 29 May 2026 09:23:39 +0000",
-      "thema": "politiek"
-    },
-    {
-      "titel": "De Regie der Gebouwen restaureert het beeld van het Ros Beiaard op de toren van het gerechtsgebouw van Dendermonde.",
-      "url": "https://denderjournaal.be/de-regie-der-gebouwen-restaureert-het-beeld-van-het-ros-beiaard-op-de-toren-van-het-gerechtsgebouw-van-dendermonde/",
-      "bron": "Dender Journaal",
-      "datum": "Fri, 29 May 2026 09:30:34 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Lokaal Bestuur Denderleeuw breidt systeem netheidsverantwoordelijken uit naar inwoners.",
-      "url": "https://denderjournaal.be/lokaal-bestuur-denderleeuw-breidt-systeem-netheidsverantwoordelijken-uit-naar-inwoners/",
-      "bron": "Dender Journaal",
-      "datum": "Fri, 29 May 2026 10:19:50 +0000",
-      "thema": "politiek"
-    },
-    {
-      "titel": "Openbaar onderzoek Vlaams natuurbeheerplan onder hoogspanningslijnen",
-      "url": "https://www.dendermonde.be/nieuws/openbaar-onderzoek-vlaams-natuurbeheerplan-onder-hoogspanningslijnen",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-28T10:45:32.007026+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
@@ -427,7 +427,7 @@
     },
     {
       "week": "2026-W23",
-      "aantal": 25
+      "aantal": 30
     }
   ]
 }
