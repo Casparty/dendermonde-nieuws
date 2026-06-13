@@ -1,20 +1,20 @@
 {
-  "gegenereerd": "2026-06-12T10:56:45.030688",
+  "gegenereerd": "2026-06-13T09:51:25.144695",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 30
+      "aantal": 35
     },
     {
       "naam": "algemeen",
-      "aantal": 19
-    },
-    {
-      "naam": "mobiliteit",
-      "aantal": 15
+      "aantal": 18
     },
     {
       "naam": "politiek",
+      "aantal": 14
+    },
+    {
+      "naam": "mobiliteit",
       "aantal": 14
     },
     {
@@ -32,19 +32,54 @@
   ],
   "bronnen": [
     {
-      "naam": "Stad Dendermonde",
+      "naam": "VRT NWS",
       "aantal": 36
     },
     {
-      "naam": "VRT NWS",
-      "aantal": 33
+      "naam": "Stad Dendermonde",
+      "aantal": 34
     },
     {
       "naam": "Dender Journaal",
-      "aantal": 25
+      "aantal": 27
     }
   ],
   "recent": [
+    {
+      "titel": "RegioDendermondeDendermonde moet subsidie van 1,7 miljoen euro voor heraanleg Oude Vest terugbetalen door beroepsproceduresvr 12 jun.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/12/dendermonde-subsidie-terugbetalen-oude-vest-beroep/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-13T09:51:23.987000+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "RegioDendermondeOndanks eerdere aanpassingen: dit jaar al 300 meldingen over geurhinder door Empro Europe in Dendermondevr 12 jun.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/11/dendermonde-geurhinder-stank-300-meldingen-empro-europe-pluimver/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-13T09:51:23.986928+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "RegioDendermondeKlooster in Dendermonde verzet zich tegen straatnaam voor verdwenen zuster Gabriëlle: \"Kies naam die ons allemaal eert\"vr 12 jun.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/12/dendermonde-zuster-gabrielle-straatnaam-petitie-sint-vicentiuskl/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-13T09:51:23.986830+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Creativiteit voor vrede: leerlingen GO! Dender schitteren in Lions Vredesposterwedstrijd.",
+      "url": "https://denderjournaal.be/creativiteit-voor-vrede-leerlingen-go-dender-schitteren-in-lions-vredesposterwedstrijd/",
+      "bron": "Dender Journaal",
+      "datum": "Fri, 12 Jun 2026 16:14:47 +0000",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Gouverneur Carina Van Cauter bezoekt Haaltert en sociaal project Knipperkot in Denderhoutem.",
+      "url": "https://denderjournaal.be/gouverneur-carina-van-cauter-bezoekt-haaltert-en-sociaal-project-knipperkot-in-denderhoutem/",
+      "bron": "Dender Journaal",
+      "datum": "Fri, 12 Jun 2026 16:18:40 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "Vraag gratis schaduwbomen aan",
       "url": "https://www.dendermonde.be/nieuws/vraag-gratis-schaduwbomen-aan",
@@ -359,41 +394,6 @@
       "bron": "Dender Journaal",
       "datum": "Sat, 30 May 2026 09:14:50 +0000",
       "thema": "natuur"
-    },
-    {
-      "titel": "Ros BeiaardIconisch Ros Beiaard-beeld in Dendermonde krijgt grondige restauratie: \"Overal opnieuw die groene lantaarn zien\"vr 29 mei",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/05/29/dendermonde-gerechtsgebouw-ros-beiaard-beeld-restauratie/",
-      "bron": "VRT NWS",
-      "datum": "2026-05-30T09:09:50.357006+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Denderleeuw onderzoekt invoering van digitale afhaalkluizen voor gemeentelijke documenten.",
-      "url": "https://denderjournaal.be/denderleeuw-onderzoekt-invoering-van-digitale-afhaalkluizen-voor-gemeentelijke-documenten/",
-      "bron": "Dender Journaal",
-      "datum": "Sat, 30 May 2026 08:34:06 +0000",
-      "thema": "politiek"
-    },
-    {
-      "titel": "Meer dan 400 bezoekers genieten van spectaculaire roofvogelshow in Denderhoutem.",
-      "url": "https://denderjournaal.be/meer-dan-400-bezoekers-genieten-van-spectaculaire-roofvogelshow-in-denderhoutem/",
-      "bron": "Dender Journaal",
-      "datum": "Sat, 30 May 2026 08:48:16 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Denderleeuw onderzoekt mogelijkheid om trouwgeloftes te vernieuwen.",
-      "url": "https://denderjournaal.be/denderleeuw-onderzoekt-mogelijkheid-om-trouwgeloftes-te-vernieuwen/",
-      "bron": "Dender Journaal",
-      "datum": "Sat, 30 May 2026 08:54:55 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Begraafplaats Sint-Gillis krijgt nieuw leven als groene parkbegraafplaats",
-      "url": "https://www.dendermonde.be/nieuws/begraafplaats-sint-gillis-krijgt-nieuw-leven-als-groene-parkbegraafplaats",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-05-29T10:39:02.775229+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
@@ -427,7 +427,7 @@
     },
     {
       "week": "2026-W23",
-      "aantal": 30
+      "aantal": 35
     }
   ]
 }
