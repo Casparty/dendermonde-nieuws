@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-06-14T10:22:10.713385",
+  "gegenereerd": "2026-06-15T12:58:37.129019",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 35
+      "aantal": 36
     },
     {
       "naam": "algemeen",
@@ -18,12 +18,12 @@
       "aantal": 13
     },
     {
-      "naam": "veiligheid",
+      "naam": "cultuur",
       "aantal": 6
     },
     {
-      "naam": "cultuur",
-      "aantal": 6
+      "naam": "veiligheid",
+      "aantal": 5
     },
     {
       "naam": "economie",
@@ -33,7 +33,7 @@
   "bronnen": [
     {
       "naam": "VRT NWS",
-      "aantal": 35
+      "aantal": 34
     },
     {
       "naam": "Stad Dendermonde",
@@ -41,10 +41,24 @@
     },
     {
       "naam": "Dender Journaal",
-      "aantal": 27
+      "aantal": 28
     }
   ],
   "recent": [
+    {
+      "titel": "Media & Televisie\"Ontredderd door jouw vertrek\": De Mol-finalist Michaël Moens overledenzo 14 jun.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/14/de-mol-finalist-michael-moens-overleden/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-15T12:58:35.259773+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "FC Dender versterkt medische staf met nieuwe structuur en verwelkomt Arthur Naudts en Margo Uyttersprot.",
+      "url": "https://denderjournaal.be/fc-dender-versterkt-medische-staf-met-nieuwe-structuur-en-verwelkomt-arthur-naudts-en-margo-uyttersprot/",
+      "bron": "Dender Journaal",
+      "datum": "Mon, 15 Jun 2026 12:08:15 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "RegioDendermondeDendermonde moet subsidie van 1,7 miljoen euro voor heraanleg Oude Vest terugbetalen door beroepsproceduresvr 12 jun.",
       "url": "https://www.vrt.be/vrtnws/nl/2026/06/12/dendermonde-subsidie-terugbetalen-oude-vest-beroep/",
@@ -380,20 +394,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-06-01T12:29:39.242268+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "Word jij onze vrijwillige burenbemiddelaar?",
-      "url": "https://www.dendermonde.be/nieuws/word-jij-onze-vrijwillige-burenbemiddelaar",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-01T12:29:39.242203+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "VTI-Aalst realiseert duurzaam zonne-energieproject voor vzw Knipperkot in Denderhoutem.",
-      "url": "https://denderjournaal.be/vti-aalst-realiseert-duurzaam-zonne-energieproject-voor-vzw-knipperkot-in-denderhoutem/",
-      "bron": "Dender Journaal",
-      "datum": "Sat, 30 May 2026 09:14:50 +0000",
-      "thema": "natuur"
     }
   ],
   "weekly": [
@@ -428,6 +428,10 @@
     {
       "week": "2026-W23",
       "aantal": 35
+    },
+    {
+      "week": "2026-W24",
+      "aantal": 2
     }
   ]
 }
