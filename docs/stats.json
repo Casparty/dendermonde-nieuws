@@ -1,21 +1,21 @@
 {
-  "gegenereerd": "2026-06-15T12:58:37.129019",
+  "gegenereerd": "2026-06-16T12:04:37.494117",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 36
+      "aantal": 38
     },
     {
       "naam": "algemeen",
-      "aantal": 18
+      "aantal": 21
+    },
+    {
+      "naam": "politiek",
+      "aantal": 15
     },
     {
       "naam": "mobiliteit",
       "aantal": 14
-    },
-    {
-      "naam": "politiek",
-      "aantal": 13
     },
     {
       "naam": "cultuur",
@@ -32,19 +32,75 @@
   ],
   "bronnen": [
     {
-      "naam": "VRT NWS",
-      "aantal": 34
+      "naam": "Stad Dendermonde",
+      "aantal": 37
     },
     {
-      "naam": "Stad Dendermonde",
-      "aantal": 32
+      "naam": "VRT NWS",
+      "aantal": 35
     },
     {
       "naam": "Dender Journaal",
-      "aantal": 28
+      "aantal": 29
     }
   ],
   "recent": [
+    {
+      "titel": "Vraag gratis schaduwbomen aan via Airkoe",
+      "url": "https://www.dendermonde.be/nieuws/vraag-gratis-schaduwbomen-aan",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-16T12:04:37.489992+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Stad zet volgende stap voor Bomvrije Kazerne met vernieuwde samenwerking en erfgoedimpuls",
+      "url": "https://www.dendermonde.be/nieuws/stad-zet-volgende-stap-voor-bomvrije-kazerne-met-vernieuwde-samenwerking-en-erfgoedimpuls",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-16T12:04:37.489988+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "Oude Vest: stad blijft inzetten op herinrichting ondanks terugbetaling subsidie",
+      "url": "https://www.dendermonde.be/nieuws/oude-vest-stad-blijft-inzetten-op-herinrichting-ondanks-terugbetaling-subsidie",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-16T12:04:37.489985+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "Lokaal dienstencentrum Zilverpand verhuist naar Papiermolenstraat",
+      "url": "https://www.dendermonde.be/nieuws/lokaal-dienstencentrum-zilverpand-verhuist-naar-papiermolenstraat",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-16T12:04:37.489980+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Warme dagen, zorg dragen!",
+      "url": "https://www.dendermonde.be/nieuws/warme-dagen-zorg-dragen",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-16T12:04:37.489960+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "RegioDendermondeVier jaar cel voor dader van steekpartij aan station van Dendermonde2 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/16/dader-steekpartij-dendermonde-vier-jaar-cel/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-16T12:04:35.580331+00:00",
+      "thema": "veiligheid"
+    },
+    {
+      "titel": "RegioDendermondeFarys restaureert beschermde watertoren uit 1924 in Dendermonde: werken klaar tegen midden 20272 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/16/restauratie-historische-watertoren-bastion-v/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-16T12:04:35.580254+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Extra camera’s versterken veiligheidsnet rond station van Denderleeuw en andere hotspots.",
+      "url": "https://denderjournaal.be/extra-cameras-versterken-veiligheidsnet-rond-station-van-denderleeuw-en-andere-hotspots/",
+      "bron": "Dender Journaal",
+      "datum": "Mon, 15 Jun 2026 21:39:50 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "Media & Televisie\"Ontredderd door jouw vertrek\": De Mol-finalist Michaël Moens overledenzo 14 jun.",
       "url": "https://www.vrt.be/vrtnws/nl/2026/06/14/de-mol-finalist-michael-moens-overleden/",
@@ -338,62 +394,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-06-03T11:50:44.664120+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "Laat je knotbomen volgende winter gratis knotten!",
-      "url": "https://www.dendermonde.be/nieuws/laat-je-knotbomen-volgende-winter-gratis-knotten",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-03T11:50:44.664113+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Sluitingsdag Verko op 5 juni",
-      "url": "https://www.dendermonde.be/nieuws/sluitingsdag-verko",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-03T11:50:44.664088+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Digitaal Café in Denderwindeke leert deelnemers veilig surfen en online kopen.",
-      "url": "https://denderjournaal.be/digitaal-cafe-in-denderwindeke-leert-deelnemers-veilig-surfen-en-online-kopen/",
-      "bron": "Dender Journaal",
-      "datum": "Wed, 03 Jun 2026 09:22:23 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Schrijf je in voor een schooljaar vol muziek, woord, dans of schone kunsten!",
-      "url": "https://www.dendermonde.be/nieuws/inschrijven-academies",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-02T11:12:01.922913+00:00",
-      "thema": "cultuur"
-    },
-    {
-      "titel": "Nieuw parkeerplan vanaf woensdag 1 juli 2026",
-      "url": "https://www.dendermonde.be/nieuws/nieuw-parkeerplan-vanaf-woensdag-1-juli-2026",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-02T11:12:01.922906+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Aanbod voor gezinnen in de kijker tijdens het Gezinsfestival",
-      "url": "https://www.dendermonde.be/nieuws/aanbod-voor-gezinnen-in-de-kijker-tijdens-het-gezinsfestival",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-02T11:12:01.922886+00:00",
-      "thema": "cultuur"
-    },
-    {
-      "titel": "Erfgoed'Ajoinen' versus 'Kopvleesfretters': Aalst en Dendermonde laten historische vete erkennen als erfgoed4 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/06/02/vete-aalst-dendermonde-erfgoed-toerisme-ludiek/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-02T11:12:00.691381+00:00",
-      "thema": "cultuur"
-    },
-    {
-      "titel": "Recyclageparken gesloten op vrijdag 5 juni",
-      "url": "https://www.dendermonde.be/nieuws/recyclageparken-gesloten-op-vrijdag-5-juni",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-01T12:29:39.242268+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
@@ -431,7 +431,7 @@
     },
     {
       "week": "2026-W24",
-      "aantal": 2
+      "aantal": 10
     }
   ]
 }
