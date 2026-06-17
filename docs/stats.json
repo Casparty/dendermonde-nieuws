@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-06-16T12:04:37.494117",
+  "gegenereerd": "2026-06-17T11:28:39.328436",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 38
+      "aantal": 40
     },
     {
       "naam": "algemeen",
@@ -18,12 +18,12 @@
       "aantal": 14
     },
     {
-      "naam": "cultuur",
+      "naam": "veiligheid",
       "aantal": 6
     },
     {
-      "naam": "veiligheid",
-      "aantal": 5
+      "naam": "cultuur",
+      "aantal": 6
     },
     {
       "naam": "economie",
@@ -32,19 +32,40 @@
   ],
   "bronnen": [
     {
+      "naam": "VRT NWS",
+      "aantal": 37
+    },
+    {
       "naam": "Stad Dendermonde",
       "aantal": 37
     },
     {
-      "naam": "VRT NWS",
-      "aantal": 35
-    },
-    {
       "naam": "Dender Journaal",
-      "aantal": 29
+      "aantal": 30
     }
   ],
   "recent": [
+    {
+      "titel": "RegioDendermondeVier jaar cel voor dader van steekpartij aan station van Dendermondedi 16 jun.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/16/dader-steekpartij-dendermonde-vier-jaar-cel/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-17T11:28:36.701426+00:00",
+      "thema": "veiligheid"
+    },
+    {
+      "titel": "RegioDendermondeFarys restaureert beschermde watertoren uit 1924 in Dendermonde: werken klaar tegen midden 2027di 16 jun.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/16/restauratie-historische-watertoren-bastion-v/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-17T11:28:36.701319+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Café Tuup en Eetcafé Winnik Plosj organiseren sneukeltocht voor het goede doel tussen Meerbeke en Denderwindeke.",
+      "url": "https://denderjournaal.be/cafe-tuup-en-eetcafe-winnik-plosj-organiseren-sneukeltocht-voor-het-goede-doel-tussen-meerbeke-en-denderwindeke/",
+      "bron": "Dender Journaal",
+      "datum": "Tue, 16 Jun 2026 21:44:42 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "Vraag gratis schaduwbomen aan via Airkoe",
       "url": "https://www.dendermonde.be/nieuws/vraag-gratis-schaduwbomen-aan",
@@ -373,27 +394,6 @@
       "bron": "VRT NWS",
       "datum": "2026-06-04T10:33:59.691112+00:00",
       "thema": "cultuur"
-    },
-    {
-      "titel": "JustitieJongeman (22) die verantwoordelijk was voor dood David Polfliet ook veroordeeld wegens bezit beelden kindermisbruikdi 2 jun.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/06/02/een-van-de-drie-doders-david-polfliet-veroordeeld-wegens-bezit-b/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-04T10:33:59.691056+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "RegioDendermondeNatuureducatief centrum Bastion VIII in Dendermonde opent nieuw paviljoenwo 3 jun.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/06/03/provincie-oost-vlaanderen-heropent-bastion-viii/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-04T10:33:59.690966+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Restauratie historische watertoren Bastion V van start",
-      "url": "https://www.dendermonde.be/nieuws/restauratie-historische-watertoren-bastion-v-van-start",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-03T11:50:44.664120+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
@@ -431,7 +431,7 @@
     },
     {
       "week": "2026-W24",
-      "aantal": 10
+      "aantal": 13
     }
   ]
 }
