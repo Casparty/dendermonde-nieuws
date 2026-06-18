@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-06-17T11:28:39.328436",
+  "gegenereerd": "2026-06-18T11:04:48.787245",
   "themas": [
     {
       "naam": "natuur",
@@ -7,7 +7,7 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 21
+      "aantal": 22
     },
     {
       "naam": "politiek",
@@ -28,23 +28,41 @@
     {
       "naam": "economie",
       "aantal": 2
+    },
+    {
+      "naam": "sport",
+      "aantal": 1
     }
   ],
   "bronnen": [
+    {
+      "naam": "Stad Dendermonde",
+      "aantal": 38
+    },
     {
       "naam": "VRT NWS",
       "aantal": 37
     },
     {
-      "naam": "Stad Dendermonde",
-      "aantal": 37
-    },
-    {
       "naam": "Dender Journaal",
-      "aantal": 30
+      "aantal": 31
     }
   ],
   "recent": [
+    {
+      "titel": "De Toverboon: een nieuwe brede school en multifunctionele campus als bruisend hart van de wijk",
+      "url": "https://www.dendermonde.be/nieuws/de-toverboon-een-nieuwe-brede-school-en-multifunctionele-campus-als-bruisend-hart-van-de-wijk",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-18T11:04:48.783713+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Futsal Club Denderland A.-Ninove wint 1.500 euro dankzij doelpunt van Dodi Lukebakio en ING Belgium.",
+      "url": "https://denderjournaal.be/futsal-club-denderland-a-ninove-wint-1-500-euro-dankzij-doelpunt-van-dodi-lukebakio-en-ing-belgium/",
+      "bron": "Dender Journaal",
+      "datum": "Thu, 18 Jun 2026 11:03:21 +0000",
+      "thema": "sport"
+    },
     {
       "titel": "RegioDendermondeVier jaar cel voor dader van steekpartij aan station van Dendermondedi 16 jun.",
       "url": "https://www.vrt.be/vrtnws/nl/2026/06/16/dader-steekpartij-dendermonde-vier-jaar-cel/",
@@ -380,20 +398,6 @@
       "bron": "VRT NWS",
       "datum": "2026-06-08T11:49:40.426589+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "Dendermonde start proefproject hondenpoepzuilen",
-      "url": "https://www.dendermonde.be/nieuws/dendermonde-start-met-proefproject-hondenpoepzuilen",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-06T09:18:58.273324+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Erfgoed'Ajoinen' versus 'Kopvleesfretters': Aalst en Dendermonde laten historische vete erkennen als erfgoeddi 2 jun.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/06/02/vete-aalst-dendermonde-erfgoed-toerisme-ludiek/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-04T10:33:59.691112+00:00",
-      "thema": "cultuur"
     }
   ],
   "weekly": [
@@ -431,7 +435,7 @@
     },
     {
       "week": "2026-W24",
-      "aantal": 13
+      "aantal": 15
     }
   ]
 }
