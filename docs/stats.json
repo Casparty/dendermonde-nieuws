@@ -1,17 +1,17 @@
 {
-  "gegenereerd": "2026-06-18T11:04:48.787245",
+  "gegenereerd": "2026-06-19T11:14:31.118976",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 40
+      "aantal": 41
     },
     {
       "naam": "algemeen",
-      "aantal": 22
+      "aantal": 23
     },
     {
       "naam": "politiek",
-      "aantal": 15
+      "aantal": 14
     },
     {
       "naam": "mobiliteit",
@@ -37,7 +37,7 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 38
+      "aantal": 39
     },
     {
       "naam": "VRT NWS",
@@ -49,6 +49,27 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Zomerse speelstraten 2026",
+      "url": "https://www.dendermonde.be/nieuws/zomerse-speelstraten-2026",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-19T11:14:31.113282+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Reus Hagewijkpark wordt inclusiever: speelplek voor elk kind",
+      "url": "https://www.dendermonde.be/nieuws/reus-hagewijkpark-wordt-inclusiever-speelplek-voor-elk-kind",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-19T11:14:31.113275+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Code oranje voor onweer",
+      "url": "https://www.dendermonde.be/nieuws/code-oranje-voor-onweer",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-19T11:14:31.113254+00:00",
+      "thema": "algemeen"
+    },
     {
       "titel": "De Toverboon: een nieuwe brede school en multifunctionele campus als bruisend hart van de wijk",
       "url": "https://www.dendermonde.be/nieuws/de-toverboon-een-nieuwe-brede-school-en-multifunctionele-campus-als-bruisend-hart-van-de-wijk",
@@ -377,27 +398,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-06-08T11:49:42.552107+00:00",
       "thema": "politiek"
-    },
-    {
-      "titel": "OnderzoekVan 0 tot 350 euro: zoveel kost het om in jouw gemeente op zaterdag te trouwen9 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/05/22/kaart-kostprijs-huwelijken/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-08T11:49:40.426787+00:00",
-      "thema": "politiek"
-    },
-    {
-      "titel": "OnderzoekAantal huwelijken in Vlaanderen en Brussel bereikt nieuw record: 6 redenen waarom we meer trouwen1 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/05/27/evolutie-huwelijken-vlaanderen-brussel/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-08T11:49:40.426698+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "RegioDendermondeNa doden van vrouw en zoontje: Ismail Yavuz opnieuw veroordeeld na bedreigen van medegedetineerde1 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/06/08/man-veroordeeld-agressie-gevangenis-dendermonde/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-08T11:49:40.426589+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W24",
-      "aantal": 15
+      "aantal": 18
     }
   ]
 }
