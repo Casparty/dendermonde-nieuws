@@ -1,13 +1,13 @@
 {
-  "gegenereerd": "2026-06-21T10:25:35.234046",
+  "gegenereerd": "2026-06-22T12:43:27.934090",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 41
+      "aantal": 42
     },
     {
       "naam": "algemeen",
-      "aantal": 23
+      "aantal": 24
     },
     {
       "naam": "politiek",
@@ -15,7 +15,7 @@
     },
     {
       "naam": "mobiliteit",
-      "aantal": 10
+      "aantal": 9
     },
     {
       "naam": "cultuur",
@@ -23,7 +23,7 @@
     },
     {
       "naam": "veiligheid",
-      "aantal": 3
+      "aantal": 2
     },
     {
       "naam": "sport",
@@ -40,15 +40,29 @@
       "aantal": 35
     },
     {
-      "naam": "VRT NWS",
+      "naam": "Dender Journaal",
       "aantal": 33
     },
     {
-      "naam": "Dender Journaal",
+      "naam": "VRT NWS",
       "aantal": 32
     }
   ],
   "recent": [
+    {
+      "titel": "Aandacht: Zet je afval op tijd buiten, ophaling al vanaf 6 uur",
+      "url": "https://www.dendermonde.be/nieuws/aandacht-zet-je-afval-op-tijd-buiten-ophaling-al-vanaf-6-uur",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-22T12:43:27.930450+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "30 Gouden Schakels gehuldigd in Denderleeuw.",
+      "url": "https://denderjournaal.be/30-gouden-schakels-gehuldigd-in-denderleeuw/",
+      "bron": "Dender Journaal",
+      "datum": "Mon, 22 Jun 2026 11:49:59 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "Futsal Club Denderland trekt naar internationaal toernooi in Duitsland.",
       "url": "https://denderjournaal.be/futsal-club-denderland-trekt-naar-internationaal-toernooi-in-duitsland/",
@@ -384,20 +398,6 @@
       "bron": "VRT NWS",
       "datum": "2026-06-09T10:29:22.594760+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "RegioDendermondeGrote overdekte fietsenparking geopend aan station Dendermonde, dit najaar nog 2e op komst50 minuten geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/06/09/station-dendermonde-fietsenparking-nmbs/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-09T10:29:22.594664+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "NMBS opent nieuwe fietsenparking aan station van Dendermonde.",
-      "url": "https://denderjournaal.be/nmbs-opent-nieuwe-fietsenparking-aan-station-van-dendermonde/",
-      "bron": "Dender Journaal",
-      "datum": "Tue, 09 Jun 2026 08:42:38 +0000",
-      "thema": "mobiliteit"
     }
   ],
   "weekly": [
@@ -432,6 +432,10 @@
     {
       "week": "2026-W24",
       "aantal": 19
+    },
+    {
+      "week": "2026-W25",
+      "aantal": 2
     }
   ]
 }
