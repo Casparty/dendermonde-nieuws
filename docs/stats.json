@@ -1,13 +1,13 @@
 {
-  "gegenereerd": "2026-06-22T12:43:27.934090",
+  "gegenereerd": "2026-06-23T10:28:50.216479",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 42
+      "aantal": 43
     },
     {
       "naam": "algemeen",
-      "aantal": 24
+      "aantal": 27
     },
     {
       "naam": "politiek",
@@ -37,11 +37,11 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 35
+      "aantal": 38
     },
     {
       "naam": "Dender Journaal",
-      "aantal": 33
+      "aantal": 34
     },
     {
       "naam": "VRT NWS",
@@ -49,6 +49,34 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Eerste broedsucces voor ooievaars in Boonwijk",
+      "url": "https://www.dendermonde.be/nieuws/eerste-broedsucces-voor-ooievaars-in-boonwijk",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-23T10:28:50.212948+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Gewijzigd aanbod De Lijn vanaf 1 juli",
+      "url": "https://www.dendermonde.be/nieuws/gewijzigd-aanbod-de-lijn-vanaf-1-juli",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-23T10:28:50.212942+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "22 tot 28 juni is de 'Week van de invasieve uitheemse soorten'",
+      "url": "https://www.dendermonde.be/nieuws/week-van-de-invasieve-uitheemse-soorten",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-23T10:28:50.212923+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Huis van het Kind verhuist tijdelijk naar ’t Kasteeltje door aanhoudende hitte in Denderleeuw.",
+      "url": "https://denderjournaal.be/huis-van-het-kind-verhuist-tijdelijk-naar-t-kasteeltje-door-aanhoudende-hitte-in-denderleeuw/",
+      "bron": "Dender Journaal",
+      "datum": "Tue, 23 Jun 2026 08:42:30 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "Aandacht: Zet je afval op tijd buiten, ophaling al vanaf 6 uur",
       "url": "https://www.dendermonde.be/nieuws/aandacht-zet-je-afval-op-tijd-buiten-ophaling-al-vanaf-6-uur",
@@ -370,34 +398,6 @@
       "bron": "VRT NWS",
       "datum": "2026-06-09T10:29:22.595028+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "RegioDendermondeNa doden van vrouw en zoontje: Ismail Yavuz opnieuw veroordeeld na bedreigen van medegedetineerdema 8 jun.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/06/08/man-veroordeeld-agressie-gevangenis-dendermonde/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-09T10:29:22.594962+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "JustitieMet de laatste trein aankomen en met de eerste terug: politie Dendermonde betrapt nachtelijke inbrekers op heterdaadma 8 jun.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/06/08/dendermonde-bende-dieven-op-heterdaad-betrapt-en-aangehouden/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-09T10:29:22.594896+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "OnderzoekIN KAART: op welke bijzondere locaties kan je trouwen in jouw gemeente?7 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/05/22/kaart-bijzondere-locaties-huwelijken/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-09T10:29:22.594832+00:00",
-      "thema": "politiek"
-    },
-    {
-      "titel": "SamenlevingIn grot, op het strand of kerkhof: wat zijn de meest bijzondere trouwlocaties in Vlaanderen?7 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/06/03/bijzondere-locaties-opmars/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-09T10:29:22.594760+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W25",
-      "aantal": 2
+      "aantal": 6
     }
   ]
 }
