@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-06-23T10:28:50.216479",
+  "gegenereerd": "2026-06-24T10:16:02.848818",
   "themas": [
     {
       "naam": "natuur",
@@ -7,7 +7,7 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 27
+      "aantal": 28
     },
     {
       "naam": "politiek",
@@ -37,7 +37,7 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 38
+      "aantal": 39
     },
     {
       "naam": "Dender Journaal",
@@ -49,6 +49,13 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Maatregelen afvalinzameling door uitzonderlijke hitte",
+      "url": "https://www.dendermonde.be/nieuws/maatregelen-afvalinzameling-door-uitzonderlijke-hitte",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-24T10:16:02.845075+00:00",
+      "thema": "algemeen"
+    },
     {
       "titel": "Eerste broedsucces voor ooievaars in Boonwijk",
       "url": "https://www.dendermonde.be/nieuws/eerste-broedsucces-voor-ooievaars-in-boonwijk",
@@ -391,19 +398,12 @@
       "bron": "VRT NWS",
       "datum": "2026-06-09T10:29:22.595093+00:00",
       "thema": "politiek"
-    },
-    {
-      "titel": "OnderzoekAantal huwelijken in Vlaanderen en Brussel bereikt nieuw record: 6 redenen waarom we meer trouwenma 8 jun.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/05/27/evolutie-huwelijken-vlaanderen-brussel/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-09T10:29:22.595028+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
     {
       "week": "2026-W17",
-      "aantal": 12
+      "aantal": 9
     },
     {
       "week": "2026-W18",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W25",
-      "aantal": 6
+      "aantal": 7
     }
   ]
 }
