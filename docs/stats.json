@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-06-24T10:16:02.848818",
+  "gegenereerd": "2026-06-25T10:11:37.245162",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 43
+      "aantal": 44
     },
     {
       "naam": "algemeen",
@@ -19,7 +19,7 @@
     },
     {
       "naam": "cultuur",
-      "aantal": 5
+      "aantal": 6
     },
     {
       "naam": "veiligheid",
@@ -37,7 +37,7 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 39
+      "aantal": 41
     },
     {
       "naam": "Dender Journaal",
@@ -49,6 +49,20 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Gefaseerde invoering nieuw parkeerplan door tekort aan onderdelen voor parkeerautomaten",
+      "url": "https://www.dendermonde.be/nieuws/detail/470/gefaseerde-invoering-nieuw-parkeerplan-door-tekort-aan-onderdelen-voor-parkeerautomaten",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-25T10:11:37.239989+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Uitzonderlijke hitte: zwembad langer open en extra maatregelen voor evenementen",
+      "url": "https://www.dendermonde.be/nieuws/warme-dagen-zorg-dragen",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-25T10:11:37.239976+00:00",
+      "thema": "cultuur"
+    },
     {
       "titel": "Maatregelen afvalinzameling door uitzonderlijke hitte",
       "url": "https://www.dendermonde.be/nieuws/maatregelen-afvalinzameling-door-uitzonderlijke-hitte",
@@ -384,26 +398,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-06-09T10:29:23.983565+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "Woonzorgcentrum Aymonshof trapt traject ‘Iedereen Telt!’ officieel af",
-      "url": "https://www.dendermonde.be/nieuws/woonzorgcentrum-aymonshof-trapt-traject-iedereen-telt-officieel-af",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-09T10:29:23.983544+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "OnderzoekVan 0 tot 350 euro: zoveel kost het om in jouw gemeente op zaterdag te trouwenma 8 jun.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/05/22/kaart-kostprijs-huwelijken/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-09T10:29:22.595093+00:00",
-      "thema": "politiek"
     }
   ],
   "weekly": [
     {
       "week": "2026-W17",
-      "aantal": 9
+      "aantal": 7
     },
     {
       "week": "2026-W18",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W25",
-      "aantal": 7
+      "aantal": 9
     }
   ]
 }
