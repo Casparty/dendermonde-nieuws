@@ -1,25 +1,25 @@
 {
-  "gegenereerd": "2026-06-25T10:11:37.245162",
+  "gegenereerd": "2026-06-26T10:14:52.489460",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 44
+      "aantal": 45
     },
     {
       "naam": "algemeen",
-      "aantal": 28
+      "aantal": 30
     },
     {
       "naam": "politiek",
-      "aantal": 14
+      "aantal": 15
     },
     {
       "naam": "mobiliteit",
-      "aantal": 9
+      "aantal": 10
     },
     {
       "naam": "cultuur",
-      "aantal": 6
+      "aantal": 7
     },
     {
       "naam": "veiligheid",
@@ -37,18 +37,60 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 41
+      "aantal": 43
     },
     {
       "naam": "Dender Journaal",
-      "aantal": 34
+      "aantal": 36
     },
     {
       "naam": "VRT NWS",
-      "aantal": 32
+      "aantal": 34
     }
   ],
   "recent": [
+    {
+      "titel": "Stad zoekt private partner voor restauratie 12 begijnhofwoningen",
+      "url": "https://www.dendermonde.be/nieuws/stad-zoekt-private-partner-voor-restauratie-12-begijnhofwoningen",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-26T10:14:52.485614+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "Ontmanteling Zilverpandgebouw",
+      "url": "https://www.dendermonde.be/nieuws/ontmanteling-zilverpandgebouw",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-26T10:14:52.485595+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "ErfgoedDendermonde zoekt private partner om huizen in Sint-Alexiusbegijnhof  te restaurerendo 25 jun.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/25/dendermonde-private-partner-sint-alexiusbegijnhof-restauratie/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-26T10:14:51.141463+00:00",
+      "thema": "cultuur"
+    },
+    {
+      "titel": "JustitieInternationale phishingbende opgerold in Oost-Vlaanderen: slachtoffers verloren meer dan 100.000 eurodo 25 jun.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/25/internationale-phishingbende-opgerold-in-oost-vlaanderen-slacht/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-26T10:14:51.141366+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Tijdelijk minder bediening manuele sluizen op Dender en kanaal Bossuit-Kortrijk.",
+      "url": "https://denderjournaal.be/tijdelijk-minder-bediening-manuele-sluizen-op-dender-en-kanaal-bossuit-kortrijk/",
+      "bron": "Dender Journaal",
+      "datum": "Thu, 25 Jun 2026 19:28:53 +0000",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Schadegevallen aan het wegdek door aanhoudende hitte in Denderleeuw.",
+      "url": "https://denderjournaal.be/schadegevallen-aan-het-wegdek-door-aanhoudende-hitte-in-denderleeuw/",
+      "bron": "Dender Journaal",
+      "datum": "Fri, 26 Jun 2026 09:20:25 +0000",
+      "thema": "mobiliteit"
+    },
     {
       "titel": "Gefaseerde invoering nieuw parkeerplan door tekort aan onderdelen voor parkeerautomaten",
       "url": "https://www.dendermonde.be/nieuws/detail/470/gefaseerde-invoering-nieuw-parkeerplan-door-tekort-aan-onderdelen-voor-parkeerautomaten",
@@ -356,48 +398,6 @@
       "bron": "VRT NWS",
       "datum": "2026-06-10T10:48:54.451681+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "RegioDendermondeGrote overdekte fietsenparking geopend aan station Dendermonde, dit najaar nog 2e op komstdi 9 jun.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/06/09/station-dendermonde-fietsenparking-nmbs/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-10T10:48:54.451604+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "SamenlevingVan 'je hebt me 1.000 maal belogen' tot jawoord op hoogte: de strafste trouwverhalen uit het gemeentehuisdi 9 jun.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/06/02/grappigste-en-meest-bijzondere-gebeurtenissen-tijdens-gemeenteli/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-10T10:48:54.451499+00:00",
-      "thema": "politiek"
-    },
-    {
-      "titel": "Dender Koerst: wielerliefhebbers kunnen opnieuw hun hart ophalen tijdens druk koersweekend in de regio.",
-      "url": "https://denderjournaal.be/dender-koerst-wielerliefhebbers-kunnen-opnieuw-hun-hart-ophalen-tijdens-druk-koersweekend-in-de-regio/",
-      "bron": "Dender Journaal",
-      "datum": "Tue, 09 Jun 2026 20:46:12 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Marnixring Aalst Denderend Land haalt topjager op voortvluchtige criminelen naar Bambrugge: “Meer dan duizend veroordeelden opgespoord”",
-      "url": "https://denderjournaal.be/marnixring-aalst-denderend-land-haalt-topjager-op-voortvluchtige-criminelen-naar-bambrugge-meer-dan-duizend-veroordeelden-opgespoord/",
-      "bron": "Dender Journaal",
-      "datum": "Tue, 09 Jun 2026 20:55:55 +0000",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "Werken voor de doortrekking van fietssnelweg F43 tussen Aalst en Dendermonde",
-      "url": "https://www.dendermonde.be/nieuws/werken-voor-de-doortrekking-van-fietssnelweg-f43-tussen-aalst-en-dendermonde",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-09T10:29:23.983575+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "Een nieuwe brede school in het hart van Sint-Gillis",
-      "url": "https://www.dendermonde.be/nieuws/een-nieuwe-brede-school-in-het-hart-van-sint-gillis",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-09T10:29:23.983565+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W25",
-      "aantal": 9
+      "aantal": 15
     }
   ]
 }
