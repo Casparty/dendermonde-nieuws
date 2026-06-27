@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-06-26T10:14:52.489460",
+  "gegenereerd": "2026-06-27T09:25:42.703554",
   "themas": [
     {
       "naam": "natuur",
@@ -7,7 +7,7 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 30
+      "aantal": 27
     },
     {
       "naam": "politiek",
@@ -31,13 +31,13 @@
     },
     {
       "naam": "economie",
-      "aantal": 2
+      "aantal": 1
     }
   ],
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 43
+      "aantal": 39
     },
     {
       "naam": "Dender Journaal",
@@ -49,6 +49,13 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Buitenschoolse opvang Oudegem vanaf 1 september op 2 locaties",
+      "url": "https://www.dendermonde.be/nieuws/buitenschoolse-opvang-oudegem-vanaf-1-september-2026-op-2-locaties",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-27T09:25:42.699297+00:00",
+      "thema": "algemeen"
+    },
     {
       "titel": "Stad zoekt private partner voor restauratie 12 begijnhofwoningen",
       "url": "https://www.dendermonde.be/nieuws/stad-zoekt-private-partner-voor-restauratie-12-begijnhofwoningen",
@@ -391,19 +398,12 @@
       "bron": "VRT NWS",
       "datum": "2026-06-10T10:48:54.451761+00:00",
       "thema": "politiek"
-    },
-    {
-      "titel": "SamenlevingIn grot, op het strand of kerkhof: wat zijn de meest bijzondere trouwlocaties in Vlaanderen?di 9 jun.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/06/03/bijzondere-locaties-opmars/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-10T10:48:54.451681+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
     {
       "week": "2026-W17",
-      "aantal": 7
+      "aantal": 4
     },
     {
       "week": "2026-W18",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W25",
-      "aantal": 15
+      "aantal": 16
     }
   ]
 }
