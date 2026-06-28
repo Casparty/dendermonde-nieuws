@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-06-27T09:25:42.703554",
+  "gegenereerd": "2026-06-28T09:53:46.674631",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 45
+      "aantal": 44
     },
     {
       "naam": "algemeen",
@@ -28,16 +28,12 @@
     {
       "naam": "sport",
       "aantal": 2
-    },
-    {
-      "naam": "economie",
-      "aantal": 1
     }
   ],
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 39
+      "aantal": 37
     },
     {
       "naam": "Dender Journaal",
@@ -401,10 +397,6 @@
     }
   ],
   "weekly": [
-    {
-      "week": "2026-W17",
-      "aantal": 4
-    },
     {
       "week": "2026-W18",
       "aantal": 15
