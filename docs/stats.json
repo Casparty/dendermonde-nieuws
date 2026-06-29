@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-06-28T09:53:46.674631",
+  "gegenereerd": "2026-06-29T11:52:53.769275",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 44
+      "aantal": 43
     },
     {
       "naam": "algemeen",
@@ -41,10 +41,17 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 34
+      "aantal": 33
     }
   ],
   "recent": [
+    {
+      "titel": "Gemeenteraad en raad voor maatschappelijk welzijn op woensdag 1 juli 2026",
+      "url": "https://www.dendermonde.be/nieuws/detail/475/gemeenteraad-en-raad-voor-maatschappelijk-welzijn-op-woensdag-1-juli-2026",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-29T11:52:53.764418+00:00",
+      "thema": "politiek"
+    },
     {
       "titel": "Buitenschoolse opvang Oudegem vanaf 1 september op 2 locaties",
       "url": "https://www.dendermonde.be/nieuws/buitenschoolse-opvang-oudegem-vanaf-1-september-2026-op-2-locaties",
@@ -387,13 +394,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-06-10T10:48:56.497916+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "OnderzoekIN KAART: op welke bijzondere locaties kan je trouwen in jouw gemeente?di 9 jun.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/05/22/kaart-bijzondere-locaties-huwelijken/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-10T10:48:54.451761+00:00",
-      "thema": "politiek"
     }
   ],
   "weekly": [
@@ -428,6 +428,10 @@
     {
       "week": "2026-W25",
       "aantal": 16
+    },
+    {
+      "week": "2026-W26",
+      "aantal": 1
     }
   ]
 }
