@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-06-29T11:52:53.769275",
+  "gegenereerd": "2026-06-30T10:28:42.536593",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 43
+      "aantal": 44
     },
     {
       "naam": "algemeen",
@@ -23,7 +23,7 @@
     },
     {
       "naam": "veiligheid",
-      "aantal": 2
+      "aantal": 3
     },
     {
       "naam": "sport",
@@ -33,7 +33,7 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 37
+      "aantal": 38
     },
     {
       "naam": "Dender Journaal",
@@ -41,10 +41,31 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 33
+      "aantal": 34
     }
   ],
   "recent": [
+    {
+      "titel": "Vlaamse overheid en lokale besturen starten nieuw traject voor mobiliteit en leefbaarheid in de noordelijke Denderregio",
+      "url": "https://www.dendermonde.be/nieuws/vlaamse-overheid-en-lokale-besturen-starten-nieuw-traject-voor-mobiliteit-en-leefbaarheid-in-de-noor",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-06-30T10:28:42.533011+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "RegioDendermondeRos Beiaard-beeld staat weer op toren van gerechtsgebouw Dendermonde na restauratiema 29 jun.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/29/ros-beiaard-gerechtsgebouw-dendermonde-werken-restauratie/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-30T10:28:41.094331+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "RegioDendermondeNegen beklaagden krijgen van rechtbank Dendermonde 3 tot 9 jaar gevangenisstraf voor cocaïne-invoer33 minuten geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/30/negen-beklaagden-krijgen-van-rechtbank-dendermonde-3-tot-9-jaar/",
+      "bron": "VRT NWS",
+      "datum": "2026-06-30T10:28:41.094220+00:00",
+      "thema": "veiligheid"
+    },
     {
       "titel": "Gemeenteraad en raad voor maatschappelijk welzijn op woensdag 1 juli 2026",
       "url": "https://www.dendermonde.be/nieuws/detail/475/gemeenteraad-en-raad-voor-maatschappelijk-welzijn-op-woensdag-1-juli-2026",
@@ -373,33 +394,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-06-11T11:20:16.156015+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "SamenlevingHoe rivaliteit tussen Aalst en Dendermonde toeristen nieuwsgierig moet maken8 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/06/09/eeuwenoude-vete-als-toeristische-trekpleister-hoe-immaterieel-e/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-11T11:20:14.389720+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Nieuwe fietsenstalling aan station Dendermonde geopend",
-      "url": "https://www.dendermonde.be/nieuws/nieuwe-fietsenstalling-station-dendermonde-geopend",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-10T10:48:56.497942+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "Toekomstvisie voor bedrijventerrein Briel",
-      "url": "https://www.dendermonde.be/nieuws/informatie-over-de-toekomstvisie-voor-bedrijventerrein-briel",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-10T10:48:56.497916+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
     {
       "week": "2026-W18",
-      "aantal": 15
+      "aantal": 13
     },
     {
       "week": "2026-W19",
@@ -431,7 +431,7 @@
     },
     {
       "week": "2026-W26",
-      "aantal": 1
+      "aantal": 4
     }
   ]
 }
