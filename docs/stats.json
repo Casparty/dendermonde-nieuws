@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-06-30T10:28:42.536593",
+  "gegenereerd": "2026-07-01T10:37:33.241492",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 44
+      "aantal": 45
     },
     {
       "naam": "algemeen",
@@ -11,11 +11,11 @@
     },
     {
       "naam": "politiek",
-      "aantal": 15
+      "aantal": 16
     },
     {
       "naam": "mobiliteit",
-      "aantal": 10
+      "aantal": 14
     },
     {
       "naam": "cultuur",
@@ -23,7 +23,7 @@
     },
     {
       "naam": "veiligheid",
-      "aantal": 3
+      "aantal": 4
     },
     {
       "naam": "sport",
@@ -33,18 +33,67 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 38
+      "aantal": 42
+    },
+    {
+      "naam": "VRT NWS",
+      "aantal": 37
     },
     {
       "naam": "Dender Journaal",
       "aantal": 36
-    },
-    {
-      "naam": "VRT NWS",
-      "aantal": 34
     }
   ],
   "recent": [
+    {
+      "titel": "Kruispunt Mechelse Poort volledig afgesloten vanaf 17 tot en met 23 augustus",
+      "url": "https://www.dendermonde.be/nieuws/kruispunt-mechelse-poort-volledig-afgesloten",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-07-01T10:37:33.237613+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "Stem op jouw favoriete ideeën voor het burgerbudget!",
+      "url": "https://www.dendermonde.be/nieuws/stem-op-jouw-favoriete-ideeen-voor-het-burgerbudget",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-07-01T10:37:33.237608+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "Eksterstraat wordt landbouwweg",
+      "url": "https://www.dendermonde.be/nieuws/eksterstraat-wordt-landbouwweg",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-07-01T10:37:33.237600+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "Dendermonde kiest kunstenaar voor nieuwe fietstunnel aan Mechelse Poort",
+      "url": "https://www.dendermonde.be/nieuws/dendermonde-kiest-kunstenaar-voor-nieuwe-fietstunnel-aan-mechelse-poort",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-07-01T10:37:33.237577+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "RegioDendermondeNegen beklaagden krijgen van rechtbank Dendermonde 3 tot 9 jaar gevangenisstraf voor cocaïne-invoerdi 30 jun.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/30/negen-beklaagden-krijgen-van-rechtbank-dendermonde-3-tot-9-jaar/",
+      "bron": "VRT NWS",
+      "datum": "2026-07-01T10:37:31.718045+00:00",
+      "thema": "veiligheid"
+    },
+    {
+      "titel": "RegioGrembergenKyan (12) urenlang opgesloten nadat hij werd vergeten op schoolbus van 't Ros Beiaard: \"Dit kan niet door de beugel\"di 30 jun.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/30/jongen-12-grembergen-achtergelaten-op-schoolbus/",
+      "bron": "VRT NWS",
+      "datum": "2026-07-01T10:37:31.717963+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "RegioDendermondeAgente die geboeide psychotische man doodschoot aan AZ Sint-Blasius Dendermonde buiten vervolging gestelddi 30 jun.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/30/az-sint-blasius-dendermonde-psychotische-man-agente/",
+      "bron": "VRT NWS",
+      "datum": "2026-07-01T10:37:31.717846+00:00",
+      "thema": "natuur"
+    },
     {
       "titel": "Vlaamse overheid en lokale besturen starten nieuw traject voor mobiliteit en leefbaarheid in de noordelijke Denderregio",
       "url": "https://www.dendermonde.be/nieuws/vlaamse-overheid-en-lokale-besturen-starten-nieuw-traject-voor-mobiliteit-en-leefbaarheid-in-de-noor",
@@ -345,55 +394,6 @@
       "bron": "Dender Journaal",
       "datum": "Fri, 12 Jun 2026 16:14:47 +0000",
       "thema": "natuur"
-    },
-    {
-      "titel": "Gouverneur Carina Van Cauter bezoekt Haaltert en sociaal project Knipperkot in Denderhoutem.",
-      "url": "https://denderjournaal.be/gouverneur-carina-van-cauter-bezoekt-haaltert-en-sociaal-project-knipperkot-in-denderhoutem/",
-      "bron": "Dender Journaal",
-      "datum": "Fri, 12 Jun 2026 16:18:40 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Vraag gratis schaduwbomen aan",
-      "url": "https://www.dendermonde.be/nieuws/vraag-gratis-schaduwbomen-aan",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-12T10:56:45.027131+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "SamenlevingHoe rivaliteit tussen Aalst en Dendermonde toeristen nieuwsgierig moet makendo 11 jun.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/06/09/eeuwenoude-vete-als-toeristische-trekpleister-hoe-immaterieel-e/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-12T10:56:43.702417+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "RegioDendermondeDendermonde moet subsidie van 1,7 miljoen euro voor heraanleg Oude Vest terugbetalen door beroepsprocedures4 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/06/12/dendermonde-subsidie-terugbetalen-oude-vest-beroep/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-12T10:56:43.702342+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "RegioDendermondeOndanks eerdere aanpassingen: dit jaar al 300 meldingen over geurhinder door Empro Europe in Dendermonde3 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/06/11/dendermonde-geurhinder-stank-300-meldingen-empro-europe-pluimver/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-12T10:56:43.702236+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Eigen cijfers van de Vlaamse overheid: nieuwe stuwen helpen niet tegen wateroverlast in de Dendervallei.",
-      "url": "https://denderjournaal.be/eigen-cijfers-van-de-vlaamse-overheid-nieuwe-stuwen-helpen-niet-tegen-wateroverlast-in-de-dendervallei/",
-      "bron": "Dender Journaal",
-      "datum": "Fri, 12 Jun 2026 10:27:14 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Vernieuwing asfaltverharding Kapittelstraat",
-      "url": "https://www.dendermonde.be/nieuws/detail/454/vernieuwing-asfaltverharding-kapittelstraat",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-11T11:20:16.156015+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
@@ -431,7 +431,7 @@
     },
     {
       "week": "2026-W26",
-      "aantal": 4
+      "aantal": 11
     }
   ]
 }
