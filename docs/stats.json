@@ -1,17 +1,17 @@
 {
-  "gegenereerd": "2026-07-01T10:37:33.241492",
+  "gegenereerd": "2026-07-02T09:52:46.350583",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 45
+      "aantal": 46
     },
     {
       "naam": "algemeen",
-      "aantal": 27
+      "aantal": 26
     },
     {
       "naam": "politiek",
-      "aantal": 16
+      "aantal": 17
     },
     {
       "naam": "mobiliteit",
@@ -27,7 +27,7 @@
     },
     {
       "naam": "sport",
-      "aantal": 2
+      "aantal": 4
     }
   ],
   "bronnen": [
@@ -37,14 +37,49 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 37
+      "aantal": 38
     },
     {
       "naam": "Dender Journaal",
-      "aantal": 36
+      "aantal": 38
     }
   ],
   "recent": [
+    {
+      "titel": "Dendermonde zet in op oefenkansen Nederlands voor jongeren",
+      "url": "https://www.dendermonde.be/nieuws/dendermonde-zet-in-op-oefenkansen-nederlands-voor-jongeren",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-07-02T09:52:46.346917+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Stad Dendermonde investeert in sport met nieuwe sporthal in Grembergen",
+      "url": "https://www.dendermonde.be/nieuws/nieuwe-sporthal-in-grembergen",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-07-02T09:52:46.346895+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "RegioDendermondeDendermonde keurt eerste stap richting nieuwe sporthal in Grembergen goed, opening verwacht in 20295 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/07/01/dendermonde-sporthal-grembergen/",
+      "bron": "VRT NWS",
+      "datum": "2026-07-02T09:52:44.809134+00:00",
+      "thema": "sport"
+    },
+    {
+      "titel": "Denderleeuwenaren krijgen de kans om cursus ‘Eerste hulp & Helper’ te volgen.",
+      "url": "https://denderjournaal.be/denderleeuwenaren-krijgen-de-kans-om-cursus-eerste-hulp-helper-te-volgen/",
+      "bron": "Dender Journaal",
+      "datum": "Thu, 02 Jul 2026 08:37:48 +0000",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Aalst ziet voorlopig af van officiële zwemzone in de Dender: “Voor 2027 komt die er zeker niet”",
+      "url": "https://denderjournaal.be/aalst-ziet-voorlopig-af-van-officiele-zwemzone-in-de-dender-voor-2027-komt-die-er-zeker-niet/",
+      "bron": "Dender Journaal",
+      "datum": "Thu, 02 Jul 2026 08:52:29 +0000",
+      "thema": "sport"
+    },
     {
       "titel": "Kruispunt Mechelse Poort volledig afgesloten vanaf 17 tot en met 23 augustus",
       "url": "https://www.dendermonde.be/nieuws/kruispunt-mechelse-poort-volledig-afgesloten",
@@ -359,47 +394,12 @@
       "bron": "VRT NWS",
       "datum": "2026-06-15T12:58:35.259773+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "FC Dender versterkt medische staf met nieuwe structuur en verwelkomt Arthur Naudts en Margo Uyttersprot.",
-      "url": "https://denderjournaal.be/fc-dender-versterkt-medische-staf-met-nieuwe-structuur-en-verwelkomt-arthur-naudts-en-margo-uyttersprot/",
-      "bron": "Dender Journaal",
-      "datum": "Mon, 15 Jun 2026 12:08:15 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "RegioDendermondeDendermonde moet subsidie van 1,7 miljoen euro voor heraanleg Oude Vest terugbetalen door beroepsproceduresvr 12 jun.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/06/12/dendermonde-subsidie-terugbetalen-oude-vest-beroep/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-13T09:51:23.987000+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "RegioDendermondeOndanks eerdere aanpassingen: dit jaar al 300 meldingen over geurhinder door Empro Europe in Dendermondevr 12 jun.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/06/11/dendermonde-geurhinder-stank-300-meldingen-empro-europe-pluimver/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-13T09:51:23.986928+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "RegioDendermondeKlooster in Dendermonde verzet zich tegen straatnaam voor verdwenen zuster Gabriëlle: \"Kies naam die ons allemaal eert\"vr 12 jun.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/06/12/dendermonde-zuster-gabrielle-straatnaam-petitie-sint-vicentiuskl/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-13T09:51:23.986830+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Creativiteit voor vrede: leerlingen GO! Dender schitteren in Lions Vredesposterwedstrijd.",
-      "url": "https://denderjournaal.be/creativiteit-voor-vrede-leerlingen-go-dender-schitteren-in-lions-vredesposterwedstrijd/",
-      "bron": "Dender Journaal",
-      "datum": "Fri, 12 Jun 2026 16:14:47 +0000",
-      "thema": "natuur"
     }
   ],
   "weekly": [
     {
       "week": "2026-W18",
-      "aantal": 13
+      "aantal": 9
     },
     {
       "week": "2026-W19",
@@ -431,7 +431,7 @@
     },
     {
       "week": "2026-W26",
-      "aantal": 11
+      "aantal": 16
     }
   ]
 }
