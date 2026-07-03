@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-07-02T09:52:46.350583",
+  "gegenereerd": "2026-07-03T09:49:45.593558",
   "themas": [
     {
       "naam": "natuur",
@@ -7,26 +7,26 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 26
+      "aantal": 28
     },
     {
       "naam": "politiek",
-      "aantal": 17
+      "aantal": 18
     },
     {
       "naam": "mobiliteit",
       "aantal": 14
     },
     {
-      "naam": "cultuur",
-      "aantal": 7
+      "naam": "sport",
+      "aantal": 5
     },
     {
       "naam": "veiligheid",
       "aantal": 4
     },
     {
-      "naam": "sport",
+      "naam": "cultuur",
       "aantal": 4
     }
   ],
@@ -37,7 +37,7 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 38
+      "aantal": 39
     },
     {
       "naam": "Dender Journaal",
@@ -45,6 +45,41 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Word natuurgids in Dendermonde",
+      "url": "https://www.dendermonde.be/nieuws/word-natuurgids-in-dendermonde",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-07-03T09:49:45.589594+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Openbaar onderzoek over de verklaring openbaar nut van Aquafin",
+      "url": "https://www.dendermonde.be/nieuws/openbaar-onderzoek-over-aanvraag-tot-verklaring-openbaar-nut-van-aquafin",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-07-03T09:49:45.589579+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Stad Dendermonde en Ligo bundelen krachten voor meer digitale inclusie",
+      "url": "https://www.dendermonde.be/nieuws/stad-dendermonde-en-ligo-bundelen-krachten-voor-meer-digitale-inclusie",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-07-03T09:49:45.589557+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "RegioDendermondeDendermonde keurt eerste stap richting nieuwe sporthal in Grembergen goed, opening verwacht in 2029do 2 jul.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/07/01/dendermonde-sporthal-grembergen/",
+      "bron": "VRT NWS",
+      "datum": "2026-07-03T09:49:43.960878+00:00",
+      "thema": "sport"
+    },
+    {
+      "titel": "RegioAppelsLandbouwer uit Appels wint Gouden Grutto voor bescherming kievitsnesten: \"Slechts een kleine moeite om even uit de tractor te stappen\"do 2 jul.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/07/02/gouden-grutto-cederic-fierlafijn-appels-dendermonde/",
+      "bron": "VRT NWS",
+      "datum": "2026-07-03T09:49:43.960776+00:00",
+      "thema": "algemeen"
+    },
     {
       "titel": "Dendermonde zet in op oefenkansen Nederlands voor jongeren",
       "url": "https://www.dendermonde.be/nieuws/dendermonde-zet-in-op-oefenkansen-nederlands-voor-jongeren",
@@ -359,47 +394,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-06-16T12:04:37.489980+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "Warme dagen, zorg dragen!",
-      "url": "https://www.dendermonde.be/nieuws/warme-dagen-zorg-dragen",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-16T12:04:37.489960+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "RegioDendermondeVier jaar cel voor dader van steekpartij aan station van Dendermonde2 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/06/16/dader-steekpartij-dendermonde-vier-jaar-cel/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-16T12:04:35.580331+00:00",
-      "thema": "veiligheid"
-    },
-    {
-      "titel": "RegioDendermondeFarys restaureert beschermde watertoren uit 1924 in Dendermonde: werken klaar tegen midden 20272 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/06/16/restauratie-historische-watertoren-bastion-v/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-16T12:04:35.580254+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Extra camera’s versterken veiligheidsnet rond station van Denderleeuw en andere hotspots.",
-      "url": "https://denderjournaal.be/extra-cameras-versterken-veiligheidsnet-rond-station-van-denderleeuw-en-andere-hotspots/",
-      "bron": "Dender Journaal",
-      "datum": "Mon, 15 Jun 2026 21:39:50 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Media & Televisie\"Ontredderd door jouw vertrek\": De Mol-finalist Michaël Moens overledenzo 14 jun.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/06/14/de-mol-finalist-michael-moens-overleden/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-15T12:58:35.259773+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
     {
       "week": "2026-W18",
-      "aantal": 9
+      "aantal": 6
     },
     {
       "week": "2026-W19",
@@ -431,7 +431,7 @@
     },
     {
       "week": "2026-W26",
-      "aantal": 16
+      "aantal": 21
     }
   ]
 }
