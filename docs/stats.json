@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-07-03T09:49:45.593558",
+  "gegenereerd": "2026-07-04T09:13:54.717835",
   "themas": [
     {
       "naam": "natuur",
@@ -7,7 +7,7 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 28
+      "aantal": 26
     },
     {
       "naam": "politiek",
@@ -33,7 +33,7 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 42
+      "aantal": 40
     },
     {
       "naam": "VRT NWS",
@@ -45,6 +45,13 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Ldc Zilverpand verhuist en krijgt nieuwe naam: ldc Denderpoort",
+      "url": "https://www.dendermonde.be/nieuws/ldc-zilverpand-verhuist-en-krijgt-nieuwe-naam-ldc-denderpoort",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-07-04T09:13:54.712628+00:00",
+      "thema": "natuur"
+    },
     {
       "titel": "Word natuurgids in Dendermonde",
       "url": "https://www.dendermonde.be/nieuws/word-natuurgids-in-dendermonde",
@@ -387,19 +394,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-06-16T12:04:37.489985+00:00",
       "thema": "politiek"
-    },
-    {
-      "titel": "Lokaal dienstencentrum Zilverpand verhuist naar Papiermolenstraat",
-      "url": "https://www.dendermonde.be/nieuws/lokaal-dienstencentrum-zilverpand-verhuist-naar-papiermolenstraat",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-16T12:04:37.489980+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
     {
       "week": "2026-W18",
-      "aantal": 6
+      "aantal": 4
     },
     {
       "week": "2026-W19",
@@ -431,7 +431,7 @@
     },
     {
       "week": "2026-W26",
-      "aantal": 21
+      "aantal": 22
     }
   ]
 }
