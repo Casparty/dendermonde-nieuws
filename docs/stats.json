@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-07-04T09:13:54.717835",
+  "gegenereerd": "2026-07-05T09:35:03.807668",
   "themas": [
     {
       "naam": "natuur",
@@ -27,7 +27,7 @@
     },
     {
       "naam": "cultuur",
-      "aantal": 4
+      "aantal": 3
     }
   ],
   "bronnen": [
@@ -36,15 +36,29 @@
       "aantal": 40
     },
     {
-      "naam": "VRT NWS",
+      "naam": "Dender Journaal",
       "aantal": 39
     },
     {
-      "naam": "Dender Journaal",
-      "aantal": 38
+      "naam": "VRT NWS",
+      "aantal": 37
     }
   ],
   "recent": [
+    {
+      "titel": "RegioScheldelandVier historische locomotieven en een Sovjetboot: Scheldeland in Stoom viert 40 jaar museumlijn en 100 jaar NMBSza 4 jul.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/07/04/scheldeland-in-stoom-treinen-dendermonde-baasrode-puurs/",
+      "bron": "VRT NWS",
+      "datum": "2026-07-05T09:35:02.494943+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "Zuid-Afrikaan Rhys Burell wint spannende sprint in Denderwindeke.",
+      "url": "https://denderjournaal.be/zuid-afrikaan-rhys-burell-wint-spannende-sprint-in-denderwindeke/",
+      "bron": "Dender Journaal",
+      "datum": "Sat, 04 Jul 2026 18:55:23 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "Ldc Zilverpand verhuist en krijgt nieuwe naam: ldc Denderpoort",
       "url": "https://www.dendermonde.be/nieuws/ldc-zilverpand-verhuist-en-krijgt-nieuwe-naam-ldc-denderpoort",
@@ -380,26 +394,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-06-16T12:04:37.489992+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "Stad zet volgende stap voor Bomvrije Kazerne met vernieuwde samenwerking en erfgoedimpuls",
-      "url": "https://www.dendermonde.be/nieuws/stad-zet-volgende-stap-voor-bomvrije-kazerne-met-vernieuwde-samenwerking-en-erfgoedimpuls",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-16T12:04:37.489988+00:00",
-      "thema": "politiek"
-    },
-    {
-      "titel": "Oude Vest: stad blijft inzetten op herinrichting ondanks terugbetaling subsidie",
-      "url": "https://www.dendermonde.be/nieuws/oude-vest-stad-blijft-inzetten-op-herinrichting-ondanks-terugbetaling-subsidie",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-16T12:04:37.489985+00:00",
-      "thema": "politiek"
     }
   ],
   "weekly": [
     {
       "week": "2026-W18",
-      "aantal": 4
+      "aantal": 2
     },
     {
       "week": "2026-W19",
@@ -431,7 +431,7 @@
     },
     {
       "week": "2026-W26",
-      "aantal": 22
+      "aantal": 24
     }
   ]
 }
