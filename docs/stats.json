@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-07-06T11:24:39.081927",
+  "gegenereerd": "2026-07-07T10:19:03.404315",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 46
+      "aantal": 45
     },
     {
       "naam": "algemeen",
@@ -15,7 +15,7 @@
     },
     {
       "naam": "mobiliteit",
-      "aantal": 14
+      "aantal": 15
     },
     {
       "naam": "sport",
@@ -28,6 +28,10 @@
     {
       "naam": "cultuur",
       "aantal": 3
+    },
+    {
+      "naam": "economie",
+      "aantal": 1
     }
   ],
   "bronnen": [
@@ -41,10 +45,24 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 37
+      "aantal": 38
     }
   ],
   "recent": [
+    {
+      "titel": "Projectoproep #Een Hart voor Scheldevallei ‘Verbind MENS en OMGEVING’",
+      "url": "https://www.dendermonde.be/nieuws/een-hart-voor-scheldevallei",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-07-07T10:19:03.400618+00:00",
+      "thema": "economie"
+    },
+    {
+      "titel": "MobiliteitVermijd de N41 tussen Sint-Niklaas en Dendermonde: asfalteerwerken in Hamme zorgen voor zware vertragingma 6 jul.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/07/06/file-n41-hamme-werken-sint-niklaas-dendermonde/",
+      "bron": "VRT NWS",
+      "datum": "2026-07-07T10:19:02.156670+00:00",
+      "thema": "mobiliteit"
+    },
     {
       "titel": "RegioScheldelandVier historische locomotieven en een Sovjetboot: Scheldeland in Stoom viert 40 jaar museumlijn en 100 jaar NMBSza 4 jul.",
       "url": "https://www.vrt.be/vrtnws/nl/2026/07/04/scheldeland-in-stoom-treinen-dendermonde-baasrode-puurs/",
@@ -380,26 +398,12 @@
       "bron": "VRT NWS",
       "datum": "2026-06-17T11:28:36.701319+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "Café Tuup en Eetcafé Winnik Plosj organiseren sneukeltocht voor het goede doel tussen Meerbeke en Denderwindeke.",
-      "url": "https://denderjournaal.be/cafe-tuup-en-eetcafe-winnik-plosj-organiseren-sneukeltocht-voor-het-goede-doel-tussen-meerbeke-en-denderwindeke/",
-      "bron": "Dender Journaal",
-      "datum": "Tue, 16 Jun 2026 21:44:42 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Vraag gratis schaduwbomen aan via Airkoe",
-      "url": "https://www.dendermonde.be/nieuws/vraag-gratis-schaduwbomen-aan",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-16T12:04:37.489992+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
     {
       "week": "2026-W19",
-      "aantal": 12
+      "aantal": 11
     },
     {
       "week": "2026-W20",
@@ -428,6 +432,10 @@
     {
       "week": "2026-W26",
       "aantal": 24
+    },
+    {
+      "week": "2026-W27",
+      "aantal": 2
     }
   ]
 }
