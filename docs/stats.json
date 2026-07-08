@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-07-07T10:19:03.404315",
+  "gegenereerd": "2026-07-08T09:23:17.424946",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 45
+      "aantal": 46
     },
     {
       "naam": "algemeen",
@@ -37,7 +37,7 @@
   "bronnen": [
     {
       "naam": "Stad Dendermonde",
-      "aantal": 40
+      "aantal": 41
     },
     {
       "naam": "Dender Journaal",
@@ -49,6 +49,13 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Dendermonde zingt én supportert: aangepaste timing voor Vlaanderen Zingt en de Rode Duivels op groot scherm",
+      "url": "https://www.dendermonde.be/nieuws/dendermonde-zingt-en-supportert-aangepaste-timing-voor-vlaanderen-zingt-en-de-rode-duivels-op-groot-",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-07-08T09:23:17.421244+00:00",
+      "thema": "natuur"
+    },
     {
       "titel": "Projectoproep #Een Hart voor Scheldevallei ‘Verbind MENS en OMGEVING’",
       "url": "https://www.dendermonde.be/nieuws/een-hart-voor-scheldevallei",
@@ -391,19 +398,12 @@
       "bron": "VRT NWS",
       "datum": "2026-06-17T11:28:36.701426+00:00",
       "thema": "veiligheid"
-    },
-    {
-      "titel": "RegioDendermondeFarys restaureert beschermde watertoren uit 1924 in Dendermonde: werken klaar tegen midden 2027di 16 jun.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/06/16/restauratie-historische-watertoren-bastion-v/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-17T11:28:36.701319+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
     {
       "week": "2026-W19",
-      "aantal": 11
+      "aantal": 8
     },
     {
       "week": "2026-W20",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W27",
-      "aantal": 2
+      "aantal": 3
     }
   ]
 }
