@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-07-08T09:23:17.424946",
+  "gegenereerd": "2026-07-09T10:18:26.542682",
   "themas": [
     {
       "naam": "natuur",
@@ -7,11 +7,11 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 26
+      "aantal": 25
     },
     {
       "naam": "politiek",
-      "aantal": 18
+      "aantal": 17
     },
     {
       "naam": "mobiliteit",
@@ -19,7 +19,7 @@
     },
     {
       "naam": "sport",
-      "aantal": 5
+      "aantal": 6
     },
     {
       "naam": "veiligheid",
@@ -36,19 +36,40 @@
   ],
   "bronnen": [
     {
-      "naam": "Stad Dendermonde",
+      "naam": "Dender Journaal",
       "aantal": 41
     },
     {
-      "naam": "Dender Journaal",
-      "aantal": 39
+      "naam": "Stad Dendermonde",
+      "aantal": 40
     },
     {
       "naam": "VRT NWS",
-      "aantal": 38
+      "aantal": 36
     }
   ],
   "recent": [
+    {
+      "titel": "WK voetbal 2026\"Wie wil De Romeo's zien als de Rode Duivels spelen?\" Artiesten wijzigen plannen voor kwartfinale op WKwo 8 jul.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/07/08/rode-duivels-artiesten-uitstel-halve-neuro/",
+      "bron": "VRT NWS",
+      "datum": "2026-07-09T10:18:24.671869+00:00",
+      "thema": "sport"
+    },
+    {
+      "titel": "Denderleeuw zet maatschappelijk werkers in de bloemetjes voor 50 jaar Sociaal Huis.",
+      "url": "https://denderjournaal.be/denderleeuw-zet-maatschappelijk-werkers-in-de-bloemetjes-voor-50-jaar-sociaal-huis/",
+      "bron": "Dender Journaal",
+      "datum": "Wed, 08 Jul 2026 22:29:47 +0000",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Snelheidscontroles in Denderleeuw en Haaltert: 95 bestuurders betrapt op te snel rijden.",
+      "url": "https://denderjournaal.be/snelheidscontroles-in-denderleeuw-en-haaltert-95-bestuurders-betrapt-op-te-snel-rijden/",
+      "bron": "Dender Journaal",
+      "datum": "Wed, 08 Jul 2026 22:35:44 +0000",
+      "thema": "politiek"
+    },
     {
       "titel": "Dendermonde zingt én supportert: aangepaste timing voor Vlaanderen Zingt en de Rode Duivels op groot scherm",
       "url": "https://www.dendermonde.be/nieuws/dendermonde-zingt-en-supportert-aangepaste-timing-voor-vlaanderen-zingt-en-de-rode-duivels-op-groot-",
@@ -377,33 +398,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-06-19T11:14:31.113254+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "De Toverboon: een nieuwe brede school en multifunctionele campus als bruisend hart van de wijk",
-      "url": "https://www.dendermonde.be/nieuws/de-toverboon-een-nieuwe-brede-school-en-multifunctionele-campus-als-bruisend-hart-van-de-wijk",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-18T11:04:48.783713+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Futsal Club Denderland A.-Ninove wint 1.500 euro dankzij doelpunt van Dodi Lukebakio en ING Belgium.",
-      "url": "https://denderjournaal.be/futsal-club-denderland-a-ninove-wint-1-500-euro-dankzij-doelpunt-van-dodi-lukebakio-en-ing-belgium/",
-      "bron": "Dender Journaal",
-      "datum": "Thu, 18 Jun 2026 11:03:21 +0000",
-      "thema": "sport"
-    },
-    {
-      "titel": "RegioDendermondeVier jaar cel voor dader van steekpartij aan station van Dendermondedi 16 jun.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/06/16/dader-steekpartij-dendermonde-vier-jaar-cel/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-17T11:28:36.701426+00:00",
-      "thema": "veiligheid"
     }
   ],
   "weekly": [
     {
       "week": "2026-W19",
-      "aantal": 8
+      "aantal": 6
     },
     {
       "week": "2026-W20",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W27",
-      "aantal": 3
+      "aantal": 6
     }
   ]
 }
