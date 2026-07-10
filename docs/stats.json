@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-07-09T10:18:26.542682",
+  "gegenereerd": "2026-07-10T10:14:53.065301",
   "themas": [
     {
       "naam": "natuur",
@@ -7,15 +7,15 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 25
+      "aantal": 21
     },
     {
       "naam": "politiek",
-      "aantal": 17
+      "aantal": 15
     },
     {
       "naam": "mobiliteit",
-      "aantal": 15
+      "aantal": 12
     },
     {
       "naam": "sport",
@@ -41,14 +41,21 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 40
+      "aantal": 38
     },
     {
       "naam": "VRT NWS",
-      "aantal": 36
+      "aantal": 29
     }
   ],
   "recent": [
+    {
+      "titel": "Nieuw parkeerplan vanaf woensdag 22 jui",
+      "url": "https://www.dendermonde.be/nieuws/nieuw-parkeerplan-vanaf-woensdag-22-jui",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-07-10T10:14:53.059662+00:00",
+      "thema": "natuur"
+    },
     {
       "titel": "WK voetbal 2026\"Wie wil De Romeo's zien als de Rode Duivels spelen?\" Artiesten wijzigen plannen voor kwartfinale op WKwo 8 jul.",
       "url": "https://www.vrt.be/vrtnws/nl/2026/07/08/rode-duivels-artiesten-uitstel-halve-neuro/",
@@ -391,19 +398,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-06-19T11:14:31.113275+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "Code oranje voor onweer",
-      "url": "https://www.dendermonde.be/nieuws/code-oranje-voor-onweer",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-19T11:14:31.113254+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
     {
       "week": "2026-W19",
-      "aantal": 6
+      "aantal": 3
     },
     {
       "week": "2026-W20",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W27",
-      "aantal": 6
+      "aantal": 7
     }
   ]
 }
