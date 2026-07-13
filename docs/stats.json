@@ -1,13 +1,13 @@
 {
-  "gegenereerd": "2026-07-12T08:58:02.234138",
+  "gegenereerd": "2026-07-13T10:16:05.868874",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 45
+      "aantal": 42
     },
     {
       "naam": "algemeen",
-      "aantal": 18
+      "aantal": 17
     },
     {
       "naam": "politiek",
@@ -15,7 +15,7 @@
     },
     {
       "naam": "mobiliteit",
-      "aantal": 10
+      "aantal": 11
     },
     {
       "naam": "sport",
@@ -37,18 +37,25 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 41
+      "aantal": 42
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 35
+      "aantal": 34
     },
     {
       "naam": "VRT NWS",
-      "aantal": 24
+      "aantal": 21
     }
   ],
   "recent": [
+    {
+      "titel": "Nieuwe Denderbrug lijkt eindelijk dichterbij: stadsbestuur bevestigt komst van lang beloofde voetgangers- en fietsersbrug.",
+      "url": "https://denderjournaal.be/nieuwe-denderbrug-lijkt-eindelijk-dichterbij-stadsbestuur-bevestigt-komst-van-lang-beloofde-voetgangers-en-fietsersbrug/",
+      "bron": "Dender Journaal",
+      "datum": "Sun, 12 Jul 2026 09:33:19 +0000",
+      "thema": "mobiliteit"
+    },
     {
       "titel": "Nieuw parkeerplan vanaf woensdag 22 jui",
       "url": "https://www.dendermonde.be/nieuws/nieuw-parkeerplan-vanaf-woensdag-22-jui",
@@ -391,13 +398,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-06-19T11:14:31.113282+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "Reus Hagewijkpark wordt inclusiever: speelplek voor elk kind",
-      "url": "https://www.dendermonde.be/nieuws/reus-hagewijkpark-wordt-inclusiever-speelplek-voor-elk-kind",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-19T11:14:31.113275+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
@@ -432,6 +432,10 @@
     {
       "week": "2026-W27",
       "aantal": 7
+    },
+    {
+      "week": "2026-W28",
+      "aantal": 1
     }
   ]
 }
