@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-07-13T10:16:05.868874",
+  "gegenereerd": "2026-07-14T08:59:37.663056",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 42
+      "aantal": 39
     },
     {
       "naam": "algemeen",
@@ -19,7 +19,7 @@
     },
     {
       "naam": "sport",
-      "aantal": 6
+      "aantal": 7
     },
     {
       "naam": "veiligheid",
@@ -31,24 +31,38 @@
     },
     {
       "naam": "economie",
-      "aantal": 1
+      "aantal": 2
     }
   ],
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 42
+      "aantal": 43
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 34
+      "aantal": 35
     },
     {
       "naam": "VRT NWS",
-      "aantal": 21
+      "aantal": 18
     }
   ],
   "recent": [
+    {
+      "titel": "Pilootproject Baasrode Renoveert",
+      "url": "https://www.dendermonde.be/nieuws/Baasrode Renoveert",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-07-14T08:59:37.659219+00:00",
+      "thema": "economie"
+    },
+    {
+      "titel": "Lieje Boys organiseren vierde supportersavond met coach en spelers van Dender: “De familiale band met de club staat centraal”",
+      "url": "https://denderjournaal.be/lieje-boys-organiseren-vierde-supportersavond-met-coach-en-spelers-van-dender-de-familiale-band-met-de-club-staat-centraal/",
+      "bron": "Dender Journaal",
+      "datum": "Mon, 13 Jul 2026 16:38:44 +0000",
+      "thema": "sport"
+    },
     {
       "titel": "Nieuwe Denderbrug lijkt eindelijk dichterbij: stadsbestuur bevestigt komst van lang beloofde voetgangers- en fietsersbrug.",
       "url": "https://denderjournaal.be/nieuwe-denderbrug-lijkt-eindelijk-dichterbij-stadsbestuur-bevestigt-komst-van-lang-beloofde-voetgangers-en-fietsersbrug/",
@@ -384,20 +398,6 @@
       "bron": "Dender Journaal",
       "datum": "Mon, 22 Jun 2026 11:49:59 +0000",
       "thema": "natuur"
-    },
-    {
-      "titel": "Futsal Club Denderland trekt naar internationaal toernooi in Duitsland.",
-      "url": "https://denderjournaal.be/futsal-club-denderland-trekt-naar-internationaal-toernooi-in-duitsland/",
-      "bron": "Dender Journaal",
-      "datum": "Fri, 19 Jun 2026 14:08:08 +0000",
-      "thema": "sport"
-    },
-    {
-      "titel": "Zomerse speelstraten 2026",
-      "url": "https://www.dendermonde.be/nieuws/zomerse-speelstraten-2026",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-19T11:14:31.113282+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W28",
-      "aantal": 1
+      "aantal": 3
     }
   ]
 }
