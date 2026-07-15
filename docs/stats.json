@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-07-14T08:59:37.663056",
+  "gegenereerd": "2026-07-15T09:04:37.785126",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 39
+      "aantal": 40
     },
     {
       "naam": "algemeen",
@@ -23,7 +23,7 @@
     },
     {
       "naam": "veiligheid",
-      "aantal": 4
+      "aantal": 5
     },
     {
       "naam": "cultuur",
@@ -41,7 +41,7 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 35
+      "aantal": 37
     },
     {
       "naam": "VRT NWS",
@@ -49,6 +49,20 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Code oranje: risico op natuurbrand en vuurverbod",
+      "url": "https://www.dendermonde.be/nieuws/code-oranje-natuurbrand",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-07-15T09:04:37.778146+00:00",
+      "thema": "veiligheid"
+    },
+    {
+      "titel": "Tijdelijk onttrekkingsverbod onbevaarbare waterlopen",
+      "url": "https://www.dendermonde.be/nieuws/onttrekkingsverbod-onbevaarbare-waterlopen",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-07-15T09:04:37.778127+00:00",
+      "thema": "natuur"
+    },
     {
       "titel": "Pilootproject Baasrode Renoveert",
       "url": "https://www.dendermonde.be/nieuws/Baasrode Renoveert",
@@ -384,26 +398,12 @@
       "bron": "Dender Journaal",
       "datum": "Tue, 23 Jun 2026 08:42:30 +0000",
       "thema": "natuur"
-    },
-    {
-      "titel": "Aandacht: Zet je afval op tijd buiten, ophaling al vanaf 6 uur",
-      "url": "https://www.dendermonde.be/nieuws/aandacht-zet-je-afval-op-tijd-buiten-ophaling-al-vanaf-6-uur",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-22T12:43:27.930450+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "30 Gouden Schakels gehuldigd in Denderleeuw.",
-      "url": "https://denderjournaal.be/30-gouden-schakels-gehuldigd-in-denderleeuw/",
-      "bron": "Dender Journaal",
-      "datum": "Mon, 22 Jun 2026 11:49:59 +0000",
-      "thema": "natuur"
     }
   ],
   "weekly": [
     {
       "week": "2026-W20",
-      "aantal": 15
+      "aantal": 13
     },
     {
       "week": "2026-W21",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W28",
-      "aantal": 3
+      "aantal": 5
     }
   ]
 }
