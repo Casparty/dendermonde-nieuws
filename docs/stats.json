@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-07-16T09:08:14.623236",
+  "gegenereerd": "2026-07-17T09:03:13.139661",
   "themas": [
     {
       "naam": "natuur",
@@ -7,11 +7,11 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 16
+      "aantal": 13
     },
     {
       "naam": "politiek",
-      "aantal": 13
+      "aantal": 11
     },
     {
       "naam": "mobiliteit",
@@ -23,7 +23,7 @@
     },
     {
       "naam": "veiligheid",
-      "aantal": 5
+      "aantal": 4
     },
     {
       "naam": "cultuur",
@@ -41,14 +41,21 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 37
+      "aantal": 33
     },
     {
       "naam": "VRT NWS",
-      "aantal": 17
+      "aantal": 15
     }
   ],
   "recent": [
+    {
+      "titel": "Nieuw parkeerplan vanaf woensdag 22 juli",
+      "url": "https://www.dendermonde.be/nieuws/nieuw-parkeerplan-vanaf-woensdag-22-jui",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-07-17T09:03:13.133675+00:00",
+      "thema": "natuur"
+    },
     {
       "titel": "Code oranje: risico op natuurbrand en vuurverbod",
       "url": "https://www.dendermonde.be/nieuws/code-oranje-natuurbrand",
@@ -391,19 +398,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-06-23T10:28:50.212923+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "Huis van het Kind verhuist tijdelijk naar ’t Kasteeltje door aanhoudende hitte in Denderleeuw.",
-      "url": "https://denderjournaal.be/huis-van-het-kind-verhuist-tijdelijk-naar-t-kasteeltje-door-aanhoudende-hitte-in-denderleeuw/",
-      "bron": "Dender Journaal",
-      "datum": "Tue, 23 Jun 2026 08:42:30 +0000",
-      "thema": "natuur"
     }
   ],
   "weekly": [
     {
       "week": "2026-W20",
-      "aantal": 9
+      "aantal": 3
     },
     {
       "week": "2026-W21",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W28",
-      "aantal": 5
+      "aantal": 6
     }
   ]
 }
