@@ -1,13 +1,13 @@
 {
-  "gegenereerd": "2026-07-17T09:03:13.139661",
+  "gegenereerd": "2026-07-18T08:43:14.295484",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 40
+      "aantal": 39
     },
     {
       "naam": "algemeen",
-      "aantal": 13
+      "aantal": 14
     },
     {
       "naam": "politiek",
@@ -23,7 +23,7 @@
     },
     {
       "naam": "veiligheid",
-      "aantal": 4
+      "aantal": 3
     },
     {
       "naam": "cultuur",
@@ -41,14 +41,21 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 33
+      "aantal": 34
     },
     {
       "naam": "VRT NWS",
-      "aantal": 15
+      "aantal": 13
     }
   ],
   "recent": [
+    {
+      "titel": "Denk mee over de toekomst van binnenplein De Dammen",
+      "url": "https://www.dendermonde.be/nieuws/denk-mee-over-de-toekomst-van-binnenplein-de-dammen",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-07-18T08:43:14.289831+00:00",
+      "thema": "algemeen"
+    },
     {
       "titel": "Nieuw parkeerplan vanaf woensdag 22 juli",
       "url": "https://www.dendermonde.be/nieuws/nieuw-parkeerplan-vanaf-woensdag-22-jui",
@@ -391,19 +398,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-06-23T10:28:50.212942+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "22 tot 28 juni is de 'Week van de invasieve uitheemse soorten'",
-      "url": "https://www.dendermonde.be/nieuws/week-van-de-invasieve-uitheemse-soorten",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-23T10:28:50.212923+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
     {
       "week": "2026-W20",
-      "aantal": 3
+      "aantal": 1
     },
     {
       "week": "2026-W21",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W28",
-      "aantal": 6
+      "aantal": 7
     }
   ]
 }
