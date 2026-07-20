@@ -1,13 +1,13 @@
 {
-  "gegenereerd": "2026-07-19T09:01:26.936494",
+  "gegenereerd": "2026-07-20T09:49:59.295933",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 39
+      "aantal": 38
     },
     {
       "naam": "algemeen",
-      "aantal": 13
+      "aantal": 12
     },
     {
       "naam": "politiek",
@@ -19,7 +19,7 @@
     },
     {
       "naam": "sport",
-      "aantal": 7
+      "aantal": 8
     },
     {
       "naam": "veiligheid",
@@ -41,7 +41,7 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 33
+      "aantal": 32
     },
     {
       "naam": "VRT NWS",
@@ -49,6 +49,20 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Nieuwe sportvloer verhoogt comfort en veiligheid in sporthal Grembergen",
+      "url": "https://www.dendermonde.be/nieuws/nieuwe-sportvloer-verhoogt-comfort-en-veiligheid-in-sporthal-grembergen",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-07-20T09:49:59.291202+00:00",
+      "thema": "sport"
+    },
+    {
+      "titel": "Baasrode renoveert!",
+      "url": "https://www.dendermonde.be/nieuws/baasrode-renoveert",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-07-20T09:49:59.291180+00:00",
+      "thema": "algemeen"
+    },
     {
       "titel": "Denk mee over de toekomst van binnenplein De Dammen",
       "url": "https://www.dendermonde.be/nieuws/denk-mee-over-de-toekomst-van-binnenplein-de-dammen",
@@ -384,27 +398,9 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-06-24T10:16:02.845075+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "Eerste broedsucces voor ooievaars in Boonwijk",
-      "url": "https://www.dendermonde.be/nieuws/eerste-broedsucces-voor-ooievaars-in-boonwijk",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-23T10:28:50.212948+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Gewijzigd aanbod De Lijn vanaf 1 juli",
-      "url": "https://www.dendermonde.be/nieuws/gewijzigd-aanbod-de-lijn-vanaf-1-juli",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-23T10:28:50.212942+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
-    {
-      "week": "2026-W20",
-      "aantal": 1
-    },
     {
       "week": "2026-W21",
       "aantal": 17
@@ -436,6 +432,10 @@
     {
       "week": "2026-W28",
       "aantal": 7
+    },
+    {
+      "week": "2026-W29",
+      "aantal": 2
     }
   ]
 }
