@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-07-23T09:19:17.260571",
+  "gegenereerd": "2026-07-24T09:14:34.776811",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 38
+      "aantal": 39
     },
     {
       "naam": "politiek",
@@ -14,19 +14,19 @@
       "aantal": 11
     },
     {
-      "naam": "algemeen",
-      "aantal": 11
-    },
-    {
       "naam": "sport",
       "aantal": 8
     },
     {
-      "naam": "veiligheid",
-      "aantal": 3
+      "naam": "algemeen",
+      "aantal": 8
     },
     {
       "naam": "cultuur",
+      "aantal": 4
+    },
+    {
+      "naam": "veiligheid",
       "aantal": 3
     },
     {
@@ -37,11 +37,11 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 43
+      "aantal": 45
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 31
+      "aantal": 28
     },
     {
       "naam": "VRT NWS",
@@ -49,6 +49,20 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Stand van zaken Ruimtelijk Uitvoeringsplan (RUP) bedrijvenzone Dender-Noord.",
+      "url": "https://denderjournaal.be/stand-van-zaken-ruimtelijk-uitvoeringsplan-rup-bedrijvenzone-dender-noord/",
+      "bron": "Dender Journaal",
+      "datum": "Thu, 23 Jul 2026 14:39:15 +0000",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Denderbelle maakt zich op voor elfde wielerfeest: Gilbert Philips bouwt verder aan een vaste waarde met nieuwelingen- en juniorenkoersen.",
+      "url": "https://denderjournaal.be/denderbelle-maakt-zich-op-voor-elfde-wielerfeest-gilbert-philips-bouwt-verder-aan-een-vaste-waarde-met-nieuwelingen-en-juniorenkoersen/",
+      "bron": "Dender Journaal",
+      "datum": "Fri, 24 Jul 2026 07:44:54 +0000",
+      "thema": "cultuur"
+    },
     {
       "titel": "Nieuwe sportvloer verhoogt comfort en veiligheid in sporthal Grembergen",
       "url": "https://www.dendermonde.be/nieuws/nieuwe-sportvloer-verhoogt-comfort-en-veiligheid-in-sporthal-grembergen",
@@ -384,26 +398,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-06-25T10:11:37.239989+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "Uitzonderlijke hitte: zwembad langer open en extra maatregelen voor evenementen",
-      "url": "https://www.dendermonde.be/nieuws/warme-dagen-zorg-dragen",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-25T10:11:37.239976+00:00",
-      "thema": "cultuur"
-    },
-    {
-      "titel": "Maatregelen afvalinzameling door uitzonderlijke hitte",
-      "url": "https://www.dendermonde.be/nieuws/maatregelen-afvalinzameling-door-uitzonderlijke-hitte",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-24T10:16:02.845075+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
     {
       "week": "2026-W21",
-      "aantal": 12
+      "aantal": 10
     },
     {
       "week": "2026-W22",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W29",
-      "aantal": 2
+      "aantal": 4
     }
   ]
 }
