@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-07-24T09:14:34.776811",
+  "gegenereerd": "2026-07-25T08:54:28.903003",
   "themas": [
     {
       "naam": "natuur",
@@ -19,11 +19,11 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 8
+      "aantal": 7
     },
     {
       "naam": "cultuur",
-      "aantal": 4
+      "aantal": 5
     },
     {
       "naam": "veiligheid",
@@ -37,11 +37,11 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 45
+      "aantal": 46
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 28
+      "aantal": 27
     },
     {
       "naam": "VRT NWS",
@@ -49,6 +49,13 @@
     }
   ],
   "recent": [
+    {
+      "titel": "’t Meiske van den Dender strijkt neer in Passage 18: reizend kunstwerk brengt Denderregio dichter bij elkaar.",
+      "url": "https://denderjournaal.be/t-meiske-van-den-dender-strijkt-neer-in-passage-18-reizend-kunstwerk-brengt-denderregio-dichter-bij-elkaar/",
+      "bron": "Dender Journaal",
+      "datum": "Fri, 24 Jul 2026 20:45:35 +0000",
+      "thema": "cultuur"
+    },
     {
       "titel": "Stand van zaken Ruimtelijk Uitvoeringsplan (RUP) bedrijvenzone Dender-Noord.",
       "url": "https://denderjournaal.be/stand-van-zaken-ruimtelijk-uitvoeringsplan-rup-bedrijvenzone-dender-noord/",
@@ -391,19 +398,12 @@
       "bron": "Dender Journaal",
       "datum": "Fri, 26 Jun 2026 09:20:25 +0000",
       "thema": "mobiliteit"
-    },
-    {
-      "titel": "Gefaseerde invoering nieuw parkeerplan door tekort aan onderdelen voor parkeerautomaten",
-      "url": "https://www.dendermonde.be/nieuws/detail/470/gefaseerde-invoering-nieuw-parkeerplan-door-tekort-aan-onderdelen-voor-parkeerautomaten",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-25T10:11:37.239989+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
     {
       "week": "2026-W21",
-      "aantal": 10
+      "aantal": 5
     },
     {
       "week": "2026-W22",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W29",
-      "aantal": 4
+      "aantal": 5
     }
   ]
 }
