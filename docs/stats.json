@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-07-25T08:54:28.903003",
+  "gegenereerd": "2026-07-26T09:07:29.239209",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 39
+      "aantal": 38
     },
     {
       "naam": "politiek",
@@ -15,7 +15,7 @@
     },
     {
       "naam": "sport",
-      "aantal": 8
+      "aantal": 9
     },
     {
       "naam": "algemeen",
@@ -23,7 +23,7 @@
     },
     {
       "naam": "cultuur",
-      "aantal": 5
+      "aantal": 4
     },
     {
       "naam": "veiligheid",
@@ -37,11 +37,11 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 46
+      "aantal": 47
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 27
+      "aantal": 25
     },
     {
       "naam": "VRT NWS",
@@ -49,6 +49,13 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Honderden sportievelingen maken van 46e Dender- & Scheldejogging opnieuw een geslaagde sportieve hoogdag.",
+      "url": "https://denderjournaal.be/honderden-sportievelingen-maken-van-46e-dender-scheldejogging-opnieuw-een-geslaagde-sportieve-hoogdag/",
+      "bron": "Dender Journaal",
+      "datum": "Sat, 25 Jul 2026 18:06:35 +0000",
+      "thema": "sport"
+    },
     {
       "titel": "’t Meiske van den Dender strijkt neer in Passage 18: reizend kunstwerk brengt Denderregio dichter bij elkaar.",
       "url": "https://denderjournaal.be/t-meiske-van-den-dender-strijkt-neer-in-passage-18-reizend-kunstwerk-brengt-denderregio-dichter-bij-elkaar/",
@@ -391,19 +398,12 @@
       "bron": "Dender Journaal",
       "datum": "Thu, 25 Jun 2026 19:28:53 +0000",
       "thema": "natuur"
-    },
-    {
-      "titel": "Schadegevallen aan het wegdek door aanhoudende hitte in Denderleeuw.",
-      "url": "https://denderjournaal.be/schadegevallen-aan-het-wegdek-door-aanhoudende-hitte-in-denderleeuw/",
-      "bron": "Dender Journaal",
-      "datum": "Fri, 26 Jun 2026 09:20:25 +0000",
-      "thema": "mobiliteit"
     }
   ],
   "weekly": [
     {
       "week": "2026-W21",
-      "aantal": 5
+      "aantal": 1
     },
     {
       "week": "2026-W22",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W29",
-      "aantal": 5
+      "aantal": 6
     }
   ]
 }
