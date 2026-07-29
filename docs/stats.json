@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-07-28T09:30:26.307471",
+  "gegenereerd": "2026-07-29T09:32:43.891033",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 38
+      "aantal": 39
     },
     {
       "naam": "mobiliteit",
@@ -37,7 +37,7 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 47
+      "aantal": 48
     },
     {
       "naam": "Stad Dendermonde",
@@ -49,6 +49,13 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Vlaams Belang Denderleeuw pleit voor zichtbare boetetarieven in het straatbeeld tegen sluikstorten en overlast.",
+      "url": "https://denderjournaal.be/vlaams-belang-denderleeuw-pleit-voor-zichtbare-boetetarieven-in-het-straatbeeld-tegen-sluikstorten-en-overlast/",
+      "bron": "Dender Journaal",
+      "datum": "Wed, 29 Jul 2026 08:11:25 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "Honderden sportievelingen maken van 46e Dender- & Scheldejogging opnieuw een geslaagde sportieve hoogdag.",
       "url": "https://denderjournaal.be/honderden-sportievelingen-maken-van-46e-dender-scheldejogging-opnieuw-een-geslaagde-sportieve-hoogdag/",
@@ -391,19 +398,12 @@
       "bron": "VRT NWS",
       "datum": "2026-06-26T10:14:51.141366+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "Tijdelijk minder bediening manuele sluizen op Dender en kanaal Bossuit-Kortrijk.",
-      "url": "https://denderjournaal.be/tijdelijk-minder-bediening-manuele-sluizen-op-dender-en-kanaal-bossuit-kortrijk/",
-      "bron": "Dender Journaal",
-      "datum": "Thu, 25 Jun 2026 19:28:53 +0000",
-      "thema": "natuur"
     }
   ],
   "weekly": [
     {
       "week": "2026-W22",
-      "aantal": 12
+      "aantal": 8
     },
     {
       "week": "2026-W23",
@@ -432,6 +432,10 @@
     {
       "week": "2026-W29",
       "aantal": 6
+    },
+    {
+      "week": "2026-W30",
+      "aantal": 1
     }
   ]
 }
