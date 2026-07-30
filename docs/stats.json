@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-07-29T09:32:43.891033",
+  "gegenereerd": "2026-07-30T09:24:50.998503",
   "themas": [
     {
       "naam": "natuur",
@@ -10,28 +10,28 @@
       "aantal": 11
     },
     {
-      "naam": "politiek",
-      "aantal": 10
-    },
-    {
       "naam": "sport",
       "aantal": 9
     },
     {
+      "naam": "politiek",
+      "aantal": 9
+    },
+    {
       "naam": "algemeen",
-      "aantal": 4
+      "aantal": 5
     },
     {
       "naam": "veiligheid",
       "aantal": 3
     },
     {
-      "naam": "cultuur",
+      "naam": "economie",
       "aantal": 3
     },
     {
-      "naam": "economie",
-      "aantal": 2
+      "naam": "cultuur",
+      "aantal": 3
     }
   ],
   "bronnen": [
@@ -41,7 +41,7 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 22
+      "aantal": 23
     },
     {
       "naam": "VRT NWS",
@@ -49,6 +49,20 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Dag van de Animator",
+      "url": "https://www.dendermonde.be/nieuws/dag-van-de-animator",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-07-30T09:24:50.993473+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Werelddag tegen Mensenhandel",
+      "url": "https://www.dendermonde.be/nieuws/werelddag-tegen-mensenhandel",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-07-30T09:24:50.993454+00:00",
+      "thema": "economie"
+    },
     {
       "titel": "Vlaams Belang Denderleeuw pleit voor zichtbare boetetarieven in het straatbeeld tegen sluikstorten en overlast.",
       "url": "https://denderjournaal.be/vlaams-belang-denderleeuw-pleit-voor-zichtbare-boetetarieven-in-het-straatbeeld-tegen-sluikstorten-en-overlast/",
@@ -384,26 +398,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-06-26T10:14:52.485595+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "ErfgoedDendermonde zoekt private partner om huizen in Sint-Alexiusbegijnhof  te restaurerendo 25 jun.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/06/25/dendermonde-private-partner-sint-alexiusbegijnhof-restauratie/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-26T10:14:51.141463+00:00",
-      "thema": "cultuur"
-    },
-    {
-      "titel": "JustitieInternationale phishingbende opgerold in Oost-Vlaanderen: slachtoffers verloren meer dan 100.000 eurodo 25 jun.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/06/25/internationale-phishingbende-opgerold-in-oost-vlaanderen-slacht/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-26T10:14:51.141366+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
     {
       "week": "2026-W22",
-      "aantal": 8
+      "aantal": 4
     },
     {
       "week": "2026-W23",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W30",
-      "aantal": 1
+      "aantal": 3
     }
   ]
 }
