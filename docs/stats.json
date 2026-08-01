@@ -1,13 +1,9 @@
 {
-  "gegenereerd": "2026-07-31T09:36:49.551153",
+  "gegenereerd": "2026-08-01T09:00:00.803042",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 37
-    },
-    {
-      "naam": "mobiliteit",
-      "aantal": 11
+      "aantal": 36
     },
     {
       "naam": "sport",
@@ -16,6 +12,10 @@
     {
       "naam": "politiek",
       "aantal": 9
+    },
+    {
+      "naam": "mobiliteit",
+      "aantal": 7
     },
     {
       "naam": "algemeen",
@@ -31,24 +31,31 @@
     },
     {
       "naam": "veiligheid",
-      "aantal": 2
+      "aantal": 1
     }
   ],
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 48
+      "aantal": 49
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 22
+      "aantal": 18
     },
     {
       "naam": "VRT NWS",
-      "aantal": 9
+      "aantal": 6
     }
   ],
   "recent": [
+    {
+      "titel": "Vlaams Belang Denderleeuw eist nultolerantie in stationsbuurt: “Burgemeester, treed nu op!”",
+      "url": "https://denderjournaal.be/vlaams-belang-denderleeuw-eist-nultolerantie-in-stationsbuurt-burgemeester-treed-nu-op/",
+      "bron": "Dender Journaal",
+      "datum": "Fri, 31 Jul 2026 12:53:23 +0000",
+      "thema": "politiek"
+    },
     {
       "titel": "Dag van de Animator",
       "url": "https://www.dendermonde.be/nieuws/dag-van-de-animator",
@@ -391,13 +398,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-06-26T10:14:52.485614+00:00",
       "thema": "politiek"
-    },
-    {
-      "titel": "Ontmanteling Zilverpandgebouw",
-      "url": "https://www.dendermonde.be/nieuws/ontmanteling-zilverpandgebouw",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-26T10:14:52.485595+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W30",
-      "aantal": 3
+      "aantal": 4
     }
   ]
 }
