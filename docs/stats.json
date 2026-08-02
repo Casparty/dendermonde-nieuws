@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-08-01T09:00:00.803042",
+  "gegenereerd": "2026-08-02T09:04:22.824014",
   "themas": [
     {
       "naam": "natuur",
@@ -11,7 +11,7 @@
     },
     {
       "naam": "politiek",
-      "aantal": 9
+      "aantal": 8
     },
     {
       "naam": "mobiliteit",
@@ -37,18 +37,32 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 49
+      "aantal": 51
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 18
+      "aantal": 16
     },
     {
       "naam": "VRT NWS",
-      "aantal": 6
+      "aantal": 5
     }
   ],
   "recent": [
+    {
+      "titel": "Finn Notebaert verrast peloton met late uitval en wint Grote Prijs Denderwindeke Sportief.",
+      "url": "https://denderjournaal.be/finn-notebaert-verrast-peloton-met-late-uitval-en-wint-grote-prijs-denderwindeke-sportief/",
+      "bron": "Dender Journaal",
+      "datum": "Sat, 01 Aug 2026 18:57:27 +0000",
+      "thema": "sport"
+    },
+    {
+      "titel": "Nieuw-Zeelander André Free soleert indrukwekkend naar winst in Denderwindeke.",
+      "url": "https://denderjournaal.be/nieuw-zeelander-andre-free-soleert-indrukwekkend-naar-winst-in-denderwindeke/",
+      "bron": "Dender Journaal",
+      "datum": "Sat, 01 Aug 2026 19:02:49 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "Vlaams Belang Denderleeuw eist nultolerantie in stationsbuurt: “Burgemeester, treed nu op!”",
       "url": "https://denderjournaal.be/vlaams-belang-denderleeuw-eist-nultolerantie-in-stationsbuurt-burgemeester-treed-nu-op/",
@@ -384,27 +398,9 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-06-29T11:52:53.764418+00:00",
       "thema": "politiek"
-    },
-    {
-      "titel": "Buitenschoolse opvang Oudegem vanaf 1 september op 2 locaties",
-      "url": "https://www.dendermonde.be/nieuws/buitenschoolse-opvang-oudegem-vanaf-1-september-2026-op-2-locaties",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-27T09:25:42.699297+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Stad zoekt private partner voor restauratie 12 begijnhofwoningen",
-      "url": "https://www.dendermonde.be/nieuws/stad-zoekt-private-partner-voor-restauratie-12-begijnhofwoningen",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-26T10:14:52.485614+00:00",
-      "thema": "politiek"
     }
   ],
   "weekly": [
-    {
-      "week": "2026-W22",
-      "aantal": 1
-    },
     {
       "week": "2026-W23",
       "aantal": 35
@@ -435,7 +431,7 @@
     },
     {
       "week": "2026-W30",
-      "aantal": 4
+      "aantal": 6
     }
   ]
 }
