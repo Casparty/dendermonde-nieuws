@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-08-03T10:34:52.705019",
+  "gegenereerd": "2026-08-04T09:33:53.353487",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 35
+      "aantal": 36
     },
     {
       "naam": "sport",
@@ -37,18 +37,32 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 51
+      "aantal": 52
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 13
+      "aantal": 12
     },
     {
       "naam": "VRT NWS",
-      "aantal": 3
+      "aantal": 4
     }
   ],
   "recent": [
+    {
+      "titel": "DroogteWaarom de Schelde gespaard blijft van de extreem lage waterstanden van Rijn en Donau (en dat nooit zal veranderen)6 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/08/03/schelde-droogte-water/",
+      "bron": "VRT NWS",
+      "datum": "2026-08-04T09:33:51.941033+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Denderleeuw nodigt inwoners uit om een gratis huisdierensticker en -kaart af te halen.",
+      "url": "https://denderjournaal.be/denderleeuw-nodigt-inwoners-uit-om-een-gratis-huisdierensticker-en-kaart-af-te-halen/",
+      "bron": "Dender Journaal",
+      "datum": "Tue, 04 Aug 2026 08:42:39 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "Finn Notebaert verrast peloton met late uitval en wint Grote Prijs Denderwindeke Sportief.",
       "url": "https://denderjournaal.be/finn-notebaert-verrast-peloton-met-late-uitval-en-wint-grote-prijs-denderwindeke-sportief/",
@@ -384,26 +398,12 @@
       "bron": "VRT NWS",
       "datum": "2026-06-30T10:28:41.094331+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "RegioDendermondeNegen beklaagden krijgen van rechtbank Dendermonde 3 tot 9 jaar gevangenisstraf voor cocaïne-invoer33 minuten geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/06/30/negen-beklaagden-krijgen-van-rechtbank-dendermonde-3-tot-9-jaar/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-30T10:28:41.094220+00:00",
-      "thema": "veiligheid"
-    },
-    {
-      "titel": "Gemeenteraad en raad voor maatschappelijk welzijn op woensdag 1 juli 2026",
-      "url": "https://www.dendermonde.be/nieuws/detail/475/gemeenteraad-en-raad-voor-maatschappelijk-welzijn-op-woensdag-1-juli-2026",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-29T11:52:53.764418+00:00",
-      "thema": "politiek"
     }
   ],
   "weekly": [
     {
       "week": "2026-W23",
-      "aantal": 35
+      "aantal": 31
     },
     {
       "week": "2026-W24",
@@ -432,6 +432,10 @@
     {
       "week": "2026-W30",
       "aantal": 6
+    },
+    {
+      "week": "2026-W31",
+      "aantal": 2
     }
   ]
 }
