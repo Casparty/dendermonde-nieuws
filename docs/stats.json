@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-08-04T09:33:53.353487",
+  "gegenereerd": "2026-08-05T09:29:56.253347",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 36
+      "aantal": 37
     },
     {
       "naam": "sport",
@@ -15,11 +15,11 @@
     },
     {
       "naam": "mobiliteit",
-      "aantal": 7
+      "aantal": 6
     },
     {
       "naam": "economie",
-      "aantal": 3
+      "aantal": 4
     },
     {
       "naam": "cultuur",
@@ -41,7 +41,7 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 12
+      "aantal": 13
     },
     {
       "naam": "VRT NWS",
@@ -49,6 +49,20 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Voorbereidende werken rioleringsproject Torrestraat – Volaardestraat starten",
+      "url": "https://www.dendermonde.be/nieuws/voorbereidende-werken-rioleringsproject-torrestraat-volaardestraat-starten",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-08-05T09:29:56.249325+00:00",
+      "thema": "economie"
+    },
+    {
+      "titel": "DroogteWaarom de Schelde gespaard blijft van de extreem lage waterstanden van Rijn en Donau (en dat nooit zal veranderen)di 4 aug.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/08/03/schelde-droogte-water/",
+      "bron": "VRT NWS",
+      "datum": "2026-08-05T09:29:54.903465+00:00",
+      "thema": "natuur"
+    },
     {
       "titel": "DroogteWaarom de Schelde gespaard blijft van de extreem lage waterstanden van Rijn en Donau (en dat nooit zal veranderen)6 uur geleden",
       "url": "https://www.vrt.be/vrtnws/nl/2026/08/03/schelde-droogte-water/",
@@ -384,26 +398,12 @@
       "bron": "VRT NWS",
       "datum": "2026-07-01T10:37:31.717846+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "Vlaamse overheid en lokale besturen starten nieuw traject voor mobiliteit en leefbaarheid in de noordelijke Denderregio",
-      "url": "https://www.dendermonde.be/nieuws/vlaamse-overheid-en-lokale-besturen-starten-nieuw-traject-voor-mobiliteit-en-leefbaarheid-in-de-noor",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-06-30T10:28:42.533011+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "RegioDendermondeRos Beiaard-beeld staat weer op toren van gerechtsgebouw Dendermonde na restauratiema 29 jun.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/06/29/ros-beiaard-gerechtsgebouw-dendermonde-werken-restauratie/",
-      "bron": "VRT NWS",
-      "datum": "2026-06-30T10:28:41.094331+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
     {
       "week": "2026-W23",
-      "aantal": 31
+      "aantal": 20
     },
     {
       "week": "2026-W24",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W31",
-      "aantal": 2
+      "aantal": 4
     }
   ]
 }
