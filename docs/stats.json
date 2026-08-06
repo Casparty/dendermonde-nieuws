@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-08-05T09:29:56.253347",
+  "gegenereerd": "2026-08-06T09:34:24.889640",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 37
+      "aantal": 38
     },
     {
       "naam": "sport",
@@ -15,7 +15,7 @@
     },
     {
       "naam": "mobiliteit",
-      "aantal": 6
+      "aantal": 7
     },
     {
       "naam": "economie",
@@ -45,10 +45,24 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 4
+      "aantal": 6
     }
   ],
   "recent": [
+    {
+      "titel": "PukkelpopChiromeisjes van Sint-Gillis-Dendermonde overnachten op Pukkelpopweide: \"We hebben op tweedaagse al slechter geslapen!\"wo 5 aug.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/08/05/chiro-meisjes-van-oudenaarde-overnachten-op-pukkelpop-weide/",
+      "bron": "VRT NWS",
+      "datum": "2026-08-06T09:34:22.899304+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "MobiliteitWerken aan hogesnelheidslijn tussen Brussel en Franse grens, ook hinder voor S-treinen3 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/08/06/hogesnelheidslijn-trein-brussel-frankrijk-werken-spoor/",
+      "bron": "VRT NWS",
+      "datum": "2026-08-06T09:34:22.899203+00:00",
+      "thema": "mobiliteit"
+    },
     {
       "titel": "Voorbereidende werken rioleringsproject Torrestraat – Volaardestraat starten",
       "url": "https://www.dendermonde.be/nieuws/voorbereidende-werken-rioleringsproject-torrestraat-volaardestraat-starten",
@@ -384,26 +398,12 @@
       "bron": "VRT NWS",
       "datum": "2026-07-01T10:37:31.718045+00:00",
       "thema": "veiligheid"
-    },
-    {
-      "titel": "RegioGrembergenKyan (12) urenlang opgesloten nadat hij werd vergeten op schoolbus van 't Ros Beiaard: \"Dit kan niet door de beugel\"di 30 jun.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/06/30/jongen-12-grembergen-achtergelaten-op-schoolbus/",
-      "bron": "VRT NWS",
-      "datum": "2026-07-01T10:37:31.717963+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "RegioDendermondeAgente die geboeide psychotische man doodschoot aan AZ Sint-Blasius Dendermonde buiten vervolging gestelddi 30 jun.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/06/30/az-sint-blasius-dendermonde-psychotische-man-agente/",
-      "bron": "VRT NWS",
-      "datum": "2026-07-01T10:37:31.717846+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
     {
       "week": "2026-W23",
-      "aantal": 20
+      "aantal": 12
     },
     {
       "week": "2026-W24",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W31",
-      "aantal": 4
+      "aantal": 6
     }
   ]
 }
