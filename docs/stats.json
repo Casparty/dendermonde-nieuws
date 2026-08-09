@@ -1,13 +1,13 @@
 {
-  "gegenereerd": "2026-08-08T07:40:35.323551",
+  "gegenereerd": "2026-08-09T07:44:45.822942",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 37
+      "aantal": 38
     },
     {
       "naam": "sport",
-      "aantal": 8
+      "aantal": 7
     },
     {
       "naam": "politiek",
@@ -49,6 +49,13 @@
     }
   ],
   "recent": [
+    {
+      "titel": "RegioDendermondeAutomobilist (74) komt om na klap tegen verlichtingspaal in Dendermondeza 8 aug.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/08/08/dendermonde-dodelijk-ongeval-crash-verlichtingspaal-verkeersslac/",
+      "bron": "VRT NWS",
+      "datum": "2026-08-09T07:44:43.864733+00:00",
+      "thema": "natuur"
+    },
     {
       "titel": "MobiliteitWerken aan hogesnelheidslijn tussen Brussel en Franse grens, ook hinder voor S-treinendo 6 aug.",
       "url": "https://www.vrt.be/vrtnws/nl/2026/08/06/hogesnelheidslijn-trein-brussel-frankrijk-werken-spoor/",
@@ -391,20 +398,9 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-07-01T10:37:33.237600+00:00",
       "thema": "mobiliteit"
-    },
-    {
-      "titel": "Dendermonde kiest kunstenaar voor nieuwe fietstunnel aan Mechelse Poort",
-      "url": "https://www.dendermonde.be/nieuws/dendermonde-kiest-kunstenaar-voor-nieuwe-fietstunnel-aan-mechelse-poort",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-07-01T10:37:33.237577+00:00",
-      "thema": "mobiliteit"
     }
   ],
   "weekly": [
-    {
-      "week": "2026-W23",
-      "aantal": 5
-    },
     {
       "week": "2026-W24",
       "aantal": 19
@@ -435,7 +431,7 @@
     },
     {
       "week": "2026-W31",
-      "aantal": 7
+      "aantal": 8
     }
   ]
 }
