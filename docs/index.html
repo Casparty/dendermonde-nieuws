@@ -46,7 +46,7 @@ h1{font-size:26px;font-weight:800;color:white;}h1 span{color:#93c5fd;}
 <header><div class="header-inner"><div>
 <h1>Dendermonde <span>Nieuws</span></h1>
 <div style="color:#bfdbfe;font-size:13px;">Lokaal nieuwsoverzicht</div>
-</div><div class="update-info">Laatste update<br><strong>09/08/2026 07:44</strong></div></div></header>
+</div><div class="update-info">Laatste update<br><strong>10/08/2026 08:21</strong></div></div></header>
 <div class="container">
 <div class="stats-row">
 <div class="stat-box"><div class="stat-num">246</div><div class="stat-label">Totaal artikels</div></div>
@@ -54,7 +54,7 @@ h1{font-size:26px;font-weight:800;color:white;}h1 span{color:#93c5fd;}
 <div class="stat-box"><div class="stat-num">3</div><div class="stat-label">Bronnen</div></div>
 </div>
 <div class="section-title">Themas (laatste 30 dagen) &mdash; klik om te filteren</div>
-<div class="thema-grid"><div class="thema-card" onclick="toggleFilter('thema','natuur')" data-thema="natuur" style="border-top:3px solid #06b6d4;"><div class="thema-count" style="color:#06b6d4;">11</div><div class="thema-naam">Natuur</div></div>
+<div class="thema-grid"><div class="thema-card" onclick="toggleFilter('thema','natuur')" data-thema="natuur" style="border-top:3px solid #06b6d4;"><div class="thema-count" style="color:#06b6d4;">10</div><div class="thema-naam">Natuur</div></div>
 <div class="thema-card" onclick="toggleFilter('thema','sport')" data-thema="sport" style="border-top:3px solid #22c55e;"><div class="thema-count" style="color:#22c55e;">4</div><div class="thema-naam">Sport</div></div>
 <div class="thema-card" onclick="toggleFilter('thema','mobiliteit')" data-thema="mobiliteit" style="border-top:3px solid #3b82f6;"><div class="thema-count" style="color:#3b82f6;">3</div><div class="thema-naam">Mobiliteit</div></div>
 <div class="thema-card" onclick="toggleFilter('thema','economie')" data-thema="economie" style="border-top:3px solid #a855f7;"><div class="thema-count" style="color:#a855f7;">3</div><div class="thema-naam">Economie</div></div>
@@ -284,7 +284,7 @@ h1{font-size:26px;font-weight:800;color:white;}h1 span{color:#93c5fd;}
 <div class="artikel-rij" data-thema="politiek" data-bron="Stad Dendermonde"><span class="thema-badge" style="background:#8b5cf6;">politiek</span><a href="https://www.dendermonde.be/nieuws/ken-jij-de-jaagpaden-in-onze-gemeente-en-hun-regels" target="_blank" class="artikel-titel">Ken jij de jaagpaden in onze gemeente (en hun regels)?</a><span class="artikel-meta">Stad Dendermonde &middot; 2026-05-04</span></div>
 </div></div></div>
 <script>
-var WEEK_DATA = {"2026-W26": {"totaal": 2, "themas": {"mobiliteit": 1, "natuur": 1}, "bronnen": {"VRT NWS": 1, "Dender Journaal": 1}}, "2026-W27": {"totaal": 7, "themas": {"economie": 1, "mobiliteit": 1, "natuur": 3, "politiek": 1, "sport": 1}, "bronnen": {"Stad Dendermonde": 3, "VRT NWS": 2, "Dender Journaal": 2}}, "2026-W28": {"totaal": 7, "themas": {"algemeen": 1, "economie": 1, "mobiliteit": 1, "natuur": 2, "sport": 1, "veiligheid": 1}, "bronnen": {"Stad Dendermonde": 5, "Dender Journaal": 2}}, "2026-W29": {"totaal": 6, "themas": {"algemeen": 1, "cultuur": 2, "natuur": 1, "sport": 2}, "bronnen": {"Stad Dendermonde": 2, "Dender Journaal": 4}}, "2026-W30": {"totaal": 6, "themas": {"algemeen": 1, "economie": 1, "natuur": 2, "politiek": 1, "sport": 1}, "bronnen": {"Stad Dendermonde": 2, "Dender Journaal": 4}}, "2026-W31": {"totaal": 8, "themas": {"economie": 1, "mobiliteit": 2, "natuur": 5}, "bronnen": {"Stad Dendermonde": 1, "VRT NWS": 6, "Dender Journaal": 1}}};
+var WEEK_DATA = {"2026-W27": {"totaal": 7, "themas": {"economie": 1, "mobiliteit": 1, "natuur": 3, "politiek": 1, "sport": 1}, "bronnen": {"Stad Dendermonde": 3, "VRT NWS": 2, "Dender Journaal": 2}}, "2026-W28": {"totaal": 7, "themas": {"algemeen": 1, "economie": 1, "mobiliteit": 1, "natuur": 2, "sport": 1, "veiligheid": 1}, "bronnen": {"Stad Dendermonde": 5, "Dender Journaal": 2}}, "2026-W29": {"totaal": 6, "themas": {"algemeen": 1, "cultuur": 2, "natuur": 1, "sport": 2}, "bronnen": {"Stad Dendermonde": 2, "Dender Journaal": 4}}, "2026-W30": {"totaal": 6, "themas": {"algemeen": 1, "economie": 1, "natuur": 2, "politiek": 1, "sport": 1}, "bronnen": {"Stad Dendermonde": 2, "Dender Journaal": 4}}, "2026-W31": {"totaal": 8, "themas": {"economie": 1, "mobiliteit": 2, "natuur": 5}, "bronnen": {"Stad Dendermonde": 1, "VRT NWS": 6, "Dender Journaal": 1}}};
 var THEMA_KLEUREN = {"mobiliteit": "#3b82f6", "veiligheid": "#ef4444", "politiek": "#8b5cf6", "cultuur": "#f59e0b", "sport": "#22c55e", "natuur": "#06b6d4", "economie": "#a855f7", "algemeen": "#94a3b8"};
 var ALLE_BRONNEN = ["Dender Journaal", "Stad Dendermonde", "VRT NWS"];
 var actieveThemas = new Set();
@@ -327,7 +327,7 @@ var weekChart = new Chart(document.getElementById('weekChart'), {
 
 new Chart(document.getElementById('bronChart'), {
     type: 'doughnut',
-    data: { labels: ["Stad Dendermonde", "Dender Journaal", "VRT NWS"], datasets: [{ data: [11, 11, 6], backgroundColor: ['#3b82f6','#22c55e','#f59e0b','#ef4444'], borderWidth: 2, borderColor: 'white' }] },
+    data: { labels: ["Dender Journaal", "Stad Dendermonde", "VRT NWS"], datasets: [{ data: [11, 10, 6], backgroundColor: ['#3b82f6','#22c55e','#f59e0b','#ef4444'], borderWidth: 2, borderColor: 'white' }] },
     options: { responsive: true, plugins: { legend: { position: 'bottom', labels: { color: '#64748b', font: { size: 11 }, boxWidth: 12, padding: 12 } } } }
 });
 
