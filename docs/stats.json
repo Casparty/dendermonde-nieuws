@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-08-12T08:08:57.278127",
+  "gegenereerd": "2026-08-13T08:11:35.494827",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 38
+      "aantal": 39
     },
     {
       "naam": "politiek",
@@ -37,7 +37,7 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 52
+      "aantal": 53
     },
     {
       "naam": "Stad Dendermonde",
@@ -49,6 +49,13 @@
     }
   ],
   "recent": [
+    {
+      "titel": "ZomerBAAR brengt drie dagen zomer, muziek en gezelligheid naar Denderhoutem.",
+      "url": "https://denderjournaal.be/zomerbaar-brengt-drie-dagen-zomer-muziek-en-gezelligheid-naar-denderhoutem/",
+      "bron": "Dender Journaal",
+      "datum": "Wed, 12 Aug 2026 15:55:25 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "Stel je kandidaat voor de beoordelingscommissie van het burgerbudget 2026",
       "url": "https://www.dendermonde.be/nieuws/beoordelingscommissie-burgerbudget",
@@ -391,19 +398,12 @@
       "bron": "VRT NWS",
       "datum": "2026-07-02T09:52:44.809134+00:00",
       "thema": "sport"
-    },
-    {
-      "titel": "Denderleeuwenaren krijgen de kans om cursus ‘Eerste hulp & Helper’ te volgen.",
-      "url": "https://denderjournaal.be/denderleeuwenaren-krijgen-de-kans-om-cursus-eerste-hulp-helper-te-volgen/",
-      "bron": "Dender Journaal",
-      "datum": "Thu, 02 Jul 2026 08:37:48 +0000",
-      "thema": "natuur"
     }
   ],
   "weekly": [
     {
       "week": "2026-W24",
-      "aantal": 9
+      "aantal": 6
     },
     {
       "week": "2026-W25",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W32",
-      "aantal": 4
+      "aantal": 5
     }
   ]
 }
