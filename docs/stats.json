@@ -1,12 +1,16 @@
 {
-  "gegenereerd": "2026-08-13T08:11:35.494827",
+  "gegenereerd": "2026-08-14T08:06:56.140858",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 39
+      "aantal": 40
     },
     {
       "naam": "politiek",
+      "aantal": 9
+    },
+    {
+      "naam": "mobiliteit",
       "aantal": 9
     },
     {
@@ -14,20 +18,16 @@
       "aantal": 7
     },
     {
-      "naam": "mobiliteit",
-      "aantal": 7
-    },
-    {
       "naam": "algemeen",
-      "aantal": 4
-    },
-    {
-      "naam": "economie",
-      "aantal": 3
+      "aantal": 6
     },
     {
       "naam": "cultuur",
       "aantal": 3
+    },
+    {
+      "naam": "economie",
+      "aantal": 2
     },
     {
       "naam": "veiligheid",
@@ -41,14 +41,49 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 13
+      "aantal": 14
     },
     {
       "naam": "VRT NWS",
-      "aantal": 7
+      "aantal": 10
     }
   ],
   "recent": [
+    {
+      "titel": "De Pensioenlijn krijgt een nieuw telefoonnummer vanaf 1 september 2026",
+      "url": "https://www.dendermonde.be/nieuws/de-pensioenlijn",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-08-14T08:06:56.137121+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "De Langste Tafel brengt bewoners van wzc Aymonshof samen",
+      "url": "https://www.dendermonde.be/nieuws/de-langste-tafel-brengt-bewoners-van-wzc-aymonshof-samen",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-08-14T08:06:56.137100+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "RegioDendermondeArbeiders stuiten op verborgen goudschat ter waarde van 9 miljoen euro tijdens werken in Dendermondedo 13 aug.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/08/13/goudschat-dendermonde/",
+      "bron": "VRT NWS",
+      "datum": "2026-08-14T08:06:54.388619+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "RegioDendermondeWie heeft nu recht op de goudschat van 9 miljoen euro in Dendermonde? Dit zegt de wet2 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/08/14/schat-goud-dendermonde-caw-eigenaar-voor-wie-vondst/",
+      "bron": "VRT NWS",
+      "datum": "2026-08-14T08:06:54.388538+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "RegioDendermonde\"Goudzoekers, blijf weg\": politie Dendermonde vraagt om niet naar werf te komen waar schat is gevonden1 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/08/14/lokale-politie-dendermonde-goud-schat-site-bouwwerf/",
+      "bron": "VRT NWS",
+      "datum": "2026-08-14T08:06:54.388425+00:00",
+      "thema": "mobiliteit"
+    },
     {
       "titel": "ZomerBAAR brengt drie dagen zomer, muziek en gezelligheid naar Denderhoutem.",
       "url": "https://denderjournaal.be/zomerbaar-brengt-drie-dagen-zomer-muziek-en-gezelligheid-naar-denderhoutem/",
@@ -363,47 +398,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-07-03T09:49:45.589557+00:00",
       "thema": "politiek"
-    },
-    {
-      "titel": "RegioDendermondeDendermonde keurt eerste stap richting nieuwe sporthal in Grembergen goed, opening verwacht in 2029do 2 jul.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/07/01/dendermonde-sporthal-grembergen/",
-      "bron": "VRT NWS",
-      "datum": "2026-07-03T09:49:43.960878+00:00",
-      "thema": "sport"
-    },
-    {
-      "titel": "RegioAppelsLandbouwer uit Appels wint Gouden Grutto voor bescherming kievitsnesten: \"Slechts een kleine moeite om even uit de tractor te stappen\"do 2 jul.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/07/02/gouden-grutto-cederic-fierlafijn-appels-dendermonde/",
-      "bron": "VRT NWS",
-      "datum": "2026-07-03T09:49:43.960776+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Dendermonde zet in op oefenkansen Nederlands voor jongeren",
-      "url": "https://www.dendermonde.be/nieuws/dendermonde-zet-in-op-oefenkansen-nederlands-voor-jongeren",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-07-02T09:52:46.346917+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Stad Dendermonde investeert in sport met nieuwe sporthal in Grembergen",
-      "url": "https://www.dendermonde.be/nieuws/nieuwe-sporthal-in-grembergen",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-07-02T09:52:46.346895+00:00",
-      "thema": "politiek"
-    },
-    {
-      "titel": "RegioDendermondeDendermonde keurt eerste stap richting nieuwe sporthal in Grembergen goed, opening verwacht in 20295 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/07/01/dendermonde-sporthal-grembergen/",
-      "bron": "VRT NWS",
-      "datum": "2026-07-02T09:52:44.809134+00:00",
-      "thema": "sport"
     }
   ],
   "weekly": [
     {
       "week": "2026-W24",
-      "aantal": 6
+      "aantal": 4
     },
     {
       "week": "2026-W25",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W32",
-      "aantal": 5
+      "aantal": 10
     }
   ]
 }
