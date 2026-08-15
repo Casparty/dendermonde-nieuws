@@ -1,17 +1,17 @@
 {
-  "gegenereerd": "2026-08-14T08:06:56.140858",
+  "gegenereerd": "2026-08-15T07:22:22.496837",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 40
-    },
-    {
-      "naam": "politiek",
-      "aantal": 9
+      "aantal": 41
     },
     {
       "naam": "mobiliteit",
-      "aantal": 9
+      "aantal": 12
+    },
+    {
+      "naam": "politiek",
+      "aantal": 10
     },
     {
       "naam": "sport",
@@ -19,7 +19,7 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 6
+      "aantal": 7
     },
     {
       "naam": "cultuur",
@@ -28,27 +28,72 @@
     {
       "naam": "economie",
       "aantal": 2
-    },
-    {
-      "naam": "veiligheid",
-      "aantal": 1
     }
   ],
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 53
-    },
-    {
-      "naam": "Stad Dendermonde",
-      "aantal": 14
+      "aantal": 54
     },
     {
       "naam": "VRT NWS",
-      "aantal": 10
+      "aantal": 16
+    },
+    {
+      "naam": "Stad Dendermonde",
+      "aantal": 12
     }
   ],
   "recent": [
+    {
+      "titel": "RegioDendermondeWie heeft nu recht op de goudschat van 9 miljoen euro in Dendermonde? Dit zegt de wetvr 14 aug.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/08/14/schat-goud-dendermonde-caw-eigenaar-voor-wie-vondst/",
+      "bron": "VRT NWS",
+      "datum": "2026-08-15T07:22:20.660064+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "RegioDendermonde\"Goudzoekers, blijf weg\": politie Dendermonde vraagt om niet naar werf te komen waar schat is gevondenvr 14 aug.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/08/14/lokale-politie-dendermonde-goud-schat-site-bouwwerf/",
+      "bron": "VRT NWS",
+      "datum": "2026-08-15T07:22:20.659994+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "RegioDendermondeJobstudent Kobe (18) en zijn collega's vonden de goudschat in Dendermonde: \"Even overwogen om zelf te houden, maar het was gewoon té veel\"vr 14 aug.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/08/14/schat-dendermonde-goud-vondst-vinder-arbeiders/",
+      "bron": "VRT NWS",
+      "datum": "2026-08-15T07:22:20.659925+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "RegioDendermondeGoudschat in Dendermonde was wellicht van rijke brouwersfamilie Van Assche, zegt oud-burgemeestervr 14 aug.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/08/14/eigenaar-schat-goud-dendermonde-gebouw-werf/",
+      "bron": "VRT NWS",
+      "datum": "2026-08-15T07:22:20.659854+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "RegioDendermondeHeraanleg Mechelse Poort in Dendermonde gaat voorlaatste fase in: kruispunt hele week volledig afgeslotenvr 14 aug.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/08/14/mechelse-poort-dendermonde-volledig-afgesloten/",
+      "bron": "VRT NWS",
+      "datum": "2026-08-15T07:22:20.659780+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "RegioBeveren-Kruibeke-ZwijndrechtWandelaar Jo Janssens uit Beveren wandelt zijn 100e tocht van 100 km in de Dodentochtvr 14 aug.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/08/14/wandelaar-100e-keer-100km-dodentocht-beveren/",
+      "bron": "VRT NWS",
+      "datum": "2026-08-15T07:22:20.659667+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Nieuw voetpad en zebrapad langs Steenweg in Denderleeuw starten maandag.",
+      "url": "https://denderjournaal.be/nieuw-voetpad-en-zebrapad-langs-steenweg-in-denderleeuw-starten-maandag/",
+      "bron": "Dender Journaal",
+      "datum": "Fri, 14 Aug 2026 14:47:03 +0000",
+      "thema": "mobiliteit"
+    },
     {
       "titel": "De Pensioenlijn krijgt een nieuw telefoonnummer vanaf 1 september 2026",
       "url": "https://www.dendermonde.be/nieuws/de-pensioenlijn",
@@ -349,61 +394,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-07-07T10:19:03.400618+00:00",
       "thema": "economie"
-    },
-    {
-      "titel": "MobiliteitVermijd de N41 tussen Sint-Niklaas en Dendermonde: asfalteerwerken in Hamme zorgen voor zware vertragingma 6 jul.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/07/06/file-n41-hamme-werken-sint-niklaas-dendermonde/",
-      "bron": "VRT NWS",
-      "datum": "2026-07-07T10:19:02.156670+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "RegioScheldelandVier historische locomotieven en een Sovjetboot: Scheldeland in Stoom viert 40 jaar museumlijn en 100 jaar NMBSza 4 jul.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/07/04/scheldeland-in-stoom-treinen-dendermonde-baasrode-puurs/",
-      "bron": "VRT NWS",
-      "datum": "2026-07-05T09:35:02.494943+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "Zuid-Afrikaan Rhys Burell wint spannende sprint in Denderwindeke.",
-      "url": "https://denderjournaal.be/zuid-afrikaan-rhys-burell-wint-spannende-sprint-in-denderwindeke/",
-      "bron": "Dender Journaal",
-      "datum": "Sat, 04 Jul 2026 18:55:23 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Ldc Zilverpand verhuist en krijgt nieuwe naam: ldc Denderpoort",
-      "url": "https://www.dendermonde.be/nieuws/ldc-zilverpand-verhuist-en-krijgt-nieuwe-naam-ldc-denderpoort",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-07-04T09:13:54.712628+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Word natuurgids in Dendermonde",
-      "url": "https://www.dendermonde.be/nieuws/word-natuurgids-in-dendermonde",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-07-03T09:49:45.589594+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Openbaar onderzoek over de verklaring openbaar nut van Aquafin",
-      "url": "https://www.dendermonde.be/nieuws/openbaar-onderzoek-over-aanvraag-tot-verklaring-openbaar-nut-van-aquafin",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-07-03T09:49:45.589579+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Stad Dendermonde en Ligo bundelen krachten voor meer digitale inclusie",
-      "url": "https://www.dendermonde.be/nieuws/stad-dendermonde-en-ligo-bundelen-krachten-voor-meer-digitale-inclusie",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-07-03T09:49:45.589557+00:00",
-      "thema": "politiek"
     }
   ],
   "weekly": [
     {
       "week": "2026-W24",
-      "aantal": 4
+      "aantal": 1
     },
     {
       "week": "2026-W25",
@@ -435,7 +431,7 @@
     },
     {
       "week": "2026-W32",
-      "aantal": 10
+      "aantal": 17
     }
   ]
 }
