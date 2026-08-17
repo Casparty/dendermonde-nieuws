@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-08-16T07:23:00.199207",
+  "gegenereerd": "2026-08-17T07:43:35.375871",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 41
+      "aantal": 40
     },
     {
       "naam": "mobiliteit",
@@ -14,11 +14,11 @@
       "aantal": 10
     },
     {
-      "naam": "sport",
-      "aantal": 7
+      "naam": "algemeen",
+      "aantal": 8
     },
     {
-      "naam": "algemeen",
+      "naam": "sport",
       "aantal": 7
     },
     {
@@ -37,14 +37,21 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 16
+      "aantal": 17
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 12
+      "aantal": 11
     }
   ],
   "recent": [
+    {
+      "titel": "RegioLebbekeJongeren eenwieleren 150 kilometer door het Waasland om kankeronderzoek te steunenzo 16 aug.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/08/16/ride4change-eenwieler-kickcancer-denderbelle/",
+      "bron": "VRT NWS",
+      "datum": "2026-08-17T07:43:33.424200+00:00",
+      "thema": "algemeen"
+    },
     {
       "titel": "RegioDendermondeWie heeft nu recht op de goudschat van 9 miljoen euro in Dendermonde? Dit zegt de wetvr 14 aug.",
       "url": "https://www.vrt.be/vrtnws/nl/2026/08/14/schat-goud-dendermonde-caw-eigenaar-voor-wie-vondst/",
@@ -387,13 +394,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-07-08T09:23:17.421244+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "Projectoproep #Een Hart voor Scheldevallei ‘Verbind MENS en OMGEVING’",
-      "url": "https://www.dendermonde.be/nieuws/een-hart-voor-scheldevallei",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-07-07T10:19:03.400618+00:00",
-      "thema": "economie"
     }
   ],
   "weekly": [
@@ -428,6 +428,10 @@
     {
       "week": "2026-W32",
       "aantal": 17
+    },
+    {
+      "week": "2026-W33",
+      "aantal": 1
     }
   ]
 }
