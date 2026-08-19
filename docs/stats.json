@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-08-18T07:29:42.768206",
+  "gegenereerd": "2026-08-19T07:30:11.646486",
   "themas": [
     {
       "naam": "natuur",
@@ -7,7 +7,7 @@
     },
     {
       "naam": "mobiliteit",
-      "aantal": 17
+      "aantal": 19
     },
     {
       "naam": "politiek",
@@ -41,7 +41,7 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 21
+      "aantal": 23
     },
     {
       "naam": "Stad Dendermonde",
@@ -49,6 +49,20 @@
     }
   ],
   "recent": [
+    {
+      "titel": "RegioSint-Gillis-DendermondeNog zeker tot morgen treinhinder tussen Sint-Niklaas en Willebroek en tussen Lokeren en Dendermondedi 18 aug.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/08/18/infrabel-geen-treinverkeer-waasland-en-denderstreek/",
+      "bron": "VRT NWS",
+      "datum": "2026-08-19T07:30:10.018393+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "RegioSint-Gillis-DendermondeTreinverkeer tussen Sint-Niklaas en Willebroek en tussen Lokeren en Dendermonde hervat na softwareprobleem3 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/08/19/infrabel-spoorproblemen-denderstreek-waasland-softwareprobleem-s/",
+      "bron": "VRT NWS",
+      "datum": "2026-08-19T07:30:10.018282+00:00",
+      "thema": "mobiliteit"
+    },
     {
       "titel": "Denk mee over jouw speelplein via de vliegende speelpleinbrievenbus!",
       "url": "https://www.dendermonde.be/nieuws/speelpleinbrievenbus",
@@ -384,26 +398,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-07-15T09:04:37.778146+00:00",
       "thema": "veiligheid"
-    },
-    {
-      "titel": "Tijdelijk onttrekkingsverbod onbevaarbare waterlopen",
-      "url": "https://www.dendermonde.be/nieuws/onttrekkingsverbod-onbevaarbare-waterlopen",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-07-15T09:04:37.778127+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Pilootproject Baasrode Renoveert",
-      "url": "https://www.dendermonde.be/nieuws/Baasrode Renoveert",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-07-14T08:59:37.659219+00:00",
-      "thema": "economie"
     }
   ],
   "weekly": [
     {
       "week": "2026-W25",
-      "aantal": 14
+      "aantal": 10
     },
     {
       "week": "2026-W26",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W33",
-      "aantal": 8
+      "aantal": 10
     }
   ]
 }
