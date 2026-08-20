@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-08-19T07:30:11.646486",
+  "gegenereerd": "2026-08-20T07:32:34.597065",
   "themas": [
     {
       "naam": "natuur",
@@ -7,7 +7,7 @@
     },
     {
       "naam": "mobiliteit",
-      "aantal": 19
+      "aantal": 20
     },
     {
       "naam": "politiek",
@@ -15,11 +15,11 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 8
+      "aantal": 7
     },
     {
       "naam": "sport",
-      "aantal": 7
+      "aantal": 6
     },
     {
       "naam": "cultuur",
@@ -41,14 +41,21 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 23
+      "aantal": 24
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 12
+      "aantal": 10
     }
   ],
   "recent": [
+    {
+      "titel": "RegioSint-Gillis-DendermondeTreinverkeer tussen Sint-Niklaas en Willebroek en tussen Lokeren en Dendermonde hervat na softwareprobleemwo 19 aug.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/08/19/infrabel-spoorproblemen-denderstreek-waasland-softwareprobleem-s/",
+      "bron": "VRT NWS",
+      "datum": "2026-08-20T07:32:33.119233+00:00",
+      "thema": "mobiliteit"
+    },
     {
       "titel": "RegioSint-Gillis-DendermondeNog zeker tot morgen treinhinder tussen Sint-Niklaas en Willebroek en tussen Lokeren en Dendermondedi 18 aug.",
       "url": "https://www.vrt.be/vrtnws/nl/2026/08/18/infrabel-geen-treinverkeer-waasland-en-denderstreek/",
@@ -391,19 +398,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-07-17T09:03:13.133675+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "Code oranje: risico op natuurbrand en vuurverbod",
-      "url": "https://www.dendermonde.be/nieuws/code-oranje-natuurbrand",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-07-15T09:04:37.778146+00:00",
-      "thema": "veiligheid"
     }
   ],
   "weekly": [
     {
       "week": "2026-W25",
-      "aantal": 10
+      "aantal": 9
     },
     {
       "week": "2026-W26",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W33",
-      "aantal": 10
+      "aantal": 11
     }
   ]
 }
