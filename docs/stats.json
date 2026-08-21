@@ -1,17 +1,17 @@
 {
-  "gegenereerd": "2026-08-20T07:32:34.597065",
+  "gegenereerd": "2026-08-21T07:34:36.333733",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 40
+      "aantal": 41
     },
     {
       "naam": "mobiliteit",
-      "aantal": 20
+      "aantal": 21
     },
     {
       "naam": "politiek",
-      "aantal": 10
+      "aantal": 11
     },
     {
       "naam": "algemeen",
@@ -45,10 +45,31 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 10
+      "aantal": 13
     }
   ],
   "recent": [
+    {
+      "titel": "Stad sluit overeenkomst met Dierenwereldkruis vzw voor opvang honden",
+      "url": "https://www.dendermonde.be/nieuws/stad-sluit-overeenkomst-met-dierenwereldkruis-vzw-voor-opvang-honden",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-08-21T07:34:36.329107+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "Dendermondse cadeaubon nu ook fysiek verkrijgbaar",
+      "url": "https://www.dendermonde.be/nieuws/dendermondse-cadeaubon-nu-ook-fysiek-verkrijgbaar",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-08-21T07:34:36.329063+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Kruispunt Mechelse Poort: grootste verkeershinder voorbij vanaf maandag 24 augustus",
+      "url": "https://www.dendermonde.be/nieuws/kruispunt-mechelse-poort-verkeershinder",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-08-21T07:34:36.329040+00:00",
+      "thema": "mobiliteit"
+    },
     {
       "titel": "RegioSint-Gillis-DendermondeTreinverkeer tussen Sint-Niklaas en Willebroek en tussen Lokeren en Dendermonde hervat na softwareprobleemwo 19 aug.",
       "url": "https://www.vrt.be/vrtnws/nl/2026/08/19/infrabel-spoorproblemen-denderstreek-waasland-softwareprobleem-s/",
@@ -377,33 +398,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-07-20T09:49:59.291202+00:00",
       "thema": "sport"
-    },
-    {
-      "titel": "Baasrode renoveert!",
-      "url": "https://www.dendermonde.be/nieuws/baasrode-renoveert",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-07-20T09:49:59.291180+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Denk mee over de toekomst van binnenplein De Dammen",
-      "url": "https://www.dendermonde.be/nieuws/denk-mee-over-de-toekomst-van-binnenplein-de-dammen",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-07-18T08:43:14.289831+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Nieuw parkeerplan vanaf woensdag 22 juli",
-      "url": "https://www.dendermonde.be/nieuws/nieuw-parkeerplan-vanaf-woensdag-22-jui",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-07-17T09:03:13.133675+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
     {
       "week": "2026-W25",
-      "aantal": 9
+      "aantal": 7
     },
     {
       "week": "2026-W26",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W33",
-      "aantal": 11
+      "aantal": 14
     }
   ]
 }
