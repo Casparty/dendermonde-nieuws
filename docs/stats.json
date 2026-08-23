@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-08-22T07:23:18.923112",
+  "gegenereerd": "2026-08-23T07:25:21.689450",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 43
+      "aantal": 44
     },
     {
       "naam": "mobiliteit",
@@ -15,7 +15,7 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 9
+      "aantal": 10
     },
     {
       "naam": "sport",
@@ -37,11 +37,11 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 55
+      "aantal": 56
     },
     {
       "naam": "VRT NWS",
-      "aantal": 26
+      "aantal": 27
     },
     {
       "naam": "Stad Dendermonde",
@@ -49,6 +49,20 @@
     }
   ],
   "recent": [
+    {
+      "titel": "RegioSint-AmandsAmbachtelijke desembakkerij opent dit najaar aan de voet van de Gansakkermolen in Sint-Amandsza 22 aug.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/08/22/stichting-kempens-landschap-en-de-gemeente-puurs-sint-amands-he/",
+      "bron": "VRT NWS",
+      "datum": "2026-08-23T07:25:19.943519+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Vooruit Aalst vraagt duidelijkheid over toekomst van landbouwgronden langs de Dender.",
+      "url": "https://denderjournaal.be/vooruit-aalst-vraagt-duidelijkheid-over-toekomst-van-landbouwgronden-langs-de-dender/",
+      "bron": "Dender Journaal",
+      "datum": "Sat, 22 Aug 2026 20:20:24 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "Infosessie mobiliteit van morgen: ontdek & test duurzame vervoersoplossingen",
       "url": "https://www.dendermonde.be/nieuws/infosessiemobiliteitvanmorgen",
@@ -384,27 +398,9 @@
       "bron": "Dender Journaal",
       "datum": "Fri, 31 Jul 2026 12:53:23 +0000",
       "thema": "politiek"
-    },
-    {
-      "titel": "Dag van de Animator",
-      "url": "https://www.dendermonde.be/nieuws/dag-van-de-animator",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-07-30T09:24:50.993473+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Werelddag tegen Mensenhandel",
-      "url": "https://www.dendermonde.be/nieuws/werelddag-tegen-mensenhandel",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-07-30T09:24:50.993454+00:00",
-      "thema": "economie"
     }
   ],
   "weekly": [
-    {
-      "week": "2026-W25",
-      "aantal": 1
-    },
     {
       "week": "2026-W26",
       "aantal": 24
@@ -435,7 +431,7 @@
     },
     {
       "week": "2026-W33",
-      "aantal": 20
+      "aantal": 22
     }
   ]
 }
