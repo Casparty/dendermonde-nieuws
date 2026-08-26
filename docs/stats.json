@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-08-25T07:35:56.717691",
+  "gegenereerd": "2026-08-26T07:37:50.191248",
   "themas": [
     {
       "naam": "natuur",
@@ -11,7 +11,7 @@
     },
     {
       "naam": "politiek",
-      "aantal": 11
+      "aantal": 12
     },
     {
       "naam": "algemeen",
@@ -37,7 +37,7 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 56
+      "aantal": 57
     },
     {
       "naam": "VRT NWS",
@@ -49,6 +49,13 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Vlaams Belang Denderleeuw verzet zich tegen verplichte fusie met Haaltert: “Geen gemeentefusie die vanuit Brussel wordt opgelegd”",
+      "url": "https://denderjournaal.be/vlaams-belang-denderleeuw-verzet-zich-tegen-verplichte-fusie-met-haaltert-geen-gemeentefusie-die-vanuit-brussel-wordt-opgelegd/",
+      "bron": "Dender Journaal",
+      "datum": "Tue, 25 Aug 2026 13:47:22 +0000",
+      "thema": "politiek"
+    },
     {
       "titel": "RegioSint-AmandsAmbachtelijke desembakkerij opent dit najaar aan de voet van de Gansakkermolen in Sint-Amandsza 22 aug.",
       "url": "https://www.vrt.be/vrtnws/nl/2026/08/22/stichting-kempens-landschap-en-de-gemeente-puurs-sint-amands-he/",
@@ -391,19 +398,12 @@
       "bron": "Dender Journaal",
       "datum": "Sat, 01 Aug 2026 19:02:49 +0000",
       "thema": "natuur"
-    },
-    {
-      "titel": "Vlaams Belang Denderleeuw eist nultolerantie in stationsbuurt: “Burgemeester, treed nu op!”",
-      "url": "https://denderjournaal.be/vlaams-belang-denderleeuw-eist-nultolerantie-in-stationsbuurt-burgemeester-treed-nu-op/",
-      "bron": "Dender Journaal",
-      "datum": "Fri, 31 Jul 2026 12:53:23 +0000",
-      "thema": "politiek"
     }
   ],
   "weekly": [
     {
       "week": "2026-W26",
-      "aantal": 23
+      "aantal": 20
     },
     {
       "week": "2026-W27",
@@ -432,6 +432,10 @@
     {
       "week": "2026-W33",
       "aantal": 22
+    },
+    {
+      "week": "2026-W34",
+      "aantal": 1
     }
   ]
 }
