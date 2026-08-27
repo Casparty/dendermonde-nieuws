@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-08-26T07:37:50.191248",
+  "gegenereerd": "2026-08-27T17:59:18.742800",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 44
+      "aantal": 45
     },
     {
       "naam": "mobiliteit",
@@ -41,7 +41,7 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 27
+      "aantal": 28
     },
     {
       "naam": "Stad Dendermonde",
@@ -49,6 +49,13 @@
     }
   ],
   "recent": [
+    {
+      "titel": "RegioSint-Gillis-DendermondeIngekorte editie van Katuit Dendermonde: \"Weersvoorspellingen zijn onduidelijk\"4 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/08/27/katuit-dendermonde-wel-of-niet-slecht-weer-kmi/",
+      "bron": "VRT NWS",
+      "datum": "2026-08-27T17:59:02.512989+00:00",
+      "thema": "natuur"
+    },
     {
       "titel": "Vlaams Belang Denderleeuw verzet zich tegen verplichte fusie met Haaltert: “Geen gemeentefusie die vanuit Brussel wordt opgelegd”",
       "url": "https://denderjournaal.be/vlaams-belang-denderleeuw-verzet-zich-tegen-verplichte-fusie-met-haaltert-geen-gemeentefusie-die-vanuit-brussel-wordt-opgelegd/",
@@ -391,19 +398,12 @@
       "bron": "Dender Journaal",
       "datum": "Sat, 01 Aug 2026 18:57:27 +0000",
       "thema": "sport"
-    },
-    {
-      "titel": "Nieuw-Zeelander André Free soleert indrukwekkend naar winst in Denderwindeke.",
-      "url": "https://denderjournaal.be/nieuw-zeelander-andre-free-soleert-indrukwekkend-naar-winst-in-denderwindeke/",
-      "bron": "Dender Journaal",
-      "datum": "Sat, 01 Aug 2026 19:02:49 +0000",
-      "thema": "natuur"
     }
   ],
   "weekly": [
     {
       "week": "2026-W26",
-      "aantal": 20
+      "aantal": 13
     },
     {
       "week": "2026-W27",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W34",
-      "aantal": 1
+      "aantal": 2
     }
   ]
 }
