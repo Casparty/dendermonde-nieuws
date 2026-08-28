@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-08-27T17:59:18.742800",
+  "gegenereerd": "2026-08-28T19:09:16.742874",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 45
+      "aantal": 48
     },
     {
       "naam": "mobiliteit",
@@ -11,11 +11,11 @@
     },
     {
       "naam": "politiek",
-      "aantal": 12
+      "aantal": 14
     },
     {
       "naam": "algemeen",
-      "aantal": 10
+      "aantal": 11
     },
     {
       "naam": "sport",
@@ -37,18 +37,60 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 57
+      "aantal": 58
     },
     {
       "naam": "VRT NWS",
-      "aantal": 28
+      "aantal": 30
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 17
+      "aantal": 20
     }
   ],
   "recent": [
+    {
+      "titel": "Dendermonde erkend als Reuzenvriendelijke gemeente",
+      "url": "https://www.dendermonde.be/nieuws/dendermonde-erkend-als-reuzenvriendelijke-gemeente",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-08-28T19:09:16.738690+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "Stad Dendermonde lanceert ‘Plajakken op de Oude Dender’",
+      "url": "https://www.dendermonde.be/nieuws/stad-dendermonde-lanceert-plajakken-op-de-oude-dender",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-08-28T19:09:16.738683+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "Katuit ingekort door weersomstandigheden",
+      "url": "https://www.dendermonde.be/nieuws/katuit-ingekort-door-weersomstandigheden",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-08-28T19:09:16.738661+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "RegioSint-Gillis-DendermondeIngekorte editie van Katuit Dendermonde: \"Weersvoorspellingen zijn onduidelijk\"do 27 aug.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/08/27/katuit-dendermonde-wel-of-niet-slecht-weer-kmi/",
+      "bron": "VRT NWS",
+      "datum": "2026-08-28T19:09:15.309481+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Ros BeiaardExacte datum is bekend: Ros Beiaardommegang van Dendermonde vindt in 2030 plaats op 2 juni15 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/08/27/ros-beiaard-2030-datum/",
+      "bron": "VRT NWS",
+      "datum": "2026-08-28T19:09:15.309381+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Denderstreek krijgt amper 2 procent van onderzochte Vlaamse innovatiesteun: “Investeer niet alleen ín de regio, haal ook investeringen náár de Denderstreek”",
+      "url": "https://denderjournaal.be/denderstreek-krijgt-amper-2-procent-van-onderzochte-vlaamse-innovatiesteun-investeer-niet-alleen-in-de-regio-haal-ook-investeringen-naar-de-denderstreek/",
+      "bron": "Dender Journaal",
+      "datum": "Fri, 28 Aug 2026 09:39:42 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "RegioSint-Gillis-DendermondeIngekorte editie van Katuit Dendermonde: \"Weersvoorspellingen zijn onduidelijk\"4 uur geleden",
       "url": "https://www.vrt.be/vrtnws/nl/2026/08/27/katuit-dendermonde-wel-of-niet-slecht-weer-kmi/",
@@ -356,54 +398,12 @@
       "bron": "VRT NWS",
       "datum": "2026-08-06T09:34:22.899304+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "MobiliteitWerken aan hogesnelheidslijn tussen Brussel en Franse grens, ook hinder voor S-treinen3 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/06/hogesnelheidslijn-trein-brussel-frankrijk-werken-spoor/",
-      "bron": "VRT NWS",
-      "datum": "2026-08-06T09:34:22.899203+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "Voorbereidende werken rioleringsproject Torrestraat – Volaardestraat starten",
-      "url": "https://www.dendermonde.be/nieuws/voorbereidende-werken-rioleringsproject-torrestraat-volaardestraat-starten",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-08-05T09:29:56.249325+00:00",
-      "thema": "economie"
-    },
-    {
-      "titel": "DroogteWaarom de Schelde gespaard blijft van de extreem lage waterstanden van Rijn en Donau (en dat nooit zal veranderen)di 4 aug.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/03/schelde-droogte-water/",
-      "bron": "VRT NWS",
-      "datum": "2026-08-05T09:29:54.903465+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "DroogteWaarom de Schelde gespaard blijft van de extreem lage waterstanden van Rijn en Donau (en dat nooit zal veranderen)6 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/03/schelde-droogte-water/",
-      "bron": "VRT NWS",
-      "datum": "2026-08-04T09:33:51.941033+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Denderleeuw nodigt inwoners uit om een gratis huisdierensticker en -kaart af te halen.",
-      "url": "https://denderjournaal.be/denderleeuw-nodigt-inwoners-uit-om-een-gratis-huisdierensticker-en-kaart-af-te-halen/",
-      "bron": "Dender Journaal",
-      "datum": "Tue, 04 Aug 2026 08:42:39 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Finn Notebaert verrast peloton met late uitval en wint Grote Prijs Denderwindeke Sportief.",
-      "url": "https://denderjournaal.be/finn-notebaert-verrast-peloton-met-late-uitval-en-wint-grote-prijs-denderwindeke-sportief/",
-      "bron": "Dender Journaal",
-      "datum": "Sat, 01 Aug 2026 18:57:27 +0000",
-      "thema": "sport"
     }
   ],
   "weekly": [
     {
       "week": "2026-W26",
-      "aantal": 13
+      "aantal": 8
     },
     {
       "week": "2026-W27",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W34",
-      "aantal": 2
+      "aantal": 8
     }
   ]
 }
