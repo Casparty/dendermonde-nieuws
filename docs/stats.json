@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-08-28T19:09:16.742874",
+  "gegenereerd": "2026-08-29T12:53:12.550505",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 48
+      "aantal": 49
     },
     {
       "naam": "mobiliteit",
@@ -41,7 +41,7 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 30
+      "aantal": 31
     },
     {
       "naam": "Stad Dendermonde",
@@ -49,6 +49,13 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Ros BeiaardExacte datum is bekend: Ros Beiaardommegang van Dendermonde vindt in 2030 plaats op 2 junivr 28 aug.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/08/27/ros-beiaard-2030-datum/",
+      "bron": "VRT NWS",
+      "datum": "2026-08-29T12:53:11.138222+00:00",
+      "thema": "natuur"
+    },
     {
       "titel": "Dendermonde erkend als Reuzenvriendelijke gemeente",
       "url": "https://www.dendermonde.be/nieuws/dendermonde-erkend-als-reuzenvriendelijke-gemeente",
@@ -391,19 +398,12 @@
       "bron": "VRT NWS",
       "datum": "2026-08-07T08:07:02.101082+00:00",
       "thema": "mobiliteit"
-    },
-    {
-      "titel": "PukkelpopChiromeisjes van Sint-Gillis-Dendermonde overnachten op Pukkelpopweide: \"We hebben op tweedaagse al slechter geslapen!\"wo 5 aug.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/05/chiro-meisjes-van-oudenaarde-overnachten-op-pukkelpop-weide/",
-      "bron": "VRT NWS",
-      "datum": "2026-08-06T09:34:22.899304+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
     {
       "week": "2026-W26",
-      "aantal": 8
+      "aantal": 3
     },
     {
       "week": "2026-W27",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W34",
-      "aantal": 8
+      "aantal": 9
     }
   ]
 }
