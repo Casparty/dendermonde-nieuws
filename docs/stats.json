@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-08-29T12:53:12.550505",
+  "gegenereerd": "2026-08-30T12:27:14.302485",
   "themas": [
     {
       "naam": "natuur",
@@ -15,7 +15,7 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 11
+      "aantal": 10
     },
     {
       "naam": "sport",
@@ -26,11 +26,11 @@
       "aantal": 3
     },
     {
-      "naam": "economie",
-      "aantal": 2
+      "naam": "veiligheid",
+      "aantal": 1
     },
     {
-      "naam": "veiligheid",
+      "naam": "economie",
       "aantal": 1
     }
   ],
@@ -45,7 +45,7 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 20
+      "aantal": 18
     }
   ],
   "recent": [
@@ -403,7 +403,7 @@
   "weekly": [
     {
       "week": "2026-W26",
-      "aantal": 3
+      "aantal": 2
     },
     {
       "week": "2026-W27",
