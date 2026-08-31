@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-08-30T12:27:14.302485",
+  "gegenereerd": "2026-08-31T14:37:25.147443",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 49
+      "aantal": 50
     },
     {
       "naam": "mobiliteit",
@@ -15,15 +15,15 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 10
+      "aantal": 11
     },
     {
       "naam": "sport",
-      "aantal": 6
+      "aantal": 7
     },
     {
       "naam": "cultuur",
-      "aantal": 3
+      "aantal": 4
     },
     {
       "naam": "veiligheid",
@@ -37,7 +37,7 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 58
+      "aantal": 61
     },
     {
       "naam": "VRT NWS",
@@ -45,10 +45,38 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 18
+      "aantal": 19
     }
   ],
   "recent": [
+    {
+      "titel": "Ophaling van papier en karton tijdens de week van 14 t.e.m. 17 september gaat door!",
+      "url": "https://www.dendermonde.be/nieuws/ophaling-van-papier-en-karton-tijdens-de-week-van-14-t-e-m-17-september-gaat-door",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-08-31T14:37:25.106662+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Infosessie UiTPAS Dender voor verenigingen in Erpe-Mere.",
+      "url": "https://denderjournaal.be/infosessie-uitpas-dender-voor-verenigingen-in-erpe-mere/",
+      "bron": "Dender Journaal",
+      "datum": "Mon, 31 Aug 2026 08:55:06 +0000",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Fotowedstrijd ‘Wiki Loves Denderland’ zoekt mooiste beelden van het Denderlandse erfgoed.",
+      "url": "https://denderjournaal.be/fotowedstrijd-wiki-loves-denderland-zoekt-mooiste-beelden-van-het-denderlandse-erfgoed/",
+      "bron": "Dender Journaal",
+      "datum": "Mon, 31 Aug 2026 08:56:52 +0000",
+      "thema": "cultuur"
+    },
+    {
+      "titel": "BBC Onderons Grembergen trapt nieuw basketseizoen af met geslaagde startdag.",
+      "url": "https://denderjournaal.be/bbc-onderons-grembergen-trapt-nieuw-basketseizoen-af-met-geslaagde-startdag/",
+      "bron": "Dender Journaal",
+      "datum": "Mon, 31 Aug 2026 10:41:12 +0000",
+      "thema": "sport"
+    },
     {
       "titel": "Ros BeiaardExacte datum is bekend: Ros Beiaardommegang van Dendermonde vindt in 2030 plaats op 2 junivr 28 aug.",
       "url": "https://www.vrt.be/vrtnws/nl/2026/08/27/ros-beiaard-2030-datum/",
@@ -370,41 +398,9 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-08-11T08:03:45.526682+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "Stad Dendermonde en feestcommissie Oudegem kiezen voor vertrouwde locatie van kermis Oudegem",
-      "url": "https://www.dendermonde.be/nieuws/stad-dendermonde-en-feestcommissie-oudegem-kiezen-voor-vertrouwde-locatie-van-kermis-oudegem",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-08-11T08:03:45.526662+00:00",
-      "thema": "politiek"
-    },
-    {
-      "titel": "RegioBeveren-Kruibeke-ZwijndrechtKomende 2 weken militaire oefeningen in het Waasland: leger oefent in Schelde en op landma 10 aug.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/10/militaire-oefeningen-schelde-temse-hamme-bkz-dendermonde/",
-      "bron": "VRT NWS",
-      "datum": "2026-08-11T08:03:43.980617+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "RegioDendermondeAutomobilist (74) komt om na klap tegen verlichtingspaal in Dendermondeza 8 aug.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/08/dendermonde-dodelijk-ongeval-crash-verlichtingspaal-verkeersslac/",
-      "bron": "VRT NWS",
-      "datum": "2026-08-09T07:44:43.864733+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "MobiliteitWerken aan hogesnelheidslijn tussen Brussel en Franse grens, ook hinder voor S-treinendo 6 aug.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/06/hogesnelheidslijn-trein-brussel-frankrijk-werken-spoor/",
-      "bron": "VRT NWS",
-      "datum": "2026-08-07T08:07:02.101082+00:00",
-      "thema": "mobiliteit"
     }
   ],
   "weekly": [
-    {
-      "week": "2026-W26",
-      "aantal": 2
-    },
     {
       "week": "2026-W27",
       "aantal": 7
@@ -436,6 +432,10 @@
     {
       "week": "2026-W34",
       "aantal": 9
+    },
+    {
+      "week": "2026-W35",
+      "aantal": 4
     }
   ]
 }
