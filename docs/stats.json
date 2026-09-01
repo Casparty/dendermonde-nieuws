@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-08-31T14:37:25.147443",
+  "gegenereerd": "2026-09-01T12:14:15.649581",
   "themas": [
     {
       "naam": "natuur",
@@ -7,11 +7,11 @@
     },
     {
       "naam": "mobiliteit",
-      "aantal": 23
+      "aantal": 24
     },
     {
       "naam": "politiek",
-      "aantal": 14
+      "aantal": 15
     },
     {
       "naam": "algemeen",
@@ -41,14 +41,28 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 31
+      "aantal": 32
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 19
+      "aantal": 20
     }
   ],
   "recent": [
+    {
+      "titel": "Stad Dendermonde neemt maatregelen voor vlottere mobiliteit en bereikbare binnenstad",
+      "url": "https://www.dendermonde.be/nieuws/verkeersmaatregelen-binnenstad",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-09-01T12:14:15.645700+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "RegioDendermondeEenrichtingsverkeer moet doorstroming verbeteren na afwerking heraanleg kruispunt Mechelse Poort in Dendermonde3 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/09/01/eenrichtingsverkeer-moet-doorstroming-verkeer-in-dendermonde-ver/",
+      "bron": "VRT NWS",
+      "datum": "2026-09-01T12:14:13.679364+00:00",
+      "thema": "mobiliteit"
+    },
     {
       "titel": "Ophaling van papier en karton tijdens de week van 14 t.e.m. 17 september gaat door!",
       "url": "https://www.dendermonde.be/nieuws/ophaling-van-papier-en-karton-tijdens-de-week-van-14-t-e-m-17-september-gaat-door",
@@ -384,20 +398,6 @@
       "bron": "Dender Journaal",
       "datum": "Wed, 12 Aug 2026 15:55:25 +0000",
       "thema": "natuur"
-    },
-    {
-      "titel": "Stel je kandidaat voor de beoordelingscommissie van het burgerbudget 2026",
-      "url": "https://www.dendermonde.be/nieuws/beoordelingscommissie-burgerbudget",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-08-12T08:08:57.272926+00:00",
-      "thema": "politiek"
-    },
-    {
-      "titel": "Recyclageparken en kringloopwinkels gesloten op 15 augustus",
-      "url": "https://www.dendermonde.be/nieuws/recyclageparken-en-kringloopwinkels-gesloten-op-15-augustus",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-08-11T08:03:45.526682+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W35",
-      "aantal": 4
+      "aantal": 6
     }
   ]
 }
