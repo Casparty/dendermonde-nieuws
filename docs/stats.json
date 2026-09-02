@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-09-01T12:14:15.649581",
+  "gegenereerd": "2026-09-02T11:52:34.753866",
   "themas": [
     {
       "naam": "natuur",
@@ -7,7 +7,7 @@
     },
     {
       "naam": "mobiliteit",
-      "aantal": 24
+      "aantal": 25
     },
     {
       "naam": "politiek",
@@ -41,7 +41,7 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 32
+      "aantal": 33
     },
     {
       "naam": "Stad Dendermonde",
@@ -49,6 +49,13 @@
     }
   ],
   "recent": [
+    {
+      "titel": "RegioDendermondeEenrichtingsverkeer moet doorstroming verbeteren na afwerking heraanleg kruispunt Mechelse Poort in Dendermondedi 1 sep.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/09/01/eenrichtingsverkeer-moet-doorstroming-verkeer-in-dendermonde-ver/",
+      "bron": "VRT NWS",
+      "datum": "2026-09-02T11:52:32.801487+00:00",
+      "thema": "mobiliteit"
+    },
     {
       "titel": "Stad Dendermonde neemt maatregelen voor vlottere mobiliteit en bereikbare binnenstad",
       "url": "https://www.dendermonde.be/nieuws/verkeersmaatregelen-binnenstad",
@@ -391,19 +398,12 @@
       "bron": "VRT NWS",
       "datum": "2026-08-14T08:06:54.388425+00:00",
       "thema": "mobiliteit"
-    },
-    {
-      "titel": "ZomerBAAR brengt drie dagen zomer, muziek en gezelligheid naar Denderhoutem.",
-      "url": "https://denderjournaal.be/zomerbaar-brengt-drie-dagen-zomer-muziek-en-gezelligheid-naar-denderhoutem/",
-      "bron": "Dender Journaal",
-      "datum": "Wed, 12 Aug 2026 15:55:25 +0000",
-      "thema": "natuur"
     }
   ],
   "weekly": [
     {
       "week": "2026-W27",
-      "aantal": 7
+      "aantal": 5
     },
     {
       "week": "2026-W28",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W35",
-      "aantal": 6
+      "aantal": 7
     }
   ]
 }
