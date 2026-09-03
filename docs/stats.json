@@ -1,13 +1,13 @@
 {
-  "gegenereerd": "2026-09-02T11:52:34.753866",
+  "gegenereerd": "2026-09-03T11:50:37.562874",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 50
+      "aantal": 51
     },
     {
       "naam": "mobiliteit",
-      "aantal": 25
+      "aantal": 26
     },
     {
       "naam": "politiek",
@@ -15,7 +15,7 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 11
+      "aantal": 12
     },
     {
       "naam": "sport",
@@ -27,7 +27,7 @@
     },
     {
       "naam": "veiligheid",
-      "aantal": 1
+      "aantal": 2
     },
     {
       "naam": "economie",
@@ -41,14 +41,42 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 33
+      "aantal": 34
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 20
+      "aantal": 23
     }
   ],
   "recent": [
+    {
+      "titel": "Word crisisvrijwilliger",
+      "url": "https://www.dendermonde.be/nieuws/word-crisisvrijwilliger",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-09-03T11:50:37.558743+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Modder op de weg? Samen alert!",
+      "url": "https://www.dendermonde.be/nieuws/modder-op-de-weg-samen-alert",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-09-03T11:50:37.558737+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "Ldc Denderpoort zet deuren wagenwijd open tijdens opendeurweekend",
+      "url": "https://www.dendermonde.be/nieuws/ldc-denderpoort-zet-deuren-wagenwijd-open-tijdens-opendeurweekend",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-09-03T11:50:37.558715+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "RegioDenderstreekDendermonde en 5 buurgemeenten vormen nieuwe politiezone: \"Samen sterker tegen cybercriminaliteit en terrorisme\"8 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/09/02/politiezone-dendermonde-hamme-lebbeke-buggenhout-zele/",
+      "bron": "VRT NWS",
+      "datum": "2026-09-03T11:50:35.715172+00:00",
+      "thema": "veiligheid"
+    },
     {
       "titel": "RegioDendermondeEenrichtingsverkeer moet doorstroming verbeteren na afwerking heraanleg kruispunt Mechelse Poort in Dendermondedi 1 sep.",
       "url": "https://www.vrt.be/vrtnws/nl/2026/09/01/eenrichtingsverkeer-moet-doorstroming-verkeer-in-dendermonde-ver/",
@@ -370,40 +398,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-08-14T08:06:56.137121+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "De Langste Tafel brengt bewoners van wzc Aymonshof samen",
-      "url": "https://www.dendermonde.be/nieuws/de-langste-tafel-brengt-bewoners-van-wzc-aymonshof-samen",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-08-14T08:06:56.137100+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "RegioDendermondeArbeiders stuiten op verborgen goudschat ter waarde van 9 miljoen euro tijdens werken in Dendermondedo 13 aug.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/13/goudschat-dendermonde/",
-      "bron": "VRT NWS",
-      "datum": "2026-08-14T08:06:54.388619+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "RegioDendermondeWie heeft nu recht op de goudschat van 9 miljoen euro in Dendermonde? Dit zegt de wet2 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/14/schat-goud-dendermonde-caw-eigenaar-voor-wie-vondst/",
-      "bron": "VRT NWS",
-      "datum": "2026-08-14T08:06:54.388538+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "RegioDendermonde\"Goudzoekers, blijf weg\": politie Dendermonde vraagt om niet naar werf te komen waar schat is gevonden1 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/14/lokale-politie-dendermonde-goud-schat-site-bouwwerf/",
-      "bron": "VRT NWS",
-      "datum": "2026-08-14T08:06:54.388425+00:00",
-      "thema": "mobiliteit"
     }
   ],
   "weekly": [
     {
       "week": "2026-W27",
-      "aantal": 5
+      "aantal": 4
     },
     {
       "week": "2026-W28",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W35",
-      "aantal": 7
+      "aantal": 11
     }
   ]
 }
