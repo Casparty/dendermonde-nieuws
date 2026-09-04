@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-09-03T11:50:37.562874",
+  "gegenereerd": "2026-09-04T11:53:48.352790",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 51
+      "aantal": 50
     },
     {
       "naam": "mobiliteit",
@@ -27,7 +27,7 @@
     },
     {
       "naam": "veiligheid",
-      "aantal": 2
+      "aantal": 3
     },
     {
       "naam": "economie",
@@ -49,6 +49,13 @@
     }
   ],
   "recent": [
+    {
+      "titel": "RegioDenderstreekDendermonde en 5 buurgemeenten vormen nieuwe politiezone: \"Samen sterker tegen cybercriminaliteit en terrorisme\"do 3 sep.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/09/02/politiezone-dendermonde-hamme-lebbeke-buggenhout-zele/",
+      "bron": "VRT NWS",
+      "datum": "2026-09-04T11:53:46.363038+00:00",
+      "thema": "veiligheid"
+    },
     {
       "titel": "Word crisisvrijwilliger",
       "url": "https://www.dendermonde.be/nieuws/word-crisisvrijwilliger",
@@ -391,19 +398,12 @@
       "bron": "Dender Journaal",
       "datum": "Fri, 14 Aug 2026 14:47:03 +0000",
       "thema": "mobiliteit"
-    },
-    {
-      "titel": "De Pensioenlijn krijgt een nieuw telefoonnummer vanaf 1 september 2026",
-      "url": "https://www.dendermonde.be/nieuws/de-pensioenlijn",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-08-14T08:06:56.137121+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
     {
       "week": "2026-W27",
-      "aantal": 4
+      "aantal": 1
     },
     {
       "week": "2026-W28",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W35",
-      "aantal": 11
+      "aantal": 12
     }
   ]
 }
