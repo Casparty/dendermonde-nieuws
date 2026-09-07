@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-09-06T11:26:43.601446",
+  "gegenereerd": "2026-09-07T13:09:37.670814",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 48
+      "aantal": 51
     },
     {
       "naam": "mobiliteit",
@@ -11,7 +11,7 @@
     },
     {
       "naam": "politiek",
-      "aantal": 15
+      "aantal": 16
     },
     {
       "naam": "algemeen",
@@ -19,7 +19,7 @@
     },
     {
       "naam": "sport",
-      "aantal": 7
+      "aantal": 8
     },
     {
       "naam": "cultuur",
@@ -33,7 +33,7 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 61
+      "aantal": 63
     },
     {
       "naam": "VRT NWS",
@@ -41,10 +41,52 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 22
+      "aantal": 25
     }
   ],
   "recent": [
+    {
+      "titel": "Vlaams Kampioenschap Tegelwippen",
+      "url": "https://www.dendermonde.be/nieuws/vlaamskampioenschaptegelwippen",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-09-07T13:09:37.666847+00:00",
+      "thema": "sport"
+    },
+    {
+      "titel": "3 eerste buurtinformatienetwerken (BIN’s) starten in Dendermonde",
+      "url": "https://www.dendermonde.be/nieuws/3-eerste-buurtinformatienetwerken-bins-starten-in-dendermonde",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-09-07T13:09:37.666798+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "Gemeenteraad en raad voor maatschappelijk welzijn op woensdag 9 september 2026",
+      "url": "https://www.dendermonde.be/nieuws/detail/520/gemeenteraad-en-raad-voor-maatschappelijk-welzijn-op-woensdag-9-september-2026",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-09-07T13:09:37.666770+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "RegioSint-Gillis-Dendermonde30.000 toeschouwers en 1 miljoen dahlia's op jubileumeditie van bloemencorso Sint-Gillis-Dendermondezo 6 sep.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/09/06/dendermonde-sint-gillis-bloemencorso-dahlia-s-bloemen/",
+      "bron": "VRT NWS",
+      "datum": "2026-09-07T13:09:36.002714+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "75ste bloemencorso in Sint-Gillis-Dendermonde lokt 30.000 bezoekers: meer dan één miljoen dahlia’s zorgen voor kleurrijk spektakel.",
+      "url": "https://denderjournaal.be/75ste-bloemencorso-in-sint-gillis-dendermonde-lokt-30-000-bezoekers-meer-dan-een-miljoen-dahlias-zorgen-voor-kleurrijk-spektakel/",
+      "bron": "Dender Journaal",
+      "datum": "Sun, 06 Sep 2026 20:43:35 +0000",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Marnixring Aalst Denderend Land en Iwein van Aalst brengen professor David Criekemans naar Moorsel.",
+      "url": "https://denderjournaal.be/marnixring-aalst-denderend-land-en-iwein-van-aalst-brengen-professor-david-criekemans-naar-moorsel/",
+      "bron": "Dender Journaal",
+      "datum": "Mon, 07 Sep 2026 08:26:59 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "RegioDenderstreekDendermonde en 5 buurgemeenten vormen nieuwe politiezone: \"Samen sterker tegen cybercriminaliteit en terrorisme\"do 3 sep.",
       "url": "https://www.vrt.be/vrtnws/nl/2026/09/02/politiezone-dendermonde-hamme-lebbeke-buggenhout-zele/",
@@ -352,48 +394,6 @@
       "bron": "VRT NWS",
       "datum": "2026-08-15T07:22:20.660064+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "RegioDendermonde\"Goudzoekers, blijf weg\": politie Dendermonde vraagt om niet naar werf te komen waar schat is gevondenvr 14 aug.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/14/lokale-politie-dendermonde-goud-schat-site-bouwwerf/",
-      "bron": "VRT NWS",
-      "datum": "2026-08-15T07:22:20.659994+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "RegioDendermondeJobstudent Kobe (18) en zijn collega's vonden de goudschat in Dendermonde: \"Even overwogen om zelf te houden, maar het was gewoon té veel\"vr 14 aug.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/14/schat-dendermonde-goud-vondst-vinder-arbeiders/",
-      "bron": "VRT NWS",
-      "datum": "2026-08-15T07:22:20.659925+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "RegioDendermondeGoudschat in Dendermonde was wellicht van rijke brouwersfamilie Van Assche, zegt oud-burgemeestervr 14 aug.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/14/eigenaar-schat-goud-dendermonde-gebouw-werf/",
-      "bron": "VRT NWS",
-      "datum": "2026-08-15T07:22:20.659854+00:00",
-      "thema": "politiek"
-    },
-    {
-      "titel": "RegioDendermondeHeraanleg Mechelse Poort in Dendermonde gaat voorlaatste fase in: kruispunt hele week volledig afgeslotenvr 14 aug.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/14/mechelse-poort-dendermonde-volledig-afgesloten/",
-      "bron": "VRT NWS",
-      "datum": "2026-08-15T07:22:20.659780+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "RegioBeveren-Kruibeke-ZwijndrechtWandelaar Jo Janssens uit Beveren wandelt zijn 100e tocht van 100 km in de Dodentochtvr 14 aug.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/14/wandelaar-100e-keer-100km-dodentocht-beveren/",
-      "bron": "VRT NWS",
-      "datum": "2026-08-15T07:22:20.659667+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Nieuw voetpad en zebrapad langs Steenweg in Denderleeuw starten maandag.",
-      "url": "https://denderjournaal.be/nieuw-voetpad-en-zebrapad-langs-steenweg-in-denderleeuw-starten-maandag/",
-      "bron": "Dender Journaal",
-      "datum": "Fri, 14 Aug 2026 14:47:03 +0000",
-      "thema": "mobiliteit"
     }
   ],
   "weekly": [
@@ -428,6 +428,10 @@
     {
       "week": "2026-W35",
       "aantal": 12
+    },
+    {
+      "week": "2026-W36",
+      "aantal": 6
     }
   ]
 }
