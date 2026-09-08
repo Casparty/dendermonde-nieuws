@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-09-07T13:09:37.670814",
+  "gegenereerd": "2026-09-08T11:53:54.537356",
   "themas": [
     {
       "naam": "natuur",
@@ -7,7 +7,7 @@
     },
     {
       "naam": "mobiliteit",
-      "aantal": 25
+      "aantal": 26
     },
     {
       "naam": "politiek",
@@ -15,11 +15,11 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 12
+      "aantal": 13
     },
     {
       "naam": "sport",
-      "aantal": 8
+      "aantal": 9
     },
     {
       "naam": "cultuur",
@@ -37,14 +37,35 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 31
+      "aantal": 32
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 25
+      "aantal": 27
     }
   ],
   "recent": [
+    {
+      "titel": "Oude fietsenstallingen aan station ontruimd vanaf maandag 14 september",
+      "url": "https://www.dendermonde.be/nieuws/detail/522/oude-fietsenstallingen-aan-station-ontruimd-vanaf-maandag-14-september",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-09-08T11:53:54.533647+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "Doe mee met de World Cleanup Day!",
+      "url": "https://www.dendermonde.be/nieuws/doe-mee-met-de-world-cleanup-day",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-09-08T11:53:54.533631+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "SportDendermonde vernieuwt sporthal Oudegem, VC Oudegem keert wellicht terug tegen 20282 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/09/08/oudegem-sporthal-vc-oudegem-volleybal/",
+      "bron": "VRT NWS",
+      "datum": "2026-09-08T11:53:52.705218+00:00",
+      "thema": "sport"
+    },
     {
       "titel": "Vlaams Kampioenschap Tegelwippen",
       "url": "https://www.dendermonde.be/nieuws/vlaamskampioenschaptegelwippen",
@@ -373,33 +394,12 @@
       "bron": "VRT NWS",
       "datum": "2026-08-18T07:29:40.800541+00:00",
       "thema": "mobiliteit"
-    },
-    {
-      "titel": "Werken aan Pastorijweg in Denderhoutem starten op 25 augustus: aanpak van wateroverlast en betere toegang tot Zorgdorp De Pastorij.",
-      "url": "https://denderjournaal.be/werken-aan-pastorijweg-in-denderhoutem-starten-op-25-augustus-aanpak-van-wateroverlast-en-betere-toegang-tot-zorgdorp-de-pastorij/",
-      "bron": "Dender Journaal",
-      "datum": "Mon, 17 Aug 2026 22:32:38 +0000",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "RegioLebbekeJongeren eenwieleren 150 kilometer door het Waasland om kankeronderzoek te steunenzo 16 aug.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/16/ride4change-eenwieler-kickcancer-denderbelle/",
-      "bron": "VRT NWS",
-      "datum": "2026-08-17T07:43:33.424200+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "RegioDendermondeWie heeft nu recht op de goudschat van 9 miljoen euro in Dendermonde? Dit zegt de wetvr 14 aug.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/14/schat-goud-dendermonde-caw-eigenaar-voor-wie-vondst/",
-      "bron": "VRT NWS",
-      "datum": "2026-08-15T07:22:20.660064+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
     {
       "week": "2026-W28",
-      "aantal": 7
+      "aantal": 6
     },
     {
       "week": "2026-W29",
@@ -431,7 +431,7 @@
     },
     {
       "week": "2026-W36",
-      "aantal": 6
+      "aantal": 9
     }
   ]
 }
