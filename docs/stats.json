@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-09-08T11:53:54.537356",
+  "gegenereerd": "2026-09-09T12:03:17.753722",
   "themas": [
     {
       "naam": "natuur",
@@ -15,11 +15,11 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 13
+      "aantal": 14
     },
     {
       "naam": "sport",
-      "aantal": 9
+      "aantal": 11
     },
     {
       "naam": "cultuur",
@@ -28,6 +28,10 @@
     {
       "naam": "veiligheid",
       "aantal": 3
+    },
+    {
+      "naam": "economie",
+      "aantal": 1
     }
   ],
   "bronnen": [
@@ -41,10 +45,45 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 27
+      "aantal": 31
     }
   ],
   "recent": [
+    {
+      "titel": "Belangrijke stap vooruit voor de toekomst van sportsite Oudegem",
+      "url": "https://www.dendermonde.be/nieuws/belangrijke-stap-vooruit-voor-de-toekomst-van-sportsite-oudegem",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-09-09T12:03:17.749237+00:00",
+      "thema": "sport"
+    },
+    {
+      "titel": "Lokaal dienstencentrum De 4 Wijzers verdubbelt dorpsrestaurants",
+      "url": "https://www.dendermonde.be/nieuws/lokaal-dienstencentrum-de-4-wijzers-verdubbelt-dorpsrestaurants",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-09-09T12:03:17.749233+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Kom op 17 oktober naar de opendeurdag van Verko's kringloopwinkels!",
+      "url": "https://www.dendermonde.be/nieuws/opendeurdag-kringloopwinkels",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-09-09T12:03:17.749224+00:00",
+      "thema": "economie"
+    },
+    {
+      "titel": "KASK Dendermonde opent de deuren voor een nieuw creatief academiejaar",
+      "url": "https://www.dendermonde.be/nieuws/kask-dendermonde-opent-deuren-voor-een-nieuw-creatief-academiejaar",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-09-09T12:03:17.749203+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "SportDendermonde vernieuwt sporthal Oudegem, VC Oudegem keert wellicht terug tegen 2028di 8 sep.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/09/08/oudegem-sporthal-vc-oudegem-volleybal/",
+      "bron": "VRT NWS",
+      "datum": "2026-09-09T12:03:15.660687+00:00",
+      "thema": "sport"
+    },
     {
       "titel": "Oude fietsenstallingen aan station ontruimd vanaf maandag 14 september",
       "url": "https://www.dendermonde.be/nieuws/detail/522/oude-fietsenstallingen-aan-station-ontruimd-vanaf-maandag-14-september",
@@ -359,47 +398,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-08-18T07:29:42.699597+00:00",
       "thema": "mobiliteit"
-    },
-    {
-      "titel": "Schoonaardebrug ongeveer 30 minuten afgesloten in de nacht van 18 op 19 augustus",
-      "url": "https://www.dendermonde.be/nieuws/schoonaardebrug-ongeveer-30-minuten-dicht-voor-documentaire-opnames",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-08-18T07:29:42.699575+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "RegioDendermonde'Verstopt in vorig leven' of 'het was opa uit Letland': vermeende eigenaars goudschat Dendermonde melden zich bij politiema 17 aug.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/17/dendermonde-goud-schat-politie-meldingen-eigenaar-advocaat-notar/",
-      "bron": "VRT NWS",
-      "datum": "2026-08-18T07:29:40.800753+00:00",
-      "thema": "veiligheid"
-    },
-    {
-      "titel": "PFAS-vervuilingBuurtbewoners VPK in Oudegem zien mogelijke uitzondering verhoogde PFAS-lozing niet zitten: 30-tal bezwaren ingediendma 17 aug.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/17/bezwaren-buurtbewoners-vergunning-pfas-vpk-oudegem-dendermonde/",
-      "bron": "VRT NWS",
-      "datum": "2026-08-18T07:29:40.800687+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "RegioDendermondeReizende brievenbus geeft inwoners inspraak bij vernieuwing speelpleinen in Dendermondema 17 aug.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/17/reizende-brievenbus-speelpleinen-dendermonde/",
-      "bron": "VRT NWS",
-      "datum": "2026-08-18T07:29:40.800635+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "RegioSint-Gillis-DendermondeGeen treinverkeer tussen Sint-Niklaas en Willebroek en tussen Lokeren en Dendermonde2 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/18/infrabel-geen-treinverkeer-waasland-en-denderstreek/",
-      "bron": "VRT NWS",
-      "datum": "2026-08-18T07:29:40.800541+00:00",
-      "thema": "mobiliteit"
     }
   ],
   "weekly": [
     {
       "week": "2026-W28",
-      "aantal": 6
+      "aantal": 4
     },
     {
       "week": "2026-W29",
@@ -431,7 +435,7 @@
     },
     {
       "week": "2026-W36",
-      "aantal": 9
+      "aantal": 14
     }
   ]
 }
