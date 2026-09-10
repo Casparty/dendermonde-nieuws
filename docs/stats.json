@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-09-09T12:03:17.753722",
+  "gegenereerd": "2026-09-10T11:58:00.670295",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 51
+      "aantal": 54
     },
     {
       "naam": "mobiliteit",
@@ -11,11 +11,11 @@
     },
     {
       "naam": "politiek",
-      "aantal": 16
+      "aantal": 18
     },
     {
       "naam": "algemeen",
-      "aantal": 14
+      "aantal": 15
     },
     {
       "naam": "sport",
@@ -23,7 +23,7 @@
     },
     {
       "naam": "cultuur",
-      "aantal": 4
+      "aantal": 5
     },
     {
       "naam": "veiligheid",
@@ -37,18 +37,67 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 63
+      "aantal": 64
     },
     {
       "naam": "VRT NWS",
-      "aantal": 32
+      "aantal": 35
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 31
+      "aantal": 34
     }
   ],
   "recent": [
+    {
+      "titel": "Nog geen definitieve beslissing in het dossier ‘Zuster Gabriellehof’",
+      "url": "https://www.dendermonde.be/nieuws/zuster-gabriellehof",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-09-10T11:58:00.666270+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Stad neemt akte van open brief en blijft openstaan voor overleg",
+      "url": "https://www.dendermonde.be/nieuws/open-brief-en-overleg",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-09-10T11:58:00.666262+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "Stad Dendermonde investeert in 2 grote riolerings- en herinrichtingsprojecten",
+      "url": "https://www.dendermonde.be/nieuws/grote-riolerings-en-herinrichtingsprojecten",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-09-10T11:58:00.666241+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "RegioDendermondeDorpsrestaurants in Dendermonde voortaan dubbel zo vaak open door groeiend succes: \"Eten werkt verbindend\"wo 9 sep.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/09/09/verdubbeling-dorpsrestaurants-dendermonde-de-4-wijzers/",
+      "bron": "VRT NWS",
+      "datum": "2026-09-10T11:57:58.895724+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "RegioDendermondeBloemententoonstelling Féerie Florale in Dendermonde stopt definitiefwo 9 sep.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/09/09/dendermonde-bloemententoonstelling-feerie-florale-stop/",
+      "bron": "VRT NWS",
+      "datum": "2026-09-10T11:57:58.895644+00:00",
+      "thema": "cultuur"
+    },
+    {
+      "titel": "RegioDendermondeBijna 60 handelaars vragen Dendermonde om herinrichting Oude Vest stop te zetten3 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/09/10/dendermonde-oude-vest-handelaars-bewoners-protest-eenrichting/",
+      "bron": "VRT NWS",
+      "datum": "2026-09-10T11:57:58.895538+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Amerikaanse familie ontdekt na 100 jaar het vergeten verhaal van Denderhoutemse voorvader.",
+      "url": "https://denderjournaal.be/amerikaanse-familie-ontdekt-na-100-jaar-het-vergeten-verhaal-van-denderhoutemse-voorvader/",
+      "bron": "Dender Journaal",
+      "datum": "Thu, 10 Sep 2026 08:50:30 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "Belangrijke stap vooruit voor de toekomst van sportsite Oudegem",
       "url": "https://www.dendermonde.be/nieuws/belangrijke-stap-vooruit-voor-de-toekomst-van-sportsite-oudegem",
@@ -349,61 +398,12 @@
       "bron": "VRT NWS",
       "datum": "2026-08-22T07:23:17.607514+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "Stad sluit overeenkomst met Dierenwereldkruis vzw voor opvang honden",
-      "url": "https://www.dendermonde.be/nieuws/stad-sluit-overeenkomst-met-dierenwereldkruis-vzw-voor-opvang-honden",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-08-21T07:34:36.329107+00:00",
-      "thema": "politiek"
-    },
-    {
-      "titel": "Dendermondse cadeaubon nu ook fysiek verkrijgbaar",
-      "url": "https://www.dendermonde.be/nieuws/dendermondse-cadeaubon-nu-ook-fysiek-verkrijgbaar",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-08-21T07:34:36.329063+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Kruispunt Mechelse Poort: grootste verkeershinder voorbij vanaf maandag 24 augustus",
-      "url": "https://www.dendermonde.be/nieuws/kruispunt-mechelse-poort-verkeershinder",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-08-21T07:34:36.329040+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "RegioSint-Gillis-DendermondeTreinverkeer tussen Sint-Niklaas en Willebroek en tussen Lokeren en Dendermonde hervat na softwareprobleemwo 19 aug.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/19/infrabel-spoorproblemen-denderstreek-waasland-softwareprobleem-s/",
-      "bron": "VRT NWS",
-      "datum": "2026-08-20T07:32:33.119233+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "RegioSint-Gillis-DendermondeNog zeker tot morgen treinhinder tussen Sint-Niklaas en Willebroek en tussen Lokeren en Dendermondedi 18 aug.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/18/infrabel-geen-treinverkeer-waasland-en-denderstreek/",
-      "bron": "VRT NWS",
-      "datum": "2026-08-19T07:30:10.018393+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "RegioSint-Gillis-DendermondeTreinverkeer tussen Sint-Niklaas en Willebroek en tussen Lokeren en Dendermonde hervat na softwareprobleem3 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/19/infrabel-spoorproblemen-denderstreek-waasland-softwareprobleem-s/",
-      "bron": "VRT NWS",
-      "datum": "2026-08-19T07:30:10.018282+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "Denk mee over jouw speelplein via de vliegende speelpleinbrievenbus!",
-      "url": "https://www.dendermonde.be/nieuws/speelpleinbrievenbus",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-08-18T07:29:42.699597+00:00",
-      "thema": "mobiliteit"
     }
   ],
   "weekly": [
     {
       "week": "2026-W28",
-      "aantal": 4
+      "aantal": 2
     },
     {
       "week": "2026-W29",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W36",
-      "aantal": 14
+      "aantal": 21
     }
   ]
 }
