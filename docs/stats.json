@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-09-10T11:58:00.670295",
+  "gegenereerd": "2026-09-11T11:56:53.045387",
   "themas": [
     {
       "naam": "natuur",
@@ -11,11 +11,11 @@
     },
     {
       "naam": "politiek",
-      "aantal": 18
+      "aantal": 17
     },
     {
       "naam": "algemeen",
-      "aantal": 15
+      "aantal": 14
     },
     {
       "naam": "sport",
@@ -27,7 +27,7 @@
     },
     {
       "naam": "veiligheid",
-      "aantal": 3
+      "aantal": 4
     },
     {
       "naam": "economie",
@@ -45,10 +45,24 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 34
+      "aantal": 33
     }
   ],
   "recent": [
+    {
+      "titel": "Actualisering van het Algemeen Politiereglement",
+      "url": "https://www.dendermonde.be/nieuws/actualisering-van-het-algemeen-politiereglement",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-09-11T11:56:53.041453+00:00",
+      "thema": "veiligheid"
+    },
+    {
+      "titel": "RegioDendermondeBijna 60 handelaars vragen Dendermonde om herinrichting Oude Vest stop te zettendo 10 sep.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/09/10/dendermonde-oude-vest-handelaars-bewoners-protest-eenrichting/",
+      "bron": "VRT NWS",
+      "datum": "2026-09-11T11:56:51.740832+00:00",
+      "thema": "natuur"
+    },
     {
       "titel": "Nog geen definitieve beslissing in het dossier ‘Zuster Gabriellehof’",
       "url": "https://www.dendermonde.be/nieuws/zuster-gabriellehof",
@@ -384,20 +398,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-08-22T07:23:18.918548+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "RegioDendermondeKruispunt Mechelse Poort in Dendermonde vroeger open: grootste verkeershinder zaterdag al voorbijvr 21 aug.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/21/mechelse-poort-dendermonde-vroeger-open/",
-      "bron": "VRT NWS",
-      "datum": "2026-08-22T07:23:17.607621+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "RegioAalst50 tractoren protesteren in Aalst tegen natuurplan Beneden-Dender: \"Concurrentievervalsing voor landbouwers\"vr 21 aug.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/21/boerenprotest-aalst-natuurgebied/",
-      "bron": "VRT NWS",
-      "datum": "2026-08-22T07:23:17.607514+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W36",
-      "aantal": 21
+      "aantal": 23
     }
   ]
 }
