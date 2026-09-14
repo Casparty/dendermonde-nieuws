@@ -1,13 +1,13 @@
 {
-  "gegenereerd": "2026-09-13T12:27:06.270616",
+  "gegenereerd": "2026-09-14T13:29:58.087179",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 54
+      "aantal": 53
     },
     {
       "naam": "mobiliteit",
-      "aantal": 26
+      "aantal": 24
     },
     {
       "naam": "politiek",
@@ -15,7 +15,7 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 14
+      "aantal": 12
     },
     {
       "naam": "sport",
@@ -23,7 +23,7 @@
     },
     {
       "naam": "cultuur",
-      "aantal": 5
+      "aantal": 6
     },
     {
       "naam": "veiligheid",
@@ -41,14 +41,21 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 35
+      "aantal": 32
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 32
+      "aantal": 31
     }
   ],
   "recent": [
+    {
+      "titel": "Tetterfeest op de Grote Markt op vrijdag 25 september",
+      "url": "https://www.dendermonde.be/nieuws/tetterfeest",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-09-14T13:29:58.078152+00:00",
+      "thema": "cultuur"
+    },
     {
       "titel": "Actualisering van het Algemeen Politiereglement",
       "url": "https://www.dendermonde.be/nieuws/actualisering-van-het-algemeen-politiereglement",
@@ -391,13 +398,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-08-22T07:23:18.918565+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "Samen Veerkrachtig",
-      "url": "https://www.dendermonde.be/nieuws/samenveerkrachtig2026",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-08-22T07:23:18.918548+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
@@ -432,6 +432,10 @@
     {
       "week": "2026-W36",
       "aantal": 23
+    },
+    {
+      "week": "2026-W37",
+      "aantal": 1
     }
   ]
 }
