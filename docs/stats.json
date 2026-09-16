@@ -1,13 +1,13 @@
 {
-  "gegenereerd": "2026-09-15T12:21:51.209064",
+  "gegenereerd": "2026-09-16T12:19:16.451837",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 51
+      "aantal": 52
     },
     {
       "naam": "mobiliteit",
-      "aantal": 22
+      "aantal": 23
     },
     {
       "naam": "politiek",
@@ -41,14 +41,28 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 31
+      "aantal": 32
     },
     {
       "naam": "VRT NWS",
-      "aantal": 26
+      "aantal": 27
     }
   ],
   "recent": [
+    {
+      "titel": "Win duotickets voor de Borremans Mosselcross op zondag 11 oktober in Dendermonde!",
+      "url": "https://www.dendermonde.be/nieuws/wedstrijd-veldrijden",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-09-16T12:19:16.448088+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "BinnenlandStoring lijkt opgelost: websites van tientallen Vlaamse gemeenten werken opnieuw na uitval bij leverancier8 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/09/15/website-gemeenten-storing/",
+      "bron": "VRT NWS",
+      "datum": "2026-09-16T12:19:15.215335+00:00",
+      "thema": "mobiliteit"
+    },
     {
       "titel": "Tetterfeest op de Grote Markt op vrijdag 25 september",
       "url": "https://www.dendermonde.be/nieuws/tetterfeest",
@@ -384,20 +398,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-08-22T07:23:18.918595+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "Kruispunt Mechelse Poort: grootste verkeershinder voorbij vanaf zaterdag 22 augustus",
-      "url": "https://www.dendermonde.be/nieuws/kruispunt-mechelse-poort-verkeershinder",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-08-22T07:23:18.918575+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "Dementievriendelijk Dendermonde",
-      "url": "https://www.dendermonde.be/nieuws/dementievriendelijk-dendermonde-2026",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-08-22T07:23:18.918565+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W37",
-      "aantal": 1
+      "aantal": 3
     }
   ]
 }
