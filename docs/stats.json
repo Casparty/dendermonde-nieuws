@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-09-16T12:19:16.451837",
+  "gegenereerd": "2026-09-17T12:19:04.158405",
   "themas": [
     {
       "naam": "natuur",
@@ -7,19 +7,19 @@
     },
     {
       "naam": "mobiliteit",
-      "aantal": 23
+      "aantal": 24
     },
     {
       "naam": "politiek",
-      "aantal": 15
+      "aantal": 16
     },
     {
       "naam": "sport",
-      "aantal": 11
+      "aantal": 12
     },
     {
       "naam": "algemeen",
-      "aantal": 11
+      "aantal": 10
     },
     {
       "naam": "cultuur",
@@ -37,7 +37,7 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 64
+      "aantal": 65
     },
     {
       "naam": "Stad Dendermonde",
@@ -45,10 +45,31 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 27
+      "aantal": 28
     }
   ],
   "recent": [
+    {
+      "titel": "BinnenlandStoring lijkt opgelost: websites van tientallen Vlaamse gemeenten werken opnieuw na uitval bij leverancierwo 16 sep.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/09/15/website-gemeenten-storing/",
+      "bron": "VRT NWS",
+      "datum": "2026-09-17T12:19:02.227989+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "RegioDendermondeDendermonde legt nachtclub verplicht sluitingsuur op: \"Uitbaters vinden overlast en incidenten normaal\"wo 16 sep.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/09/16/dendermonde-cafe-aries-openingsuren-sluiten-incidenten/",
+      "bron": "VRT NWS",
+      "datum": "2026-09-17T12:19:02.227916+00:00",
+      "thema": "sport"
+    },
+    {
+      "titel": "Start week van de Duurzame Gemeente 2026 in Denderleeuw.",
+      "url": "https://denderjournaal.be/start-week-van-de-duurzame-gemeente-2026-in-denderleeuw/",
+      "bron": "Dender Journaal",
+      "datum": "Thu, 17 Sep 2026 09:38:17 +0000",
+      "thema": "politiek"
+    },
     {
       "titel": "Win duotickets voor de Borremans Mosselcross op zondag 11 oktober in Dendermonde!",
       "url": "https://www.dendermonde.be/nieuws/wedstrijd-veldrijden",
@@ -377,27 +398,6 @@
       "bron": "Dender Journaal",
       "datum": "Tue, 25 Aug 2026 13:47:22 +0000",
       "thema": "politiek"
-    },
-    {
-      "titel": "RegioSint-AmandsAmbachtelijke desembakkerij opent dit najaar aan de voet van de Gansakkermolen in Sint-Amandsza 22 aug.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/22/stichting-kempens-landschap-en-de-gemeente-puurs-sint-amands-he/",
-      "bron": "VRT NWS",
-      "datum": "2026-08-23T07:25:19.943519+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Vooruit Aalst vraagt duidelijkheid over toekomst van landbouwgronden langs de Dender.",
-      "url": "https://denderjournaal.be/vooruit-aalst-vraagt-duidelijkheid-over-toekomst-van-landbouwgronden-langs-de-dender/",
-      "bron": "Dender Journaal",
-      "datum": "Sat, 22 Aug 2026 20:20:24 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Infosessie mobiliteit van morgen: ontdek & test duurzame vervoersoplossingen",
-      "url": "https://www.dendermonde.be/nieuws/infosessiemobiliteitvanmorgen",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-08-22T07:23:18.918595+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W37",
-      "aantal": 3
+      "aantal": 6
     }
   ]
 }
