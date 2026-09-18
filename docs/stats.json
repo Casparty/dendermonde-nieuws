@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-09-17T12:19:04.158405",
+  "gegenereerd": "2026-09-18T11:59:05.480142",
   "themas": [
     {
       "naam": "natuur",
@@ -7,7 +7,7 @@
     },
     {
       "naam": "mobiliteit",
-      "aantal": 24
+      "aantal": 20
     },
     {
       "naam": "politiek",
@@ -19,7 +19,7 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 10
+      "aantal": 9
     },
     {
       "naam": "cultuur",
@@ -27,7 +27,7 @@
     },
     {
       "naam": "veiligheid",
-      "aantal": 4
+      "aantal": 3
     },
     {
       "naam": "economie",
@@ -41,11 +41,11 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 32
+      "aantal": 30
     },
     {
       "naam": "VRT NWS",
-      "aantal": 28
+      "aantal": 24
     }
   ],
   "recent": [
