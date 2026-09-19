@@ -1,13 +1,13 @@
 {
-  "gegenereerd": "2026-09-18T11:59:05.480142",
+  "gegenereerd": "2026-09-19T11:43:08.363453",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 52
+      "aantal": 53
     },
     {
       "naam": "mobiliteit",
-      "aantal": 20
+      "aantal": 18
     },
     {
       "naam": "politiek",
@@ -45,10 +45,17 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 24
+      "aantal": 23
     }
   ],
   "recent": [
+    {
+      "titel": "RegioDendermondeDendermonde kan nu ook 14-jarigen GAS-boetes geven: \"Ze halen dingen uit die niet kunnen\"39 minuten geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/09/19/dendermonde-gas-boetes-leeftijd-verlagen-14-jaar-nood/",
+      "bron": "VRT NWS",
+      "datum": "2026-09-19T11:43:06.760922+00:00",
+      "thema": "natuur"
+    },
     {
       "titel": "BinnenlandStoring lijkt opgelost: websites van tientallen Vlaamse gemeenten werken opnieuw na uitval bij leverancierwo 16 sep.",
       "url": "https://www.vrt.be/vrtnws/nl/2026/09/15/website-gemeenten-storing/",
@@ -391,19 +398,12 @@
       "bron": "VRT NWS",
       "datum": "2026-08-27T17:59:02.512989+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "Vlaams Belang Denderleeuw verzet zich tegen verplichte fusie met Haaltert: “Geen gemeentefusie die vanuit Brussel wordt opgelegd”",
-      "url": "https://denderjournaal.be/vlaams-belang-denderleeuw-verzet-zich-tegen-verplichte-fusie-met-haaltert-geen-gemeentefusie-die-vanuit-brussel-wordt-opgelegd/",
-      "bron": "Dender Journaal",
-      "datum": "Tue, 25 Aug 2026 13:47:22 +0000",
-      "thema": "politiek"
     }
   ],
   "weekly": [
     {
       "week": "2026-W29",
-      "aantal": 4
+      "aantal": 2
     },
     {
       "week": "2026-W30",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W37",
-      "aantal": 6
+      "aantal": 7
     }
   ]
 }
