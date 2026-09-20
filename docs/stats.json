@@ -1,13 +1,13 @@
 {
-  "gegenereerd": "2026-09-19T11:43:08.363453",
+  "gegenereerd": "2026-09-20T11:55:05.893209",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 53
+      "aantal": 54
     },
     {
       "naam": "mobiliteit",
-      "aantal": 18
+      "aantal": 17
     },
     {
       "naam": "politiek",
@@ -49,6 +49,13 @@
     }
   ],
   "recent": [
+    {
+      "titel": "RegioDendermondeDendermonde kan nu ook 14-jarigen GAS-boetes geven: \"Ze halen dingen uit die niet kunnen\"za 19 sep.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/09/19/dendermonde-gas-boetes-leeftijd-verlagen-14-jaar-nood/",
+      "bron": "VRT NWS",
+      "datum": "2026-09-20T11:55:04.063574+00:00",
+      "thema": "natuur"
+    },
     {
       "titel": "RegioDendermondeDendermonde kan nu ook 14-jarigen GAS-boetes geven: \"Ze halen dingen uit die niet kunnen\"39 minuten geleden",
       "url": "https://www.vrt.be/vrtnws/nl/2026/09/19/dendermonde-gas-boetes-leeftijd-verlagen-14-jaar-nood/",
@@ -391,19 +398,12 @@
       "bron": "Dender Journaal",
       "datum": "Fri, 28 Aug 2026 09:39:42 +0000",
       "thema": "natuur"
-    },
-    {
-      "titel": "RegioSint-Gillis-DendermondeIngekorte editie van Katuit Dendermonde: \"Weersvoorspellingen zijn onduidelijk\"4 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/27/katuit-dendermonde-wel-of-niet-slecht-weer-kmi/",
-      "bron": "VRT NWS",
-      "datum": "2026-08-27T17:59:02.512989+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
     {
       "week": "2026-W29",
-      "aantal": 2
+      "aantal": 1
     },
     {
       "week": "2026-W30",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W37",
-      "aantal": 7
+      "aantal": 8
     }
   ]
 }
