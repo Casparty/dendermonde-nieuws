@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-09-20T11:55:05.893209",
+  "gegenereerd": "2026-09-21T13:29:01.060885",
   "themas": [
     {
       "naam": "natuur",
@@ -7,15 +7,15 @@
     },
     {
       "naam": "mobiliteit",
-      "aantal": 17
-    },
-    {
-      "naam": "politiek",
       "aantal": 16
     },
     {
+      "naam": "politiek",
+      "aantal": 15
+    },
+    {
       "naam": "sport",
-      "aantal": 12
+      "aantal": 13
     },
     {
       "naam": "algemeen",
@@ -37,11 +37,11 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 65
+      "aantal": 66
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 30
+      "aantal": 28
     },
     {
       "naam": "VRT NWS",
@@ -49,6 +49,20 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Duikclub 't Zeepaardje duikt op 10 oktober 2026 de Dender schoon!",
+      "url": "https://www.dendermonde.be/nieuws/duikclub-t-zeepaardje-duikt-op-10-oktober-2026-de-dender-schoon",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-09-21T13:29:01.057423+00:00",
+      "thema": "sport"
+    },
+    {
+      "titel": "Denderleeuw kiest kleur tegen pesten.",
+      "url": "https://denderjournaal.be/denderleeuw-kiest-kleur-tegen-pesten-2/",
+      "bron": "Dender Journaal",
+      "datum": "Mon, 21 Sep 2026 12:18:56 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "RegioDendermondeDendermonde kan nu ook 14-jarigen GAS-boetes geven: \"Ze halen dingen uit die niet kunnen\"za 19 sep.",
       "url": "https://www.vrt.be/vrtnws/nl/2026/09/19/dendermonde-gas-boetes-leeftijd-verlagen-14-jaar-nood/",
@@ -384,27 +398,9 @@
       "bron": "VRT NWS",
       "datum": "2026-08-28T19:09:15.309481+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "Ros BeiaardExacte datum is bekend: Ros Beiaardommegang van Dendermonde vindt in 2030 plaats op 2 juni15 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/27/ros-beiaard-2030-datum/",
-      "bron": "VRT NWS",
-      "datum": "2026-08-28T19:09:15.309381+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Denderstreek krijgt amper 2 procent van onderzochte Vlaamse innovatiesteun: “Investeer niet alleen ín de regio, haal ook investeringen náár de Denderstreek”",
-      "url": "https://denderjournaal.be/denderstreek-krijgt-amper-2-procent-van-onderzochte-vlaamse-innovatiesteun-investeer-niet-alleen-in-de-regio-haal-ook-investeringen-naar-de-denderstreek/",
-      "bron": "Dender Journaal",
-      "datum": "Fri, 28 Aug 2026 09:39:42 +0000",
-      "thema": "natuur"
     }
   ],
   "weekly": [
-    {
-      "week": "2026-W29",
-      "aantal": 1
-    },
     {
       "week": "2026-W30",
       "aantal": 6
@@ -436,6 +432,10 @@
     {
       "week": "2026-W37",
       "aantal": 8
+    },
+    {
+      "week": "2026-W38",
+      "aantal": 2
     }
   ]
 }
