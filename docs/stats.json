@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-09-22T12:13:30.070172",
+  "gegenereerd": "2026-09-23T12:26:42.775297",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 55
+      "aantal": 57
     },
     {
       "naam": "politiek",
@@ -19,7 +19,7 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 8
+      "aantal": 7
     },
     {
       "naam": "cultuur",
@@ -37,7 +37,7 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 66
+      "aantal": 67
     },
     {
       "naam": "Stad Dendermonde",
@@ -49,6 +49,20 @@
     }
   ],
   "recent": [
+    {
+      "titel": "RegioDendermondeMotorrijder in levensgevaar na zware botsing met auto in Schoonaardedi 22 sep.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/09/22/ongeval-schoonaarde-levensgevaar-eegene-motor/",
+      "bron": "VRT NWS",
+      "datum": "2026-09-23T12:26:40.541770+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Dender Koerst: laatste wielerwedstrijden van 2026 staan voor de deur.",
+      "url": "https://denderjournaal.be/dender-koerst-laatste-wielerwedstrijden-van-2026-staan-voor-de-deur/",
+      "bron": "Dender Journaal",
+      "datum": "Wed, 23 Sep 2026 09:47:46 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "Infomarkt fietstunnel Sint-Gillislaan",
       "url": "https://www.dendermonde.be/nieuws/detail/539/infomarkt-fietstunnel-sint-gillislaan",
@@ -384,20 +398,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-08-31T14:37:25.106662+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "Infosessie UiTPAS Dender voor verenigingen in Erpe-Mere.",
-      "url": "https://denderjournaal.be/infosessie-uitpas-dender-voor-verenigingen-in-erpe-mere/",
-      "bron": "Dender Journaal",
-      "datum": "Mon, 31 Aug 2026 08:55:06 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Fotowedstrijd ‘Wiki Loves Denderland’ zoekt mooiste beelden van het Denderlandse erfgoed.",
-      "url": "https://denderjournaal.be/fotowedstrijd-wiki-loves-denderland-zoekt-mooiste-beelden-van-het-denderlandse-erfgoed/",
-      "bron": "Dender Journaal",
-      "datum": "Mon, 31 Aug 2026 08:56:52 +0000",
-      "thema": "cultuur"
     }
   ],
   "weekly": [
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W38",
-      "aantal": 8
+      "aantal": 10
     }
   ]
 }
