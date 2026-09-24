@@ -1,21 +1,21 @@
 {
-  "gegenereerd": "2026-09-23T12:26:42.775297",
+  "gegenereerd": "2026-09-24T12:25:56.508195",
   "themas": [
     {
       "naam": "natuur",
       "aantal": 57
     },
     {
+      "naam": "mobiliteit",
+      "aantal": 16
+    },
+    {
       "naam": "politiek",
       "aantal": 15
     },
     {
-      "naam": "mobiliteit",
-      "aantal": 15
-    },
-    {
       "naam": "sport",
-      "aantal": 13
+      "aantal": 14
     },
     {
       "naam": "algemeen",
@@ -41,14 +41,28 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 29
+      "aantal": 30
     },
     {
       "naam": "VRT NWS",
-      "aantal": 22
+      "aantal": 23
     }
   ],
   "recent": [
+    {
+      "titel": "Kom het vernieuwde kruispunt Mechelse Poort ontdekken!",
+      "url": "https://www.dendermonde.be/nieuws/opening-kruispunt-mechelse-poort",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-09-24T12:25:56.504382+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "BinnenlandIN KAART: Hoeveel kost zwemmen in jouw buurt?9 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/08/13/zwembaden-vlaanderen-aantal-gemeentelijk-lago-sportoase/",
+      "bron": "VRT NWS",
+      "datum": "2026-09-24T12:25:54.996956+00:00",
+      "thema": "sport"
+    },
     {
       "titel": "RegioDendermondeMotorrijder in levensgevaar na zware botsing met auto in Schoonaardedi 22 sep.",
       "url": "https://www.vrt.be/vrtnws/nl/2026/09/22/ongeval-schoonaarde-levensgevaar-eegene-motor/",
@@ -384,26 +398,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-09-01T12:14:15.645700+00:00",
       "thema": "politiek"
-    },
-    {
-      "titel": "RegioDendermondeEenrichtingsverkeer moet doorstroming verbeteren na afwerking heraanleg kruispunt Mechelse Poort in Dendermonde3 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/09/01/eenrichtingsverkeer-moet-doorstroming-verkeer-in-dendermonde-ver/",
-      "bron": "VRT NWS",
-      "datum": "2026-09-01T12:14:13.679364+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "Ophaling van papier en karton tijdens de week van 14 t.e.m. 17 september gaat door!",
-      "url": "https://www.dendermonde.be/nieuws/ophaling-van-papier-en-karton-tijdens-de-week-van-14-t-e-m-17-september-gaat-door",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-08-31T14:37:25.106662+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
     {
       "week": "2026-W30",
-      "aantal": 6
+      "aantal": 5
     },
     {
       "week": "2026-W31",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W38",
-      "aantal": 10
+      "aantal": 12
     }
   ]
 }
