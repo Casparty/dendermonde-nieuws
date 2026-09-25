@@ -1,25 +1,25 @@
 {
-  "gegenereerd": "2026-09-24T12:25:56.508195",
+  "gegenereerd": "2026-09-25T12:25:52.609211",
   "themas": [
     {
       "naam": "natuur",
       "aantal": 57
     },
     {
+      "naam": "politiek",
+      "aantal": 16
+    },
+    {
       "naam": "mobiliteit",
       "aantal": 16
     },
     {
-      "naam": "politiek",
+      "naam": "sport",
       "aantal": 15
     },
     {
-      "naam": "sport",
-      "aantal": 14
-    },
-    {
       "naam": "algemeen",
-      "aantal": 7
+      "aantal": 8
     },
     {
       "naam": "cultuur",
@@ -37,18 +37,39 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 67
+      "aantal": 68
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 30
+      "aantal": 31
     },
     {
       "naam": "VRT NWS",
-      "aantal": 23
+      "aantal": 24
     }
   ],
   "recent": [
+    {
+      "titel": "ViewMasters zoekt artistiek talent",
+      "url": "https://www.dendermonde.be/nieuws/viewmasters-zoekt-artistiek-talent",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-09-25T12:25:52.605476+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "BinnenlandIN KAART: Hoeveel kost zwemmen in jouw buurt?do 24 sep.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/08/13/zwembaden-vlaanderen-aantal-gemeentelijk-lago-sportoase/",
+      "bron": "VRT NWS",
+      "datum": "2026-09-25T12:25:51.180114+00:00",
+      "thema": "sport"
+    },
+    {
+      "titel": "Vlaams Belang Denderleeuw dient klacht in na zoveelste technisch debacle op gemeenteraad.",
+      "url": "https://denderjournaal.be/vlaams-belang-denderleeuw-dient-klacht-in-na-zoveelste-technisch-debacle-op-gemeenteraad/",
+      "bron": "Dender Journaal",
+      "datum": "Fri, 25 Sep 2026 11:23:32 +0000",
+      "thema": "politiek"
+    },
     {
       "titel": "Kom het vernieuwde kruispunt Mechelse Poort ontdekken!",
       "url": "https://www.dendermonde.be/nieuws/opening-kruispunt-mechelse-poort",
@@ -377,33 +398,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-09-03T11:50:37.558715+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "RegioDenderstreekDendermonde en 5 buurgemeenten vormen nieuwe politiezone: \"Samen sterker tegen cybercriminaliteit en terrorisme\"8 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/09/02/politiezone-dendermonde-hamme-lebbeke-buggenhout-zele/",
-      "bron": "VRT NWS",
-      "datum": "2026-09-03T11:50:35.715172+00:00",
-      "thema": "veiligheid"
-    },
-    {
-      "titel": "RegioDendermondeEenrichtingsverkeer moet doorstroming verbeteren na afwerking heraanleg kruispunt Mechelse Poort in Dendermondedi 1 sep.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/09/01/eenrichtingsverkeer-moet-doorstroming-verkeer-in-dendermonde-ver/",
-      "bron": "VRT NWS",
-      "datum": "2026-09-02T11:52:32.801487+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "Stad Dendermonde neemt maatregelen voor vlottere mobiliteit en bereikbare binnenstad",
-      "url": "https://www.dendermonde.be/nieuws/verkeersmaatregelen-binnenstad",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-09-01T12:14:15.645700+00:00",
-      "thema": "politiek"
     }
   ],
   "weekly": [
     {
       "week": "2026-W30",
-      "aantal": 5
+      "aantal": 3
     },
     {
       "week": "2026-W31",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W38",
-      "aantal": 12
+      "aantal": 15
     }
   ]
 }
