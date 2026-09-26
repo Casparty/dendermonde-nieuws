@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-09-25T12:25:52.609211",
+  "gegenereerd": "2026-09-26T11:58:08.892561",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 57
+      "aantal": 58
     },
     {
       "naam": "politiek",
@@ -37,7 +37,7 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 68
+      "aantal": 69
     },
     {
       "naam": "Stad Dendermonde",
@@ -49,6 +49,13 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Tijdelijke veiligheidsmaatregelen in stationsbuurt Denderleeuw worden niet verlengd.",
+      "url": "https://denderjournaal.be/tijdelijke-veiligheidsmaatregelen-in-stationsbuurt-denderleeuw-worden-niet-verlengd/",
+      "bron": "Dender Journaal",
+      "datum": "Fri, 25 Sep 2026 13:47:30 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "ViewMasters zoekt artistiek talent",
       "url": "https://www.dendermonde.be/nieuws/viewmasters-zoekt-artistiek-talent",
@@ -391,13 +398,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-09-03T11:50:37.558737+00:00",
       "thema": "mobiliteit"
-    },
-    {
-      "titel": "Ldc Denderpoort zet deuren wagenwijd open tijdens opendeurweekend",
-      "url": "https://www.dendermonde.be/nieuws/ldc-denderpoort-zet-deuren-wagenwijd-open-tijdens-opendeurweekend",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-09-03T11:50:37.558715+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W38",
-      "aantal": 15
+      "aantal": 16
     }
   ]
 }
