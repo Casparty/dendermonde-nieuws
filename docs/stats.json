@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-09-26T11:58:08.892561",
+  "gegenereerd": "2026-09-27T12:35:28.902143",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 58
+      "aantal": 57
     },
     {
       "naam": "politiek",
@@ -45,7 +45,7 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 24
+      "aantal": 23
     }
   ],
   "recent": [
@@ -403,7 +403,7 @@
   "weekly": [
     {
       "week": "2026-W30",
-      "aantal": 3
+      "aantal": 2
     },
     {
       "week": "2026-W31",
