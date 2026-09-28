@@ -1,25 +1,25 @@
 {
-  "gegenereerd": "2026-09-27T12:35:28.902143",
+  "gegenereerd": "2026-09-28T14:43:50.957480",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 57
-    },
-    {
-      "naam": "politiek",
-      "aantal": 16
+      "aantal": 56
     },
     {
       "naam": "mobiliteit",
-      "aantal": 16
+      "aantal": 17
     },
     {
       "naam": "sport",
       "aantal": 15
     },
     {
+      "naam": "politiek",
+      "aantal": 14
+    },
+    {
       "naam": "algemeen",
-      "aantal": 8
+      "aantal": 7
     },
     {
       "naam": "cultuur",
@@ -37,18 +37,32 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 69
+      "aantal": 71
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 31
+      "aantal": 28
     },
     {
       "naam": "VRT NWS",
-      "aantal": 23
+      "aantal": 21
     }
   ],
   "recent": [
+    {
+      "titel": "’t Meiske van d’Dender houdt halt in Erpe-Mere.",
+      "url": "https://denderjournaal.be/t-meiske-van-ddender-houdt-halt-in-erpe-mere/",
+      "bron": "Dender Journaal",
+      "datum": "Mon, 28 Sep 2026 09:39:40 +0000",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Nieuwe kilometer fietssnelweg F43 verbindt Oudegem met centrum Dendermonde.",
+      "url": "https://denderjournaal.be/nieuwe-kilometer-fietssnelweg-f43-verbindt-oudegem-met-centrum-dendermonde/",
+      "bron": "Dender Journaal",
+      "datum": "Mon, 28 Sep 2026 11:58:49 +0000",
+      "thema": "mobiliteit"
+    },
     {
       "titel": "Tijdelijke veiligheidsmaatregelen in stationsbuurt Denderleeuw worden niet verlengd.",
       "url": "https://denderjournaal.be/tijdelijke-veiligheidsmaatregelen-in-stationsbuurt-denderleeuw-worden-niet-verlengd/",
@@ -384,27 +398,9 @@
       "bron": "VRT NWS",
       "datum": "2026-09-04T11:53:46.363038+00:00",
       "thema": "veiligheid"
-    },
-    {
-      "titel": "Word crisisvrijwilliger",
-      "url": "https://www.dendermonde.be/nieuws/word-crisisvrijwilliger",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-09-03T11:50:37.558743+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Modder op de weg? Samen alert!",
-      "url": "https://www.dendermonde.be/nieuws/modder-op-de-weg-samen-alert",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-09-03T11:50:37.558737+00:00",
-      "thema": "mobiliteit"
     }
   ],
   "weekly": [
-    {
-      "week": "2026-W30",
-      "aantal": 2
-    },
     {
       "week": "2026-W31",
       "aantal": 8
@@ -436,6 +432,10 @@
     {
       "week": "2026-W38",
       "aantal": 16
+    },
+    {
+      "week": "2026-W39",
+      "aantal": 2
     }
   ]
 }
