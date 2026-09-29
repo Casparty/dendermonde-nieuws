@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-09-28T14:43:50.957480",
+  "gegenereerd": "2026-09-29T13:33:29.636059",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 56
+      "aantal": 55
     },
     {
       "naam": "mobiliteit",
@@ -15,11 +15,11 @@
     },
     {
       "naam": "politiek",
-      "aantal": 14
+      "aantal": 15
     },
     {
       "naam": "algemeen",
-      "aantal": 7
+      "aantal": 8
     },
     {
       "naam": "cultuur",
@@ -37,18 +37,32 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 71
+      "aantal": 72
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 28
+      "aantal": 29
     },
     {
       "naam": "VRT NWS",
-      "aantal": 21
+      "aantal": 20
     }
   ],
   "recent": [
+    {
+      "titel": "Nieuw buurtpunt Hof ten Rode in Baasrode opent de deuren!",
+      "url": "https://www.dendermonde.be/nieuws/nieuw-buurtpunt-hof-ten-rode-in-baasrode-opent-de-deuren",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-09-29T13:33:29.630177+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Dendermonde, Herzele en Lochristi genomineerd voor Winkelhiergemeente 2026.",
+      "url": "https://denderjournaal.be/dendermonde-herzele-en-lochristi-genomineerd-voor-winkelhiergemeente-2026/",
+      "bron": "Dender Journaal",
+      "datum": "Tue, 29 Sep 2026 08:40:57 +0000",
+      "thema": "politiek"
+    },
     {
       "titel": "’t Meiske van d’Dender houdt halt in Erpe-Mere.",
       "url": "https://denderjournaal.be/t-meiske-van-ddender-houdt-halt-in-erpe-mere/",
@@ -384,20 +398,6 @@
       "bron": "Dender Journaal",
       "datum": "Sun, 06 Sep 2026 20:43:35 +0000",
       "thema": "natuur"
-    },
-    {
-      "titel": "Marnixring Aalst Denderend Land en Iwein van Aalst brengen professor David Criekemans naar Moorsel.",
-      "url": "https://denderjournaal.be/marnixring-aalst-denderend-land-en-iwein-van-aalst-brengen-professor-david-criekemans-naar-moorsel/",
-      "bron": "Dender Journaal",
-      "datum": "Mon, 07 Sep 2026 08:26:59 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "RegioDenderstreekDendermonde en 5 buurgemeenten vormen nieuwe politiezone: \"Samen sterker tegen cybercriminaliteit en terrorisme\"do 3 sep.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/09/02/politiezone-dendermonde-hamme-lebbeke-buggenhout-zele/",
-      "bron": "VRT NWS",
-      "datum": "2026-09-04T11:53:46.363038+00:00",
-      "thema": "veiligheid"
     }
   ],
   "weekly": [
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W39",
-      "aantal": 2
+      "aantal": 4
     }
   ]
 }
