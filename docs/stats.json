@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-09-29T13:33:29.636059",
+  "gegenereerd": "2026-09-30T13:11:48.775073",
   "themas": [
     {
       "naam": "natuur",
@@ -19,7 +19,7 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 8
+      "aantal": 9
     },
     {
       "naam": "cultuur",
@@ -41,7 +41,7 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 29
+      "aantal": 30
     },
     {
       "naam": "VRT NWS",
@@ -49,6 +49,13 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Week Van de Handhaving: extra toezicht aan de glasbollen",
+      "url": "https://www.dendermonde.be/nieuws/week-van-de-handhaving-extra-toezicht-aan-de-glasbollen",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-09-30T13:11:48.762793+00:00",
+      "thema": "algemeen"
+    },
     {
       "titel": "Nieuw buurtpunt Hof ten Rode in Baasrode opent de deuren!",
       "url": "https://www.dendermonde.be/nieuws/nieuw-buurtpunt-hof-ten-rode-in-baasrode-opent-de-deuren",
@@ -391,19 +398,12 @@
       "bron": "VRT NWS",
       "datum": "2026-09-07T13:09:36.002714+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "75ste bloemencorso in Sint-Gillis-Dendermonde lokt 30.000 bezoekers: meer dan één miljoen dahlia’s zorgen voor kleurrijk spektakel.",
-      "url": "https://denderjournaal.be/75ste-bloemencorso-in-sint-gillis-dendermonde-lokt-30-000-bezoekers-meer-dan-een-miljoen-dahlias-zorgen-voor-kleurrijk-spektakel/",
-      "bron": "Dender Journaal",
-      "datum": "Sun, 06 Sep 2026 20:43:35 +0000",
-      "thema": "natuur"
     }
   ],
   "weekly": [
     {
       "week": "2026-W31",
-      "aantal": 8
+      "aantal": 6
     },
     {
       "week": "2026-W32",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W39",
-      "aantal": 4
+      "aantal": 5
     }
   ]
 }
