@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-09-30T13:11:48.775073",
+  "gegenereerd": "2026-10-01T14:01:28.502125",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 55
+      "aantal": 57
     },
     {
       "naam": "mobiliteit",
@@ -19,7 +19,7 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 9
+      "aantal": 11
     },
     {
       "naam": "cultuur",
@@ -41,14 +41,49 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 30
+      "aantal": 33
     },
     {
       "naam": "VRT NWS",
-      "aantal": 20
+      "aantal": 21
     }
   ],
   "recent": [
+    {
+      "titel": "Inzage lijst stemgerechtigde leden Schelde Durme Oost",
+      "url": "https://www.dendermonde.be/nieuws/detail/548/inzage-lijst-stemgerechtigde-leden-schelde-durme-oost",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-01T14:01:28.495080+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Inzage lijst stemgerechtigde leden Polder Vlassenbroek",
+      "url": "https://www.dendermonde.be/nieuws/detail/547/inzage-lijst-stemgerechtigde-leden-polder-vlassenbroek",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-01T14:01:28.495075+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Ontdek het ontwerp voor binnenplein De Dammen",
+      "url": "https://www.dendermonde.be/nieuws/ontdek-het-ontwerp-voor-binnenplein-de-dammen",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-01T14:01:28.495068+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Borremans Mosselcross veldrijden in Dendermonde op zondag 11 oktober",
+      "url": "https://www.dendermonde.be/nieuws/veldrijden",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-01T14:01:28.495049+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Milieu & KlimaatRaad van State verwerpt beroep Boerenbond tegen erkenning 3 nationale parkenwo 30 sep.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/09/30/raad-van-state-boerenbond-erkenning-nationale-parken/",
+      "bron": "VRT NWS",
+      "datum": "2026-10-01T14:01:26.609812+00:00",
+      "thema": "natuur"
+    },
     {
       "titel": "Week Van de Handhaving: extra toezicht aan de glasbollen",
       "url": "https://www.dendermonde.be/nieuws/week-van-de-handhaving-extra-toezicht-aan-de-glasbollen",
@@ -363,47 +398,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-09-08T11:53:54.533631+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "SportDendermonde vernieuwt sporthal Oudegem, VC Oudegem keert wellicht terug tegen 20282 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/09/08/oudegem-sporthal-vc-oudegem-volleybal/",
-      "bron": "VRT NWS",
-      "datum": "2026-09-08T11:53:52.705218+00:00",
-      "thema": "sport"
-    },
-    {
-      "titel": "Vlaams Kampioenschap Tegelwippen",
-      "url": "https://www.dendermonde.be/nieuws/vlaamskampioenschaptegelwippen",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-09-07T13:09:37.666847+00:00",
-      "thema": "sport"
-    },
-    {
-      "titel": "3 eerste buurtinformatienetwerken (BIN’s) starten in Dendermonde",
-      "url": "https://www.dendermonde.be/nieuws/3-eerste-buurtinformatienetwerken-bins-starten-in-dendermonde",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-09-07T13:09:37.666798+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "Gemeenteraad en raad voor maatschappelijk welzijn op woensdag 9 september 2026",
-      "url": "https://www.dendermonde.be/nieuws/detail/520/gemeenteraad-en-raad-voor-maatschappelijk-welzijn-op-woensdag-9-september-2026",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-09-07T13:09:37.666770+00:00",
-      "thema": "politiek"
-    },
-    {
-      "titel": "RegioSint-Gillis-Dendermonde30.000 toeschouwers en 1 miljoen dahlia's op jubileumeditie van bloemencorso Sint-Gillis-Dendermondezo 6 sep.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/09/06/dendermonde-sint-gillis-bloemencorso-dahlia-s-bloemen/",
-      "bron": "VRT NWS",
-      "datum": "2026-09-07T13:09:36.002714+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
     {
       "week": "2026-W31",
-      "aantal": 6
+      "aantal": 4
     },
     {
       "week": "2026-W32",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W39",
-      "aantal": 5
+      "aantal": 10
     }
   ]
 }
