@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-10-02T13:22:34.047187",
+  "gegenereerd": "2026-10-03T12:08:46.507881",
   "themas": [
     {
       "naam": "natuur",
@@ -41,14 +41,21 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 33
+      "aantal": 34
     },
     {
       "naam": "VRT NWS",
-      "aantal": 20
+      "aantal": 19
     }
   ],
   "recent": [
+    {
+      "titel": "Asfalteringswerken aan kruispunt Mechelsesteenweg en Rijksweg (N41)",
+      "url": "https://www.dendermonde.be/nieuws/asfalteringswerken-kruispunt-mechelsesteenweg-rijksweg",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-03T12:08:46.502593+00:00",
+      "thema": "mobiliteit"
+    },
     {
       "titel": "Nieuwe kilometer fietssnelweg F43 verbindt Oudegem met centrum Dendermonde",
       "url": "https://www.dendermonde.be/nieuws/nieuwe-kilometer-fietssnelweg-f43-verbindt-oudegem-met-centrum-dendermonde",
@@ -391,19 +398,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-09-09T12:03:17.749203+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "SportDendermonde vernieuwt sporthal Oudegem, VC Oudegem keert wellicht terug tegen 2028di 8 sep.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/09/08/oudegem-sporthal-vc-oudegem-volleybal/",
-      "bron": "VRT NWS",
-      "datum": "2026-09-09T12:03:15.660687+00:00",
-      "thema": "sport"
     }
   ],
   "weekly": [
     {
       "week": "2026-W31",
-      "aantal": 2
+      "aantal": 1
     },
     {
       "week": "2026-W32",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W39",
-      "aantal": 12
+      "aantal": 13
     }
   ]
 }
