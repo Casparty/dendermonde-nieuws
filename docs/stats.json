@@ -1,13 +1,13 @@
 {
-  "gegenereerd": "2026-10-05T15:24:54.926757",
+  "gegenereerd": "2026-10-06T13:47:22.468351",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 57
+      "aantal": 59
     },
     {
       "naam": "mobiliteit",
-      "aantal": 18
+      "aantal": 19
     },
     {
       "naam": "sport",
@@ -37,7 +37,7 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 74
+      "aantal": 76
     },
     {
       "naam": "Stad Dendermonde",
@@ -45,10 +45,31 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 18
+      "aantal": 19
     }
   ],
   "recent": [
+    {
+      "titel": "JustitieMan (21) uit Brugge laat zich chemisch castreren na verkrachting van 16-jarig meisjema 5 okt.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/10/05/man-brugge-meisje-dendermonde-verkrachting-chemische-castratie-r/",
+      "bron": "VRT NWS",
+      "datum": "2026-10-06T13:47:20.687887+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "Open Veldstraat in Denderleeuw tijdelijk afgesloten voor afbraak en vervanging hoogspanningscabine.",
+      "url": "https://denderjournaal.be/open-veldstraat-in-denderleeuw-tijdelijk-afgesloten-voor-afbraak-en-vervanging-hoogspanningscabine/",
+      "bron": "Dender Journaal",
+      "datum": "Tue, 06 Oct 2026 13:28:52 +0000",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Expo ‘Santé’ brengt rijke biercultuur van Denderland tot leven in Haaltert.",
+      "url": "https://denderjournaal.be/expo-sante-brengt-rijke-biercultuur-van-denderland-tot-leven-in-haaltert/",
+      "bron": "Dender Journaal",
+      "datum": "Tue, 06 Oct 2026 13:32:15 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "Betaalde zone fietsenstalling station geopend",
       "url": "https://www.dendermonde.be/nieuws/bewaakte-zone-fietsenstalling-station-geopend",
@@ -377,27 +398,6 @@
       "bron": "VRT NWS",
       "datum": "2026-09-10T11:57:58.895644+00:00",
       "thema": "cultuur"
-    },
-    {
-      "titel": "RegioDendermondeBijna 60 handelaars vragen Dendermonde om herinrichting Oude Vest stop te zetten3 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/09/10/dendermonde-oude-vest-handelaars-bewoners-protest-eenrichting/",
-      "bron": "VRT NWS",
-      "datum": "2026-09-10T11:57:58.895538+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Amerikaanse familie ontdekt na 100 jaar het vergeten verhaal van Denderhoutemse voorvader.",
-      "url": "https://denderjournaal.be/amerikaanse-familie-ontdekt-na-100-jaar-het-vergeten-verhaal-van-denderhoutemse-voorvader/",
-      "bron": "Dender Journaal",
-      "datum": "Thu, 10 Sep 2026 08:50:30 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Belangrijke stap vooruit voor de toekomst van sportsite Oudegem",
-      "url": "https://www.dendermonde.be/nieuws/belangrijke-stap-vooruit-voor-de-toekomst-van-sportsite-oudegem",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-09-09T12:03:17.749237+00:00",
-      "thema": "sport"
     }
   ],
   "weekly": [
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W40",
-      "aantal": 2
+      "aantal": 5
     }
   ]
 }
