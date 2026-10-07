@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-10-06T13:47:22.468351",
+  "gegenereerd": "2026-10-07T14:03:55.153537",
   "themas": [
     {
       "naam": "natuur",
@@ -19,7 +19,7 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 10
+      "aantal": 11
     },
     {
       "naam": "cultuur",
@@ -41,7 +41,7 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 32
+      "aantal": 33
     },
     {
       "naam": "VRT NWS",
@@ -49,6 +49,13 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Werelddag van het Verzet tegen Armoede",
+      "url": "https://www.dendermonde.be/nieuws/detail/555/werelddag-van-het-verzet-tegen-armoede",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-07T14:03:54.834171+00:00",
+      "thema": "algemeen"
+    },
     {
       "titel": "JustitieMan (21) uit Brugge laat zich chemisch castreren na verkrachting van 16-jarig meisjema 5 okt.",
       "url": "https://www.vrt.be/vrtnws/nl/2026/10/05/man-brugge-meisje-dendermonde-verkrachting-chemische-castratie-r/",
@@ -391,19 +398,12 @@
       "bron": "VRT NWS",
       "datum": "2026-09-10T11:57:58.895724+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "RegioDendermondeBloemententoonstelling Féerie Florale in Dendermonde stopt definitiefwo 9 sep.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/09/09/dendermonde-bloemententoonstelling-feerie-florale-stop/",
-      "bron": "VRT NWS",
-      "datum": "2026-09-10T11:57:58.895644+00:00",
-      "thema": "cultuur"
     }
   ],
   "weekly": [
     {
       "week": "2026-W32",
-      "aantal": 17
+      "aantal": 14
     },
     {
       "week": "2026-W33",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W40",
-      "aantal": 5
+      "aantal": 6
     }
   ]
 }
