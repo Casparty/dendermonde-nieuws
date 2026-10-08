@@ -1,25 +1,25 @@
 {
-  "gegenereerd": "2026-10-07T14:03:55.153537",
+  "gegenereerd": "2026-10-08T14:13:38.087633",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 59
+      "aantal": 58
     },
     {
       "naam": "mobiliteit",
-      "aantal": 19
+      "aantal": 18
     },
     {
       "naam": "sport",
-      "aantal": 15
-    },
-    {
-      "naam": "politiek",
       "aantal": 14
     },
     {
+      "naam": "politiek",
+      "aantal": 13
+    },
+    {
       "naam": "algemeen",
-      "aantal": 11
+      "aantal": 12
     },
     {
       "naam": "cultuur",
@@ -41,14 +41,21 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 33
+      "aantal": 31
     },
     {
       "naam": "VRT NWS",
-      "aantal": 19
+      "aantal": 18
     }
   ],
   "recent": [
+    {
+      "titel": "Gezocht: speurneuzen",
+      "url": "https://www.dendermonde.be/nieuws/gezocht-speurneuzen",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-08T14:13:38.081702+00:00",
+      "thema": "algemeen"
+    },
     {
       "titel": "Werelddag van het Verzet tegen Armoede",
       "url": "https://www.dendermonde.be/nieuws/detail/555/werelddag-van-het-verzet-tegen-armoede",
@@ -391,19 +398,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-09-10T11:58:00.666241+00:00",
       "thema": "politiek"
-    },
-    {
-      "titel": "RegioDendermondeDorpsrestaurants in Dendermonde voortaan dubbel zo vaak open door groeiend succes: \"Eten werkt verbindend\"wo 9 sep.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/09/09/verdubbeling-dorpsrestaurants-dendermonde-de-4-wijzers/",
-      "bron": "VRT NWS",
-      "datum": "2026-09-10T11:57:58.895724+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
     {
       "week": "2026-W32",
-      "aantal": 14
+      "aantal": 13
     },
     {
       "week": "2026-W33",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W40",
-      "aantal": 6
+      "aantal": 7
     }
   ]
 }
