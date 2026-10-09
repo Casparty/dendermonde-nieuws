@@ -1,17 +1,17 @@
 {
-  "gegenereerd": "2026-10-08T14:13:38.087633",
+  "gegenereerd": "2026-10-09T14:00:08.160776",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 58
+      "aantal": 59
     },
     {
       "naam": "mobiliteit",
-      "aantal": 18
+      "aantal": 17
     },
     {
       "naam": "sport",
-      "aantal": 14
+      "aantal": 13
     },
     {
       "naam": "politiek",
@@ -19,7 +19,7 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 12
+      "aantal": 13
     },
     {
       "naam": "cultuur",
@@ -37,7 +37,7 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 76
+      "aantal": 77
     },
     {
       "naam": "Stad Dendermonde",
@@ -45,10 +45,31 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 18
+      "aantal": 17
     }
   ],
   "recent": [
+    {
+      "titel": "Publieke consultatie GRUP ‘Leidingstrook Opwijk-Lievegem'",
+      "url": "https://www.dendermonde.be/nieuws/publieke-consultatie-grup-leidingstrook-opwijk-lievegem",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-09T14:00:08.138088+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Schoolsite De Klinker in Schoonaarde wordt gedeelde speelplek voor kinderen en buurtbewoners",
+      "url": "https://www.dendermonde.be/nieuws/schoolsite-de-klinker-in-schoonaarde-wordt-gedeelde-speelplek-voor-kinderen-en-buurtbewoners",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-09T14:00:08.138071+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Nieuwe expo in Aalst vertelt 1.000 jaar geschiedenis van de Dender.",
+      "url": "https://denderjournaal.be/nieuwe-expo-in-aalst-vertelt-1-000-jaar-geschiedenis-van-de-dender/",
+      "bron": "Dender Journaal",
+      "datum": "Fri, 09 Oct 2026 09:39:13 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "Gezocht: speurneuzen",
       "url": "https://www.dendermonde.be/nieuws/gezocht-speurneuzen",
@@ -377,33 +398,12 @@
       "bron": "VRT NWS",
       "datum": "2026-09-11T11:56:51.740832+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "Nog geen definitieve beslissing in het dossier ‘Zuster Gabriellehof’",
-      "url": "https://www.dendermonde.be/nieuws/zuster-gabriellehof",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-09-10T11:58:00.666270+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Stad neemt akte van open brief en blijft openstaan voor overleg",
-      "url": "https://www.dendermonde.be/nieuws/open-brief-en-overleg",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-09-10T11:58:00.666262+00:00",
-      "thema": "politiek"
-    },
-    {
-      "titel": "Stad Dendermonde investeert in 2 grote riolerings- en herinrichtingsprojecten",
-      "url": "https://www.dendermonde.be/nieuws/grote-riolerings-en-herinrichtingsprojecten",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-09-10T11:58:00.666241+00:00",
-      "thema": "politiek"
     }
   ],
   "weekly": [
     {
       "week": "2026-W32",
-      "aantal": 13
+      "aantal": 12
     },
     {
       "week": "2026-W33",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W40",
-      "aantal": 7
+      "aantal": 10
     }
   ]
 }
