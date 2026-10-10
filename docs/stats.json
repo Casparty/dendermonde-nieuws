@@ -1,17 +1,13 @@
 {
-  "gegenereerd": "2026-10-09T14:00:08.160776",
+  "gegenereerd": "2026-10-10T13:09:41.627503",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 59
+      "aantal": 58
     },
     {
       "naam": "mobiliteit",
       "aantal": 17
-    },
-    {
-      "naam": "sport",
-      "aantal": 13
     },
     {
       "naam": "politiek",
@@ -19,18 +15,22 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 13
+      "aantal": 12
+    },
+    {
+      "naam": "sport",
+      "aantal": 11
     },
     {
       "naam": "cultuur",
       "aantal": 7
     },
     {
-      "naam": "economie",
-      "aantal": 2
+      "naam": "veiligheid",
+      "aantal": 1
     },
     {
-      "naam": "veiligheid",
+      "naam": "economie",
       "aantal": 1
     }
   ],
@@ -41,11 +41,11 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 31
+      "aantal": 27
     },
     {
       "naam": "VRT NWS",
-      "aantal": 17
+      "aantal": 16
     }
   ],
   "recent": [
@@ -403,7 +403,7 @@
   "weekly": [
     {
       "week": "2026-W32",
-      "aantal": 12
+      "aantal": 7
     },
     {
       "week": "2026-W33",
