@@ -1,20 +1,20 @@
 {
-  "gegenereerd": "2026-10-11T13:38:47.083694",
+  "gegenereerd": "2026-10-12T16:19:47.318858",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 56
+      "aantal": 55
     },
     {
       "naam": "mobiliteit",
       "aantal": 17
     },
     {
-      "naam": "sport",
-      "aantal": 11
+      "naam": "politiek",
+      "aantal": 12
     },
     {
-      "naam": "politiek",
+      "naam": "sport",
       "aantal": 11
     },
     {
@@ -49,6 +49,20 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Gemeenteraad en raad voor maatschappelijk welzijn op woensdag 14 oktober 2026",
+      "url": "https://www.dendermonde.be/nieuws/gemeenteraad-en-raad-voor-maatschappelijk-welzijn-op-woensdag-14-oktober-2026",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-12T16:19:47.314890+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "RegioDendermondePolitie controleert 51 personen en 21 voertuigen in Dendermonde, vermoedelijke drugsdealers opgepaktzo 11 okt.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/10/11/vermoedelijke-drugsdealer-opgepakt-in-dendermonde/",
+      "bron": "VRT NWS",
+      "datum": "2026-10-12T16:19:45.105226+00:00",
+      "thema": "veiligheid"
+    },
     {
       "titel": "Publieke consultatie GRUP ‘Leidingstrook Opwijk-Lievegem'",
       "url": "https://www.dendermonde.be/nieuws/publieke-consultatie-grup-leidingstrook-opwijk-lievegem",
@@ -384,20 +398,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-09-14T13:29:58.078152+00:00",
       "thema": "cultuur"
-    },
-    {
-      "titel": "Actualisering van het Algemeen Politiereglement",
-      "url": "https://www.dendermonde.be/nieuws/actualisering-van-het-algemeen-politiereglement",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-09-11T11:56:53.041453+00:00",
-      "thema": "veiligheid"
-    },
-    {
-      "titel": "RegioDendermondeBijna 60 handelaars vragen Dendermonde om herinrichting Oude Vest stop te zettendo 10 sep.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/09/10/dendermonde-oude-vest-handelaars-bewoners-protest-eenrichting/",
-      "bron": "VRT NWS",
-      "datum": "2026-09-11T11:56:51.740832+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
@@ -432,6 +432,10 @@
     {
       "week": "2026-W40",
       "aantal": 10
+    },
+    {
+      "week": "2026-W41",
+      "aantal": 2
     }
   ]
 }
