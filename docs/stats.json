@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-10-12T16:19:47.318858",
+  "gegenereerd": "2026-10-13T14:41:36.357506",
   "themas": [
     {
       "naam": "natuur",
@@ -7,7 +7,7 @@
     },
     {
       "naam": "mobiliteit",
-      "aantal": 17
+      "aantal": 20
     },
     {
       "naam": "politiek",
@@ -41,14 +41,35 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 24
+      "aantal": 26
     },
     {
       "naam": "VRT NWS",
-      "aantal": 13
+      "aantal": 14
     }
   ],
   "recent": [
+    {
+      "titel": "Dag van de Trage Weg in de Porre- en Paddebeekvallei",
+      "url": "https://www.dendermonde.be/nieuws/dag-van-de-trage-weg",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-13T14:41:36.353523+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "Vernieuwde kruispunt Mechelse Poort officieel geopend",
+      "url": "https://www.dendermonde.be/nieuws/vernieuwde-kruispunt-mechelse-poort-officieel-geopend",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-13T14:41:36.353503+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "RegioDendermondeZwart kruispunt Mechelse Poort in Dendermonde gaat na meer dan 2 jaar opnieuw open: veiliger en vlotter voor iedereen5 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/10/13/kruispunt-mechelse-poort-in-dendermonde-na-2-jaar-open-veiliger/",
+      "bron": "VRT NWS",
+      "datum": "2026-10-13T14:41:34.489593+00:00",
+      "thema": "mobiliteit"
+    },
     {
       "titel": "Gemeenteraad en raad voor maatschappelijk welzijn op woensdag 14 oktober 2026",
       "url": "https://www.dendermonde.be/nieuws/gemeenteraad-en-raad-voor-maatschappelijk-welzijn-op-woensdag-14-oktober-2026",
@@ -377,33 +398,12 @@
       "bron": "Dender Journaal",
       "datum": "Thu, 17 Sep 2026 09:38:17 +0000",
       "thema": "politiek"
-    },
-    {
-      "titel": "Win duotickets voor de Borremans Mosselcross op zondag 11 oktober in Dendermonde!",
-      "url": "https://www.dendermonde.be/nieuws/wedstrijd-veldrijden",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-09-16T12:19:16.448088+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "BinnenlandStoring lijkt opgelost: websites van tientallen Vlaamse gemeenten werken opnieuw na uitval bij leverancier8 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/09/15/website-gemeenten-storing/",
-      "bron": "VRT NWS",
-      "datum": "2026-09-16T12:19:15.215335+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "Tetterfeest op de Grote Markt op vrijdag 25 september",
-      "url": "https://www.dendermonde.be/nieuws/tetterfeest",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-09-14T13:29:58.078152+00:00",
-      "thema": "cultuur"
     }
   ],
   "weekly": [
     {
       "week": "2026-W33",
-      "aantal": 22
+      "aantal": 21
     },
     {
       "week": "2026-W34",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W41",
-      "aantal": 2
+      "aantal": 5
     }
   ]
 }
