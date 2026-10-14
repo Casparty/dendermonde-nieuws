@@ -1,24 +1,24 @@
 {
-  "gegenereerd": "2026-10-13T14:41:36.357506",
+  "gegenereerd": "2026-10-14T12:34:19.295635",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 55
+      "aantal": 56
     },
     {
       "naam": "mobiliteit",
-      "aantal": 20
+      "aantal": 21
     },
     {
       "naam": "politiek",
       "aantal": 12
     },
     {
-      "naam": "sport",
-      "aantal": 11
+      "naam": "algemeen",
+      "aantal": 12
     },
     {
-      "naam": "algemeen",
+      "naam": "sport",
       "aantal": 11
     },
     {
@@ -37,18 +37,39 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 77
+      "aantal": 78
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 26
+      "aantal": 27
     },
     {
       "naam": "VRT NWS",
-      "aantal": 14
+      "aantal": 15
     }
   ],
   "recent": [
+    {
+      "titel": "Neem deel aan de wedstrijd voor Maand van de Voetganger!",
+      "url": "https://www.dendermonde.be/nieuws/neem-deel-aan-de-wedstrijd-voor-maand-van-de-voetganger",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-14T12:34:19.291521+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "RegioDendermondeZwart kruispunt Mechelse Poort in Dendermonde gaat na meer dan 2 jaar opnieuw open: veiliger en vlotter voor iedereendi 13 okt.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/10/13/kruispunt-mechelse-poort-in-dendermonde-na-2-jaar-open-veiliger/",
+      "bron": "VRT NWS",
+      "datum": "2026-10-14T12:34:17.901713+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "Project Denderknoop ontwikkelt toekomstbeeld stationsomgevingen Denderleeuw en Liedekerke.",
+      "url": "https://denderjournaal.be/project-denderknoop-ontwikkelt-toekomstbeeld-stationsomgevingen-denderleeuw-en-liedekerke/",
+      "bron": "Dender Journaal",
+      "datum": "Wed, 14 Oct 2026 09:58:20 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "Dag van de Trage Weg in de Porre- en Paddebeekvallei",
       "url": "https://www.dendermonde.be/nieuws/dag-van-de-trage-weg",
@@ -377,33 +398,12 @@
       "bron": "VRT NWS",
       "datum": "2026-09-19T11:43:06.760922+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "BinnenlandStoring lijkt opgelost: websites van tientallen Vlaamse gemeenten werken opnieuw na uitval bij leverancierwo 16 sep.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/09/15/website-gemeenten-storing/",
-      "bron": "VRT NWS",
-      "datum": "2026-09-17T12:19:02.227989+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "RegioDendermondeDendermonde legt nachtclub verplicht sluitingsuur op: \"Uitbaters vinden overlast en incidenten normaal\"wo 16 sep.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/09/16/dendermonde-cafe-aries-openingsuren-sluiten-incidenten/",
-      "bron": "VRT NWS",
-      "datum": "2026-09-17T12:19:02.227916+00:00",
-      "thema": "sport"
-    },
-    {
-      "titel": "Start week van de Duurzame Gemeente 2026 in Denderleeuw.",
-      "url": "https://denderjournaal.be/start-week-van-de-duurzame-gemeente-2026-in-denderleeuw/",
-      "bron": "Dender Journaal",
-      "datum": "Thu, 17 Sep 2026 09:38:17 +0000",
-      "thema": "politiek"
     }
   ],
   "weekly": [
     {
       "week": "2026-W33",
-      "aantal": 21
+      "aantal": 14
     },
     {
       "week": "2026-W34",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W41",
-      "aantal": 5
+      "aantal": 8
     }
   ]
 }
