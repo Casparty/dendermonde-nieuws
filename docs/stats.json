@@ -1,20 +1,20 @@
 {
-  "gegenereerd": "2026-10-14T12:34:19.295635",
+  "gegenereerd": "2026-10-15T12:18:23.362450",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 56
+      "aantal": 58
     },
     {
       "naam": "mobiliteit",
       "aantal": 21
     },
     {
-      "naam": "politiek",
-      "aantal": 12
+      "naam": "algemeen",
+      "aantal": 15
     },
     {
-      "naam": "algemeen",
+      "naam": "politiek",
       "aantal": 12
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "naam": "cultuur",
-      "aantal": 6
+      "aantal": 5
     },
     {
       "naam": "veiligheid",
@@ -41,14 +41,49 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 27
+      "aantal": 29
     },
     {
       "naam": "VRT NWS",
-      "aantal": 15
+      "aantal": 17
     }
   ],
   "recent": [
+    {
+      "titel": "Dien je subsidieaanvraag voor mondiale solidariteit in vóór maandag 16 november!",
+      "url": "https://www.dendermonde.be/nieuws/subsidie mondiale solidariteit",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-15T12:18:23.358562+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Definitieve beslissing in dossier ‘Zuster Gabriellehof’",
+      "url": "https://www.dendermonde.be/nieuws/definitieve-beslissing-in-dossier-zuster-gabriellehof",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-15T12:18:23.358557+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "True Crime - de bib duikt in de zaak Y",
+      "url": "https://www.dendermonde.be/nieuws/true-crime-de-bib-duikt-in-de-zaak-y",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-15T12:18:23.358529+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Milieu & KlimaatNog 1 'missing link' voor CO2-leiding van Duitsland naar Zeebrugge: buurtbewoners kunnen mening geven over stuk tussen Lievegem en Opwijkwo 14 okt.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/10/14/missing-link-co2-leiding-van-duitsland-naar-belgische-kust/",
+      "bron": "VRT NWS",
+      "datum": "2026-10-15T12:18:21.417088+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "RegioDendermondeDendermonde kan verdwenen zuster Gabrielle voorlopig niet eren met een straatnaam, procedure wordt stopgezet2 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/10/15/dendermonde-kan-voorlopig-verdwenen-zuster-gabrielle-niet-eren-m/",
+      "bron": "VRT NWS",
+      "datum": "2026-10-15T12:18:21.416977+00:00",
+      "thema": "natuur"
+    },
     {
       "titel": "Neem deel aan de wedstrijd voor Maand van de Voetganger!",
       "url": "https://www.dendermonde.be/nieuws/neem-deel-aan-de-wedstrijd-voor-maand-van-de-voetganger",
@@ -363,47 +398,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-09-22T12:13:30.051996+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "RegioDendermondeMotorrijder in levensgevaar na zware botsing met auto in Schoonaarde4 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/09/22/ongeval-schoonaarde-levensgevaar-eegene-motor/",
-      "bron": "VRT NWS",
-      "datum": "2026-09-22T12:13:28.170347+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Duikclub 't Zeepaardje duikt op 10 oktober 2026 de Dender schoon!",
-      "url": "https://www.dendermonde.be/nieuws/duikclub-t-zeepaardje-duikt-op-10-oktober-2026-de-dender-schoon",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-09-21T13:29:01.057423+00:00",
-      "thema": "sport"
-    },
-    {
-      "titel": "Denderleeuw kiest kleur tegen pesten.",
-      "url": "https://denderjournaal.be/denderleeuw-kiest-kleur-tegen-pesten-2/",
-      "bron": "Dender Journaal",
-      "datum": "Mon, 21 Sep 2026 12:18:56 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "RegioDendermondeDendermonde kan nu ook 14-jarigen GAS-boetes geven: \"Ze halen dingen uit die niet kunnen\"za 19 sep.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/09/19/dendermonde-gas-boetes-leeftijd-verlagen-14-jaar-nood/",
-      "bron": "VRT NWS",
-      "datum": "2026-09-20T11:55:04.063574+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "RegioDendermondeDendermonde kan nu ook 14-jarigen GAS-boetes geven: \"Ze halen dingen uit die niet kunnen\"39 minuten geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/09/19/dendermonde-gas-boetes-leeftijd-verlagen-14-jaar-nood/",
-      "bron": "VRT NWS",
-      "datum": "2026-09-19T11:43:06.760922+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
     {
       "week": "2026-W33",
-      "aantal": 14
+      "aantal": 12
     },
     {
       "week": "2026-W34",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W41",
-      "aantal": 8
+      "aantal": 13
     }
   ]
 }
