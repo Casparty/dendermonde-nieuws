@@ -1,13 +1,13 @@
 {
-  "gegenereerd": "2026-10-16T12:00:48.827856",
+  "gegenereerd": "2026-10-17T11:16:12.867964",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 59
+      "aantal": 60
     },
     {
       "naam": "mobiliteit",
-      "aantal": 21
+      "aantal": 22
     },
     {
       "naam": "algemeen",
@@ -15,7 +15,7 @@
     },
     {
       "naam": "politiek",
-      "aantal": 12
+      "aantal": 14
     },
     {
       "naam": "sport",
@@ -37,11 +37,11 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 78
+      "aantal": 79
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 29
+      "aantal": 32
     },
     {
       "naam": "VRT NWS",
@@ -49,6 +49,48 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Dendermonde en Buggenhout vernieuwen Mandekensstraat",
+      "url": "https://www.dendermonde.be/nieuws/dendermonde-en-buggenhout-vernieuwen-mandekensstraat",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-17T11:16:12.864408+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Stad Dendermonde vraagt duidelijk engagement van Vlaanderen voor toekomst project Briel",
+      "url": "https://www.dendermonde.be/nieuws/stad-dendermonde-vraagt-duidelijk-engagement-vlaanderen",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-17T11:16:12.864405+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "Eerste infosessie over afvalbeleid in samenwerking met Ligo Waas & Dender",
+      "url": "https://www.dendermonde.be/nieuws/eerste-infosessie-over-afvalbeleid-in-samenwerking-met-ligo-waas-en-dender",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-17T11:16:12.864401+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "Veelgestelde vragen over het vernieuwde kruispunt Mechelse Poort",
+      "url": "https://www.dendermonde.be/nieuws/veelgestelde-vragen-vernieuwde-kruispunt-mechelse-poort",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-17T11:16:12.864380+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "MobiliteitVijf weekends geen treinen tussen Dendermonde en Schellebelle: Infrabel vernieuwt sporen en bovenleidingvr 16 okt.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/dendermonde-schellebelle-spoorwerken-vervangbus/",
+      "bron": "VRT NWS",
+      "datum": "2026-10-17T11:16:11.107491+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "Voormalig Denderland Shopping maakt plaats voor Business Park met 23 kmo-units in Geraardsbergen.",
+      "url": "https://denderjournaal.be/voormalig-denderland-shopping-maakt-plaats-voor-business-park-met-23-kmo-units-in-geraardsbergen/",
+      "bron": "Dender Journaal",
+      "datum": "Fri, 16 Oct 2026 15:41:25 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "RegioDendermondeDendermonde kan verdwenen zuster Gabrielle voorlopig niet eren met een straatnaam, procedure wordt stopgezetdo 15 okt.",
       "url": "https://www.vrt.be/vrtnws/nl/2026/10/15/dendermonde-kan-voorlopig-verdwenen-zuster-gabrielle-niet-eren-m/",
@@ -356,54 +398,12 @@
       "bron": "VRT NWS",
       "datum": "2026-09-24T12:25:54.996956+00:00",
       "thema": "sport"
-    },
-    {
-      "titel": "RegioDendermondeMotorrijder in levensgevaar na zware botsing met auto in Schoonaardedi 22 sep.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/09/22/ongeval-schoonaarde-levensgevaar-eegene-motor/",
-      "bron": "VRT NWS",
-      "datum": "2026-09-23T12:26:40.541770+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Dender Koerst: laatste wielerwedstrijden van 2026 staan voor de deur.",
-      "url": "https://denderjournaal.be/dender-koerst-laatste-wielerwedstrijden-van-2026-staan-voor-de-deur/",
-      "bron": "Dender Journaal",
-      "datum": "Wed, 23 Sep 2026 09:47:46 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Infomarkt fietstunnel Sint-Gillislaan",
-      "url": "https://www.dendermonde.be/nieuws/detail/539/infomarkt-fietstunnel-sint-gillislaan",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-09-22T12:13:30.052030+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "Team onthaalouders viert 45 jaar met meer dan 50 onthaalouders",
-      "url": "https://www.dendermonde.be/nieuws/team-onthaalouders-viert-45-jaar-met-meer-dan-50-onthaalouders",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-09-22T12:13:30.052025+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Netwerkavond voor lokale ondernemers op dinsdag 17 november",
-      "url": "https://www.dendermonde.be/nieuws/netwerkavond-voor-lokale-ondernemers",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-09-22T12:13:30.052020+00:00",
-      "thema": "economie"
-    },
-    {
-      "titel": "Bouw mee aan Hartelijke Plekken in Dendermonde!",
-      "url": "https://www.dendermonde.be/nieuws/hartelijke-plekken",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-09-22T12:13:30.052013+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
     {
       "week": "2026-W33",
-      "aantal": 11
+      "aantal": 8
     },
     {
       "week": "2026-W34",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W41",
-      "aantal": 14
+      "aantal": 20
     }
   ]
 }
