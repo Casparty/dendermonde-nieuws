@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-10-17T11:16:12.867964",
+  "gegenereerd": "2026-10-18T11:52:52.361442",
   "themas": [
     {
       "naam": "natuur",
@@ -19,7 +19,7 @@
     },
     {
       "naam": "sport",
-      "aantal": 11
+      "aantal": 10
     },
     {
       "naam": "cultuur",
@@ -37,7 +37,7 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 79
+      "aantal": 80
     },
     {
       "naam": "Stad Dendermonde",
@@ -45,10 +45,17 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 18
+      "aantal": 16
     }
   ],
   "recent": [
+    {
+      "titel": "Schrijf een brief aan de hemel: Denderleeuw plaatst drie bijzondere brievenbussen voor wie iemand mist.",
+      "url": "https://denderjournaal.be/schrijf-een-brief-aan-de-hemel-denderleeuw-plaatst-drie-bijzondere-brievenbussen-voor-wie-iemand-mist/",
+      "bron": "Dender Journaal",
+      "datum": "Sat, 17 Oct 2026 20:06:24 +0000",
+      "thema": "mobiliteit"
+    },
     {
       "titel": "Dendermonde en Buggenhout vernieuwen Mandekensstraat",
       "url": "https://www.dendermonde.be/nieuws/dendermonde-en-buggenhout-vernieuwen-mandekensstraat",
@@ -391,19 +398,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-09-24T12:25:56.504382+00:00",
       "thema": "mobiliteit"
-    },
-    {
-      "titel": "BinnenlandIN KAART: Hoeveel kost zwemmen in jouw buurt?9 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/13/zwembaden-vlaanderen-aantal-gemeentelijk-lago-sportoase/",
-      "bron": "VRT NWS",
-      "datum": "2026-09-24T12:25:54.996956+00:00",
-      "thema": "sport"
     }
   ],
   "weekly": [
     {
       "week": "2026-W33",
-      "aantal": 8
+      "aantal": 2
     },
     {
       "week": "2026-W34",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W41",
-      "aantal": 20
+      "aantal": 21
     }
   ]
 }
