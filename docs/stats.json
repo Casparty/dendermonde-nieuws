@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-10-18T11:52:52.361442",
+  "gegenereerd": "2026-10-19T14:10:47.022517",
   "themas": [
     {
       "naam": "natuur",
@@ -7,7 +7,7 @@
     },
     {
       "naam": "mobiliteit",
-      "aantal": 22
+      "aantal": 25
     },
     {
       "naam": "algemeen",
@@ -27,7 +27,7 @@
     },
     {
       "naam": "veiligheid",
-      "aantal": 1
+      "aantal": 2
     },
     {
       "naam": "economie",
@@ -37,18 +37,46 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 80
+      "aantal": 81
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 32
+      "aantal": 33
     },
     {
       "naam": "VRT NWS",
-      "aantal": 16
+      "aantal": 18
     }
   ],
   "recent": [
+    {
+      "titel": "Heb je recht op een sociaal tarief voor of een vrijstelling van de heffing op de waterverontreiniging 2026?",
+      "url": "https://www.dendermonde.be/nieuws/heb-je-recht-op-een-sociaal-tarief-voor-of-een-vrijstelling-van-de-heffing-op-de-waterverontreinigin",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-19T14:10:47.019072+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "RegioDendermonde2 weken verkeershinder aan druk kruispunt in Dendermonde: Rijksweg afgesloten in twee fasen8 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/10/19/werken-rijksweg-mechelstesteenweg-dendermonde/",
+      "bron": "VRT NWS",
+      "datum": "2026-10-19T14:10:45.227147+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "BinnenlandPolitie van Dendermonde staat bekend om humor op sociale media: \"Het grote bereik helpt in crisissituaties\"4 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/10/19/humor-op-sociale-media-helpt-de-politie-van-dendermonde/",
+      "bron": "VRT NWS",
+      "datum": "2026-10-19T14:10:45.227066+00:00",
+      "thema": "veiligheid"
+    },
+    {
+      "titel": "Jeugdraad Dendermonde geeft jong DJ-talent een podium tijdens Nacht van de Jeugdbeweging.",
+      "url": "https://denderjournaal.be/jeugdraad-dendermonde-geeft-jong-dj-talent-een-podium-tijdens-nacht-van-de-jeugdbeweging/",
+      "bron": "Dender Journaal",
+      "datum": "Mon, 19 Oct 2026 11:38:26 +0000",
+      "thema": "mobiliteit"
+    },
     {
       "titel": "Schrijf een brief aan de hemel: Denderleeuw plaatst drie bijzondere brievenbussen voor wie iemand mist.",
       "url": "https://denderjournaal.be/schrijf-een-brief-aan-de-hemel-denderleeuw-plaatst-drie-bijzondere-brievenbussen-voor-wie-iemand-mist/",
@@ -370,41 +398,9 @@
       "bron": "Dender Journaal",
       "datum": "Fri, 25 Sep 2026 13:47:30 +0000",
       "thema": "natuur"
-    },
-    {
-      "titel": "ViewMasters zoekt artistiek talent",
-      "url": "https://www.dendermonde.be/nieuws/viewmasters-zoekt-artistiek-talent",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-09-25T12:25:52.605476+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "BinnenlandIN KAART: Hoeveel kost zwemmen in jouw buurt?do 24 sep.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/08/13/zwembaden-vlaanderen-aantal-gemeentelijk-lago-sportoase/",
-      "bron": "VRT NWS",
-      "datum": "2026-09-25T12:25:51.180114+00:00",
-      "thema": "sport"
-    },
-    {
-      "titel": "Vlaams Belang Denderleeuw dient klacht in na zoveelste technisch debacle op gemeenteraad.",
-      "url": "https://denderjournaal.be/vlaams-belang-denderleeuw-dient-klacht-in-na-zoveelste-technisch-debacle-op-gemeenteraad/",
-      "bron": "Dender Journaal",
-      "datum": "Fri, 25 Sep 2026 11:23:32 +0000",
-      "thema": "politiek"
-    },
-    {
-      "titel": "Kom het vernieuwde kruispunt Mechelse Poort ontdekken!",
-      "url": "https://www.dendermonde.be/nieuws/opening-kruispunt-mechelse-poort",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-09-24T12:25:56.504382+00:00",
-      "thema": "mobiliteit"
     }
   ],
   "weekly": [
-    {
-      "week": "2026-W33",
-      "aantal": 2
-    },
     {
       "week": "2026-W34",
       "aantal": 9
@@ -436,6 +432,10 @@
     {
       "week": "2026-W41",
       "aantal": 21
+    },
+    {
+      "week": "2026-W42",
+      "aantal": 4
     }
   ]
 }
