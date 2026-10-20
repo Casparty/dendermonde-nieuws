@@ -1,17 +1,17 @@
 {
-  "gegenereerd": "2026-10-19T14:10:47.022517",
+  "gegenereerd": "2026-10-20T12:24:13.122462",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 60
+      "aantal": 59
     },
     {
       "naam": "mobiliteit",
-      "aantal": 25
+      "aantal": 26
     },
     {
       "naam": "algemeen",
-      "aantal": 15
+      "aantal": 16
     },
     {
       "naam": "politiek",
@@ -27,7 +27,7 @@
     },
     {
       "naam": "veiligheid",
-      "aantal": 2
+      "aantal": 3
     },
     {
       "naam": "economie",
@@ -41,14 +41,35 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 33
+      "aantal": 34
     },
     {
       "naam": "VRT NWS",
-      "aantal": 18
+      "aantal": 19
     }
   ],
   "recent": [
+    {
+      "titel": "Herontwikkeling Kazerne belangrijke stap dichterbij dankzij brownfieldconvenant",
+      "url": "https://www.dendermonde.be/nieuws/herontwikkeling-kazerne-brownfieldconvenant",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-20T12:24:13.117230+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "RegioDendermonde2 weken verkeershinder aan druk kruispunt in Dendermonde: Rijksweg afgesloten in twee fasenma 19 okt.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/10/19/werken-rijksweg-mechelstesteenweg-dendermonde/",
+      "bron": "VRT NWS",
+      "datum": "2026-10-20T12:24:11.765193+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "BinnenlandPolitie van Dendermonde staat bekend om humor op sociale media: \"Het grote bereik helpt in crisissituaties\"ma 19 okt.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/10/19/humor-op-sociale-media-helpt-de-politie-van-dendermonde/",
+      "bron": "VRT NWS",
+      "datum": "2026-10-20T12:24:11.765095+00:00",
+      "thema": "veiligheid"
+    },
     {
       "titel": "Heb je recht op een sociaal tarief voor of een vrijstelling van de heffing op de waterverontreiniging 2026?",
       "url": "https://www.dendermonde.be/nieuws/heb-je-recht-op-een-sociaal-tarief-voor-of-een-vrijstelling-van-de-heffing-op-de-waterverontreinigin",
@@ -377,27 +398,6 @@
       "bron": "Dender Journaal",
       "datum": "Tue, 29 Sep 2026 08:40:57 +0000",
       "thema": "politiek"
-    },
-    {
-      "titel": "’t Meiske van d’Dender houdt halt in Erpe-Mere.",
-      "url": "https://denderjournaal.be/t-meiske-van-ddender-houdt-halt-in-erpe-mere/",
-      "bron": "Dender Journaal",
-      "datum": "Mon, 28 Sep 2026 09:39:40 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Nieuwe kilometer fietssnelweg F43 verbindt Oudegem met centrum Dendermonde.",
-      "url": "https://denderjournaal.be/nieuwe-kilometer-fietssnelweg-f43-verbindt-oudegem-met-centrum-dendermonde/",
-      "bron": "Dender Journaal",
-      "datum": "Mon, 28 Sep 2026 11:58:49 +0000",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "Tijdelijke veiligheidsmaatregelen in stationsbuurt Denderleeuw worden niet verlengd.",
-      "url": "https://denderjournaal.be/tijdelijke-veiligheidsmaatregelen-in-stationsbuurt-denderleeuw-worden-niet-verlengd/",
-      "bron": "Dender Journaal",
-      "datum": "Fri, 25 Sep 2026 13:47:30 +0000",
-      "thema": "natuur"
     }
   ],
   "weekly": [
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W42",
-      "aantal": 4
+      "aantal": 7
     }
   ]
 }
