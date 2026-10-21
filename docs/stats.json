@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-10-20T12:24:13.122462",
+  "gegenereerd": "2026-10-21T12:35:25.522643",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 59
+      "aantal": 58
     },
     {
       "naam": "mobiliteit",
@@ -27,7 +27,7 @@
     },
     {
       "naam": "veiligheid",
-      "aantal": 3
+      "aantal": 4
     },
     {
       "naam": "economie",
@@ -37,7 +37,7 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 81
+      "aantal": 82
     },
     {
       "naam": "Stad Dendermonde",
@@ -45,10 +45,17 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 19
+      "aantal": 18
     }
   ],
   "recent": [
+    {
+      "titel": "Lokaal Bestuur Denderleeuw laat vanaf 24 oktober opnieuw nachtverlichting branden.",
+      "url": "https://denderjournaal.be/lokaal-bestuur-denderleeuw-laat-vanaf-24-oktober-opnieuw-nachtverlichting-branden/",
+      "bron": "Dender Journaal",
+      "datum": "Wed, 21 Oct 2026 12:26:21 +0000",
+      "thema": "veiligheid"
+    },
     {
       "titel": "Herontwikkeling Kazerne belangrijke stap dichterbij dankzij brownfieldconvenant",
       "url": "https://www.dendermonde.be/nieuws/herontwikkeling-kazerne-brownfieldconvenant",
@@ -391,13 +398,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-09-29T13:33:29.630177+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "Dendermonde, Herzele en Lochristi genomineerd voor Winkelhiergemeente 2026.",
-      "url": "https://denderjournaal.be/dendermonde-herzele-en-lochristi-genomineerd-voor-winkelhiergemeente-2026/",
-      "bron": "Dender Journaal",
-      "datum": "Tue, 29 Sep 2026 08:40:57 +0000",
-      "thema": "politiek"
     }
   ],
   "weekly": [
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W42",
-      "aantal": 7
+      "aantal": 8
     }
   ]
 }
