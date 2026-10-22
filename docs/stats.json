@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-10-21T12:35:25.522643",
+  "gegenereerd": "2026-10-22T12:37:59.600195",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 58
+      "aantal": 60
     },
     {
       "naam": "mobiliteit",
@@ -11,7 +11,7 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 16
+      "aantal": 17
     },
     {
       "naam": "politiek",
@@ -19,7 +19,7 @@
     },
     {
       "naam": "sport",
-      "aantal": 10
+      "aantal": 9
     },
     {
       "naam": "cultuur",
@@ -37,7 +37,7 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 82
+      "aantal": 83
     },
     {
       "naam": "Stad Dendermonde",
@@ -45,10 +45,31 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 18
+      "aantal": 19
     }
   ],
   "recent": [
+    {
+      "titel": "Samenscholingsverbod en gerichte identiteitscontroles om de openbare orde en leefbaarheid te bewaken",
+      "url": "https://www.dendermonde.be/nieuws/maatregelenopenbareorde",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-22T12:37:59.595658+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "RegioDendermondeDendermonde opent digitaal meldpunt voor radicalisering: \"Niet om te stigmatiseren, wel om heel vroeg te detecteren\"wo 21 okt.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/meldpunt-radicalisatie-dendermonde/",
+      "bron": "VRT NWS",
+      "datum": "2026-10-22T12:37:57.775838+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Wapenstilstand in Denderleeuw, Welle en Iddergem.",
+      "url": "https://denderjournaal.be/wapenstilstand-in-denderleeuw-welle-en-iddergem-2/",
+      "bron": "Dender Journaal",
+      "datum": "Thu, 22 Oct 2026 12:04:09 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "Lokaal Bestuur Denderleeuw laat vanaf 24 oktober opnieuw nachtverlichting branden.",
       "url": "https://denderjournaal.be/lokaal-bestuur-denderleeuw-laat-vanaf-24-oktober-opnieuw-nachtverlichting-branden/",
@@ -377,33 +398,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-10-01T14:01:28.495049+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "Milieu & KlimaatRaad van State verwerpt beroep Boerenbond tegen erkenning 3 nationale parkenwo 30 sep.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/09/30/raad-van-state-boerenbond-erkenning-nationale-parken/",
-      "bron": "VRT NWS",
-      "datum": "2026-10-01T14:01:26.609812+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Week Van de Handhaving: extra toezicht aan de glasbollen",
-      "url": "https://www.dendermonde.be/nieuws/week-van-de-handhaving-extra-toezicht-aan-de-glasbollen",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-09-30T13:11:48.762793+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Nieuw buurtpunt Hof ten Rode in Baasrode opent de deuren!",
-      "url": "https://www.dendermonde.be/nieuws/nieuw-buurtpunt-hof-ten-rode-in-baasrode-opent-de-deuren",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-09-29T13:33:29.630177+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
     {
       "week": "2026-W34",
-      "aantal": 9
+      "aantal": 8
     },
     {
       "week": "2026-W35",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W42",
-      "aantal": 8
+      "aantal": 11
     }
   ]
 }
