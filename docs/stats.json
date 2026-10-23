@@ -1,13 +1,13 @@
 {
-  "gegenereerd": "2026-10-22T12:37:59.600195",
+  "gegenereerd": "2026-10-23T12:17:29.732277",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 60
+      "aantal": 59
     },
     {
       "naam": "mobiliteit",
-      "aantal": 26
+      "aantal": 25
     },
     {
       "naam": "algemeen",
@@ -15,7 +15,7 @@
     },
     {
       "naam": "politiek",
-      "aantal": 14
+      "aantal": 15
     },
     {
       "naam": "sport",
@@ -28,10 +28,6 @@
     {
       "naam": "veiligheid",
       "aantal": 4
-    },
-    {
-      "naam": "economie",
-      "aantal": 1
     }
   ],
   "bronnen": [
@@ -41,7 +37,7 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 34
+      "aantal": 32
     },
     {
       "naam": "VRT NWS",
@@ -49,6 +45,34 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Dendermonde schittert!",
+      "url": "https://www.dendermonde.be/nieuws/dendermonde-schittert",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-23T12:17:29.725431+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Storm op komst: wees voorbereid",
+      "url": "https://www.dendermonde.be/nieuws/storm",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-23T12:17:29.725424+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Stad Dendermonde lanceert meldpunt radicalisme",
+      "url": "https://www.dendermonde.be/nieuws/stad-dendermonde-lanceert-meldpunt-radicalisme",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-23T12:17:29.725404+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "RegioDendermondeDendermonde voert samenscholingsverbod en gerichte identiteitscontroles in tot 3 januarido 22 okt.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/10/22/dendermonde-voert-samenscholingsverbod-en-gerichte-identiteitsco/",
+      "bron": "VRT NWS",
+      "datum": "2026-10-23T12:17:27.732959+00:00",
+      "thema": "natuur"
+    },
     {
       "titel": "Samenscholingsverbod en gerichte identiteitscontroles om de openbare orde en leefbaarheid te bewaken",
       "url": "https://www.dendermonde.be/nieuws/maatregelenopenbareorde",
@@ -370,40 +394,12 @@
       "bron": "Dender Journaal",
       "datum": "Fri, 02 Oct 2026 11:00:59 +0000",
       "thema": "natuur"
-    },
-    {
-      "titel": "Inzage lijst stemgerechtigde leden Schelde Durme Oost",
-      "url": "https://www.dendermonde.be/nieuws/detail/548/inzage-lijst-stemgerechtigde-leden-schelde-durme-oost",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-01T14:01:28.495080+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Inzage lijst stemgerechtigde leden Polder Vlassenbroek",
-      "url": "https://www.dendermonde.be/nieuws/detail/547/inzage-lijst-stemgerechtigde-leden-polder-vlassenbroek",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-01T14:01:28.495075+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Ontdek het ontwerp voor binnenplein De Dammen",
-      "url": "https://www.dendermonde.be/nieuws/ontdek-het-ontwerp-voor-binnenplein-de-dammen",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-01T14:01:28.495068+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Borremans Mosselcross veldrijden in Dendermonde op zondag 11 oktober",
-      "url": "https://www.dendermonde.be/nieuws/veldrijden",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-01T14:01:28.495049+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
     {
       "week": "2026-W34",
-      "aantal": 8
+      "aantal": 7
     },
     {
       "week": "2026-W35",
@@ -435,7 +431,7 @@
     },
     {
       "week": "2026-W42",
-      "aantal": 11
+      "aantal": 15
     }
   ]
 }
