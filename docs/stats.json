@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-10-23T12:17:29.732277",
+  "gegenereerd": "2026-10-24T11:43:09.790757",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 59
+      "aantal": 58
     },
     {
       "naam": "mobiliteit",
@@ -41,7 +41,7 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 19
+      "aantal": 18
     }
   ],
   "recent": [
@@ -399,7 +399,7 @@
   "weekly": [
     {
       "week": "2026-W34",
-      "aantal": 7
+      "aantal": 1
     },
     {
       "week": "2026-W35",
