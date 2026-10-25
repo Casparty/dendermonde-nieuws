@@ -1,13 +1,13 @@
 {
-  "gegenereerd": "2026-10-24T11:43:09.790757",
+  "gegenereerd": "2026-10-25T12:12:48.109370",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 58
+      "aantal": 59
     },
     {
       "naam": "mobiliteit",
-      "aantal": 25
+      "aantal": 24
     },
     {
       "naam": "algemeen",
@@ -19,7 +19,7 @@
     },
     {
       "naam": "sport",
-      "aantal": 9
+      "aantal": 8
     },
     {
       "naam": "cultuur",
@@ -41,10 +41,17 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 18
+      "aantal": 17
     }
   ],
   "recent": [
+    {
+      "titel": "Scheldedijk en overstromingsgebied in Vlassenbroek afgesloten door hoge waterstand",
+      "url": "https://www.dendermonde.be/nieuws/scheldedijk-en-overstromingsgebied-in-vlassenbroek-afgesloten-door-hoge-waterstand",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-25T12:12:48.100285+00:00",
+      "thema": "natuur"
+    },
     {
       "titel": "Dendermonde schittert!",
       "url": "https://www.dendermonde.be/nieuws/dendermonde-schittert",
@@ -387,20 +394,9 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-10-02T13:22:34.041042+00:00",
       "thema": "mobiliteit"
-    },
-    {
-      "titel": "Militaire oefening in Denderwindeke en Pollare op 9 oktober.",
-      "url": "https://denderjournaal.be/militaire-oefening-in-denderwindeke-en-pollare-op-9-oktober/",
-      "bron": "Dender Journaal",
-      "datum": "Fri, 02 Oct 2026 11:00:59 +0000",
-      "thema": "natuur"
     }
   ],
   "weekly": [
-    {
-      "week": "2026-W34",
-      "aantal": 1
-    },
     {
       "week": "2026-W35",
       "aantal": 12
@@ -431,7 +427,7 @@
     },
     {
       "week": "2026-W42",
-      "aantal": 15
+      "aantal": 16
     }
   ]
 }
