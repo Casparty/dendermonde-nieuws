@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-10-25T12:12:48.109370",
+  "gegenereerd": "2026-10-26T13:44:28.647999",
   "themas": [
     {
       "naam": "natuur",
@@ -7,19 +7,19 @@
     },
     {
       "naam": "mobiliteit",
-      "aantal": 24
-    },
-    {
-      "naam": "algemeen",
-      "aantal": 17
+      "aantal": 25
     },
     {
       "naam": "politiek",
-      "aantal": 15
+      "aantal": 17
+    },
+    {
+      "naam": "algemeen",
+      "aantal": 16
     },
     {
       "naam": "sport",
-      "aantal": 8
+      "aantal": 7
     },
     {
       "naam": "cultuur",
@@ -33,7 +33,7 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 83
+      "aantal": 84
     },
     {
       "naam": "Stad Dendermonde",
@@ -45,6 +45,27 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Wat vind jij van het stadsmagazine? Vul de bevraging in!",
+      "url": "https://www.dendermonde.be/nieuws/evaluatie-stadsmagazine",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-26T13:44:28.643387+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "RegioScheldelandStormtij in Scheldevallei door storm Boelo, overstromingsgebieden afgesloten: \"Blijf er weg\"zo 25 okt.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/10/25/stormtij-scheldevallei-waarschuwing/",
+      "bron": "VRT NWS",
+      "datum": "2026-10-26T13:44:26.716978+00:00",
+      "thema": "mobiliteit"
+    },
+    {
+      "titel": "Provincie volgt Lokaal Bestuur Denderleeuw in dossier Vlamovenkouter: Vandersanden trekt vergunningsaanvraag in.",
+      "url": "https://denderjournaal.be/provincie-volgt-lokaal-bestuur-denderleeuw-in-dossier-vlamovenkouter-vandersanden-trekt-vergunningsaanvraag-in-2/",
+      "bron": "Dender Journaal",
+      "datum": "Mon, 26 Oct 2026 12:33:00 +0000",
+      "thema": "politiek"
+    },
     {
       "titel": "Scheldedijk en overstromingsgebied in Vlassenbroek afgesloten door hoge waterstand",
       "url": "https://www.dendermonde.be/nieuws/scheldedijk-en-overstromingsgebied-in-vlassenbroek-afgesloten-door-hoge-waterstand",
@@ -373,27 +394,6 @@
       "bron": "VRT NWS",
       "datum": "2026-10-05T15:24:53.136056+00:00",
       "thema": "mobiliteit"
-    },
-    {
-      "titel": "Aalst voelt Vlaamse besparingen: museum ’t Gasthuys en Erfgoedcel Denderland verliezen 30 procent subsidies.",
-      "url": "https://denderjournaal.be/aalst-voelt-vlaamse-besparingen-museum-t-gasthuys-en-erfgoedcel-denderland-verliezen-30-procent-subsidies/",
-      "bron": "Dender Journaal",
-      "datum": "Sat, 03 Oct 2026 17:00:16 +0000",
-      "thema": "cultuur"
-    },
-    {
-      "titel": "Asfalteringswerken aan kruispunt Mechelsesteenweg en Rijksweg (N41)",
-      "url": "https://www.dendermonde.be/nieuws/asfalteringswerken-kruispunt-mechelsesteenweg-rijksweg",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-03T12:08:46.502593+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "Nieuwe kilometer fietssnelweg F43 verbindt Oudegem met centrum Dendermonde",
-      "url": "https://www.dendermonde.be/nieuws/nieuwe-kilometer-fietssnelweg-f43-verbindt-oudegem-met-centrum-dendermonde",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-02T13:22:34.041042+00:00",
-      "thema": "mobiliteit"
     }
   ],
   "weekly": [
@@ -428,6 +428,10 @@
     {
       "week": "2026-W42",
       "aantal": 16
+    },
+    {
+      "week": "2026-W43",
+      "aantal": 3
     }
   ]
 }
