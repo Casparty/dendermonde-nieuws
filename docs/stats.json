@@ -1,21 +1,21 @@
 {
-  "gegenereerd": "2026-10-26T13:44:28.647999",
+  "gegenereerd": "2026-10-27T12:51:54.450549",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 59
+      "aantal": 61
     },
     {
       "naam": "mobiliteit",
-      "aantal": 25
+      "aantal": 26
     },
     {
       "naam": "politiek",
-      "aantal": 17
+      "aantal": 18
     },
     {
       "naam": "algemeen",
-      "aantal": 16
+      "aantal": 17
     },
     {
       "naam": "sport",
@@ -33,11 +33,11 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 84
+      "aantal": 86
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 32
+      "aantal": 35
     },
     {
       "naam": "VRT NWS",
@@ -45,6 +45,41 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Sta niet voor een gesloten deur!",
+      "url": "https://www.dendermonde.be/nieuws/sluitingsdagen",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-27T12:51:54.446623+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Welkom in Dendermonde",
+      "url": "https://www.dendermonde.be/nieuws/welkom",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-27T12:51:54.446616+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Verlenging tijdelijk onttrekkingsverbod onbevaarbare waterlopen",
+      "url": "https://www.dendermonde.be/nieuws/onttrekkingsverbod-onbevaarbare-waterlopen",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-27T12:51:54.446600+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Lokaal Bestuur Denderleeuw neemt voortrekkersrol op met vergunningsplicht en belasting voor dagwinkels.",
+      "url": "https://denderjournaal.be/lokaal-bestuur-denderleeuw-neemt-voortrekkersrol-op-met-vergunningsplicht-en-belasting-voor-dagwinkels/",
+      "bron": "Dender Journaal",
+      "datum": "Tue, 27 Oct 2026 08:44:59 +0000",
+      "thema": "politiek"
+    },
+    {
+      "titel": "Betonvak op Steenweg in Denderleeuw wordt vernieuwd.",
+      "url": "https://denderjournaal.be/betonvak-op-steenweg-in-denderleeuw-wordt-vernieuwd/",
+      "bron": "Dender Journaal",
+      "datum": "Tue, 27 Oct 2026 08:47:35 +0000",
+      "thema": "mobiliteit"
+    },
     {
       "titel": "Wat vind jij van het stadsmagazine? Vul de bevraging in!",
       "url": "https://www.dendermonde.be/nieuws/evaluatie-stadsmagazine",
@@ -359,47 +394,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-10-07T14:03:54.834171+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "JustitieMan (21) uit Brugge laat zich chemisch castreren na verkrachting van 16-jarig meisjema 5 okt.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/10/05/man-brugge-meisje-dendermonde-verkrachting-chemische-castratie-r/",
-      "bron": "VRT NWS",
-      "datum": "2026-10-06T13:47:20.687887+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "Open Veldstraat in Denderleeuw tijdelijk afgesloten voor afbraak en vervanging hoogspanningscabine.",
-      "url": "https://denderjournaal.be/open-veldstraat-in-denderleeuw-tijdelijk-afgesloten-voor-afbraak-en-vervanging-hoogspanningscabine/",
-      "bron": "Dender Journaal",
-      "datum": "Tue, 06 Oct 2026 13:28:52 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Expo ‘Santé’ brengt rijke biercultuur van Denderland tot leven in Haaltert.",
-      "url": "https://denderjournaal.be/expo-sante-brengt-rijke-biercultuur-van-denderland-tot-leven-in-haaltert/",
-      "bron": "Dender Journaal",
-      "datum": "Tue, 06 Oct 2026 13:32:15 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Betaalde zone fietsenstalling station geopend",
-      "url": "https://www.dendermonde.be/nieuws/bewaakte-zone-fietsenstalling-station-geopend",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-05T15:24:54.922072+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "JustitieMan (21) uit Brugge laat zich chemisch castreren nadat hij meisje (16) heeft verkracht2 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/10/05/man-brugge-meisje-dendermonde-verkrachting-chemische-castratie-r/",
-      "bron": "VRT NWS",
-      "datum": "2026-10-05T15:24:53.136056+00:00",
-      "thema": "mobiliteit"
     }
   ],
   "weekly": [
     {
       "week": "2026-W35",
-      "aantal": 12
+      "aantal": 8
     },
     {
       "week": "2026-W36",
@@ -431,7 +431,7 @@
     },
     {
       "week": "2026-W43",
-      "aantal": 3
+      "aantal": 8
     }
   ]
 }
