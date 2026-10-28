@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-10-27T12:51:54.450549",
+  "gegenereerd": "2026-10-28T13:40:27.834214",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 61
+      "aantal": 62
     },
     {
       "naam": "mobiliteit",
@@ -37,7 +37,7 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 35
+      "aantal": 36
     },
     {
       "naam": "VRT NWS",
@@ -45,6 +45,13 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Dendermondse scholen en academies zetten in op digitale vaardigheden en mediawijsheid",
+      "url": "https://www.dendermonde.be/nieuws/dendermondse-scholen-en-academies-zetten-in-op-digitale-vaardigheden-en-mediawijsheid",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-28T13:40:27.827380+00:00",
+      "thema": "natuur"
+    },
     {
       "titel": "Sta niet voor een gesloten deur!",
       "url": "https://www.dendermonde.be/nieuws/sluitingsdagen",
@@ -387,19 +394,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-10-08T14:13:38.081702+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "Werelddag van het Verzet tegen Armoede",
-      "url": "https://www.dendermonde.be/nieuws/detail/555/werelddag-van-het-verzet-tegen-armoede",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-07T14:03:54.834171+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
     {
       "week": "2026-W35",
-      "aantal": 8
+      "aantal": 6
     },
     {
       "week": "2026-W36",
@@ -431,7 +431,7 @@
     },
     {
       "week": "2026-W43",
-      "aantal": 8
+      "aantal": 9
     }
   ]
 }
