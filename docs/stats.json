@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-10-28T13:40:27.834214",
+  "gegenereerd": "2026-10-29T13:51:01.306798",
   "themas": [
     {
       "naam": "natuur",
@@ -11,23 +11,23 @@
     },
     {
       "naam": "politiek",
-      "aantal": 18
+      "aantal": 19
     },
     {
       "naam": "algemeen",
-      "aantal": 17
+      "aantal": 18
     },
     {
       "naam": "sport",
       "aantal": 7
     },
     {
-      "naam": "cultuur",
+      "naam": "veiligheid",
       "aantal": 5
     },
     {
-      "naam": "veiligheid",
-      "aantal": 4
+      "naam": "cultuur",
+      "aantal": 5
     }
   ],
   "bronnen": [
@@ -37,14 +37,35 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 36
+      "aantal": 38
     },
     {
       "naam": "VRT NWS",
-      "aantal": 17
+      "aantal": 18
     }
   ],
   "recent": [
+    {
+      "titel": "Archeologisch onderzoek ter hoogte van de Paalstraat/Bosstraat",
+      "url": "https://www.dendermonde.be/nieuws/archeologisch-onderzoek-paalstraat-bosstraat",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-29T13:51:01.302969+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Burgerbudget 2026: 60 000 euro voor 9 sterke projecten!",
+      "url": "https://www.dendermonde.be/nieuws/burgerbudget-2026-projecten",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-29T13:51:01.302953+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "JustitieHuiszoekingen en arrestaties in Oost-Vlaanderen, Antwerpen en Nederland in onderzoek naar cocaïnesmokkelwo 28 okt.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/arrestaties-huiszoekingen-cocainesmokkel-antwerpse-haven-gerecht/",
+      "bron": "VRT NWS",
+      "datum": "2026-10-29T13:50:59.739123+00:00",
+      "thema": "veiligheid"
+    },
     {
       "titel": "Dendermondse scholen en academies zetten in op digitale vaardigheden en mediawijsheid",
       "url": "https://www.dendermonde.be/nieuws/dendermondse-scholen-en-academies-zetten-in-op-digitale-vaardigheden-en-mediawijsheid",
@@ -373,33 +394,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-10-09T14:00:08.138088+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "Schoolsite De Klinker in Schoonaarde wordt gedeelde speelplek voor kinderen en buurtbewoners",
-      "url": "https://www.dendermonde.be/nieuws/schoolsite-de-klinker-in-schoonaarde-wordt-gedeelde-speelplek-voor-kinderen-en-buurtbewoners",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-09T14:00:08.138071+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Nieuwe expo in Aalst vertelt 1.000 jaar geschiedenis van de Dender.",
-      "url": "https://denderjournaal.be/nieuwe-expo-in-aalst-vertelt-1-000-jaar-geschiedenis-van-de-dender/",
-      "bron": "Dender Journaal",
-      "datum": "Fri, 09 Oct 2026 09:39:13 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Gezocht: speurneuzen",
-      "url": "https://www.dendermonde.be/nieuws/gezocht-speurneuzen",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-08T14:13:38.081702+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
     {
       "week": "2026-W35",
-      "aantal": 6
+      "aantal": 5
     },
     {
       "week": "2026-W36",
@@ -431,7 +431,7 @@
     },
     {
       "week": "2026-W43",
-      "aantal": 9
+      "aantal": 12
     }
   ]
 }
