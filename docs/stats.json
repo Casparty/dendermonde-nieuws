@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-10-29T13:51:01.306798",
+  "gegenereerd": "2026-10-30T13:43:00.235184",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 62
+      "aantal": 66
     },
     {
       "naam": "mobiliteit",
@@ -11,11 +11,11 @@
     },
     {
       "naam": "politiek",
-      "aantal": 19
+      "aantal": 20
     },
     {
       "naam": "algemeen",
-      "aantal": 18
+      "aantal": 17
     },
     {
       "naam": "sport",
@@ -33,11 +33,11 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 86
+      "aantal": 89
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 38
+      "aantal": 39
     },
     {
       "naam": "VRT NWS",
@@ -45,6 +45,41 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Dendermonde klinkt op 2027!",
+      "url": "https://www.dendermonde.be/nieuws/nieuwjaarsrecepties-2027",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-30T13:43:00.230576+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Project ‘Gezonde voeding op school’ bereikt opnieuw alle Dendermonde kleuters",
+      "url": "https://www.dendermonde.be/nieuws/project-gezonde-voeding-op-school-bereikt-opnieuw-alle-dendermonde-kleuters",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-10-30T13:43:00.230555+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Vlaams Belang Denderleeuw roept extra gemeenteraad samen nadat helft van ingediende vragen niet mocht worden gesteld.",
+      "url": "https://denderjournaal.be/vlaams-belang-denderleeuw-roept-extra-gemeenteraad-samen-nadat-helft-van-ingediende-vragen-niet-mocht-worden-gesteld/",
+      "bron": "Dender Journaal",
+      "datum": "Fri, 30 Oct 2026 13:08:23 +0000",
+      "thema": "politiek"
+    },
+    {
+      "titel": "Denderleeuw dreigt 1,65 miljoen euro te verliezen.",
+      "url": "https://denderjournaal.be/denderleeuw-dreigt-165-miljoen-euro-te-verliezen/",
+      "bron": "Dender Journaal",
+      "datum": "Fri, 30 Oct 2026 13:30:57 +0000",
+      "thema": "natuur"
+    },
+    {
+      "titel": "GO! Atheneum Dendermonde zet zich massaal in voor De Warmste Week.",
+      "url": "https://denderjournaal.be/go-atheneum-dendermonde-zet-zich-massaal-in-voor-de-warmste-week/",
+      "bron": "Dender Journaal",
+      "datum": "Fri, 30 Oct 2026 13:35:54 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "Archeologisch onderzoek ter hoogte van de Paalstraat/Bosstraat",
       "url": "https://www.dendermonde.be/nieuws/archeologisch-onderzoek-paalstraat-bosstraat",
@@ -359,47 +394,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-10-13T14:41:36.353523+00:00",
       "thema": "mobiliteit"
-    },
-    {
-      "titel": "Vernieuwde kruispunt Mechelse Poort officieel geopend",
-      "url": "https://www.dendermonde.be/nieuws/vernieuwde-kruispunt-mechelse-poort-officieel-geopend",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-13T14:41:36.353503+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "RegioDendermondeZwart kruispunt Mechelse Poort in Dendermonde gaat na meer dan 2 jaar opnieuw open: veiliger en vlotter voor iedereen5 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/10/13/kruispunt-mechelse-poort-in-dendermonde-na-2-jaar-open-veiliger/",
-      "bron": "VRT NWS",
-      "datum": "2026-10-13T14:41:34.489593+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "Gemeenteraad en raad voor maatschappelijk welzijn op woensdag 14 oktober 2026",
-      "url": "https://www.dendermonde.be/nieuws/gemeenteraad-en-raad-voor-maatschappelijk-welzijn-op-woensdag-14-oktober-2026",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-12T16:19:47.314890+00:00",
-      "thema": "politiek"
-    },
-    {
-      "titel": "RegioDendermondePolitie controleert 51 personen en 21 voertuigen in Dendermonde, vermoedelijke drugsdealers opgepaktzo 11 okt.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/10/11/vermoedelijke-drugsdealer-opgepakt-in-dendermonde/",
-      "bron": "VRT NWS",
-      "datum": "2026-10-12T16:19:45.105226+00:00",
-      "thema": "veiligheid"
-    },
-    {
-      "titel": "Publieke consultatie GRUP ‘Leidingstrook Opwijk-Lievegem'",
-      "url": "https://www.dendermonde.be/nieuws/publieke-consultatie-grup-leidingstrook-opwijk-lievegem",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-09T14:00:08.138088+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
     {
       "week": "2026-W35",
-      "aantal": 5
+      "aantal": 1
     },
     {
       "week": "2026-W36",
@@ -431,7 +431,7 @@
     },
     {
       "week": "2026-W43",
-      "aantal": 12
+      "aantal": 17
     }
   ]
 }
