@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-10-30T13:43:00.235184",
+  "gegenereerd": "2026-10-31T13:12:02.835406",
   "themas": [
     {
       "naam": "natuur",
@@ -15,7 +15,7 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 17
+      "aantal": 16
     },
     {
       "naam": "sport",
@@ -37,7 +37,7 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 39
+      "aantal": 38
     },
     {
       "naam": "VRT NWS",
@@ -397,10 +397,6 @@
     }
   ],
   "weekly": [
-    {
-      "week": "2026-W35",
-      "aantal": 1
-    },
     {
       "week": "2026-W36",
       "aantal": 23
