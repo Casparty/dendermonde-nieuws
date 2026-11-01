@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-10-31T13:12:02.835406",
+  "gegenereerd": "2026-11-01T13:55:18.457570",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 66
+      "aantal": 64
     },
     {
       "naam": "mobiliteit",
@@ -15,7 +15,7 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 16
+      "aantal": 13
     },
     {
       "naam": "sport",
@@ -37,11 +37,11 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 38
+      "aantal": 34
     },
     {
       "naam": "VRT NWS",
-      "aantal": 18
+      "aantal": 17
     }
   ],
   "recent": [
