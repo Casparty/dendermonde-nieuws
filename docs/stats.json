@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-11-01T13:55:18.457570",
+  "gegenereerd": "2026-11-02T16:41:26.893232",
   "themas": [
     {
       "naam": "natuur",
@@ -7,11 +7,11 @@
     },
     {
       "naam": "mobiliteit",
-      "aantal": 26
+      "aantal": 25
     },
     {
       "naam": "politiek",
-      "aantal": 20
+      "aantal": 21
     },
     {
       "naam": "algemeen",
@@ -33,11 +33,11 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 89
+      "aantal": 90
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 34
+      "aantal": 33
     },
     {
       "naam": "VRT NWS",
@@ -45,6 +45,13 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Extra gemeenteraad in Denderleeuw op 12 november na onenigheid over onbeantwoorde vragen.",
+      "url": "https://denderjournaal.be/extra-gemeenteraad-in-denderleeuw-op-12-november-na-onenigheid-over-onbeantwoorde-vragen/",
+      "bron": "Dender Journaal",
+      "datum": "Mon, 02 Nov 2026 16:20:36 +0000",
+      "thema": "politiek"
+    },
     {
       "titel": "Dendermonde klinkt op 2027!",
       "url": "https://www.dendermonde.be/nieuws/nieuwjaarsrecepties-2027",
@@ -387,13 +394,6 @@
       "bron": "Dender Journaal",
       "datum": "Wed, 14 Oct 2026 09:58:20 +0000",
       "thema": "natuur"
-    },
-    {
-      "titel": "Dag van de Trage Weg in de Porre- en Paddebeekvallei",
-      "url": "https://www.dendermonde.be/nieuws/dag-van-de-trage-weg",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-13T14:41:36.353523+00:00",
-      "thema": "mobiliteit"
     }
   ],
   "weekly": [
@@ -428,6 +428,10 @@
     {
       "week": "2026-W43",
       "aantal": 17
+    },
+    {
+      "week": "2026-W44",
+      "aantal": 1
     }
   ]
 }
