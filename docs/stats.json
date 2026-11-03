@@ -1,13 +1,13 @@
 {
-  "gegenereerd": "2026-11-02T16:41:26.893232",
+  "gegenereerd": "2026-11-03T14:45:26.460131",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 64
+      "aantal": 65
     },
     {
       "naam": "mobiliteit",
-      "aantal": 25
+      "aantal": 24
     },
     {
       "naam": "politiek",
@@ -23,7 +23,7 @@
     },
     {
       "naam": "veiligheid",
-      "aantal": 5
+      "aantal": 6
     },
     {
       "naam": "cultuur",
@@ -41,10 +41,24 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 17
+      "aantal": 18
     }
   ],
   "recent": [
+    {
+      "titel": "Winter in Dendermonde",
+      "url": "https://www.dendermonde.be/nieuws/winter-in-dendermonde",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-11-03T14:45:26.455905+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "JustitieRechtbank Dendermonde spreekt man vrij van ontvoering van 13-jarig meisje en zedenfeiten5 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/dendermonde-man-vrijgesproken-ontvoering-13-jarig-meisje-woord-t/",
+      "bron": "VRT NWS",
+      "datum": "2026-11-03T14:45:25.119107+00:00",
+      "thema": "veiligheid"
+    },
     {
       "titel": "Extra gemeenteraad in Denderleeuw op 12 november na onenigheid over onbeantwoorde vragen.",
       "url": "https://denderjournaal.be/extra-gemeenteraad-in-denderleeuw-op-12-november-na-onenigheid-over-onbeantwoorde-vragen/",
@@ -380,26 +394,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-10-14T12:34:19.291521+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "RegioDendermondeZwart kruispunt Mechelse Poort in Dendermonde gaat na meer dan 2 jaar opnieuw open: veiliger en vlotter voor iedereendi 13 okt.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/10/13/kruispunt-mechelse-poort-in-dendermonde-na-2-jaar-open-veiliger/",
-      "bron": "VRT NWS",
-      "datum": "2026-10-14T12:34:17.901713+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "Project Denderknoop ontwikkelt toekomstbeeld stationsomgevingen Denderleeuw en Liedekerke.",
-      "url": "https://denderjournaal.be/project-denderknoop-ontwikkelt-toekomstbeeld-stationsomgevingen-denderleeuw-en-liedekerke/",
-      "bron": "Dender Journaal",
-      "datum": "Wed, 14 Oct 2026 09:58:20 +0000",
-      "thema": "natuur"
     }
   ],
   "weekly": [
     {
       "week": "2026-W36",
-      "aantal": 23
+      "aantal": 17
     },
     {
       "week": "2026-W37",
@@ -431,7 +431,7 @@
     },
     {
       "week": "2026-W44",
-      "aantal": 1
+      "aantal": 3
     }
   ]
 }
