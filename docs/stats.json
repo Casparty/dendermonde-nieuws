@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-11-03T14:45:26.460131",
+  "gegenereerd": "2026-11-04T14:57:43.980556",
   "themas": [
     {
       "naam": "natuur",
@@ -18,12 +18,12 @@
       "aantal": 13
     },
     {
-      "naam": "sport",
+      "naam": "veiligheid",
       "aantal": 7
     },
     {
-      "naam": "veiligheid",
-      "aantal": 6
+      "naam": "sport",
+      "aantal": 7
     },
     {
       "naam": "cultuur",
@@ -41,10 +41,17 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 18
+      "aantal": 19
     }
   ],
   "recent": [
+    {
+      "titel": "JustitieRechtbank Dendermonde spreekt man vrij van ontvoering van 13-jarig meisje en zedenfeitendi 3 nov.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/dendermonde-man-vrijgesproken-ontvoering-13-jarig-meisje-woord-t/",
+      "bron": "VRT NWS",
+      "datum": "2026-11-04T14:57:41.937266+00:00",
+      "thema": "veiligheid"
+    },
     {
       "titel": "Winter in Dendermonde",
       "url": "https://www.dendermonde.be/nieuws/winter-in-dendermonde",
@@ -387,19 +394,12 @@
       "bron": "VRT NWS",
       "datum": "2026-10-15T12:18:21.416977+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "Neem deel aan de wedstrijd voor Maand van de Voetganger!",
-      "url": "https://www.dendermonde.be/nieuws/neem-deel-aan-de-wedstrijd-voor-maand-van-de-voetganger",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-14T12:34:19.291521+00:00",
-      "thema": "algemeen"
     }
   ],
   "weekly": [
     {
       "week": "2026-W36",
-      "aantal": 17
+      "aantal": 14
     },
     {
       "week": "2026-W37",
@@ -431,7 +431,7 @@
     },
     {
       "week": "2026-W44",
-      "aantal": 3
+      "aantal": 4
     }
   ]
 }
