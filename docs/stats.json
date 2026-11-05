@@ -1,13 +1,13 @@
 {
-  "gegenereerd": "2026-11-04T14:57:43.980556",
+  "gegenereerd": "2026-11-05T15:02:41.186916",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 65
+      "aantal": 66
     },
     {
       "naam": "mobiliteit",
-      "aantal": 24
+      "aantal": 22
     },
     {
       "naam": "politiek",
@@ -27,7 +27,7 @@
     },
     {
       "naam": "cultuur",
-      "aantal": 5
+      "aantal": 6
     }
   ],
   "bronnen": [
@@ -45,6 +45,20 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Project Kazerne is niet geselecteerd voor de Vlaamse erfgoedsubsidie ‘Iconisch Erfgoed’",
+      "url": "https://www.dendermonde.be/nieuws/project-kazerne-erfgoedsubsidie-iconisch-erfgoed",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-11-05T15:02:41.182974+00:00",
+      "thema": "cultuur"
+    },
+    {
+      "titel": "RegioDendermondeDendermonde lanceert zoektocht rond goudschat voor jonge toeristen: \"We denken ook aan activiteiten voor volwassenen\"3 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/11/05/dendermonde-toerisme-goudschat-kinderen-inspiratie/",
+      "bron": "VRT NWS",
+      "datum": "2026-11-05T15:02:39.511830+00:00",
+      "thema": "natuur"
+    },
     {
       "titel": "JustitieRechtbank Dendermonde spreekt man vrij van ontvoering van 13-jarig meisje en zedenfeitendi 3 nov.",
       "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/dendermonde-man-vrijgesproken-ontvoering-13-jarig-meisje-woord-t/",
@@ -380,26 +394,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-10-15T12:18:23.358529+00:00",
       "thema": "algemeen"
-    },
-    {
-      "titel": "Milieu & KlimaatNog 1 'missing link' voor CO2-leiding van Duitsland naar Zeebrugge: buurtbewoners kunnen mening geven over stuk tussen Lievegem en Opwijkwo 14 okt.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/10/14/missing-link-co2-leiding-van-duitsland-naar-belgische-kust/",
-      "bron": "VRT NWS",
-      "datum": "2026-10-15T12:18:21.417088+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "RegioDendermondeDendermonde kan verdwenen zuster Gabrielle voorlopig niet eren met een straatnaam, procedure wordt stopgezet2 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/10/15/dendermonde-kan-voorlopig-verdwenen-zuster-gabrielle-niet-eren-m/",
-      "bron": "VRT NWS",
-      "datum": "2026-10-15T12:18:21.416977+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
     {
       "week": "2026-W36",
-      "aantal": 14
+      "aantal": 9
     },
     {
       "week": "2026-W37",
@@ -431,7 +431,7 @@
     },
     {
       "week": "2026-W44",
-      "aantal": 4
+      "aantal": 6
     }
   ]
 }
