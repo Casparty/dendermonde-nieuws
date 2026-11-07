@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-11-06T14:42:13.707557",
+  "gegenereerd": "2026-11-07T13:39:27.949417",
   "themas": [
     {
       "naam": "natuur",
@@ -15,11 +15,11 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 13
+      "aantal": 12
     },
     {
       "naam": "veiligheid",
-      "aantal": 9
+      "aantal": 10
     },
     {
       "naam": "sport",
@@ -37,14 +37,21 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 34
+      "aantal": 33
     },
     {
       "naam": "VRT NWS",
-      "aantal": 22
+      "aantal": 23
     }
   ],
   "recent": [
+    {
+      "titel": "RegioDendermondePolitie Dendermonde krijgt vaker onschuldige telefoontjes over verdachte situaties \"Maar blijf vooral bellen\"vr 6 nov.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/mensen-waakzamer-verdachte-telefoontjes-politie-dendermonde/",
+      "bron": "VRT NWS",
+      "datum": "2026-11-07T13:39:26.283629+00:00",
+      "thema": "veiligheid"
+    },
     {
       "titel": "Oude Vest: stad neemt kennis van het arrest van de Raad voor Vergunningsbetwistingen",
       "url": "https://www.dendermonde.be/nieuws/oude-vest-stad-neemt-kennis-van-het-arrest-van-de-raad-voor-vergunningsbetwistingen",
@@ -387,20 +394,9 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-10-17T11:16:12.864380+00:00",
       "thema": "mobiliteit"
-    },
-    {
-      "titel": "MobiliteitVijf weekends geen treinen tussen Dendermonde en Schellebelle: Infrabel vernieuwt sporen en bovenleidingvr 16 okt.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/dendermonde-schellebelle-spoorwerken-vervangbus/",
-      "bron": "VRT NWS",
-      "datum": "2026-10-17T11:16:11.107491+00:00",
-      "thema": "mobiliteit"
     }
   ],
   "weekly": [
-    {
-      "week": "2026-W36",
-      "aantal": 2
-    },
     {
       "week": "2026-W37",
       "aantal": 8
@@ -431,7 +427,7 @@
     },
     {
       "week": "2026-W44",
-      "aantal": 11
+      "aantal": 12
     }
   ]
 }
