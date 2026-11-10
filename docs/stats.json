@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-11-09T16:59:14.216228",
+  "gegenereerd": "2026-11-10T15:18:57.717773",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 69
+      "aantal": 70
     },
     {
       "naam": "politiek",
@@ -33,7 +33,7 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 90
+      "aantal": 91
     },
     {
       "naam": "Stad Dendermonde",
@@ -45,6 +45,13 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Slimme reistips voor wie binnenkort vertrekt uit de Denderstreek.",
+      "url": "https://denderjournaal.be/slimme-reistips-voor-wie-binnenkort-vertrekt-uit-de-denderstreek/",
+      "bron": "Dender Journaal",
+      "datum": "Tue, 10 Nov 2026 14:16:50 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "RegioDendermondePolitie Dendermonde krijgt vaker onschuldige telefoontjes over verdachte situaties \"Maar blijf vooral bellen\"vr 6 nov.",
       "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/mensen-waakzamer-verdachte-telefoontjes-politie-dendermonde/",
@@ -387,19 +394,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-10-17T11:16:12.864401+00:00",
       "thema": "politiek"
-    },
-    {
-      "titel": "Veelgestelde vragen over het vernieuwde kruispunt Mechelse Poort",
-      "url": "https://www.dendermonde.be/nieuws/veelgestelde-vragen-vernieuwde-kruispunt-mechelse-poort",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-17T11:16:12.864380+00:00",
-      "thema": "mobiliteit"
     }
   ],
   "weekly": [
     {
       "week": "2026-W37",
-      "aantal": 8
+      "aantal": 7
     },
     {
       "week": "2026-W38",
@@ -428,6 +428,10 @@
     {
       "week": "2026-W44",
       "aantal": 12
+    },
+    {
+      "week": "2026-W45",
+      "aantal": 1
     }
   ]
 }
