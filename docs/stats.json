@@ -1,24 +1,24 @@
 {
-  "gegenereerd": "2026-11-11T14:49:13.549604",
+  "gegenereerd": "2026-11-12T15:40:52.460473",
   "themas": [
     {
       "naam": "natuur",
       "aantal": 70
     },
     {
-      "naam": "politiek",
-      "aantal": 21
-    },
-    {
       "naam": "mobiliteit",
       "aantal": 21
     },
     {
-      "naam": "veiligheid",
-      "aantal": 10
+      "naam": "politiek",
+      "aantal": 20
     },
     {
       "naam": "algemeen",
+      "aantal": 10
+    },
+    {
+      "naam": "veiligheid",
       "aantal": 9
     },
     {
@@ -41,10 +41,17 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 23
+      "aantal": 22
     }
   ],
   "recent": [
+    {
+      "titel": "Hoe schuil je bij een noodsituatie?",
+      "url": "https://www.dendermonde.be/nieuws/schuilen",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-11-12T15:40:52.455166+00:00",
+      "thema": "algemeen"
+    },
     {
       "titel": "Slimme reistips voor wie binnenkort vertrekt uit de Denderstreek.",
       "url": "https://denderjournaal.be/slimme-reistips-voor-wie-binnenkort-vertrekt-uit-de-denderstreek/",
@@ -387,19 +394,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-10-17T11:16:12.864405+00:00",
       "thema": "politiek"
-    },
-    {
-      "titel": "Eerste infosessie over afvalbeleid in samenwerking met Ligo Waas & Dender",
-      "url": "https://www.dendermonde.be/nieuws/eerste-infosessie-over-afvalbeleid-in-samenwerking-met-ligo-waas-en-dender",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-17T11:16:12.864401+00:00",
-      "thema": "politiek"
     }
   ],
   "weekly": [
     {
       "week": "2026-W37",
-      "aantal": 7
+      "aantal": 5
     },
     {
       "week": "2026-W38",
@@ -431,7 +431,7 @@
     },
     {
       "week": "2026-W45",
-      "aantal": 1
+      "aantal": 2
     }
   ]
 }
