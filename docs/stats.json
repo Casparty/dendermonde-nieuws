@@ -1,21 +1,21 @@
 {
-  "gegenereerd": "2026-11-12T15:40:52.460473",
+  "gegenereerd": "2026-11-13T14:59:28.116985",
   "themas": [
     {
       "naam": "natuur",
       "aantal": 70
     },
     {
-      "naam": "mobiliteit",
+      "naam": "politiek",
       "aantal": 21
     },
     {
-      "naam": "politiek",
-      "aantal": 20
+      "naam": "mobiliteit",
+      "aantal": 19
     },
     {
       "naam": "algemeen",
-      "aantal": 10
+      "aantal": 11
     },
     {
       "naam": "veiligheid",
@@ -33,7 +33,7 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 91
+      "aantal": 92
     },
     {
       "naam": "Stad Dendermonde",
@@ -41,10 +41,31 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 22
+      "aantal": 21
     }
   ],
   "recent": [
+    {
+      "titel": "Stadhuis kleurt blauw voor Wereld Diabetes Dag",
+      "url": "https://www.dendermonde.be/nieuws/stadhuis-in-het-blauw-voor-wereld-diabetes-dag",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-11-13T14:59:28.113049+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "Microsoftstoring verstoort dienstverlening",
+      "url": "https://www.dendermonde.be/nieuws/technische-problemen",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-11-13T14:59:28.113031+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Vlaams Belang-voorstel om 11 juli-viering in Denderleeuw te versterken weggestemd.",
+      "url": "https://denderjournaal.be/vlaams-belang-voorstel-om-11-juli-viering-in-denderleeuw-te-versterken-weggestemd/",
+      "bron": "Dender Journaal",
+      "datum": "Fri, 13 Nov 2026 12:57:32 +0000",
+      "thema": "mobiliteit"
+    },
     {
       "titel": "Hoe schuil je bij een noodsituatie?",
       "url": "https://www.dendermonde.be/nieuws/schuilen",
@@ -373,33 +394,12 @@
       "bron": "Dender Journaal",
       "datum": "Mon, 19 Oct 2026 11:38:26 +0000",
       "thema": "mobiliteit"
-    },
-    {
-      "titel": "Schrijf een brief aan de hemel: Denderleeuw plaatst drie bijzondere brievenbussen voor wie iemand mist.",
-      "url": "https://denderjournaal.be/schrijf-een-brief-aan-de-hemel-denderleeuw-plaatst-drie-bijzondere-brievenbussen-voor-wie-iemand-mist/",
-      "bron": "Dender Journaal",
-      "datum": "Sat, 17 Oct 2026 20:06:24 +0000",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "Dendermonde en Buggenhout vernieuwen Mandekensstraat",
-      "url": "https://www.dendermonde.be/nieuws/dendermonde-en-buggenhout-vernieuwen-mandekensstraat",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-17T11:16:12.864408+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Stad Dendermonde vraagt duidelijk engagement van Vlaanderen voor toekomst project Briel",
-      "url": "https://www.dendermonde.be/nieuws/stad-dendermonde-vraagt-duidelijk-engagement-vlaanderen",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-17T11:16:12.864405+00:00",
-      "thema": "politiek"
     }
   ],
   "weekly": [
     {
       "week": "2026-W37",
-      "aantal": 5
+      "aantal": 2
     },
     {
       "week": "2026-W38",
@@ -431,7 +431,7 @@
     },
     {
       "week": "2026-W45",
-      "aantal": 2
+      "aantal": 5
     }
   ]
 }
