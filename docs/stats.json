@@ -1,21 +1,21 @@
 {
-  "gegenereerd": "2026-11-13T14:59:28.116985",
+  "gegenereerd": "2026-11-14T13:52:16.928064",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 70
+      "aantal": 71
     },
     {
       "naam": "politiek",
-      "aantal": 21
+      "aantal": 22
     },
     {
       "naam": "mobiliteit",
-      "aantal": 19
+      "aantal": 18
     },
     {
       "naam": "algemeen",
-      "aantal": 11
+      "aantal": 10
     },
     {
       "naam": "veiligheid",
@@ -33,18 +33,32 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 92
+      "aantal": 94
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 30
+      "aantal": 29
     },
     {
       "naam": "VRT NWS",
-      "aantal": 21
+      "aantal": 20
     }
   ],
   "recent": [
+    {
+      "titel": "Vlaams Belang eist grondige herziening huishoudelijk reglement in Denderleeuw: “Controlerecht oppositie mag niet worden beknot”",
+      "url": "https://denderjournaal.be/vlaams-belang-eist-grondige-herziening-huishoudelijk-reglement-in-denderleeuw-controlerecht-oppositie-mag-niet-worden-beknot/",
+      "bron": "Dender Journaal",
+      "datum": "Sat, 14 Nov 2026 13:28:08 +0000",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Denderleeuwse gemeenteraad verwerpt voorstel Vlaams Belang om lokale ondernemer jaarlijks in de bloemetjes te zetten.",
+      "url": "https://denderjournaal.be/denderleeuwse-gemeenteraad-verwerpt-voorstel-vlaams-belang-om-lokale-ondernemer-jaarlijks-in-de-bloemetjes-te-zetten/",
+      "bron": "Dender Journaal",
+      "datum": "Sat, 14 Nov 2026 13:38:21 +0000",
+      "thema": "politiek"
+    },
     {
       "titel": "Stadhuis kleurt blauw voor Wereld Diabetes Dag",
       "url": "https://www.dendermonde.be/nieuws/stadhuis-in-het-blauw-voor-wereld-diabetes-dag",
@@ -380,20 +394,6 @@
       "bron": "VRT NWS",
       "datum": "2026-10-19T14:10:45.227147+00:00",
       "thema": "mobiliteit"
-    },
-    {
-      "titel": "BinnenlandPolitie van Dendermonde staat bekend om humor op sociale media: \"Het grote bereik helpt in crisissituaties\"4 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/10/19/humor-op-sociale-media-helpt-de-politie-van-dendermonde/",
-      "bron": "VRT NWS",
-      "datum": "2026-10-19T14:10:45.227066+00:00",
-      "thema": "veiligheid"
-    },
-    {
-      "titel": "Jeugdraad Dendermonde geeft jong DJ-talent een podium tijdens Nacht van de Jeugdbeweging.",
-      "url": "https://denderjournaal.be/jeugdraad-dendermonde-geeft-jong-dj-talent-een-podium-tijdens-nacht-van-de-jeugdbeweging/",
-      "bron": "Dender Journaal",
-      "datum": "Mon, 19 Oct 2026 11:38:26 +0000",
-      "thema": "mobiliteit"
     }
   ],
   "weekly": [
@@ -431,7 +431,7 @@
     },
     {
       "week": "2026-W45",
-      "aantal": 5
+      "aantal": 7
     }
   ]
 }
