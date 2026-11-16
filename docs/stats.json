@@ -1,13 +1,13 @@
 {
-  "gegenereerd": "2026-11-15T14:25:40.173112",
+  "gegenereerd": "2026-11-16T16:37:34.177474",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 69
+      "aantal": 68
     },
     {
       "naam": "politiek",
-      "aantal": 22
+      "aantal": 24
     },
     {
       "naam": "mobiliteit",
@@ -15,7 +15,7 @@
     },
     {
       "naam": "veiligheid",
-      "aantal": 9
+      "aantal": 10
     },
     {
       "naam": "sport",
@@ -37,14 +37,35 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 26
+      "aantal": 27
     },
     {
       "naam": "VRT NWS",
-      "aantal": 18
+      "aantal": 19
     }
   ],
   "recent": [
+    {
+      "titel": "Gemeenteraad en raad voor maatschappelijk welzijn op woensdag 18 november 2026",
+      "url": "https://www.dendermonde.be/nieuws/gemeenteraad-en-raad-voor-maatschappelijk-welzijn-op-woensdag-18-november-2026",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-11-16T16:37:34.173255+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "Energie21 Vlaamse gemeenten en steden bundelen krachten om vanaf 2050 te verwarmen zonder fossiele brandstoffen9 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/genk-hasselt-en-beringen-bundelen-krachten-om-vanaf-2050-te-verw/",
+      "bron": "VRT NWS",
+      "datum": "2026-11-16T16:37:32.616238+00:00",
+      "thema": "veiligheid"
+    },
+    {
+      "titel": "RegioDendermondePapierfabriek mag nog 2 jaar PFAS lozen in de Dender, ondanks bezwaren van buurt en stad Dendermonde8 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/vpk-paper-afval-lozen-dender-oudegem-provincie/",
+      "bron": "VRT NWS",
+      "datum": "2026-11-16T16:37:32.616133+00:00",
+      "thema": "politiek"
+    },
     {
       "titel": "Vlaams Belang eist grondige herziening huishoudelijk reglement in Denderleeuw: “Controlerecht oppositie mag niet worden beknot”",
       "url": "https://denderjournaal.be/vlaams-belang-eist-grondige-herziening-huishoudelijk-reglement-in-denderleeuw-controlerecht-oppositie-mag-niet-worden-beknot/",
@@ -373,34 +394,9 @@
       "bron": "VRT NWS",
       "datum": "2026-10-20T12:24:11.765193+00:00",
       "thema": "mobiliteit"
-    },
-    {
-      "titel": "BinnenlandPolitie van Dendermonde staat bekend om humor op sociale media: \"Het grote bereik helpt in crisissituaties\"ma 19 okt.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/10/19/humor-op-sociale-media-helpt-de-politie-van-dendermonde/",
-      "bron": "VRT NWS",
-      "datum": "2026-10-20T12:24:11.765095+00:00",
-      "thema": "veiligheid"
-    },
-    {
-      "titel": "Heb je recht op een sociaal tarief voor of een vrijstelling van de heffing op de waterverontreiniging 2026?",
-      "url": "https://www.dendermonde.be/nieuws/heb-je-recht-op-een-sociaal-tarief-voor-of-een-vrijstelling-van-de-heffing-op-de-waterverontreinigin",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-19T14:10:47.019072+00:00",
-      "thema": "mobiliteit"
-    },
-    {
-      "titel": "RegioDendermonde2 weken verkeershinder aan druk kruispunt in Dendermonde: Rijksweg afgesloten in twee fasen8 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/10/19/werken-rijksweg-mechelstesteenweg-dendermonde/",
-      "bron": "VRT NWS",
-      "datum": "2026-10-19T14:10:45.227147+00:00",
-      "thema": "mobiliteit"
     }
   ],
   "weekly": [
-    {
-      "week": "2026-W37",
-      "aantal": 1
-    },
     {
       "week": "2026-W38",
       "aantal": 16
@@ -432,6 +428,10 @@
     {
       "week": "2026-W45",
       "aantal": 7
+    },
+    {
+      "week": "2026-W46",
+      "aantal": 3
     }
   ]
 }
