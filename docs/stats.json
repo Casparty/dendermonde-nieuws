@@ -1,50 +1,92 @@
 {
-  "gegenereerd": "2026-11-16T16:37:34.177474",
+  "gegenereerd": "2026-11-17T16:34:53.168558",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 68
+      "aantal": 70
     },
     {
       "naam": "politiek",
-      "aantal": 24
+      "aantal": 23
     },
     {
       "naam": "mobiliteit",
-      "aantal": 18
+      "aantal": 16
     },
     {
       "naam": "veiligheid",
-      "aantal": 10
+      "aantal": 11
     },
     {
       "naam": "sport",
       "aantal": 7
     },
     {
-      "naam": "algemeen",
+      "naam": "cultuur",
       "aantal": 7
     },
     {
-      "naam": "cultuur",
-      "aantal": 6
+      "naam": "algemeen",
+      "aantal": 7
     }
   ],
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 94
+      "aantal": 95
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 27
+      "aantal": 25
     },
     {
       "naam": "VRT NWS",
-      "aantal": 19
+      "aantal": 21
     }
   ],
   "recent": [
+    {
+      "titel": "Beeldend kunstenaar? Schrijf je nu in voor Atelier in Beeld!",
+      "url": "https://www.dendermonde.be/nieuws/beeldend-kunstenaar-schrijf-je-nu-in-voor-atelier-in-beeld",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-11-17T16:34:53.165070+00:00",
+      "thema": "cultuur"
+    },
+    {
+      "titel": "Tijdelijke winteropvang voor daklozen in Dendermonde",
+      "url": "https://www.dendermonde.be/nieuws/detail/592/tijdelijke-winteropvang-voor-daklozen-in-dendermonde",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-11-17T16:34:53.165051+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Energie21 Vlaamse gemeenten en steden bundelen krachten om vanaf 2050 te verwarmen zonder fossiele brandstoffenma 16 nov.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/genk-hasselt-en-beringen-bundelen-krachten-om-vanaf-2050-te-verw/",
+      "bron": "VRT NWS",
+      "datum": "2026-11-17T16:34:50.994174+00:00",
+      "thema": "veiligheid"
+    },
+    {
+      "titel": "RegioDendermondePapierfabriek mag nog 2 jaar PFAS lozen in de Dender, ondanks bezwaren van buurt en stad Dendermondema 16 nov.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/vpk-paper-afval-lozen-dender-oudegem-provincie/",
+      "bron": "VRT NWS",
+      "datum": "2026-11-17T16:34:50.994121+00:00",
+      "thema": "politiek"
+    },
+    {
+      "titel": "RegioDendermondeDendermonde richt opnieuw winteropvang in voor daklozen in leegstaande sociale woningen3 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/tijdelijke-winteropvang-dendermonde-leegstaande-sociale-woningen/",
+      "bron": "VRT NWS",
+      "datum": "2026-11-17T16:34:50.994045+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Dendermonde opent opnieuw tijdelijke winteropvang voor dak- en thuislozen in leegstaande sociale woningen.",
+      "url": "https://denderjournaal.be/dendermonde-opent-opnieuw-tijdelijke-winteropvang-voor-dak-en-thuislozen-in-leegstaande-sociale-woningen/",
+      "bron": "Dender Journaal",
+      "datum": "Tue, 17 Nov 2026 14:50:39 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "Gemeenteraad en raad voor maatschappelijk welzijn op woensdag 18 november 2026",
       "url": "https://www.dendermonde.be/nieuws/gemeenteraad-en-raad-voor-maatschappelijk-welzijn-op-woensdag-18-november-2026",
@@ -352,54 +394,12 @@
       "bron": "VRT NWS",
       "datum": "2026-10-23T12:17:27.732959+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "Samenscholingsverbod en gerichte identiteitscontroles om de openbare orde en leefbaarheid te bewaken",
-      "url": "https://www.dendermonde.be/nieuws/maatregelenopenbareorde",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-22T12:37:59.595658+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "RegioDendermondeDendermonde opent digitaal meldpunt voor radicalisering: \"Niet om te stigmatiseren, wel om heel vroeg te detecteren\"wo 21 okt.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/meldpunt-radicalisatie-dendermonde/",
-      "bron": "VRT NWS",
-      "datum": "2026-10-22T12:37:57.775838+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Wapenstilstand in Denderleeuw, Welle en Iddergem.",
-      "url": "https://denderjournaal.be/wapenstilstand-in-denderleeuw-welle-en-iddergem-2/",
-      "bron": "Dender Journaal",
-      "datum": "Thu, 22 Oct 2026 12:04:09 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Lokaal Bestuur Denderleeuw laat vanaf 24 oktober opnieuw nachtverlichting branden.",
-      "url": "https://denderjournaal.be/lokaal-bestuur-denderleeuw-laat-vanaf-24-oktober-opnieuw-nachtverlichting-branden/",
-      "bron": "Dender Journaal",
-      "datum": "Wed, 21 Oct 2026 12:26:21 +0000",
-      "thema": "veiligheid"
-    },
-    {
-      "titel": "Herontwikkeling Kazerne belangrijke stap dichterbij dankzij brownfieldconvenant",
-      "url": "https://www.dendermonde.be/nieuws/herontwikkeling-kazerne-brownfieldconvenant",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-20T12:24:13.117230+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "RegioDendermonde2 weken verkeershinder aan druk kruispunt in Dendermonde: Rijksweg afgesloten in twee fasenma 19 okt.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/10/19/werken-rijksweg-mechelstesteenweg-dendermonde/",
-      "bron": "VRT NWS",
-      "datum": "2026-10-20T12:24:11.765193+00:00",
-      "thema": "mobiliteit"
     }
   ],
   "weekly": [
     {
       "week": "2026-W38",
-      "aantal": 16
+      "aantal": 14
     },
     {
       "week": "2026-W39",
@@ -431,7 +431,7 @@
     },
     {
       "week": "2026-W46",
-      "aantal": 3
+      "aantal": 9
     }
   ]
 }
