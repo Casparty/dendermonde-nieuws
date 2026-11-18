@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-11-17T16:34:53.168558",
+  "gegenereerd": "2026-11-18T16:03:26.307057",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 70
+      "aantal": 73
     },
     {
       "naam": "politiek",
@@ -33,18 +33,39 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 95
+      "aantal": 96
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 25
+      "aantal": 26
     },
     {
       "naam": "VRT NWS",
-      "aantal": 21
+      "aantal": 22
     }
   ],
   "recent": [
+    {
+      "titel": "Opheffing tijdelijk onttrekkingsverbod voor bepaalde onttrekkingszones van onbevaarbare waterlopen en publieke grachten",
+      "url": "https://www.dendermonde.be/nieuws/detail/594/opheffing-tijdelijk-onttrekkingsverbod-voor-bepaalde-onttrekkingszones-van-onbevaarbare-waterlopen-e",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-11-18T16:03:26.302814+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "RegioDendermondeDendermonde richt opnieuw winteropvang in voor daklozen in leegstaande sociale woningendi 17 nov.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/tijdelijke-winteropvang-dendermonde-leegstaande-sociale-woningen/",
+      "bron": "VRT NWS",
+      "datum": "2026-11-18T16:03:24.600224+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Wat een goede foto van de Denderstreek en je eigen omgeving maakt",
+      "url": "https://denderjournaal.be/wat-een-goede-foto-van-de-denderstreek-en-je-eigen-omgeving-maakt/",
+      "bron": "Dender Journaal",
+      "datum": "Wed, 18 Nov 2026 14:39:31 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "Beeldend kunstenaar? Schrijf je nu in voor Atelier in Beeld!",
       "url": "https://www.dendermonde.be/nieuws/beeldend-kunstenaar-schrijf-je-nu-in-voor-atelier-in-beeld",
@@ -373,33 +394,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-10-23T12:17:29.725431+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "Storm op komst: wees voorbereid",
-      "url": "https://www.dendermonde.be/nieuws/storm",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-23T12:17:29.725424+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Stad Dendermonde lanceert meldpunt radicalisme",
-      "url": "https://www.dendermonde.be/nieuws/stad-dendermonde-lanceert-meldpunt-radicalisme",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-23T12:17:29.725404+00:00",
-      "thema": "politiek"
-    },
-    {
-      "titel": "RegioDendermondeDendermonde voert samenscholingsverbod en gerichte identiteitscontroles in tot 3 januarido 22 okt.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/10/22/dendermonde-voert-samenscholingsverbod-en-gerichte-identiteitsco/",
-      "bron": "VRT NWS",
-      "datum": "2026-10-23T12:17:27.732959+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
     {
       "week": "2026-W38",
-      "aantal": 14
+      "aantal": 8
     },
     {
       "week": "2026-W39",
@@ -431,7 +431,7 @@
     },
     {
       "week": "2026-W46",
-      "aantal": 9
+      "aantal": 12
     }
   ]
 }
