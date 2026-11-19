@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-11-18T16:03:26.307057",
+  "gegenereerd": "2026-11-19T16:10:37.847282",
   "themas": [
     {
       "naam": "natuur",
@@ -7,15 +7,15 @@
     },
     {
       "naam": "politiek",
-      "aantal": 23
+      "aantal": 24
     },
     {
       "naam": "mobiliteit",
-      "aantal": 16
+      "aantal": 14
     },
     {
       "naam": "veiligheid",
-      "aantal": 11
+      "aantal": 10
     },
     {
       "naam": "sport",
@@ -37,14 +37,21 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 26
+      "aantal": 25
     },
     {
       "naam": "VRT NWS",
-      "aantal": 22
+      "aantal": 21
     }
   ],
   "recent": [
+    {
+      "titel": "RegioDendermondeWat zit er onder Dendermonde? 40 jaar opgravingen onthullen de middeleeuwse stadsgeschiedenis6 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/11/19/middeleeuwse-geschiedenis-dendermonde-verrassend/",
+      "bron": "VRT NWS",
+      "datum": "2026-11-19T16:10:36.760951+00:00",
+      "thema": "politiek"
+    },
     {
       "titel": "Opheffing tijdelijk onttrekkingsverbod voor bepaalde onttrekkingszones van onbevaarbare waterlopen en publieke grachten",
       "url": "https://www.dendermonde.be/nieuws/detail/594/opheffing-tijdelijk-onttrekkingsverbod-voor-bepaalde-onttrekkingszones-van-onbevaarbare-waterlopen-e",
@@ -387,19 +394,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-10-25T12:12:48.100285+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "Dendermonde schittert!",
-      "url": "https://www.dendermonde.be/nieuws/dendermonde-schittert",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-23T12:17:29.725431+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
     {
       "week": "2026-W38",
-      "aantal": 8
+      "aantal": 6
     },
     {
       "week": "2026-W39",
@@ -431,7 +431,7 @@
     },
     {
       "week": "2026-W46",
-      "aantal": 12
+      "aantal": 13
     }
   ]
 }
