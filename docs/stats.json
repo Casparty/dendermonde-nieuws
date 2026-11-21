@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-11-20T15:50:34.485578",
+  "gegenereerd": "2026-11-21T14:59:59.738512",
   "themas": [
     {
       "naam": "natuur",
@@ -7,7 +7,7 @@
     },
     {
       "naam": "politiek",
-      "aantal": 26
+      "aantal": 27
     },
     {
       "naam": "mobiliteit",
@@ -45,10 +45,17 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 21
+      "aantal": 22
     }
   ],
   "recent": [
+    {
+      "titel": "SamenlevingNa vraag om meer ondersteuning: veiligheidsteam en instrumentenkoffer moeten burgemeesters houvast geven bij overlastvr 20 nov.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/11/19/vlaanderen-veiligheidsteam-gemeenten-overlast-dendermonde/",
+      "bron": "VRT NWS",
+      "datum": "2026-11-21T14:59:58.157122+00:00",
+      "thema": "politiek"
+    },
     {
       "titel": "Dendermonde lanceert nieuwe projectsubsidie voor sociale initiatieven",
       "url": "https://www.dendermonde.be/nieuws/dendermonde-lanceert-nieuwe-projectsubsidie-voor-sociale-initiatieven",
@@ -391,19 +398,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-10-27T12:51:54.446600+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "Lokaal Bestuur Denderleeuw neemt voortrekkersrol op met vergunningsplicht en belasting voor dagwinkels.",
-      "url": "https://denderjournaal.be/lokaal-bestuur-denderleeuw-neemt-voortrekkersrol-op-met-vergunningsplicht-en-belasting-voor-dagwinkels/",
-      "bron": "Dender Journaal",
-      "datum": "Tue, 27 Oct 2026 08:44:59 +0000",
-      "thema": "politiek"
     }
   ],
   "weekly": [
     {
       "week": "2026-W38",
-      "aantal": 4
+      "aantal": 1
     },
     {
       "week": "2026-W39",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W46",
-      "aantal": 18
+      "aantal": 19
     }
   ]
 }
