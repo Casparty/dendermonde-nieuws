@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-11-21T14:59:59.738512",
+  "gegenereerd": "2026-11-22T14:58:14.766933",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 74
+      "aantal": 73
     },
     {
       "naam": "politiek",
@@ -27,7 +27,7 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 6
+      "aantal": 5
     },
     {
       "naam": "economie",
@@ -41,11 +41,11 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 27
+      "aantal": 26
     },
     {
       "naam": "VRT NWS",
-      "aantal": 22
+      "aantal": 21
     }
   ],
   "recent": [
@@ -401,10 +401,6 @@
     }
   ],
   "weekly": [
-    {
-      "week": "2026-W38",
-      "aantal": 1
-    },
     {
       "week": "2026-W39",
       "aantal": 14
