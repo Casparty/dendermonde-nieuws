@@ -1,13 +1,13 @@
 {
-  "gegenereerd": "2026-11-22T14:58:14.766933",
+  "gegenereerd": "2026-11-23T18:52:09.617025",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 73
+      "aantal": 71
     },
     {
       "naam": "politiek",
-      "aantal": 27
+      "aantal": 26
     },
     {
       "naam": "mobiliteit",
@@ -19,7 +19,7 @@
     },
     {
       "naam": "sport",
-      "aantal": 8
+      "aantal": 9
     },
     {
       "naam": "cultuur",
@@ -27,7 +27,7 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 5
+      "aantal": 4
     },
     {
       "naam": "economie",
@@ -41,7 +41,7 @@
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 26
+      "aantal": 23
     },
     {
       "naam": "VRT NWS",
@@ -49,6 +49,13 @@
     }
   ],
   "recent": [
+    {
+      "titel": "RegioHamme3 Oost-Vlaamse karateka’s zijn wereldkampioen teamkata: \"Het vraagt enorm veel training\"9 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/11/23/wereldkampioen-teamkata-hamme-grembergen-moerzeke/",
+      "bron": "VRT NWS",
+      "datum": "2026-11-23T18:52:08.016532+00:00",
+      "thema": "sport"
+    },
     {
       "titel": "SamenlevingNa vraag om meer ondersteuning: veiligheidsteam en instrumentenkoffer moeten burgemeesters houvast geven bij overlastvr 20 nov.",
       "url": "https://www.vrt.be/vrtnws/nl/2026/11/19/vlaanderen-veiligheidsteam-gemeenten-overlast-dendermonde/",
@@ -391,13 +398,6 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-10-27T12:51:54.446616+00:00",
       "thema": "natuur"
-    },
-    {
-      "titel": "Verlenging tijdelijk onttrekkingsverbod onbevaarbare waterlopen",
-      "url": "https://www.dendermonde.be/nieuws/onttrekkingsverbod-onbevaarbare-waterlopen",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-27T12:51:54.446600+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
@@ -432,6 +432,10 @@
     {
       "week": "2026-W46",
       "aantal": 19
+    },
+    {
+      "week": "2026-W47",
+      "aantal": 1
     }
   ]
 }
