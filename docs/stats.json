@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-11-23T18:52:09.617025",
+  "gegenereerd": "2026-11-24T18:28:29.465204",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 71
+      "aantal": 73
     },
     {
       "naam": "politiek",
@@ -14,11 +14,11 @@
       "aantal": 13
     },
     {
-      "naam": "veiligheid",
-      "aantal": 9
+      "naam": "sport",
+      "aantal": 10
     },
     {
-      "naam": "sport",
+      "naam": "veiligheid",
       "aantal": 9
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 4
+      "aantal": 5
     },
     {
       "naam": "economie",
@@ -37,18 +37,46 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 96
+      "aantal": 97
     },
     {
       "naam": "Stad Dendermonde",
-      "aantal": 23
+      "aantal": 25
     },
     {
       "naam": "VRT NWS",
-      "aantal": 21
+      "aantal": 22
     }
   ],
   "recent": [
+    {
+      "titel": "Dendermonde toont solidariteit in de strijd tegen geweld op vrouwen",
+      "url": "https://www.dendermonde.be/nieuws/dendermonde-toont-solidariteit-in-de-strijd-tegen-geweld-op-vrouwen",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-11-24T18:28:29.461048+00:00",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Open Call: bouw mee aan een mediawijze M@kerstrap in de bib",
+      "url": "https://www.dendermonde.be/nieuws/open-call-bouw-mee-aan-een-mediawijze-m-kerstrap-in-de-bib",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-11-24T18:28:29.461027+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "RegioHamme3 Oost-Vlaamse karateka’s zijn wereldkampioen teamkata: \"Het vraagt enorm veel training\"ma 23 nov.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/11/23/wereldkampioen-teamkata-hamme-grembergen-moerzeke/",
+      "bron": "VRT NWS",
+      "datum": "2026-11-24T18:28:28.170704+00:00",
+      "thema": "sport"
+    },
+    {
+      "titel": "Oranje broodzakken in de regio Dendermonde: Zonta zegt NEE tegen geweld op vrouwen.",
+      "url": "https://denderjournaal.be/oranje-broodzakken-in-de-regio-dendermonde-zonta-zegt-nee-tegen-geweld-op-vrouwen/",
+      "bron": "Dender Journaal",
+      "datum": "Tue, 24 Nov 2026 15:48:18 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "RegioHamme3 Oost-Vlaamse karateka’s zijn wereldkampioen teamkata: \"Het vraagt enorm veel training\"9 uur geleden",
       "url": "https://www.vrt.be/vrtnws/nl/2026/11/23/wereldkampioen-teamkata-hamme-grembergen-moerzeke/",
@@ -370,40 +398,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-10-29T13:51:01.302953+00:00",
       "thema": "politiek"
-    },
-    {
-      "titel": "JustitieHuiszoekingen en arrestaties in Oost-Vlaanderen, Antwerpen en Nederland in onderzoek naar cocaïnesmokkelwo 28 okt.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/arrestaties-huiszoekingen-cocainesmokkel-antwerpse-haven-gerecht/",
-      "bron": "VRT NWS",
-      "datum": "2026-10-29T13:50:59.739123+00:00",
-      "thema": "veiligheid"
-    },
-    {
-      "titel": "Dendermondse scholen en academies zetten in op digitale vaardigheden en mediawijsheid",
-      "url": "https://www.dendermonde.be/nieuws/dendermondse-scholen-en-academies-zetten-in-op-digitale-vaardigheden-en-mediawijsheid",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-28T13:40:27.827380+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "Sta niet voor een gesloten deur!",
-      "url": "https://www.dendermonde.be/nieuws/sluitingsdagen",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-27T12:51:54.446623+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Welkom in Dendermonde",
-      "url": "https://www.dendermonde.be/nieuws/welkom",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-27T12:51:54.446616+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
     {
       "week": "2026-W39",
-      "aantal": 14
+      "aantal": 12
     },
     {
       "week": "2026-W40",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W47",
-      "aantal": 1
+      "aantal": 5
     }
   ]
 }
