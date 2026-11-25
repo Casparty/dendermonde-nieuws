@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-11-24T18:28:29.465204",
+  "gegenereerd": "2026-11-25T17:42:27.420510",
   "themas": [
     {
       "naam": "natuur",
@@ -27,7 +27,7 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 5
+      "aantal": 6
     },
     {
       "naam": "economie",
@@ -45,10 +45,24 @@
     },
     {
       "naam": "VRT NWS",
-      "aantal": 22
+      "aantal": 23
     }
   ],
   "recent": [
+    {
+      "titel": "Gratis lezing over cyberveiligheid: laat je geen ha(c)k zetten!",
+      "url": "https://www.dendermonde.be/nieuws/gratis-lezing-over-cyberveiligheid-laat-je-geen-ha-c-k-zetten",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-11-25T17:42:27.416404+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "RegioDendermonde\"Geurkaarsen bij het eten\": inwoners van Appels kampen met indringende rioolgeur van afvalwaterlozingen door Verko2 uur geleden",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/11/25/verko-geurhinder-appels-dendermonde-afvalwater-lozen/",
+      "bron": "VRT NWS",
+      "datum": "2026-11-25T17:42:26.072364+00:00",
+      "thema": "natuur"
+    },
     {
       "titel": "Dendermonde toont solidariteit in de strijd tegen geweld op vrouwen",
       "url": "https://www.dendermonde.be/nieuws/dendermonde-toont-solidariteit-in-de-strijd-tegen-geweld-op-vrouwen",
@@ -384,26 +398,12 @@
       "bron": "Dender Journaal",
       "datum": "Fri, 30 Oct 2026 13:35:54 +0000",
       "thema": "natuur"
-    },
-    {
-      "titel": "Archeologisch onderzoek ter hoogte van de Paalstraat/Bosstraat",
-      "url": "https://www.dendermonde.be/nieuws/archeologisch-onderzoek-paalstraat-bosstraat",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-29T13:51:01.302969+00:00",
-      "thema": "algemeen"
-    },
-    {
-      "titel": "Burgerbudget 2026: 60 000 euro voor 9 sterke projecten!",
-      "url": "https://www.dendermonde.be/nieuws/burgerbudget-2026-projecten",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-10-29T13:51:01.302953+00:00",
-      "thema": "politiek"
     }
   ],
   "weekly": [
     {
       "week": "2026-W39",
-      "aantal": 12
+      "aantal": 10
     },
     {
       "week": "2026-W40",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W47",
-      "aantal": 5
+      "aantal": 7
     }
   ]
 }
