@@ -1,17 +1,17 @@
 {
-  "gegenereerd": "2026-11-25T17:42:27.420510",
+  "gegenereerd": "2026-11-26T17:26:01.737087",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 73
+      "aantal": 74
     },
     {
       "naam": "politiek",
-      "aantal": 26
+      "aantal": 25
     },
     {
       "naam": "mobiliteit",
-      "aantal": 13
+      "aantal": 12
     },
     {
       "naam": "sport",
@@ -27,7 +27,7 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 6
+      "aantal": 7
     },
     {
       "naam": "economie",
@@ -49,6 +49,20 @@
     }
   ],
   "recent": [
+    {
+      "titel": "Cyberincident bij externe ICT-dienstverlener: wees extra waakzaam",
+      "url": "https://www.dendermonde.be/nieuws/cyberincident-recyclageparken",
+      "bron": "Stad Dendermonde",
+      "datum": "2026-11-26T17:26:01.732870+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "RegioDendermonde\"Geurkaarsen bij het eten\": inwoners van Appels kampen met indringende rioolgeur van afvalwaterlozingen door Verkowo 25 nov.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/11/25/verko-geurhinder-appels-dendermonde-afvalwater-lozen/",
+      "bron": "VRT NWS",
+      "datum": "2026-11-26T17:25:59.884849+00:00",
+      "thema": "natuur"
+    },
     {
       "titel": "Gratis lezing over cyberveiligheid: laat je geen ha(c)k zetten!",
       "url": "https://www.dendermonde.be/nieuws/gratis-lezing-over-cyberveiligheid-laat-je-geen-ha-c-k-zetten",
@@ -384,26 +398,12 @@
       "bron": "Dender Journaal",
       "datum": "Fri, 30 Oct 2026 13:08:23 +0000",
       "thema": "politiek"
-    },
-    {
-      "titel": "Denderleeuw dreigt 1,65 miljoen euro te verliezen.",
-      "url": "https://denderjournaal.be/denderleeuw-dreigt-165-miljoen-euro-te-verliezen/",
-      "bron": "Dender Journaal",
-      "datum": "Fri, 30 Oct 2026 13:30:57 +0000",
-      "thema": "natuur"
-    },
-    {
-      "titel": "GO! Atheneum Dendermonde zet zich massaal in voor De Warmste Week.",
-      "url": "https://denderjournaal.be/go-atheneum-dendermonde-zet-zich-massaal-in-voor-de-warmste-week/",
-      "bron": "Dender Journaal",
-      "datum": "Fri, 30 Oct 2026 13:35:54 +0000",
-      "thema": "natuur"
     }
   ],
   "weekly": [
     {
       "week": "2026-W39",
-      "aantal": 10
+      "aantal": 9
     },
     {
       "week": "2026-W40",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W47",
-      "aantal": 7
+      "aantal": 9
     }
   ]
 }
