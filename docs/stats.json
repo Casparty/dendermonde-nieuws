@@ -1,9 +1,9 @@
 {
-  "gegenereerd": "2026-11-27T17:04:49.582584",
+  "gegenereerd": "2026-11-28T15:53:35.076655",
   "themas": [
     {
       "naam": "natuur",
-      "aantal": 75
+      "aantal": 76
     },
     {
       "naam": "politiek",
@@ -23,7 +23,7 @@
     },
     {
       "naam": "algemeen",
-      "aantal": 8
+      "aantal": 9
     },
     {
       "naam": "cultuur",
@@ -37,18 +37,39 @@
   "bronnen": [
     {
       "naam": "Dender Journaal",
-      "aantal": 97
-    },
-    {
-      "naam": "Stad Dendermonde",
-      "aantal": 26
+      "aantal": 99
     },
     {
       "naam": "VRT NWS",
-      "aantal": 24
+      "aantal": 25
+    },
+    {
+      "naam": "Stad Dendermonde",
+      "aantal": 25
     }
   ],
   "recent": [
+    {
+      "titel": "RegioAppelsVerko moet noodlozingen in Appels stoppen: \"Geen vergunning en onaanvaardbare geurhinder\"vr 27 nov.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/11/27/verko-moet-stoppen-met-lozen-ongezuiverd-afvalwater-in-riolen-st/",
+      "bron": "VRT NWS",
+      "datum": "2026-11-28T15:53:32.967425+00:00",
+      "thema": "algemeen"
+    },
+    {
+      "titel": "Vlaams Belang vraagt meer controle op voedselbedeling in Denderleeuw.",
+      "url": "https://denderjournaal.be/vlaams-belang-vraagt-meer-controle-op-voedselbedeling-in-denderleeuw/",
+      "bron": "Dender Journaal",
+      "datum": "Sat, 28 Nov 2026 10:19:22 +0000",
+      "thema": "natuur"
+    },
+    {
+      "titel": "Denderleeuw stemt dankzij Vlaams Belang tegen hogere zitpenningen bij Creat Services.",
+      "url": "https://denderjournaal.be/denderleeuw-stemt-dankzij-vlaams-belang-tegen-hogere-zitpenningen-bij-creat-services/",
+      "bron": "Dender Journaal",
+      "datum": "Sat, 28 Nov 2026 10:29:40 +0000",
+      "thema": "natuur"
+    },
     {
       "titel": "Dendermonde doet mee aan de Koesterweek: 11 tot 18 december 2026",
       "url": "https://www.dendermonde.be/nieuws/dendermonde-doet-mee-aan-de-koesterweek-11-tot-18-december-2026",
@@ -377,33 +398,12 @@
       "bron": "Stad Dendermonde",
       "datum": "2026-11-05T15:02:41.182974+00:00",
       "thema": "cultuur"
-    },
-    {
-      "titel": "RegioDendermondeDendermonde lanceert zoektocht rond goudschat voor jonge toeristen: \"We denken ook aan activiteiten voor volwassenen\"3 uur geleden",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/11/05/dendermonde-toerisme-goudschat-kinderen-inspiratie/",
-      "bron": "VRT NWS",
-      "datum": "2026-11-05T15:02:39.511830+00:00",
-      "thema": "natuur"
-    },
-    {
-      "titel": "JustitieRechtbank Dendermonde spreekt man vrij van ontvoering van 13-jarig meisje en zedenfeitendi 3 nov.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/dendermonde-man-vrijgesproken-ontvoering-13-jarig-meisje-woord-t/",
-      "bron": "VRT NWS",
-      "datum": "2026-11-04T14:57:41.937266+00:00",
-      "thema": "veiligheid"
-    },
-    {
-      "titel": "Winter in Dendermonde",
-      "url": "https://www.dendermonde.be/nieuws/winter-in-dendermonde",
-      "bron": "Stad Dendermonde",
-      "datum": "2026-11-03T14:45:26.455905+00:00",
-      "thema": "natuur"
     }
   ],
   "weekly": [
     {
       "week": "2026-W39",
-      "aantal": 4
+      "aantal": 2
     },
     {
       "week": "2026-W40",
@@ -435,7 +435,7 @@
     },
     {
       "week": "2026-W47",
-      "aantal": 14
+      "aantal": 17
     }
   ]
 }
